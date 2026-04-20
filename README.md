@@ -1,7 +1,7 @@
 # LUMINA: Agentic Framework for Systematic Review Automation
 
 [![Author](https://img.shields.io/badge/First%20Author-Zanwen%20Fu-green)](https://zanwenfu.com)
-[![Publication](https://img.shields.io/badge/Submitted-NEJM%20AI%202025-blue)](https://www.nejm-ai.org)
+[![Publication](https://img.shields.io/badge/Submitted-NEJM%20AI%202025-blue)](https://ai.nejm.org/)
 [![LLM](https://img.shields.io/badge/Powered%20By-LLMs-orange)](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)  
 
 ---
