@@ -1,0 +1,10 @@
+### Original prompt
+{original_prompt}
+
+### Feedback from reviewer
+{reviewer_feedback}
+
+### Instructions
+Another experienced medical researcher has decided that your justification for the candidate article is incorrect.
+Re-evaluate the relevance of the candidate article based on the feedback.
+We will conclude by outputting (on the very last line) 'XXX', if the study is potentially relevant. 'YYY', if the study is uncertain. 'ZZZ', if the study is likely irrelevant.

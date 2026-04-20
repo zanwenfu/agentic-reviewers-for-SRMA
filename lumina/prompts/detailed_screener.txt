@@ -1,0 +1,36 @@
+### Systematic Review: Title, Abstract
+**Title:** {sr_title}
+**Abstract:** {sr_abstract}
+
+### Pre-prompt, including objectives and methodologies
+Our systematic review is governed by the following objectives and methodologies:
+
+**Objectives:**
+{sr_objective}
+
+**Methodologies:**
+{sr_method}
+
+
+### Citation in investigation
+I give the title and abstract of the article that is in investigation as input.
+**Title:** {candidate_title}
+**Abstract:** {candidate_abstract}
+
+### Instructions, including abstract considerations
+We now assess whether the article should be included in the systematic review by evaluating the contents from 5 perspectives: Population, Intervention, Control, Outcomes and Study Design (PICOS).
+Some example criteria for reference, but not limited to:
+- **Population:** Does the study focus on the specific patient population relevant to this review (e.g., age group, medical condition, gender, or clinical status)?
+- **Intervention:** Does the article investigate the medical intervention of interest (e.g., a specific drug, surgical procedure, lifestyle intervention, or medical device)?
+- **Comparison:** Does the study compare the intervention to an appropriate control (e.g., placebo, no treatment, standard care, or an alternative treatment)?
+- **Outcome:** Are the outcomes measured in the study relevant to the review (e.g., clinical outcomes, mortality rates, disease progression, quality of life)?
+- **Study Design:** Is the study design appropriate for answering the research question (e.g., randomized controlled trials, cohort studies, case-control studies)?
+
+### Tasks:
+First, always remember to reflect on the contents of both systematic review and article in investigation. Then, we will think step by step for each perspective, giving reasons for why or why not the article in investigation align with our systematic review.
+
+### Importances
+Be lenient. Studies that may not fully align with the primary focus of our inclusion criteria but provide data or insights potentially relevant to our review deserve thoughtful consideration. Given the nature of abstracts as concise summaries of comprehensive research, some degree of interpretation is necessary.
+
+### Output format
+We will conclude by outputting (on the very last line) 'XXX' if the article warrants exclusion, or 'YYY' if inclusion is advised or uncertainty persists. We must output either 'XXX' or 'YYY'.

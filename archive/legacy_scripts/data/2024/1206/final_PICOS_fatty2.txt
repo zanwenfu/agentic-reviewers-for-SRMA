@@ -1,0 +1,185 @@
+total number of articles searched: 347.
+include criteria: [['pregnant women with gestational diabetes mellitus', 'offspring of women with gestational diabetes mellitus'], ['development of intergenerational non-alcoholic fatty liver disease'], ['no specific control group'], ['prevalence or incidence of non-alcoholic fatty liver disease in offspring of women with gestational diabetes mellitus'], ['systematic review', 'meta-analysis']].
+exclude criteria: [['exclusion of studies on non-pregnant individuals with nafld'], ['exclusion of studies that do not focus on gestational diabetes mellitus'], ['exclusion of studies without a control group for comparison'], ['exclusion of studies that do not report outcomes related to intergenerational nafld development'], ['exclusion of non-systematic review and meta-analysis studies']].
+metformin beyond type 2 diabetes: emerging and potential new indications.
+the relationship between advanced liver fibrosis and osteoporosis in type 2 diabetes patients with mafld.
+women with a history of gestational diabetes mellitus present an accumulation of cardiovascular risk factors at age 46—a birth cohort study.
+the interplay between birth weight and obesity in determining childhood and adolescent cardiometabolic risk.
+developmentally programmed obesity: is there a role for anti-inflammatory nutritional strategies?.
+gestational and developmental contributors of pediatric masld.
+biological activities, molecular mechanisms, and clinical application of naringin in metabolic syndrome.
+adverse pregnancy outcomes as a risk factor for new-onset metabolic dysfunction-associated steatotic liver disease in postpartum women: a nationwide study.
+exist: examining risk of excess adiposity—machine learning to predict obesity-related complications.
+advances in mass spectrometry-based blood metabolomics profiling for non-cancer diseases: a comprehensive review.
+interleukin-38 and insulin resistance.
+relationship between gut microbiota and the pathogenesis of gestational diabetes mellitus: a systematic review.
+bone mass, microarchitecture and turnover among young indian women with non-alcoholic fatty liver disease.
+pathophysiological mechanisms and therapeutic approaches in obstructive sleep apnea syndrome.
+analysis of cortisol mechanism to predict common genes between pcos and its co-morbidities.
+impact of neighbourhood-level social determinants of health on healthcare utilisation and perinatal outcomes in pregnant women with nafld cirrhosis: a population-based study in ontario, canada.
+obesity and metabolic disorders in infertile women: an interesting relationship between multifactorial conditions.
+sterile inflammation and the nlrp3 inflammasome in cardiometabolic disease.
+natural history of pregnancy and pregnancy outcomes in subjects with lipodystrophy.
+diabetes insipidus with hypokalemia in a 30 week pregnant female.
+undiagnosed mody in case of morbid obesity.
+liver chemistries trends in pregnant patients with non-alcoholic fatty liver disease.
+adipose tissue insulin resistance, liver fat and fetuin-a in south asian and nordic women after gestational diabetes.
+glp-1 analogs and regional adiposity: a systematic review and meta-analysis.
+familial partial lipodystrophy: clinical features, genetics and treatment in a greek referral center.
+metformin versus insulin for gestational diabetes: adiposity variables and adipocytokines in offspring at age of 9 years.
+sleep quality and metabolic consequences in overweight or obese children and adolescents.
+associations between plasma sulfur amino acids and specific fat depots in two independent cohorts: codam and the maastricht study.
+association between maternal obesity, essential fatty acids and biomarkers of fetal liver function.
+new-onset nafld during pregnancy is a risk factor for large-for-gestational age birthweight.
+abnormal lipid profile in neonates born to mothers with nonalcoholic fatty liver disease.
+prevention of gestational diabetes mellitus: a minireview.
+maternal elevated inflammation impairs placental fatty acids β-oxidation in women with gestational diabetes mellitus.
+novel implication of the prolactin (prl) gene in the comorbidity of type 2 diabetes and depression.
+assessment of infantile psychomotor development status in 6 and 12-month-old iugr infants: a historical cohort study.
+combined effect of pancreatic lipid content and gene variants (tcf7l2, wfs1 and 11bhsd1) on b-cell function in middle aged women in a post hoc analysis.
+machine learning for data integration in human gut microbiome.
+assessing subcutaneous, visceral and liver fat using first trimester antenatal ultrasound and creating a predictive model for gestational diabetes.
+perinatal outcomes of covid-19 in pregnancy in a tertiary care center in south india.
+the detection of metabolic dysfunction-associated fatty liver disease via fibroscan® in early-to-mid pregnancy is an independent risk factor for the development of gestational diabetes mellitus.
+zebrafish in utero glucose exposure induces lipid dysregulation that is abrogated by acetyl coa carboxylase or glycolysis inhibition.
+prevalence of elevated alanine aminotransferase (alt) in pregnancy: a cross-sectional labor and delivery-based assessment.
+maternal nonalcoholic fatty liver disease and fetal hepatic steatosis: is there a link?.
+the prevalence of metabolic dysfunction–associated fatty liver disease and its association on adverse pregnancy outcomes in women with gestational diabetes mellitus.
+pregnancy-related liver disease is more common in aboriginal and torres strait islander mothers: targeting an at-risk and unstudied population.
+gut microbiota in women with gestational diabetes mellitus has potential impact on metabolism in pregnant mice and their offspring.
+prenatal effects of nicotine on obesity risks: a narrative review.
+circular rnas in diabetes mellitus and its complications.
+influence of gender in diabetes mellitus and its complication.
+fatty liver indices and their association with glucose metabolism in pregnancy – an observational cohort study.
+influence of pregnancy on nafld-associated lipidomic signatures.
+pregnancy as a unique opportunity to identify nafld in women: a prospective assessment.
+automated machine learning (automl)-derived preconception predictive risk model to guide early intervention for gestational diabetes mellitus.
+genetic obesity in children: overview of possible diagnoses with a focus on sh2b1 deletion.
+heart health in polycystic ovary syndrome: time to act on the data.
+outcomes in infants born to mothers with and without non-alcoholic fatty liver disease.
+the epidemiology and mechanisms of lifetime cardiopulmonary morbidities associated with pre-pregnancy obesity and excessive gestational weight gain.
+recent advances in understanding nrf2 agonism and its potential clinical application to metabolic and inflammatory diseases.
+beneficial effects of probiotics in some of the important human disorders: a narrative review.
+identification of potential lncrnas and co-expressed mrnas in gestational diabetes mellitus by rna sequencing.
+metabolic syndrome: updates on pathophysiology and management in 2021.
+systematic review with meta-analysis: non-alcoholic fatty liver disease and the association with pregnancy outcomes.
+nonalcoholic fatty liver disease and early prediction of gestational diabetes mellitus using machine learning methods.
+is chronic liver disease a risk factor for preeclampsia?.
+non-alcoholic fatty liver disease as a predictor for gestational diabetes mellitus in primigravida women – a prospective cohort study.
+gut microbiota in gastrointestinal diseases during pregnancy.
+a case of monogenic diabetes mellitus caused by a novel heterozygous rfx6 nonsense mutation in a 14-year-old girl.
+aberrant dna methylation mediates the transgenerational risk of metabolic and chronic disease due to maternal obesity and overnutrition.
+long non-coding rnas in metabolic disorders: pathogenetic relevance and potential biomarkers and therapeutic targets.
+systematic review with meta-analysis: nonalcoholic fatty liver disease (nafld) in pregnancy.
+selenium supplementation and oxidative stress: a review.
+non-alcoholic fatty liver disease in pregnancy: a systematic review with meta-analysis.
+longitudinal associations of total and trunk fat in childhood and adolescence and risk of hepatic steatosis at 24 years.
+roles of micrornas in carbohydrate and lipid metabolism disorders and their therapeutic potential.
+a case of dichorionic diamniotic (dd) twin pregnancy that led to a diagnosis of diabetes insipidus with a background of acute fatty liver of pregnancy (aflp).
+the prevalence of metabolic associated fatty liver detected by fibroscan® in women with gestational diabetes in a multiethnic population.
+polycystic ovarian syndrome: impact on adult and fetal health.
+the current and potential therapeutic use of metformin—the good old drug.
+390 prediction of gestational diabetes in the first trimester using machine learning-based methods.
+treatment and diagnosis changes polycystic ovary syndrome.
+enhancing oxygenation of patients with coronavirus disease 2019: effects on immunity and other health-related conditions.
+fear of missing out: a brief overview of origin, theoretical underpinnings and relationship with mental health.
+combination of cafeteria diet with intraperitoneally streptozotocin in rats. a type-2 diabetes model.
+prevalence and predictors of nafld in pregnant women.
+one year’s treatment with the glucagon-like peptide 1 receptor agonist liraglutide decreases hepatic fat content in women with nonalcoholic fatty liver disease and prior gestational diabetes mellitus in a randomized, placebo-controlled trial.
+the risk of pregnancy-associated hypertension in women with nonalcoholic fatty liver disease.
+a traditional korean diet alters the expression of circulating micrornas linked to diabetes mellitus in a pilot trial.
+genetic risk factors in metabolic fatty liver disease: common risk factors for fatty liver disease, diabetes, and hyperlipidemia.
+high burden of future liver disease in intrahepatic cholestasis of pregnancy patients.
+maternal exercise improves high-fat diet-induced metabolic abnormalities and gut microbiota profiles in mouse dams and offspring.
+high plasmatic levels of advanced glycation end products are associated with metabolic alterations and insulin resistance in preeclamptic women.
+the effects of myo-inositol and probiotic supplementation in a high-fat-fed preclinical model of glucose intolerance in pregnancy.
+phenotypic characteristics and risk factors in a multi-ethnic cohort of young adults with type 2 diabetes.
+engaging the asean diaspora: type 2 diabetes prevalence, pathophysiology, and unique risk factors among filipino migrants in the united states.
+rising numbers of pregnant women with nafld cirrhosis: a population-based study.
+the development of hba1c level among individuals with type 2 diabetes in direva registry.
+obeticholic acid ameliorates dyslipidemia but not glucose tolerance in mouse model of gestational diabetes.
+molecular insight into the interaction between epigenetics and leptin in metabolic disorders.
+nonalcoholic fatty liver disease is a risk factor for large-for-gestational-age birthweight.
+american college of epidemiology annual meeting.
+variable phenotype in hnf1b mutations: extrarenal manifestations distinguish affected individuals from the population with congenital anomalies of the kidney and urinary tract.
+hepatic mir-582-5p is programmed by maternal diet-induced obesity in male mice and contributes to nonalcoholic fatty liver disease.
+lymphocytic hypophysitis: a challenge to diagnose postpartum:.
+effects of physical exercise during pregnancy on the modulation of liver mitochondrial function in an animal model of non-alcoholic fatty liver disease.
+historical and current adenosine receptor agonists in preclinical and clinical development.
+518: the risk of pregnancy-associated hypertension in pregnant women with nonalcoholic fatty liver disease.
+237: maternal hdl in early pregnancy as a risk factor for small-for-gestational-age birthweight.
+non-cholesterol sterol concentrations as biomarkers for cholesterol absorption and synthesis in different metabolic disorders: a systematic review.
+the melatonin receptor 1b polymorphism (rs10830963) might be associated with hyperlipidemia & fatty liver diseases in korean population.
+gestational diabetes is associated with increased risk of non-alcoholic fatty liver disease: a population-based cohort study.
+a narrative review of medical and genetic risk factors among children age 5 and younger with severe obesity.
+prediabetes directly deteriorates into diabetic ketoacidosis and hyperosmolar hyperglycemic syndrome triggered by acute pancreatitis: a case report illustrating a “chicken and egg” paradigm in ketosis-prone diabetes.
+the renal manifestations of type 4 familial partial lipodystrophy: a case report and review of literature.
+nonalcoholic fatty liver disease in the first trimester and subsequent development of gestational diabetes: a prospective cohort study.
+maternal dietary patterns and the risk of large-for-gestational age births.
+letrozole treatment of pubertal female mice results in impaired insulin action in skeletal muscle.
+the brown-fat-secreted adipokine neuregulin 4 is decreased in gestational diabetes mellitus.
+irisin in metabolic diseases.
+nonalcoholic fatty liver disease in the first trimester as a risk factor for large-for-gestationalage birthweight: a prospective study.
+non-alcoholic fatty liver disease in pregnancy and associated feto-maternal outcomes in a tertiary care hospital in dhaka, bangladesh.
+lymphocytic hypophysitis: a challenge to diagnose postpartum.
+use and importance of nonhuman primates in metabolic disease research: current state of the field.
+a novel homozygous mutation causing lecithin–cholesterol acyltransferase deficiency in a proband of romanian origin with a record of extreme gestational hyperlipidemia.
+intrauterine hyperglycemia induces hepatic steatosis in mouse offspring via altered lipid gene expressions.
+metabolic syndrome: sex-related cardiovascular risk & therapeutic approach.
+prediagnostic liver enzymes, abdominal adiposity, and risk of gestational diabetes.
+altered fatty acid and mitochondrial metabolism in the liver of pregnant adiponectin-deficient mice contributes to insulin resistance and gestational diabetes mellitus.
+elevated unexplained alanine amniotransferase and subsequent development of gestational diabetes and preeclampsia.
+obesity: increasing risk of morbidity in children and adolescents: determinants, consequences and prevention of childhood overweight and obesity.
+metformin: from research to clinical practice.
+placental and cord blood dna methylation profiling in small-for-gestational-age newborns from uncomplicated pregnancies: relationship to prenatal growth and postnatal body composition.
+the effect of one-year treatment with a glucagon-like peptide-1 receptor agonist on nafld in women with prior gestational diabetes.
+the association of alanine aminotransferase in early pregnancy with gestational diabetes.
+the progression and natural history of pediatric nonalcoholic fatty liver disease.
+obstetric complications in obese pregnant women, associated with liver steatosis.
+the effect of one-year treatment with the glucagon-like peptide-1 receptor agonist liraglutide on nafld in women with prior gestational diabetes mellitus.
+liver complications and hepatitis in pregnancy.
+insulin resistance and high amount of visceral fat characterize women with previous gestational diabetes and nonalcoholic fatty liver disease.
+the association of elevated first trimester alt with gestational diabetes mellitus.
+elevated first trimester alt is associated with large for gestational age birthweight.
+isoleucine-to-methionine substitution at residue 148 variant of pnpla3 gene and metabolic outcomes in gestational diabetes.
+hyperglycemia: mody: a diagnosis to remember.
+unusual cases of diabetes mellitus as a result of heterozygous missense mutation r482w in lmna gene in 2 unrelated families, described for the first time in russian population.
+developmental origins of nonalcoholic fatty liver disease.
+pregravid liver enzyme levels and risk of gestational diabetes mellitus during a subsequent pregnancy.
+a possible role of polycystic ovary syndrome for pregnancy complications in women with psoriasis.
+leptin and epilepsy.
+prevalence of endocrine disorders in nonalcoholic fatty liver disease.
+metformin: an old but still the best treatment for type 2 diabetes.
+follistain like 3 overespression improves insulin sensitivity in diet induced obese female mice.
+prevalence of hepatic steatosis in stillborns delivered to women with diabetes mellitus.
+developmental programming in diabetes and obesity.
+fructose consumption during pregnancy and lactation induces fatty liver and glucose intolerance in rats.
+the role of obesity in the development of polycystic ovary syndrome.
+polycystic ovary syndrome: current infertility management.
+current treatment strategies,,complications and considerations for the use of hiv antiretroviral therapy during pregnancy.
+association of fatty liver index (fli) with parameters of insulin sensitivity in women with prior gestational diabetes.
+assessment of fatty liver index (fli) in relation to insulin sensitivity in women with prior gestational diabetes.
+one consequence of infertility treatment: multifetal pregnancy.
+fructose consumption during pregnancy and lactation induced elevated liver triglyceride content and glucose intolerance in rats.
+microcirculation and the metabolic syndrome.
+management of obesity in pregnancy.
+treating hiv during pregnancy: an update on safety issues.
+thrombocytopenia in the parturient.
+maternal morbidity associated with triplet pregnancy.
+there are 8 target papers found during the search in pubmed!.
+the number of target article missing is: 2.
+false positive rate: 0.659942363112392.
+false negative rate: 0.25.
+
+Included target articles are as follow:
+risks after gestational diabetes mellitus in taiwanese women: a nationwide retrospective cohort study.
+history of gestational diabetes and incident nonalcoholic fatty liver disease: the kangbuk samsung health study.
+transient elastography and controlled attenuation parameter to evaluate hepatic steatosis and liver stiffness in postpartum patients.
+non-alcoholic steatohepatitis is independently associated with a history of gestational diabetes mellitus.
+prevalence of non-alcoholic fatty liver disease and factors associated with it in indian women with a history of gestational diabetes mellitus.
+current type 2 diabetes, rather than previous gestational diabetes, is associated with liver disease in u.s. women.
+gestational diabetes in young women predicts future risk of serious liver disease.
+hepatic fat and glucose tolerance in women with recent gestational diabetes.
+nonalcoholic fatty liver disease is prevalent in women with prior gestational diabetes mellitus and independently associated with insulin resistance and waist circumference.
+gestational diabetes mellitus is strongly associated with non-alcoholic fatty liver disease.
+increased prevalence of non-alcoholic fatty liver disease in european women with a history of gestational diabetes.

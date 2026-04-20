@@ -1,0 +1,32 @@
+total number of articles searched: 86.
+objectives: ['to compare the diagnostic performance of the uac vs the acr in random urine samples for microalbuminuria screening among patients with dm.'].
+does the albumin:creatinine ratio lack clinical utility in predicting microalbuminuria?.
+determining the value of albumin to creatinine ratio in a single morning sample, compared to the 24-hour urinary albumin excretion test, for determining micro-albuminuria in diabetic patients.
+screening for microalbuminuria in type 2 diabetic patients: the evaluation of a dipstick test in general practice.
+detection of microalbuminuria: receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration.
+microalbuminuria in diabetes: a population study of the prevalence and an assessment of three screening tests.
+urinary protein and albumin excretion corrected by creatinine and specific gravity.
+practical aspects of screening for microalbuminuria in diabetic patients.
+albumin to creatinine ratio: a screening test with limitations.
+gender and the clinical usefulness of the albumin:creatinine ratio.
+which test to detect microalbuminuria in diabetic patients?: a systematic review.
+albumin-to-creatinine ratio as a diagnostic tool for type 2 diabetic nephropathy.
+screening strategies in the detection of microalbuminuria in insulin‐dependent diabetic patients.
+there are 4 target papers found during the search in pubmed!.
+in the end, 4 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.26744186046511625.
+false negative rate: 0.0.
+
+Included target articles are as follow:
+the validity of screening based on spot morning urine samples to detect subjects with microalbuminuria in the general population.
+evaluation of tests for microalbuminuria screening in patients with diabetes.
+assessing albuminuria in spot morning samples from diabetic patients.
+comparison of albumin excretion rate obtained with different times of collection.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
+determining the value of albumin to creatinine ratio in a single morning sample, compared to the 24-hour urinary albumin excretion test, for determining micro-albuminuria in diabetic patients.

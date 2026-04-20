@@ -1,0 +1,25 @@
+### Systematic Review: Title, Abstract
+
+- **Title of Systematic Review**:
+{sr_title}
+
+- **Abstract of Systematic Review**:
+{sr_abstract}
+
+### Candidate article that is being evaluated for the systematic review: Title, Abstract
+
+- **Title of the candidate article**:
+{candidate_title}
+
+- **Abstract of the candidate article**:
+{candidate_abstract}
+
+### Decision from another medical researcher
+Another medical researcher has decided the candidate article to be {decision}, and written the following justification for it.
+{justification}
+
+### Instructions
+Your task is to evaluate the justification this medical researcher has given, and decide whether the decision it made is correct or wrong.
+
+### Output format
+We will conclude by outputting (on the very last line) 'XXX' if you agree with the medical researcher, or 'YYY' if you disagree with it. We must output either 'XXX' or 'YYY'.

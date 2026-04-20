@@ -1,0 +1,32 @@
+total number of articles searched: 115.
+objectives: ['compare the diagnostic performance of random urine samples measuring albumin concentration (uac) vs the ratio of albumin to creatinine (acr) for microalbuminuria screening in patients with diabetes mellitus (dm).', 'assess the cost-effectiveness of using uac compared to acr in diagnosing microalbuminuria.', 'evaluate the sensitivity and specificity of uac and acr in detecting microalbuminuria in diabetes mellitus patients.', 'establish a criterion standard for microalbuminuria detection based on urinary albumin excretion rate.', 'synthesize data from clinical studies to provide comprehensive insight into the diagnostic performance of uac and acr.'].
+accuracy of urine dipstick test for microalbuminuria in type 2 diabetes mellitus patients.
+the use of semi-quantitative urine test-strip (micral test) for microalbuminuria screening in patients with diabetes mellitus.
+the diagnostic accuracy of a urine albumin-creatinine ratio point-of-care test for detection of albuminuria in primary care.
+evaluation of tests for microalbuminuria screening in patients with diabetes.
+rapid screening test evaluation for microalbuminuria in diabetes mellitus.
+a simple approach to screening for microalbuminuria in a type 1 (insulin-dependent) diabetic population.
+screening for micro-albuminuria with micro-bumintest tablets and albumin/creatinine ratio.
+association of microalbuminuria and the urine albumin-to-creatinine ratio with systemic disease in cats.
+a screening test for microalbuminuria in type 1 (insulin-dependent) diabetes.
+comparison of urinary albumin excretion rate in overnight urine and albumin creatinine ratio in spot urine in diabetic patients in general practice.
+association between microalbuminuria and cardiovascular disease in type 2 diabetes mellitus of the beijing han nationality.
+there are 8 target papers found during the search in pubmed!.
+the validity of screening based on spot morning urine samples to detect subjects with microalbuminuria in the general population.
+comparison of albumin excretion rate obtained with different times of collection.
+in the end, 5 target papers were left after filtering!.
+the number of target article missing is: 3.
+false positive rate: 0.20869565217391303.
+false negative rate: 0.375.
+
+Included target articles are as follow:
+the validity of screening based on spot morning urine samples to detect subjects with microalbuminuria in the general population.
+evaluation of tests for microalbuminuria screening in patients with diabetes.
+assessing albuminuria in spot morning samples from diabetic patients.
+comparison of albumin excretion rate obtained with different times of collection.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.

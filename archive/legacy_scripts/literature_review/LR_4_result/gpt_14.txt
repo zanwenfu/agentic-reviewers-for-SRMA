@@ -1,0 +1,19 @@
+
+
+Inclusion criteria:
+1. Studies must measure G6PD activity using ultraviolet (UV) spectrophotometry at a wavelength of 340 nm.
+2. Studies must include individual-level data from participants, including those without known haematological conditions, and may include patients with malaria but must be analyzed separately.
+3. Studies must provide sufficient details on G6PD activity measurements (U/g Hb) and must not include samples with extreme G6PD activity (>30 U/g Hb) or missing data on G6PD activity or sex.
+
+Exclusion criteria:
+1. Studies that only assessed individuals with known haematological conditions.  
+2. Family studies.  
+3. Studies with insufficient details regarding G6PD activity measurements or study characteristics.  
+4. Studies that did not measure NADPH formation at a wavelength of 340 nm.  
+5. Samples missing data on either G6PD activity (U/g Hb) or sex.  
+6. Samples for which measured G6PD activity was extreme (>30 U/g Hb).  
+
+total: 328   FP: 0   FN: 13   TP: 0   TN: 315
+
+FP Rate: 0.0   FN Rate: 1.0   Specificity: 1.0   Sensitivity: 0.0  
+

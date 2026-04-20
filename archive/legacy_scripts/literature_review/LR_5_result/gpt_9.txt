@@ -1,0 +1,23 @@
+The changing patterns of chronic kidney disease: the need to develop strategies for prevention relevant to different regions and countries.; Chronic diseases are now in pandemic proportions and are the major cause of morbidity and mortality worldwide. Long-term predictions show that the burden will fall increasingly on developing countries. Type II diabetes is now the major global cause of chronic kidney disease. However, chronic kidney disease should not be viewed in isolation, because it is also a major risk factor for cardiovascular deaths. It is both a medical and economic imperative to introduce screening and management programs for chronic kidney disease, diabetes, hypertension, and cardiovascular disease worldwide but particularly in the emerging world. Such programs should be tailored to the needs of the individual country, involve local health providers, be assessable as to their efficacy, and become self-sufficient within 5 years.
+
+
+Inclusion criteria:
+1. The study must assess the UAC or the ACR of a random urine sample as an index test for detecting microalbuminuria in patients with diabetes mellitus (DM) aged older than 18 years.  
+2. The reference standard for microalbuminuria must be defined as a urinary albumin excretion rate (UAER) of 30 to 300 mg/d based on a 24-hour timed urine collection.  
+3. The study must report data on absolute numbers of true-positive, false-positive, false-negative, and true-negative results, or these data must be derivable from the published results.  
+
+
+Exclusion criteria:
+1. Studies that do not assess the UAC or ACR of random urine samples as an index test for detecting microalbuminuria in patients with diabetes mellitus.
+2. Studies that do not use a urinary albumin excretion rate (UAER) of 30 to 300 mg/d as the reference standard measured by a 24-hour timed urine collection.
+3. Studies that do not report or derive absolute numbers of true-positive, false-positive, false-negative, and true-negative results.  
+4. Studies involving patients younger than 18 years old.
+5. Studies that include patients with a UAER exceeding 300 mg/d by 24-hour timed urine collection.
+6. Non-English publications or studies not published as full-length articles or letters in peer-reviewed journals. 
+7. Studies that assess only one of the index tests (UAC or ACR) without providing comparative data on both.
+8. Meta-analyses or reviews without original data on diagnostic performance.            
+
+total: 583   FP: 1   FN: 11   TP: 0   TN: 405
+
+FP Rate: 0.0024630541871921183   FN Rate: 1.0   Specificity: 0.9975369458128078   Sensitivity: 0.0  
+

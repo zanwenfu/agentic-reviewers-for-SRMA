@@ -1,0 +1,166 @@
+total number of articles searched: 446.
+objectives: ['systematically review studies concerning the effects of neoadjuvant therapy on tumor response', 'systematically review studies concerning the effects of neoadjuvant therapy on toxicity', 'systematically review studies concerning the effects of neoadjuvant therapy on resection percentages', 'systematically review studies concerning the effects of neoadjuvant therapy on survival percentages'].
+single nucleotide polymorphism in recql and survival in resectable pancreatic adenocarcinoma.
+margin positive pancreaticoduodenectomy is superior to palliative bypass in locally advanced pancreatic ductal adenocarcinoma.
+[a case report-neoadjuvant chemoradiotherapy with combination of s-1 and gemcitabine in a patient with locally advanced pancreatic cancer].
+some reflexions on the modified appleby procedure.
+downsizing to resectability of a large solid and cystic papillary tumor of the pancreas by single-agent chemotherapy.
+preoperative versus postoperative adjuvant therapy for adenocarcinoma of the pancreas.
+surgical resection after tnferade therapy for locally advanced pancreatic cancer.
+cd74 is a novel prognostic factor for patients with pancreatic cancer receiving multimodal therapy.
+effects of neoadjuvant combined chemotherapy and radiation therapy on the ct evaluation of resectability and staging in patients with pancreatic head cancer.
+[the role of radiation therapy in treatment of pancreatic cancer from the viewpoint of radio-oncologists].
+neoadjuvant chemotherapy generates a significant tumor response in resectable pancreatic cancer without increasing morbidity: results of a prospective phase ii trial.
+[surgery for pancreatic cancer].
+chemoradioimmunotherapy with 5-fluorouracil, cisplatin and interferon-alpha in pancreatic and periampullary cancer: results of a feasibility study.
+[neoadjuvant intra-arterial oil chemoembolization and adjuvant selective intra-arterial chemoinfusion in the combined treatment of pancreatic cancer].
+approaches to localized pancreatic cancer.
+[treatment of unresectable locally advanced pancreatic cancer with combined radiotherapy and chemotherapy].
+neoadjuvant and adjuvant strategies for chemoradiation.
+neoadjuvant treatment for pancreatic cancer--a review.
+adjuvant therapy for pancreatic cancer: a review.
+[a modified dworak classification applied to pancreatic adenocarcinoma: a useful prognostic factor].
+surgery insight: surgical management of pancreatic cancer.
+concurrent chemoradiotherapy for advanced pancreatic cancer: 1,000 mg/m2 gemcitabine can be administered using limited-field radiotherapy.
+is there an optimal neoadjuvant therapy for locally advanced pancreatic cancer?.
+pancreatic endoscopic retrograde cholangiopancreatography (ercp).
+[a case of gemcitabine-based chemo-radiation therapy for locally advanced unresectable pancreatic cancer].
+[locally advanced pancreatic adenocarcinoma. chemoradiotherapy, reevaluation and secondary resection].
+[pre- and post-operative chemoradiation therapies for pancreatic cancers].
+[surgical treatment of carcinoma of the pancreas].
+adjuvant treatment strategies for pancreatic cancer.
+pancreaticoduodenectomy after neoadjuvant therapy in a jehovah's witness with locally advanced pancreatic cancer: case report and approach to avoid transfusion.
+current state of adjuvant therapy in resected pancreatic adenocarcinoma.
+staging of pancreatic cancer with multidetector ct in the setting of preoperative chemoradiation therapy.
+radiochemotherapy in the management of pancreatic cancer--part i: neoadjuvant treatment.
+[curative surgical treatment of inoperable pancreatic cancer after neoadjuvant therapy].
+hemorrhage after duodenopancreatectomy: impact of neoadjuvant radiochemotherapy and experience with sentinel bleeding.
+effect of chemoradiotherapy with gemcitabine and cisplatin on locoregional control in patients with primary inoperable pancreatic cancer.
+[adjuvant chemotherapy for unresectable locally advanced pancreatic cancer in light of its characteristics].
+neoadjuvant therapy and biliary decompression lower biliary and pancreatic juice vascular endothelial growth factor levels in patients with periampullary adenocarcinoma.
+is there a role for chemoradiotherapy in the treatment of pancreatic carcinoma?.
+[chemoradiation in pancreatic carcinoma].
+preoperative chemoradiation and pancreaticoduodenectomy with portal vein resection for localized advanced pancreatic cancer.
+[pancreatic cancer. the relative importance of neoadjuvant therapy].
+[radiochemotherapy with gemcitabine and cisplatin in pancreatic cancer -- feasible and effective].
+the feasibility and safety of immunotherapy with dendritic cells loaded with cea mrna following neoadjuvant chemoradiotherapy and resection of pancreatic cancer.
+[surgical therapy of locally advanced and primary inoperable pancreatic carcinoma after neoadjuvant preoperative radiochemotherapy].
+cytoreductive surgery combined with intraoperative chemo-hyperthermia and postoperative radiotherapy in the management of advanced pancreatic adenocarcinoma: feasibility aspects and efficacy.
+adjuvant therapy in pancreatic cancer.
+preoperative chemoradiation therapy for pancreatic cancer.
+long-term follow-up of twenty patients with adenocarcinoma of the pancreas: resection following combined modality therapy.
+[primary and adjuvant radiochemotherapy of pancreatic carcinoma].
+advances in non-operative therapy in pancreatic cancer.
+[surgical treatment of pancreatic cancer: curative resections].
+[radiotherapeutic strategies in the multimodal therapy of resectable and nonresectable pancreatic carcinoma].
+survival advantage of combined chemoradiotherapy compared with resection as the initial treatment of patients with regional pancreatic carcinoma. an outcomes trial.
+hydroxyurea and trimidox enhance the radiation effect in human pancreatic adenocarcinoma cells.
+[the role of preoperative staging for pancreatic cancer].
+[pancreatic carcinoma. optimizing therapy by adjuvant and neoadjuvant therapy?].
+[preoperative radiochemotherapy in pancreatic cancer: preliminary results].
+[adjuvant concomitant chemotherapy in pancreatic cancer].
+locoregional chemotherapy in pancreatic cancer.
+extended pancreatectomy and liver perfusion chemotherapy for resectable adenocarcinoma of the pancreas.
+[does neoadjuvant radiochemotherapy augment the resectability of pancreatic cancers?].
+intraoperatic electron beam irradiation in pancreatic cancer.
+intraoperative radiotherapy in the combined-modality management of pancreatic cancer.
+[adenocarcinoma of the pancreas. therapeutic strategies].
+adjuvant or neoadjuvant therapy for pancreatic carcinoma?.
+brachytherapy and pancreatic cancer.
+multimodal therapies in ductal pancreatic cancer. the future.
+pancreatic carcinoma in perspective. a continuing challenge.
+radiotherapy for carcinoma of the pancreas.
+preoperative combined modality therapy for pancreatic cancer.
+staging concepts for gastrointestinal malignancies: the importance of preoperative locoregional t- and n-staging.
+neoadjuvant chemoradiation in pancreatic and duodenal carcinoma. a phase ii study.
+[intraoperative radiation therapy of carcinoma of the pancreas].
+radiotherapy in the treatment of pancreatic cancer.
+[multimodality treatment of carcinoma of the pancreas].
+there are 65 target papers found during the search in pubmed!.
+in the end, 63 target papers were left after filtering!.
+the number of target article missing is: 2.
+false positive rate: 0.4282511210762332.
+false negative rate: 0.03076923076923077.
+
+Included target articles are as follow:
+preoperative irradiation in carcinoma of the pancreas.
+curative surgery for adenocarcinoma of the pancreas/ampulla of vater: the role of adjuvant pre or postoperative radiation therapy.
+increased resectability of locally advanced pancreatic and periampullary carcinoma with neoadjuvant chemoradiotherapy.
+preoperative chemoradiation and pancreaticoduodenectomy for adenocarcinoma of the pancreas.
+a single institutional experience with preoperative chemoradiotherapy for stage i-iii pancreatic adenocarcinoma.
+neoadjuvant therapy for unresectable pancreatic adenocarcinoma.
+preoperative chemoradiation for adenocarcinoma of the pancreas and duodenum.
+a pilot study of preoperative chemoradiation for patients with localized adenocarcinoma of the pancreas.
+preoperative chemoradiation, pancreaticoduodenectomy, and intraoperative radiation therapy for adenocarcinoma of the pancreatic head.
+ca 19-9 is an index of response to neoadjunctive chemoradiation therapy in pancreatic cancer.
+combined modality therapy for stage ii and stage iii pancreatic carcinoma.
+paclitaxel and concurrent radiation for locally advanced pancreatic and gastric cancer: a phase i study.
+preoperative and postoperative chemoradiation strategies in patients treated with pancreaticoduodenectomy for adenocarcinoma of the pancreas.
+[does neoadjuvant radiochemotherapy augment the resectability of pancreatic cancers?].
+phase ii trial of preoperative radiation therapy and chemotherapy for patients with localized, resectable adenocarcinoma of the pancreas: an eastern cooperative oncology group study.
+preoperative versus postoperative chemoradiation for patients with resected pancreatic adenocarcinoma.
+rapid-fractionation preoperative chemoradiation, pancreaticoduodenectomy, and intraoperative radiation therapy for resectable pancreatic adenocarcinoma.
+chemoradiotherapy as preoperative treatment in locally advanced unresectable pancreatic cancer patients: results of a feasibility study.
+paclitaxel and concurrent radiation therapy for locally advanced adenocarcinomas of the pancreas, stomach, and gastroesophageal junction.
+preoperative chemoradiation for patients with locally advanced adenocarcinoma of the pancreas.
+pancreatic carcinoma deemed unresectable at exploration may be resected for cure: an institutional experience.
+neoadjuvant radio-chemotherapy in advanced primarily non-resectable carcinomas of the pancreas.
+survival advantage of combined chemoradiotherapy compared with resection as the initial treatment of patients with regional pancreatic carcinoma. an outcomes trial.
+preoperative chemotherapy, radiotherapy, and surgical resection of locally advanced pancreatic cancer.
+neoadjuvant chemoradiotherapy for adenocarcinoma of the pancreas: treatment variables and survival duration.
+preoperative chemoradiation for marginally resectable adenocarcinoma of the pancreas.
+effect of preoperative chemoradiotherapy on surgical margin status of resected adenocarcinoma of the head of the pancreas.
+staging of pancreatic cancer before and after neoadjuvant chemoradiation.
+neoadjuvant chemoradiation for localized adenocarcinoma of the pancreas.
+preoperative chemoradiation in the management of adenocarcinoma of the body of the pancreas.
+does neoadjuvant chemoradiation downstage locally advanced pancreatic cancer?.
+a phase ii single institutional experience with preoperative radiochemotherapy in pancreatic adenocarcinoma.
+preoperative paclitaxel and concurrent rapid-fractionation radiation for resectable pancreatic adenocarcinoma: toxicities, histologic response rates, and event-free outcome.
+[surgical therapy of locally advanced and primary inoperable pancreatic carcinoma after neoadjuvant preoperative radiochemotherapy].
+chemoradiotherapy in the treatment of regional pancreatic carcinoma: a phase ii study.
+surgical resection following radiation therapy with concurrent gemcitabine in patients with previously unresectable adenocarcinoma of the pancreas.
+surgical resection after preoperative chemoradiotherapy benefits selected patients with unresectable pancreatic cancer.
+neoadjuvant preoperative chemoradiation in patients with pancreatic cancer.
+neoadjuvant chemoradiotherapy for adenocarcinoma of the pancreas: analysis of histopathology and outcome.
+[radiochemotherapy with gemcitabine and cisplatin in pancreatic cancer -- feasible and effective].
+neoadjuvant chemoradiation with tegafur in cancer of the pancreas: initial analysis of clinical tolerance and outcome.
+phase i-ii trial of twice-weekly gemcitabine and concomitant irradiation in patients undergoing pancreaticoduodenectomy with extended lymphadenectomy for locally advanced pancreatic cancer.
+assessment of pathologic response after preoperative chemoradiotherapy and surgery in pancreatic adenocarcinoma.
+neoadjuvant induction chemotherapy followed by chemoradiation: a phase i trial of gemcitabine, cisplatin, and 5-fluorouracil for advanced pancreatic/gastrointestinal malignancies.
+effect of chemoradiotherapy with gemcitabine and cisplatin on locoregional control in patients with primary inoperable pancreatic cancer.
+sequential and/or concurrent hypofractionated radiotherapy and concurrent chemotherapy in neoadjuvant treatment of advanced adenocarcinoma of the pancreas. outcome and patterns of failure.
+preoperative locoregional re-evaluation by endoscopic ultrasound in pancreatic ductal adenocarcinoma after neoadjuvant chemoradiation.
+feasibility and efficacy of combination therapy with preoperative and postoperative chemoradiation, extended pancreatectomy, and postoperative liver perfusion chemotherapy for locally advanced cancers of the pancreatic head.
+docetaxel/gemcitabine followed by gemcitabine and external beam radiotherapy in patients with pancreatic adenocarcinoma.
+locally advanced pancreatic cancer treated with radiation and 5-fluorouracil: a first step to neoadjuvant treatment?.
+significance of histological response to preoperative chemoradiotherapy for pancreatic cancer.
+a phase i study of eniluracil/5-fu in combination with radiation therapy for potentially resectable and/or unresectable cancer of the pancreas and distal biliary tract.
+[locally advanced pancreatic adenocarcinoma. chemoradiotherapy, reevaluation and secondary resection].
+pancreatic resections after chemoradiotherapy for locally advanced ductal adenocarcinoma: analysis of perioperative outcome and survival.
+a multi-institutional phase ii trial of preoperative full-dose gemcitabine and concurrent radiation for patients with potentially resectable pancreatic carcinoma.
+evaluation of preoperative therapy for pancreatic cancer using a prognostic nomogram.
+phase i study of oxaliplatin, full-dose gemcitabine, and concurrent radiation therapy in pancreatic cancer.
+preoperative chemoradiation and intra-operative radiotherapy for pancreatic carcinoma.
+a randomized phase 2 trial of neoadjuvant chemotherapy in resectable pancreatic cancer: gemcitabine alone versus gemcitabine combined with cisplatin.
+impact of preoperative chemoradiotherapy on survival in patients with resectable pancreatic cancer.
+concurrent chemoradiotherapy for advanced pancreatic cancer: 1,000 mg/m2 gemcitabine can be administered using limited-field radiotherapy.
+neoadjuvant chemotherapy and radiation for patients with locally unresectable pancreatic adenocarcinoma: feasibility, efficacy, and survival.
+chemoradiation followed by chemotherapy before resection for borderline pancreatic adenocarcinoma.
+preoperative gemcitabine-based chemoradiation for patients with resectable adenocarcinoma of the pancreatic head.
+preoperative chemoradiation in adenocarcinoma of the pancreas. a single centre experience advocating a new treatment strategy.
+effect of neoadjuvant therapy on local recurrence after resection of pancreatic adenocarcinoma.
+prospective phase ii trial of neoadjuvant chemotherapy with gemcitabine and cisplatin for resectable adenocarcinoma of the pancreatic head.
+histopathological response to preoperative chemoradiation for resectable pancreatic adenocarcinoma: the french phase ii ffcd 9704-sfro trial.
+efficacy of preoperative radiochemotherapy in patients with locally advanced pancreatic carcinoma.
+phase i/ii trial of induction chemotherapy followed by concurrent chemoradiotherapy and surgery for locoregionally advanced pancreatic cancer.
+survival after pancreatectomy with major arterial resection and reconstruction.
+neoadjuvant chemoradiation in patients with potentially resectable pancreatic cancer.
+preoperative gemcitabine and cisplatin followed by gemcitabine-based chemoradiation for resectable adenocarcinoma of the pancreatic head.
+long-term results of concurrent radiotherapy and uft in patients with locally advanced pancreatic cancer.
+polymorphisms of p16, p27, p73, and mdm2 modulate response and survival of pancreatic cancer patients treated with preoperative chemoradiation.
+effects of neoadjuvant combined chemotherapy and radiation therapy on the ct evaluation of resectability and staging in patients with pancreatic head cancer.
+preoperative gemcitabine based chemo-radiotherapy in locally advanced non metastatic pancreatic adenocarcinoma.
+feasibility and efficacy of combination therapy with preoperative full-dose gemcitabine, concurrent three-dimensional conformal radiation, surgery, and postoperative liver perfusion chemotherapy for t3-pancreatic cancer.
+surgical results after preoperative chemoradiation therapy for patients with pancreatic cancer.
+downstaging of pancreatic carcinoma after neoadjuvant chemoradiation.
+neoadjuvant 5 fluorouracil-cisplatin chemoradiation effect on survival in patients with resectable pancreatic head adenocarcinoma: a ten-year single institution experience.

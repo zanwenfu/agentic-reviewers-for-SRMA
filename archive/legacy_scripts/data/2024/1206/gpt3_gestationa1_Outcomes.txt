@@ -1,0 +1,11 @@
+Total number of articles searched: 0
+Include criteria: ['Studies reporting the association between gestational diabetes mellitus and incident cardiovascular and cerebrovascular diseases', 'Observational studies', 'Studies with moderate or serious risk of bias included', 'Data presented as risk ratios with 95% confidence intervals', 'Women with gestational diabetes mellitus compared with control women without gestational diabetes', 'Significant differences in outcomes stratified by study characteristics and adjustments', 'Risk of cardiovascular and cerebrovascular diseases attenuated but remained significant when restricted to women who did not develop subsequent overt diabetes']
+Exclude criteria: ['Not reporting outcomes related to cardiovascular and cerebrovascular diseases', 'Incomplete or insufficient data on the association between gestational diabetes mellitus and cardiovascular/cerebrovascular diseases', 'Studies with high or unclear risk of bias', 'Low quality or very low certainty of evidence', 'Not evaluating the risk of cardiovascular and cerebrovascular diseases in women with gestational diabetes mellitus']
+
+There are 0 Target Papers Found during the search in PubMed!
+They are:
+
+In the end, 0 Target Papers were left after filtering!
+They are:
+
+The number of target article missing is: 0

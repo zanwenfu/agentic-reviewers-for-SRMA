@@ -1,0 +1,60 @@
+total number of articles searched: 220.
+objectives: ['systematically review published evidence on the association between puberty timing and type 2 diabetes or impaired glucose tolerance.', 'evaluate the association between puberty timing and type 2 diabetes/impaired glucose tolerance, independent of adiposity.', 'estimate the potential contribution of puberty timing to the burden of type 2 diabetes in the united kingdom.'].
+pubertal changes of insulin sensitivity, acute insulin response, and beta-cell function in overweight latino youth.
+[clinical features, reproductive endocrine and metabolic abnormalities of adolescent girls with polycystic ovary syndrome].
+reduced arterial compliance associated with metabolic syndrome in chinese children and adolescents.
+gnrh analog therapy in girls with early puberty is associated with the achievement of predicted final height but also with increased risk of polycystic ovary syndrome.
+insulin-like growth factor-i (igf-i) serum concentrations in healthy children and adolescents: relationship to level of contamination by ddt-derivative pesticides.
+insulin dose adjustment when changing from multiple daily injections to continuous subcutaneous insulin infusion in the pediatric age group.
+sexual maturation and metabolic profile among adolescents and children of the health worker cohort study in mexico.
+onset of puberty and cardiovascular risk factors in untreated obese children and adolescents: a 1-year follow-up study.
+impact of the growth hormone receptor exon 3 deletion gene polymorphism on glucose metabolism, lipids, and insulin-like growth factor-i levels during puberty.
+retinol-binding protein 4 and its relation to insulin resistance in obese children before and after weight loss.
+evaluation of insulin resistance in turkish girls with premature pubarche using the homeostasis assessment (homa) model.
+17-hydroxyprogesterone responses to gonadotropin-releasing hormone disclose distinct phenotypes of functional ovarian hyperandrogenism and polycystic ovary syndrome.
+shorter remission period in young versus older children with diabetes mellitus type 1.
+[study on the level changes of obesity-associated factors and puberty-associated hormones and their relationship between obese and normal 13 years old children].
+opposing influences of prenatal and postnatal growth on the timing of menarche.
+early and late weight gain and the timing of puberty.
+the emerging role of leptin in humans.
+longitudinal changes in insulin sensitivity, insulin secretion, and beta-cell function during puberty.
+glucose intolerance in a large cohort of mediterranean women with polycystic ovary syndrome: phenotype and associated factors.
+serum lipids, glucose homeostasis and abdominal adipose tissue distribution in protease inhibitor-treated and naive hiv-infected children.
+fat distribution in non-obese girls with and without precocious pubarche: central adiposity related to insulinaemia and androgenaemia from prepuberty to postmenarche.
+prevalence and concomitants of glucose intolerance in european obese children and adolescents.
+association of physical activity with insulin sensitivity in children.
+circulating plasma leptin and igf-1 levels in girls with premature adrenarche: potential implications of a preliminary study.
+high serum leptin levels in children with type 1 diabetes mellitus: contribution of age, bmi, pubertal development and metabolic status.
+impaired glucose tolerance in adolescent offspring of diabetic mothers. relationship to fetal hyperinsulinism.
+serum insulin and other cardiovascular risk indicators in children, adolescents and young adults.
+microalbuminuria in diabetic children and adolescents. relationship with puberty and growth hormone.
+contribution of diabetes duration before puberty to development of microvascular complications in iddm subjects.
+there are 4 target papers found during the search in pubmed!.
+in the end, 4 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.16818181818181818.
+false negative rate: 0.0.
+
+Included target articles are as follow:
+age at menarche and incidence of diabetes: a prospective study of 300,000 women in china.
+age at menarche and cardiovascular risk factors using mendelian randomization in the guangzhou biobank cohort study.
+age at menarche and cardiometabolic risk in adulthood: the coronary artery risk development in young adults study.
+age at menarche, abnormal glucose tolerance and type 2 diabetes mellitus: the rancho bernardo study.
+association between age at menarche and risk of diabetes in adults: results from the epic-norfolk cohort study.
+age at menarche, the leg length to sitting height ratio, and risk of diabetes in middle-aged and elderly chinese men and women.
+duration of reproductive lifespan and age at menarche in relation to metabolic syndrome in postmenopausal chinese women.
+puberty timing associated with diabetes, cardiovascular disease and also diverse health outcomes in men and women: the uk biobank study.
+the role of bmi across the life course in the relationship between age at menarche and diabetes, in a british birth cohort.
+age at menarche and type 2 diabetes risk: the epic-interact study.
+menarcheal age and risk of type 2 diabetes: a community-based cohort study.
+age of menarche and the metabolic syndrome in china.
+association of age at menarche with metabolic syndrome and its components in rural bangladeshi women.
+associations between age at menarche and menopause with cardiovascular disease, diabetes, and osteoporosis in chinese women.
+age at menarche and its association with dysglycemia in korean middle-aged women.
+early menarche increases the risk of type 2 diabetes in young and middle-aged korean women.
+association between age at menarche and risk factors for cardiovascular diseases in korean women: the 2010 to 2013 korea national health and nutrition examination survey.
+reproductive factors and risk of type 2 diabetes in an occupational cohort of chinese women.
+menstrual and reproductive factors and type 2 diabetes risk: the japan public health center-based prospective study.
+age at menarche and risk of type 2 diabetes: results from 2 large prospective cohort studies.
+age at menarche and risk of type 2 diabetes among african-american and white women in the atherosclerosis risk in communities (aric) study.
+earlier age at menarche is associated with higher diabetes risk and cardiometabolic disease risk factors in brazilian adults: brazilian longitudinal study of adult health (elsa-brasil).

@@ -1,0 +1,61 @@
+total number of articles searched: 125.
+objectives: ['to assess the efficacy of grass pollen sublingual tablets for the treatment of seasonal allergic rhinoconjunctivitis (sarc).', 'to evaluate the safety of grass pollen sublingual tablets licensed as drugs in the treatment of sarc.', 'to compare the effectiveness of grass pollen slit tablets with placebo in randomized clinical trials.'].
+sublingual immunotherapy for allergic rhinitis: systematic review and meta-analysis.
+efficacy and safety of 5-grass-pollen sublingual immunotherapy tablets in pediatric allergic rhinoconjunctivitis.
+pollen immunotherapy reduces the development of asthma in children with seasonal rhinoconjunctivitis (the pat-study).
+a double-blind, placebo-controlled trial by the sublingual route of immunotherapy with a standardized grass pollen extract.
+lack of effect of timothy grass pollen sublingual immunotherapy tablet on birch pollen-induced allergic rhinoconjunctivitis in an environmental exposure unit.
+allergen-specific immunotherapy with recombinant grass pollen allergens.
+safety and immunological changes during sublingual immunotherapy with standardized quality grass allergen tablets.
+sublingual grass allergen tablet immunotherapy provides sustained clinical benefit with progressive immunologic changes over 2 years.
+cost-effectiveness of grazax for prevention of grass pollen induced rhinoconjunctivitis in southern europe.
+cost-effectiveness of grass allergen tablet (grazax) for the prevention of seasonal grass pollen induced rhinoconjunctivitis - a northern european perspective.
+safety and efficacy of immunotherapy with the recombinant b-cell epitope-based grass pollen vaccine bm32.
+high-dose sublingual immunotherapy with single-dose aqueous grass pollen extract in children is effective and safe: a double-blind, placebo-controlled study.
+efficacy and safety of specific immunotherapy with a high-dose sublingual grass pollen preparation: a double-blind, placebo-controlled trial.
+prolonged effect of allergen sublingual immunotherapy to grass pollen.
+allergy immunotherapy tablet: grazax r for the treatment of grass pollen allergy.
+the relevance of patient-reported outcomes in a grass pollen immunotherapy trial in children and adolescents with rhinoconjunctivitis.
+once-daily sublingual allergen-specific immunotherapy improves quality of life in patients with grass pollen-induced allergic rhinoconjunctivitis: a double-blind, randomised study.
+sublingual immunotherapy with once-daily grass allergen tablets: a randomized controlled trial in seasonal allergic rhinoconjunctivitis.
+grass pollen sublingual immunotherapy for seasonal rhinoconjunctivitis: a randomized controlled trial.
+allergen-specific cd4+ t cell responses in peripheral blood do not predict the early onset of clinical efficacy during grass pollen sublingual immunotherapy.
+early onset of action of a 5-grass-pollen 300-ir sublingual immunotherapy tablet evaluated in an allergen challenge chamber.
+efficacy of sublingual swallow immunotherapy in children with severe grass pollen allergic symptoms: a double-blind placebo-controlled study.
+current issues on sublingual allergen-specific immunotherapy in children with asthma and allergic rhinitis.
+a phase 3 trial assessing the efficacy and safety of grass allergy immunotherapy tablet in subjects with grass pollen-induced allergic rhinitis with or without conjunctivitis, with or without asthma.
+double-blind, placebo-controlled study with sublingual immunotherapy in children with seasonal allergic rhinitis to grass pollen.
+short course of grass allergen peptides immunotherapy over 3 weeks reduces seasonal symptoms in allergic rhinoconjunctivitis with/without asthma: a randomized, multicenter, double-blind, placebo-controlled trial.
+five-grass-pollen sublingual immunotherapy tablet for the treatment of grass-pollen-induced allergic rhinoconjunctivitis: 5 years of experience.
+efficacy and safety of sublingual immunotherapy with grass allergen tablets for seasonal allergic rhinoconjunctivitis.
+comparison of the effect of 5-grass pollen sublingual immunotherapy tablets and drops in children with rhinoconjunctivitis.
+optimal dose, efficacy, and safety of once-daily sublingual immunotherapy with a 5-grass pollen tablet for seasonal allergic rhinitis.
+quality of life improvement after a three-year course of sublingual immunotherapy in patients with house dust mite and grass pollen induced allergic rhinitis: results from real-life.
+health-related quality of life during routine treatment with the sq-standardised grass allergy immunotherapy tablet: a non-interventional observational study.
+long-term clinical efficacy of grass-pollen immunotherapy.
+effect of allergen specific immunotherapy (it) on natural killer cell activity (nk), ige, ifn-gamma levels and clinical response in patients with allergic rhinitis and asthma.
+efficacy of subcutaneous and sublingual immunotherapy with grass allergens for seasonal allergic rhinitis: a meta-analysis-based comparison.
+real-world adherence and evidence of subcutaneous and sublingual immunotherapy in grass and tree pollen-induced allergic rhinitis and asthma.
+protocol for a randomised, double-blind, placebo-controlled study of grass allergen immunotherapy tablet for seasonal allergic rhinitis: time course of nasal, cutaneous and immunological outcomes.
+increasing long-term safety of seasonal grass pollen sublingual immunotherapy: the ecrit study.
+sublingual immunotherapy vs placebo in the management of grass pollen-induced allergic rhinitis in adults: a systematic review and meta-analysis.
+immunologic effects and tolerability profile of in-season initiation of a standardized-quality grass allergy immunotherapy tablet: a phase iii, multicenter, randomized, double-blind, placebo-controlled trial in adults with grass pollen-induced rhinoconjunctivitis.
+carbamylated monomeric allergoids as a therapeutic option for sublingual immunotherapy of dust mite- and grass pollen-induced allergic rhinoconjunctivitis: a systematic review of published trials with a meta-analysis of treatment using lais r tablets.
+sustained effect of sq-standardized grass allergy immunotherapy tablet on rhinoconjunctivitis quality of life.
+lack of detectable alterations in immune responses during sublingual immunotherapy in children with seasonal allergic rhinoconjunctivitis to grass pollen.
+an extract of timothy-grass pollen used as sublingual immunotherapy for summer hay fever.
+efficacy of sublingual immunotherapy with grass allergens for seasonal allergic rhinitis: a systematic review and meta-analysis.
+clinical efficacy of sublingual-swallow immunotherapy: a double-blind, placebo-controlled trial of a standardized five-grass-pollen extract in rhinitis.
+.
+there are 4 target papers found during the search in pubmed!.
+they are:.
+in the end, 4 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.368.
+false negative rate: 0.0.
+
+Included target articles are as follow:
+efficacy and safety of sublingual immunotherapy with grass allergen tablets for seasonal allergic rhinoconjunctivitis.
+sublingual immunotherapy with once-daily grass allergen tablets: a randomized controlled trial in seasonal allergic rhinoconjunctivitis.
+optimal dose, efficacy, and safety of once-daily sublingual immunotherapy with a 5-grass pollen tablet for seasonal allergic rhinitis.
+efficacy and safety of 5-grass-pollen sublingual immunotherapy tablets in pediatric allergic rhinoconjunctivitis.

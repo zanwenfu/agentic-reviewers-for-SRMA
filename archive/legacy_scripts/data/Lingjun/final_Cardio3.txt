@@ -1,0 +1,74 @@
+total number of articles searched: 245.
+objectives: ['summarize the association between gestational diabetes mellitus (gdm) and intergenerational cardiovascular diseases (cvds) impacts in mothers post-delivery.', 'summarize the association between gestational diabetes mellitus (gdm) and intergenerational cardiovascular diseases (cvds) impacts in offspring post-delivery.', 'assess the risk ratio (rr) of gdm in relation to the development of overall cardiovascular diseases in both mothers and offspring.', 'assess the risk ratio (rr) of gdm in relation to the development of subtypes of cardiovascular diseases in both mothers and offspring.'].
+interventions to mitigate risk of cardiovascular disease after adverse pregnancy outcomes a review.
+incidence, risk factors, management, and outcomes of stroke in pregnancy.
+pregnancy characteristics and womens future cardiovascular health: an underused opportunity to improve womens health?.
+maternal and child health, non-communicable diseases and metabolites.
+association of adverse pregnancy outcomes with risk of atherosclerotic cardiovascular disease in postmenopausal women.
+burden of multiple high-risk factors in pregnancy before and after the universal two-child policy in chinese women: an observational study.
+the clinical approach to obesity in pregnancy.
+delivery of a small-for-gestational-age infant and risk of maternal cardiovascular disease - a population-based record linkage study.
+the impact of a lifestyle intervention on postpartum cardiometabolic risk factors among hispanic women with abnormal glucose tolerance during pregnancy : secondary analysis of a randomized trial.
+reproductive factors in relation to heart failure in women: a systematic review.
+preconception cardiovascular risk factors and pregnancy outcome.
+a canary in the coal mine: reproductive health and cardiovascular disease in women.
+the inheritance of cardiovascular disease risk.
+importance of engaging obstetrician/gynecologists in cardiovascular disease prevention.
+pregnancy-related events associated with subclinical cardiovascular disease burden in late midlife: swan.
+mechanisms by which poor early growth programs type-2 diabetes, obesity and the metabolic syndrome.
+adverse pregnancy conditions, infertility, and future cardiovascular risk: implications for mother and child.
+cardiovascular health after menopause transition, pregnancy disorders, and other gynaecologic conditions: a consensus document from european cardiologists, gynaecologists, and endocrinologists.
+subclinical decrease in myocardial function in asymptomatic infants of diabetic mothers: a tissue doppler study.
+opportunities in the postpartum period to reduce cardiovascular disease risk after adverse pregnancy outcomes: a scientific statement from the american heart association.
+prepregnancy cardiovascular disease risk factors and adverse pregnancy outcomes in a safety-net hospital.
+developmental programming by maternal obesity: lessons from animal models.
+preventing adverse cardiovascular outcomes in pregnancy complicated by obesity.
+nafld at the interface of the mother-infant dyad.
+disparities in cardiovascular care and outcomes for women from racial/ethnic minority backgrounds.
+predicting women's future cardiovascular health from pregnancy complications.
+transient hyperglycemia and hypoxia induce memory effects in angiomir expression profiles of feto-placental endothelial cells.
+adverse pregnancy outcomes and postpartum care as a pathway to future health.
+adverse pregnancy outcomes and renal-vascular function in the early years after delivery.
+healthy living and sulfonylurea therapy have different effects on glucose-tolerance and risk-factors for vascular-disease in subjects with impaired glucose-tolerance.
+physical activity, sedentary behaviors, and estimated insulin sensitivity and secretion in pregnant and non-pregnant women.
+association between body mass index and chronic hypertension in patients with hypertension disorders of pregnancy one-year postpartum.
+postpartum breastfeeding and cardiovascular risk assessment in women following pregnancy complications.
+dyslipemias and pregnancy, an update.
+cardiovascular morbidity of infants of diabetic mothers and its association with maternal glycaemic control according to hba1c.
+mammalian target of rapamycin in the human placenta regulates leucine transport and is down-regulated in restricted fetal growth.
+cardio-obstetric care from preconception through postpartum.
+the intergenerational effects of fetal programming: non-genomic mechanisms for the inheritance of low birth weight and cardiovascular risk.
+synthesizing core outcome sets for outcomes research in cohort studies: a systematic review.
+safety of low weight gain or weight loss in pregnancies with class 1, 2, and 3 obesity: a population-based cohort study.
+there are 1 target papers found during the search in pubmed!.
+in the end, 0 target papers were left after filtering!.
+false positive rate: 0.30612244897959184.
+false negative rate: 1.0.
+
+Included target articles are as follow:
+characteristics of premature myocardial infarction among women with prior adverse pregnancy outcomes.
+early cardiovascular events in women with a history of gestational diabetes mellitus.
+role of type 2 diabetes in determining retinal, renal, and cardiovascular outcomes in women with previous gestational diabetes mellitus.
+gestational diabetes and incident heart failure: a cohort study.
+the risk and added values of the atherosclerotic cardiovascular risk enhancers on prediction of cardiovascular events: tehran lipid and glucose study.
+adverse pregnancy outcomes and long term risk of ischemic heart disease in mothers: national cohort and co-sibling study.
+gestational diabetes mellitus in mothers and long term cardiovascular disease in both parents: results of over a decade follow-up of the iranian population.
+earlier age of onset of chronic hypertension and type 2 diabetes mellitus after a hypertensive disorder of pregnancy or gestational diabetes mellitus.
+association of history of gestational diabetes with long-term cardiovascular disease risk in a large prospective cohort of us women.
+gestational diabetes mellitus and later cardiovascular disease: a swedish population based case-control study.
+association of gestational diabetes with long-term risk of premature mortality, and cardiovascular outcomes and risk factors: a retrospective cohort analysis in the uk biobank.
+pregnancy complications and risk of cardiovascular disease later in life: a nationwide cohort study.
+increased risk of ischemic heart disease, hypertension, and type 2 diabetes in women with previous gestational diabetes mellitus, a target group in general practice for preventive interventions: a population-based cohort study.
+increased risk of cardiovascular and renal disease, and diabetes for all women diagnosed with gestational diabetes mellitus in new zealand-a national retrospective cohort study.
+history of gestational diabetes mellitus in relation to cardiovascular disease and cardiovascular risk factors in us women.
+pregnancy-induced hypertension and diabetes and the risk of cardiovascular disease, stroke, and diabetes hospitalization in the year following delivery.
+gestational diabetes mellitus increases the risk of cardiovascular disease in women with a family history of type 2 diabetes.
+gestational diabetes mellitus and the risks of overall and type-specific cardiovascular diseases: a population- and sibling-matched cohort study.
+gestational diabetes and risk of cardiovascular disease up to 25 years after pregnancy: a retrospective cohort study.
+gestational diabetes and cardiovascular risk factors and disease in u.s. hispanics/latinas in the hispanic community health study/study of latinos (hchs/sol).
+impact of gestational diabetes mellitus and high maternal weight on the development of diabetes, hypertension and cardiovascular disease: a population-level analysis.
+gestational diabetes mellitus and the role of intercurrent type 2 diabetes on long-term risk of cardiovascular events.
+association between history of adverse pregnancy outcomes and coronary artery disease assessed by coronary computed tomography angiography.
+previous pre-eclampsia, gestational diabetes mellitus and the risk of cardiovascular disease: a nested case-control study in sweden.
+relationship between pregnancy complications and subsequent coronary artery disease assessed by coronary computed tomographic angiography in black women.
+five-year risk of all-cause death and cardiovascular events in women with gestational diabetes and hypertensive disorders of pregnancy.

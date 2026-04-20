@@ -1,0 +1,592 @@
+total number of articles searched: 1049.
+objectives: ['summarize the association between gestational diabetes mellitus (gdm) and intergenerational cardiovascular diseases (cvds) impacts in mothers post-delivery', 'summarize the association between gestational diabetes mellitus (gdm) and intergenerational cardiovascular diseases (cvds) impacts in offspring post-delivery', 'identify existing literature on the relationship between gdm during pregnancy and subsequent cvd development', 'pool maximally adjusted risk estimates to assess the risk ratio (rr) of gdm and overall and subtypes of cvds in both mothers and offspring post-delivery'].
+gestational diabetes: importance of follow-up screening for the benefit of long-term health.
+association of gestational diabetes mellitus with overall and type specific cardiovascular and cerebrovascular diseases: systematic review and meta-analysis.
+adverse pregnancy outcomes and cardiovascular disease risk: unique opportunities for cardiovascular disease prevention in women: a scientific statement from the american heart association.
+obesity in pregnancy.
+incretins, pregnancy, and gestational diabetes.
+gestational diabetes mellitus: post-partum risk and follow up.
+adverse pregnancy outcomes and future risk of heart failure.
+extracellular vesicles and their role in gestational diabetes mellitus.
+genetic and inflammatory factors underlying gestational diabetes mellitus: a review.
+does gestational diabetes mellitus increase the risk of cardiovascular disease? a mendelian randomization study.
+association between gestational diabetes and cardiovascular disease within 24 months postpartum.
+pre-eclampsia and cardiovascular disease risk assessment in women.
+cardiovascular biomarkers in pregnancy with diabetes and associations to glucose control.
+gestational diabetes mellitus and future cardiovascular risk: an update.
+hyperglycemia in pregnancy and its implications for a woman's future risk of cardiovascular disease.
+maternal hyperglycemia induces autonomic dysfunction and heart failure in older adult offspring.
+adverse effects of gestational diabetes mellitus on fetal monocytes revealed by single-cell rna sequencing.
+gestational diabetes and risk of cardiovascular disease: a scoping review.
+gestational diabetes: implications for cardiovascular health.
+review of gestational diabetes mellitus effects on vascular structure and function.
+fetoplacental endothelial dysfunction in gestational diabetes mellitus and maternal obesity: a potential threat for programming cardiovascular disease.
+the diabetes-cardiovascular connection in women: understanding the known risks, outcomes, and implications for care.
+the effect of gestational diabetes mellitus on carotid artery intima-media thickness in and after pregnancy: a systematic review and meta-analysis.
+a comprehensive review of gestational diabetes mellitus: impacts on maternal health, fetal development, childhood outcomes, and long-term treatment strategies.
+cardiomyopathy and cardiac function in fetuses and newborns of diabetic mothers.
+association between gestational diabetes mellitus and the risks of type-specific cardiovascular diseases.
+considering gestational diabetes and gestational hypertension history across two pregnancies in relationship to cardiovascular disease development: a retrospective cohort study.
+long-term cardiovascular outcomes of gestational diabetes mellitus: a prospective uk biobank study.
+autonomic modulation in gestational diabetes mellitus.
+five-year risk of all-cause death and cardiovascular events in women with gestational diabetes and hypertensive disorders of pregnancy.
+characteristics of premature myocardial infarction among women with prior adverse pregnancy outcomes.
+assessing the causal association of pregnancy complications with diabetes and cardiovascular disease.
+how do the different types of maternal diabetes during pregnancy influence offspring outcomes?.
+impact of prior gestational diabetes on long-term type 2 diabetes complications.
+evaluation of fetal cardiac function in maternal gestational diabetes mellitus by speckle-tracking echocardiography.
+association between history of adverse pregnancy outcomes and coronary artery disease assessed by coronary computed tomography angiography.
+pregnancy complications and risk of cardiovascular disease later in life: a nationwide cohort study.
+cardiovascular disease in women: the significance of hypertension and gestational diabetes during pregnancy.
+therapies for gestational diabetes and their implications for maternal and offspring health: evidence from human and animal studies.
+cardiovascular risk factors in women with previous gestational diabetes mellitus: a systematic review and meta-analysis.
+lifetime duration of breastfeeding and cardiovascular risk in women with type 2 diabetes or a history of gestational diabetes: findings from two large prospective cohorts.
+association of gestational diabetes mellitus (gdm) with subclinical atherosclerosis: a systemic review and meta-analysis.
+three-dimensional echocardiography and cardiac strain imaging in women with gestational diabetes mellitus.
+cardiac function in gestational diabetes mellitus: a longitudinal study from fetal life to infancy.
+maternal obesity, diabetes during pregnancy and epigenetic mechanisms that influence the developmental origins of cardiometabolic disease in the offspring.
+recent experimental studies of maternal obesity, diabetes during pregnancy and the developmental origins of cardiovascular disease.
+risks after gestational diabetes mellitus in taiwanese women: a nationwide retrospective cohort study.
+association of concomitant gestational hypertensive disorders and gestational diabetes with cardiovascular disease.
+non-invasive detection of fetal vascular endothelial function in gestational diabetes mellitus.
+leptin and adiponectin as predictors of cardiovascular risk after gestational diabetes mellitus.
+female-specific risk factors for cardiovascular disease: an update.
+gestational diabetes, pregnancy hypertension, and late vascular disease.
+the birth of cardiac disease: mechanisms linking gestational diabetes mellitus and early onset of cardiovascular disease in offspring.
+[gestational diabetes mellitus : what after delivery ?].
+fetal strain and strain rate measured with speckle tracking echocardiography in maternal diabetes: systematic review.
+insulin resistance and its potential role in pregnancy-induced hypertension.
+long-term metabolic consequences in patients with a history of gestational diabetes.
+reproductive risk factors for cardiovascular disease in women.
+postpartum healthcare after gestational diabetes and hypertension.
+antenatal glycemic management and postpartum cardiovascular disease risk screening.
+the risk of metabolic syndrome in women with previous gdm in a long-term follow-up.
+correlation between atherogenic risk and adiponectin in gestational diabetes mellitus.
+cardiovascular and metabolic morbidity in women with previous gestational diabetes mellitus: a nationwide register-based cohort study.
+increased risk of cardiovascular disease in women with prior gestational diabetes: a systematic review and meta-analysis.
+gestational diabetes and the metabolic syndrome: can obesity and small, dense low density lipoproteins be key mediators of this association?.
+diabetes-induced perturbations are subject to intergenerational transmission through maternal line.
+the risk for glucose intolerance after gestational diabetes mellitus since the introduction of the iadpsg criteria: a systematic review and meta-analysis.
+previous gestational diabetes history is associated with impaired coronary flow reserve.
+a rare case of acute myocardial infarction in pregnancy: successful treatment strategies.
+incidence of heart failure related to co-occurrence of gestational hypertensive disorders and gestational diabetes.
+the life course perspective of gestational diabetes: an opportunity for the prevention of diabetes and heart disease in women.
+evaluation of right side foetal myocardial performance index in pregestational and gestational diabetes mellitus.
+postpartum dyslipidaemia in women diagnosed with gestational diabetes mellitus.
+increased fetal cardiovascular disease risk: potential synergy between gestational diabetes mellitus and maternal hypercholesterolemia.
+optimising cardiometabolic risk factors in pregnancy: a review of risk prediction models targeting gestational diabetes and hypertensive disorders.
+gestational diabetes mellitus and the risks of overall and type-specific cardiovascular diseases: a population- and sibling-matched cohort study.
+impaired microvascular insulin-dependent dilation in women with a history of gestational diabetes.
+maternal cardiac function in gestational diabetes mellitus at 35-36 weeks' gestation and 6 months postpartum.
+implementing care for women with gestational diabetes after delivery-the challenges ahead.
+maternal dyslipidaemia in pregnancy with gestational diabetes mellitus: possible impact on foetoplacental vascular function and lipoproteins in the neonatal circulation.
+left atrial shortening fraction to predict fetal cardiac abnormalities and dysfunction in gestational diabetes mellitus.
+quantitative analysis of myocardial work in gestational diabetes mellitus using noninvasive left ventricular pressure-strain loop measurement.
+proteomics and bioinformatics analysis of cardiovascular related proteins in offspring exposed to gestational diabetes mellitus.
+association of gestational diabetes mellitus with left ventricular structure and function: the cardia study.
+quantifying fetal heart health in gestational diabetes: a new approach with fetal heart quantification technology.
+early cardiovascular events in women with a history of gestational diabetes mellitus.
+biomarkers of vascular injury and endothelial dysfunction after recent glucose intolerance in pregnancy.
+second trimester fetal and maternal epicardial fat thickness in gestational diabetic pregnancies.
+the association of adverse pregnancy outcomes and cardiovascular disease: current knowledge and future directions.
+the relationship between coronary flow reserve and the tyg index in patients with gestational diabetes mellitus.
+adverse pregnancy outcomes and long term risk of ischemic heart disease in mothers: national cohort and co-sibling study.
+association of maternal glucose concentrations during pregnancy with cardiovascular alterations in early childhood: a prospective birth cohort study.
+gestational diabetes mellitus and the role of intercurrent type 2 diabetes on long-term risk of cardiovascular events.
+early subclinical atherosclerosis in gestational diabetes: the predictive role of routine biomarkers and nutrigenetic variants.
+gestational diabetes mellitus and later cardiovascular disease: a swedish population based case-control study.
+exposure to maternal gestational diabetes is associated with higher cardiovascular responses to stress in adolescent indians.
+clinical features and outcomes of acute coronary syndrome in women with previous pregnancy complications.
+does gestational diabetes history increase epicardial fat and carotid intima media thickness?.
+evaluation of the effect of gestational diabetes mellitus on fetal cardiac functions with myocardial performance index.
+can short- and long-term maternal and infant risks linked to hypertension and diabetes during pregnancy be reduced by therapy?.
+n-terminal pro-b-type natriuretic peptide levels vary by ethnicity and are associated with insulin sensitivity after gestational diabetes mellitus.
+assessment of cardiac function in fetuses of gestational diabetic mothers during the second trimester.
+diabetes among alaska natives: a review.
+glucose tolerance in pregnancy and the long-term risk of cardiovascular disease.
+impact of gestational diabetes mellitus on fetal cardiac morphology and function: cohort comparison of second- and third-trimester fetuses.
+endothelial function in women with and without a history of glucose intolerance in pregnancy.
+cardiac function in infants born to mothers with gestational diabetes　- estimation of early diastolic intraventricular pressure differences.
+two-dimensional speckle tracking echocardiography in assessing the subclinical myocardial dysfunction in patients with gestational diabetes mellitus.
+programming of adult cardiovascular disease following exposure to late-gestation hyperglycemia.
+assessment of structural cardiac abnormalities and diastolic function in women with gestational diabetes mellitus.
+risk factors of neonatal stroke from different origins: a systematic review and meta-analysis.
+glucose intolerance in pregnancy and postpartum risk of metabolic syndrome in young women.
+the impact of gestational diabetes in pregnancy on the cardiovascular system of children at one year of age.
+paired maternal and fetal cardiac functional measurements in women with gestational diabetes mellitus at 35-36 weeks' gestation.
+assessment of myocardial function in infants of mothers with gestational diabetes mellitus using deformation imaging over the first year of age.
+a review of the health beliefs and lifestyle behaviors of women with previous gestational diabetes.
+increased carotid artery intima-media thickness in pregnant women with gestational diabetes mellitus.
+cardiovascular risk factors in chinese women with a history of gestational diabetes mellitus.
+glucose tolerance status in pregnancy: a window to the future risk of diabetes and cardiovascular disease in young women.
+assessing the consequences of gestational diabetes mellitus on offspring's cardiovascular health: mysweetheart cohort study protocol, switzerland.
+effect of gestational diabetes and insulin resistance on offspring's myocardial relaxation kinetics at three years of age.
+gestational diabetes and risk of cardiovascular disease up to 25 years after pregnancy: a retrospective cohort study.
+combined past preeclampsia and gestational diabetes is associated with a very high frequency of coronary microvascular dysfunction.
+cardiovascular risk factors in offspring exposed to gestational diabetes mellitus in utero: systematic review and meta-analysis.
+impaired cardiac autonomic function in women with prior gestational diabetes mellitus.
+risk prediction of maternal cardiovascular disease one year after hypertensive pregnancy complications or gestational diabetes mellitus.
+differences in biomarkers of cardiac dysfunction in cord blood between normal pregnancies and pregnancies complicated by maternal diabetes.
+cardiac doppler in poorly controlled gestational diabetics and its link to markers of intra-uterine hypoxia and adverse outcome.
+fetal cardiac functional abnormalities assessed by echocardiography in mothers suffering gestational diabetes mellitus: a systematic review and meta-analysis.
+gestational diabetes mellitus in mothers and long term cardiovascular disease in both parents: results of over a decade follow-up of the iranian population.
+long-term consequences for offspring of diabetes during pregnancy.
+society for maternal-fetal medicine special statement: quality metric on the rate of postpartum diabetes screening after pregnancies with gestational diabetes mellitus.
+unfavorable cytokine and adhesion molecule profiles during and after pregnancy, in women with gestational diabetes mellitus.
+the impact of short-term hyperglycemia and obesity on biventricular and biatrial myocardial function assessed by speckle tracking echocardiography in a population of women with gestational diabetes mellitus.
+changes in the shape and function of the fetal heart of pre- and gestational diabetes mothers.
+is fgf-23 an early indicator of atherosclerosis and cardiac dysfunction in patients with gestational diabetes?.
+circulating b-type natriuretic peptide in women with and without recent gestational diabetes: the impact of current glucose intolerance.
+history of gestational diabetes, insulin resistance and coronary risk.
+rising plasminogen activator inhibitor-1 and hypoadiponectinemia characterize the cardiometabolic biomarker profile of women with recent gestational diabetes.
+gestational diabetes mellitus and development of intergenerational overall and subtypes of cardiovascular diseases: a systematic review and meta-analysis.
+ecg body surface mapping in patients with gestational diabetes mellitus and optimal metabolic compensation.
+oxidative stress contributes to reductions in microvascular endothelial- and nitric oxide-dependent dilation in women with a history of gestational diabetes.
+protective influence of breastfeeding on cardiovascular risk factors in women with previous gestational diabetes mellitus and their children: a systematic review and meta-analysis.
+gestational diabetes and cardiovascular risk factors in the offspring: results from a cross-sectional study.
+hyperglycaemia cause vascular inflammation through advanced glycation end products/early growth response-1 axis in gestational diabetes mellitus.
+studies to improve perinatal health through diet and lifestyle among south asian women living in canada: a brief history and future research directions.
+history of gestational diabetes mellitus in relation to cardiovascular disease and cardiovascular risk factors in us women.
+maternal serum atrial natriuretic peptide (anp) and brain-type natriuretic peptide (bnp) levels in gestational diabetes mellitus.
+evaluation of postpartum carbohydrate intolerance and cardiovascular risk factors in women with gestational diabetes.
+knowledge and care regarding long-term cardiovascular risk after hypertensive disorders of pregnancy and gestational diabetes.
+relationship between pregnancy complications and subsequent coronary artery disease assessed by coronary computed tomographic angiography in black women.
+cxc chemokine ligand 16 is increased in gestational diabetes mellitus and preeclampsia and associated with lipoproteins in gestational diabetes mellitus at 5 years follow-up.
+evaluation of prenatal changes in fetal cardiac morphology and function in maternal diabetes mellitus using a novel fetal speckle-tracking analysis: a prospective cohort study.
+divergent trajectories of cardiovascular risk factors in the years before pregnancy in women with and without gestational diabetes mellitus: a population-based study.
+thrombin/par-1 activation induces endothelial damages via nlrp1 inflammasome in gestational diabetes.
+pregnancy-induced hypertension and diabetes and the risk of cardiovascular disease, stroke, and diabetes hospitalization in the year following delivery.
+[increased risk of type ii diabetes mellitus and cardiovascular disease after gestational diabetes mellitus: a systematic review].
+perinatal arterial ischemic stroke in northern queensland.
+history of gestational diabetes mellitus and future risk of atherosclerosis in mid-life: the coronary artery risk development in young adults study.
+maternal high-fat diet impairs cardiac function in offspring of diabetic pregnancy through metabolic stress and mitochondrial dysfunction.
+prevalence of glucose intolerance and metabolic syndrome within one year following delivery of a pregnancy complicated by gestational diabetes.
+up-regulation of brd4 contributes to gestational diabetes mellitus-induced cardiac hypertrophy in offspring by promoting mitochondria dysfunction in sex-independent manner.
+substantially altered expression profile of diabetes/cardiovascular/cerebrovascular disease associated micrornas in children descending from pregnancy complicated by gestational diabetes mellitus-one of several possible reasons for an increased cardiovascular risk.
+the association of adverse pregnancy events and cardiovascular disease in women 50 years of age and older.
+mild glucose intolerance in pregnancy and risk of cardiovascular disease: a population-based cohort study.
+women with a history of gestational diabetes mellitus present an accumulation of cardiovascular risk factors at age 46-a birth cohort study.
+carotid intima media thickness, brachial flow mediated dilation and previous history of gestational diabetes mellitus.
+increased risk of ischemic heart disease, hypertension, and type 2 diabetes in women with previous gestational diabetes mellitus, a target group in general practice for preventive interventions: a population-based cohort study.
+association of serum amyloid a with subclinical atherosclerosis in women with gestational diabetes.
+is there an association between glomerular hyperfiltration and coronary flow velocity reserve in patients with gestational diabetes history?.
+the combined impact of migraine and gestational diabetes on long-term risk of premature myocardial infarction and stroke: a population-based cohort study.
+hepatic rather than cardiac steatosis relates to glucose intolerance in women with prior gestational diabetes.
+prenatal clinical assessment of nt-probnp as a diagnostic tool for preeclampsia, gestational hypertension and gestational diabetes mellitus.
+fetal growth restriction: a workshop report.
+assessment of noninvasive risk markers of subclinical atherosclerosis in premenopausal women with previous history of gestational diabetes mellitus.
+the rhoa guanine exchange factor abr: a glucose-sensitive mediator of actin reorganization in feto-placental arterial endothelial cells altered by gestational diabetes mellitus.
+power spectral analysis of heart rate variability during the 100-g oral glucose tolerance test in pregnant women.
+assessment of left ventricular systolic function in fetuses without myocardial hypertrophy of gestational diabetes mellitus mothers using velocity vector imaging.
+haemodynamic differences amongst women who were screened for gestational diabetes in comparison to healthy controls.
+transforming growth factor-beta 1 levels in women with prior history of gestational diabetes mellitus.
+estudio parto: postpartum diabetes prevention program for hispanic women with abnormal glucose tolerance in pregnancy: a randomised controlled trial - study protocol.
+the optimal control of blood glucose is associated with normal blood pressure 24 hours profile and prevention of the left ventricular remodeling in the patients with gestational diabetes mellitus.
+assessment of arterial stiffness in women with gestational diabetes.
+postpartum care for aboriginal and non-aboriginal women with gestational diabetes mellitus across urban, rural and remote locations: a protocol for a cohort linkage study.
+back to the future: examining type 2 diabetic vasculature using the gestational diabetic placenta.
+the graded relationship between glucose tolerance status in pregnancy and postpartum levels of low-density-lipoprotein cholesterol and apolipoprotein b in young women: implications for future cardiovascular risk.
+early manifestation of cardiovascular disease risk factors in offspring of mothers with previous history of gestational diabetes mellitus.
+the postpartum cardiovascular risk factor profile of women with isolated hyperglycemia at 1-hour on the oral glucose tolerance test in pregnancy.
+decreased paraoxonase and arylesterase activities in the pathogenesis of future atherosclerotic heart disease in women with gestational diabetes mellitus.
+biochemical view on: precocious markers of cardiovascular risk and vascular damage in apparently healthy women with previous gestational diabetes.
+novel myh7 variant in the neonate of a mother with gestational diabetes mellitus showing left ventricular hypertrophy and noncompaction.
+prevalence of the impaired glucose metabolism and its association with risk factors for coronary artery disease in women with gestational diabetes.
+author response: cardiovascular risk factors in offspring exposed to gestational diabetes mellitus in utero: systematic review and meta-analysis.
+following in mother's footsteps? mother-daughter risks for insulin resistance and cardiovascular disease 15 years after gestational diabetes.
+evaluation of the future atherosclerotic heart disease with oxidative stress and carotid artery intima media thickness in gestational diabetes mellitus.
+correction: increased risk of ischemic heart disease, hypertension, and type 2 diabetes in women with previous gestational diabetes mellitus, a target group in general practice for preventive interventions: a population-based cohort study.
+[severe diabetic fetopathy due to undiagnosed gestational diabetes mellitus].
+[evaluation of cardiac function in fetuses from pregnant women with abnormal blood glucose levels by brain natriuretic peptide in umbilical cord blood].
+hypoadiponectinaemia in south asian women during pregnancy: evidence of ethnic variation in adiponectin concentration.
+the pathophysiology of gestational diabetes mellitus.
+gestational diabetes and cardiovascular risk factors and disease in u.s. hispanics/latinas in the hispanic community health study/study of latinos (hchs/sol).
+long-term cardio-metabolic effects after gestational diabetes: a review.
+low physical activity levels 1 year after pregnancy complications.
+diabetes in pregnancy and risk of near-miss, maternal mortality and foetal outcomes in the usa: a retrospective cross-sectional analysis.
+association of gestational diabetes with subclinical cardiovascular disease.
+gestational diabetes mellitus-innovative approach to prediction, diagnosis, management, and prevention of future ncd-mother and offspring.
+impaired vagal adaptation to an exercise task in women with gestational diabetes mellitus versus women with uncomplicated pregnancies.
+no effect of gestational diabetes or pre-gestational obesity on 6-year offspring left ventricular function-radiel study follow-up.
+assessment of cardiac functions in fetuses of gestational diabetic mothers.
+increased risk of cardiovascular disease in young women following gestational diabetes mellitus.
+windows of opportunity for lifestyle interventions to prevent gestational diabetes mellitus.
+gestational diabetes mellitus and cardiovascular risk after pregnancy.
+author response to: cardiovascular risk factors in offspring exposed to gestational diabetes mellitus in utero: systematic review and meta-analysis.
+role of type 2 diabetes in determining retinal, renal, and cardiovascular outcomes in women with previous gestational diabetes mellitus.
+the maternal microbiome and gestational diabetes mellitus: cause and effect.
+gestational diabetes, maternal obesity, and the ncd burden.
+previous gestational diabetes mellitus and markers of cardiovascular risk.
+elevated plasma sparc levels are associated with insulin resistance, dyslipidemia, and inflammation in gestational diabetes mellitus.
+influence of gestational diabetes mellitus on subclinical myocardial dysfunction during pregnancy: a systematic review and meta-analysis.
+blood pressure and lipid changes in gestational diabetes mellitus.
+blunted cerebral oxygenation during exercise in women with gestational diabetes mellitus: associations with macrovascular function and cardiovascular risk factors.
+impact of pregnancy on the trajectories of cardiovascular risk factors in women with and without gestational diabetes.
+health impacts of new-onset diabetes in women post-gestational diabetes mellitus: insights from hong kong's territory-wide data.
+metabolic dysfunction in pregnancy: fingerprinting the maternal metabolome using proton nuclear magnetic resonance spectroscopy.
+noninvasive assessment of subclinical atherosclerosis in normotensive gravidae with gestational diabetes.
+early onset of subclinical atherosclerosis in women with gestational diabetes mellitus.
+gestational diabetes and incident heart failure: a cohort study.
+diabetes mellitus and cardiovascular risk assessment in mothers with a history of gestational diabetes mellitus based on postpartal expression profile of micrornas associated with diabetes mellitus and cardiovascular and cerebrovascular diseases.
+gestational diabetes mellitus, follow-up of future maternal risk of cardiovascular disease and the use of ehealth technologies-a scoping review.
+carotid intimal-medial thickness is not increased in women with previous gestational diabetes mellitus.
+previous pre-eclampsia, gestational diabetes mellitus and the risk of cardiovascular disease: a nested case-control study in sweden.
+impact of gestational diabetes mellitus and high maternal weight on the development of diabetes, hypertension and cardiovascular disease: a population-level analysis.
+maternal gestational diabetes mellitus and congenital heart disease in offspring: a meta-analysis.
+maternal vascular indices and hemodynamic parameters at 36 weeks' gestation in gestational and pre-existing diabetes mellitus.
+asymmetric dimethylarginine is associated with high-sensitivity c-reactive protein and early carotid atherosclerosis in women with previous gestational diabetes mellitus.
+asymmetric dimethylarginine and gestational diabetes mellitus: a systematic review and meta-analysis.
+pregnancy complications as a window to future cardiovascular disease.
+fetoplacental vascular endothelial dysfunction as an early phenomenon in the programming of human adult diseases in subjects born from gestational diabetes mellitus or obesity in pregnancy.
+rule-based expert system for the diagnosis of maternal complications during pregnancy: for low resource settings.
+preeclampsia, gestational diabetes and later risk of cardiovascular disease: women's experiences and motivation for lifestyle changes explored in focus group interviews.
+impairments in microvascular function and skeletal muscle oxygenation in women with gestational diabetes mellitus: links to cardiovascular disease risk factors.
+gestational diabetes mellitus and its implications across the life span.
+a clinical update on gestational diabetes mellitus.
+the fetal and maternal consequences of gestational diabetes mellitus.
+gestational diabetes mellitus: an opportunity to prevent type 2 diabetes and cardiovascular disease in young women.
+urinary metabolites altered during the third trimester in pregnancies complicated by gestational diabetes mellitus: relationship with potential upcoming metabolic disorders.
+prediction of postpartum prediabetes by machine learning methods in women with gestational diabetes mellitus.
+the link between gestational diabetes and cardiovascular diseases: potential role of extracellular vesicles.
+platelets and endothelial dysfunction in gestational diabetes mellitus.
+a comparative study of eating habits and food intake in women with gestational diabetes according to early postpartum glucose tolerance status.
+decreased flow-mediated dilation in gestational diabetes in pregnancy and post-partum. a systematic review and meta-analysis.
+long term (>1 year) postpartum glucose tolerance status among indian women with history of gestational diabetes mellitus (gdm) diagnosed by iadpsg criteria.
+oxidized ldl, insulin resistance and central blood pressure after gestational diabetes mellitus.
+predictors of postnatal complications and congenital cardiac diseases in infants of mothers with pregestational and gestational diabetes.
+long-term outcomes in mothers diagnosed with gestational diabetes mellitus and their offspring.
+aortic intima-media thickness is increased in neonates of mothers with gestational diabetes mellitus: the role of thioredoxin-interacting protein as a marker of oxidative stress.
+early postpartum dyslipidemia and its potential predictors during pregnancy in women with a history of gestational diabetes mellitus.
+prevalence of a history of metabolic or hypertensive pregnancy disorder in patients with myocardial infarction and non-obstructive coronary arteries: an observational cohort study.
+interconception care for women with prior gestational diabetes mellitus.
+late cardiovascular consequences of gestational diabetes mellitus.
+effect of gestational diabetes mellitus on neonatal myocardial function.
+estimating the risk after gestational diabetes mellitus: can we improve the information from the postpartum ogtt?.
+associations of pregnancy complications with calculated cardiovascular disease risk and cardiovascular risk factors in middle age: the avon longitudinal study of parents and children.
+dulce mothers: an intervention to reduce diabetes and cardiovascular risk in latinas after gestational diabetes.
+the association of specific dietary patterns with cardiometabolic outcomes in women with a history of gestational diabetes mellitus: a scoping review.
+value of papp-a combined with bmi in predicting the prognosis of gestational diabetes mellitus: an observational study.
+the bliing study - breastfeeding length and intensity in gestational diabetes and metabolic effects in a subsequent pregnancy: a cohort study.
+associations of maternal gestational diabetes mellitus with alterations in cardiovascular system in early childhood.
+lifestyle behaviors and cardiovascular risk profiles among parous women by gestational diabetes status, 2007-2018.
+antenatal umbilical coiling index in gestational diabetes mellitus and non-gestational diabetes pregnancy.
+maternal diabetes during pregnancy and early onset of cardiovascular disease in offspring: population based cohort study with 40 years of follow-up.
+preventing type 2 diabetes and cardiovascular disease in women with gestational diabetes - the evidence and potential strategies.
+association between cardiac arrhythmia before pregnancy and gestational diabetes: a nationwide population-based study in korea.
+gestational diabetes mellitus and cardio-metabolic risk factors in women and children at 3 years postpartum.
+cardiovascular disease-related morbidity and mortality in women with a history of pregnancy complications.
+improving cardiometabolic and mental health in women with gestational diabetes mellitus and their offspring: study protocol for mysweetheart trial, a randomised controlled trial.
+prognostic indicators of persistent carotid intima-media thickness increase in postpartum period in a population of normotensive women with gestational diabetes mellitus.
+gestational diabetes: prevalence and risks for the mother and child (review).
+vascular phenotype at 35-37 weeks' gestation in women with gestational diabetes mellitus.
+associations of elevated glucose levels at each time point during ogtt with fetal congenital heart diseases: a cohort study of 72,236 births.
+increased risk of cardiovascular and renal disease, and diabetes for all women diagnosed with gestational diabetes mellitus in new zealand-a national retrospective cohort study.
+elevated galectin-3 in women with gestational diabetes mellitus, a new surrogate for cardiovascular disease in women.
+mitochondrial function and glucose metabolism in the placenta with gestational diabetes mellitus: role of mir-143.
+screening of mitochondrial mutations and insertion-deletion polymorphism in gestational diabetes mellitus in the asian indian population.
+association of dna methylation with infant birth weight in women with gestational diabetes.
+postpartum lifestyle behaviour among women with prior gestational diabetes mellitus: evidence from the hunt study.
+cardiovascular disease risk in the offspring of diabetic women: the impact of the intrauterine environment.
+adverse pregnancy outcomes as a risk factor for new-onset metabolic dysfunction-associated steatotic liver disease in postpartum women: a nationwide study.
+follow-up and screening for type-2 diabetes mellitus in women with previous gestational diabetes in primary care.
+spontaneous dissection of the coronary vessels. epidemiological and coronary angiographic study.
+effects of sedentary behavior on the complications experienced by pregnant women: a systematic review.
+adiposity and hyperglycaemia in pregnancy and related health outcomes in european ethnic minorities of asian and african origin: a review.
+plasma adiponectin, insulin sensitivity, and subclinical inflammation in women with prior gestational diabetes mellitus.
+conjoint associations of gestational diabetes and hypertension with diabetes, hypertension, and cardiovascular disease in parents: a retrospective cohort study.
+pregnancy complications, cardiovascular risk factors, and future heart disease.
+comprehensive primary prevention of cardiovascular disease in women.
+urine albumin-creatinine ratio in women with gestational diabetes: its link with glycaemic status.
+maternal gestational diabetes mellitus and the risk of subsequent pediatric cardiovascular diseases of the offspring: a population-based cohort study with up to 18 years of follow up.
+asymmetric dimethylarginine and arginine metabolites in women with and without a history of gestational diabetes.
+previous gestational diabetes increases atherogenic dyslipidemia in subsequent pregnancy and postpartum.
+inflammatory indices-systemic immune-inflammation index (sii) and systemic inflammatory response index (siri)-during pregnancy and associations with gestational diabetes mellitus.
+amp-activated protein (ampk) in pathophysiology of pregnancy complications.
+predictors and risk factors of short-term and long-term outcomes among women with gestational diabetes mellitus (gdm) and their offspring: moving toward precision prognosis?.
+inflammatory markers in women with a recent history of gestational diabetes mellitus.
+vitamin d supplementation for cardiometabolic risk markers in pregnant women based on the gestational diabetes mellitus or obesity status : a randomized clinical trial.
+association analysis in children born from normal and complicated pregnancies-cardiovascular disease associated micrornas and the incidence of prehypertension/hypertension, overweight/obesity, valve problems and heart defects.
+increased fetal epicardial fat thickness: a reflecting finding for gdm and perinatal outcomes.
+pregnancy complications and later life women's health.
+insulin need in gestational diabetes is associated with a worse cardiovascular risk profile after pregnancy.
+serum amyloid a1 and pregnancy zone protein in pregnancy complications and correlation with markers of placental dysfunction.
+pregnancy-associated cardiac dysfunction and the regulatory role of micrornas.
+advice that includes food sources of unsaturated fat supports future risk management of gestational diabetes mellitus.
+optimizing blood glucose control through the timing of exercise in pregnant individuals diagnosed with gestational diabetes mellitus.
+high prevalence of cardiovascular risk factors and insulin resistance 6 years after hyperglycemia first detected in pregnancy in cape town, south africa.
+aortic stiffness and cardiovascular risk in women with previous gestational diabetes mellitus.
+consequences of gestational diabetes mellitus on neonatal cardiovascular health: mysweetheart cohort study.
+prevalence of hypertrophic cardiomyopathy in fetuses of mothers with gestational diabetes before initiating treatment.
+maternal hyperglycemia affects cell proliferation signalling and stromal organization in the prostate of neonatal and juvenile rat offspring.
+pregnancy-related risk factors are associated with a significant burden of treated hypertension within 10 years of delivery: findings from a population-based norwegian cohort.
+should we consider gestational diabetes a vascular risk factor?.
+anthropometry and cardiovascular risk factors in women and offspring after pregnancies complicated by preeclampsia or diabetes mellitus.
+differences in low-grade chronic inflammation and insulin resistance in women with previous gestational diabetes mellitus and women with polycystic ovary syndrome.
+the impact of gestational diabetes and gestational hypertension on future cardiovascular events: a nationwide cross-sectional cohort study.
+biomarkers of endothelial dysfunction in relation to impaired carbohydrate metabolism following pregnancy with gestational diabetes mellitus.
+is there a relationship between adverse pregnancy outcomes and future development of atherosclerosis?.
+gestational diabetes: a condition of early diastolic abnormalities in young women.
+programming of vascular dysfunction in the intrauterine milieu of diabetic pregnancies.
+cav1-cavin1-lc3b-mediated autophagy regulates high glucose-stimulated ldl transcytosis.
+comprehensive assessment of biventricular myocardial function by two-dimensional speckle tracking echocardiography in infants of gestational diabetic mothers.
+influence of gestational diabetes on fetal autonomic nervous system: a study using phase-rectified signal-averaging analysis.
+associations of maternal glycemia in the first half of pregnancy with alterations in cardiac structure and function in childhood.
+gestational diabetes and the risk of cardiovascular disease in women: a systematic review and meta-analysis.
+prevalence of metabolic syndrome in women after maternal complications of pregnancy: an observational cohort analysis.
+gender bias in cardiovascular disease prevention, detection, and management, with specific reference to coronary artery disease.
+serum platelet-activating factor acetylhydrolase activity: relationship with metabolic syndrome in women with history of gestational diabetes mellitus.
+maternal weight and gestational diabetes impacts on child health.
+persistent elevation and metabolic dependence of circulating e-selectin after delivery in women with gestational diabetes mellitus.
+gestational diabetes in mice induces hematopoietic memory that affects the long-term health of the offspring.
+effect of race/ethnicity on hypertension risk subsequent to gestational diabetes mellitus.
+effect of pioglitazone on progression of subclinical atherosclerosis in non-diabetic premenopausal hispanic women with prior gestational diabetes.
+earlier age of onset of chronic hypertension and type 2 diabetes mellitus after a hypertensive disorder of pregnancy or gestational diabetes mellitus.
+lipoprotein-associated phospholipase a2 and ages are associated with cardiovascular risk factors in women with history of gestational diabetes mellitus.
+predictive and diagnostic biomarkers for gestational diabetes and its associated metabolic and cardiovascular diseases.
+association of history of gestational diabetes with long-term cardiovascular disease risk in a large prospective cohort of us women.
+pregnancy complications are associated with premature coronary artery disease: linking three cohorts.
+cardiovascular disease risk factor interventions in women with prior gestational hypertensive disorders or diabetes in north america: a rapid review.
+maternal outcomes associated with lower range stage 1 hypertension.
+placental maternal vascular malperfusion and adverse pregnancy outcomes in gestational diabetes mellitus.
+potential of metformin to improve cardiac risk in postpartum women with gestational diabetes.
+use of the myocardial performance index as a prognostic indicator of adverse fetal outcome in poorly controlled gestational diabetic pregnancies.
+women's awareness of cardiovascular disease risk after complications of pregnancy.
+a protocol for nurse-practitioner led cardiovascular follow-up after pregnancy complications in a socioeconomically disadvantaged population.
+subclinical inflammation and vascular dysfunction in women with previous gestational diabetes mellitus.
+the impact of ethnicity on glucose regulation and the metabolic syndrome following gestational diabetes.
+gestational diabetes type 2: variation in high-density lipoproteins composition and function.
+microalbuminuria following gestational diabetes.
+impact of adverse pregnancy outcomes on brain vascular health and cognition.
+complications and challenges associated with polycystic ovary syndrome: current perspectives.
+adiposity, dysmetabolic traits, and earlier onset of female puberty in adolescent offspring of women with gestational diabetes mellitus: a clinical study within the danish national birth cohort.
+long-term neurobehavioral and metabolic outcomes in offspring of mothers with diabetes during pregnancy: a large, population-based cohort study in ontario, canada.
+reduced mechanical function of the left atrial predicts adverse outcome in pregnant women with clustering of metabolic risk factors.
+overweight and the metabolic syndrome in adult offspring of women with diet-treated gestational diabetes mellitus or type 1 diabetes.
+gestational diabetes mellitus increases the risk of cardiovascular disease in women with a family history of type 2 diabetes.
+the association between serum asymmetric dimethyl arginine levels and a history of gestational diabetes among healthy women.
+nutritional and developmental programming effects of insulin.
+the influence of lipid and proinflammatory status on maternal uterine blood flow in women with late onset gestational diabetes.
+gestational diabetes mellitus and offspring's carotid intima-media thickness at birth: mysweetheart cohort study.
+association between fetal overgrowth and metabolic parameters in cord blood of newborns of women with gdm.
+placental growth factor alleviates hyperglycemia-induced trophoblast pyroptosis by regulating mitophagy.
+high glucose condition inhibits trophoblast proliferation, migration and invasion by downregulating placental growth factor expression.
+circulating angiotensin ii type i receptor - autoantibodies in diabetic pregnancies.
+the role of adverse pregnancy outcomes in conventional cardiovascular risk prediction.
+maternal cardiac changes in women with obesity and gestational diabetes mellitus.
+protocol for a randomized controlled trial of pre-pregnancy lifestyle intervention to reduce recurrence of gestational diabetes: gestational diabetes prevention/prevención de la diabetes gestacional.
+transgelin induces dysfunction of fetal endothelial colony-forming cells from gestational diabetic pregnancies.
+prevention of cardiovascular disease in women.
+atlantic-dip: prevalence of metabolic syndrome and insulin resistance in women with previous gestational diabetes mellitus by international association of diabetes in pregnancy study groups criteria.
+dynamic left ventricular changes in patients with gestational diabetes: a speckle tracking echocardiography study.
+association of gestational diabetes with long-term risk of premature mortality, and cardiovascular outcomes and risk factors: a retrospective cohort analysis in the uk biobank.
+practical weight management to minimize pregnancy complications and promote women's health: the possibility of interpregnancy care.
+down-regulation of the insulin signaling pathway by shc may correlate with congenital heart disease in chinese populations.
+effects of telemetric interventions on maternal and fetal or neonatal outcomes in gestational diabetes: systematic meta-review.
+pathologic ventricular hypertrophy in the offspring of diabetic mothers: a retrospective study.
+early pregnancy atherogenic profile in a first pregnancy and hypertension risk 2 to 7 years after delivery.
+randomised controlled trial of preconception lifestyle intervention on maternal and offspring health in people with increased risk of gestational diabetes: study protocol for the before the beginning trial.
+maternal hemodynamic changes in gestational diabetes: a prospective case-control study.
+deacetylation of caveolin-1 by sirt6 induces autophagy and retards high glucose-stimulated ldl transcytosis and atherosclerosis formation.
+association between changes in postpartum weight and waist circumference and changes in cardiometabolic risk factors among women with recent gestational diabetes.
+postpartum readmissions among women with diabetes.
+gestational diabetes alters functions in offspring's umbilical cord cells with implications for cardiovascular health.
+c-reactive protein during pregnancy and in the early postpartum predicts adverse metabolic health outcomes at 1 year postpartum in women with gestational diabetes.
+adverse pregnancy outcomes and predicted 30-year risk of maternal cardiovascular disease 2-7 years after delivery.
+a simple scoring method using cardiometabolic risk measurements in pregnancy to determine 10-year risk of type 2 diabetes in women with gestational diabetes.
+changes in plasma lipids and markers of oxidative stress in normal pregnancy and pregnancies complicated by diabetes.
+pregnancy-related cardiovascular risk indicators: primary care approach to postpartum management and prevention of future disease.
+maternal obesity and gestational diabetes: impact on arterial wall layer thickness and stiffness in early childhood - radiel study six-year follow-up.
+[relationship between gestational diabetes and metabolic syndrome].
+trends, predictors, and outcomes of cardiovascular complications at delivery associated with gestational diabetes: a national inpatient sample analysis (2004-2019).
+gestational diabetes but not prepregnancy overweight predicts for cardiometabolic markers in offspring twenty years later.
+pregnancy characteristics and women's future cardiovascular health: an underused opportunity to improve women's health?.
+gestational diabetes history and glucose tolerance after pregnancy associated with coronary artery calcium in women during midlife: the cardia study.
+precision stratification of prognostic risk factors associated with outcomes in gestational diabetes mellitus: a systematic review.
+effectiveness of a nurse practitioner-led cardiovascular prevention clinic at reduction of metabolic syndrome following maternal complications of pregnancy: a preliminary analysis.
+[placental atherosclerosis and markers of endothelial dysfunction in infants born to mothers with gestational diabetes].
+gsk3β and mcl-1 mediate cardiomyocyte apoptosis in response to high glucose.
+an enhanced postpartum transition program to primary care.
+markers of cardiovascular risk associated with pregnancy.
+low circulating pentraxin 3 levels in pregnancy is associated with gestational diabetes and increased apob/apoa ratio: a 5-year follow-up study.
+first trimester evaluation of maternal visceral fat and its relationship with adverse pregnancy outcomes.
+inflammatory, metabolic, and endothelial biomarkers before and after pregnancy complications.
+risk of cardiovascular events after gestational diabetes: a retrospective population study.
+sleep disordered breathing and adverse pregnancy outcomes.
+stillbirth in women with diabetes: a retrospective analysis of fetal autopsy reports.
+racial disparities in prevalence of gestational diabetes by maternal nativity and length of us residence in an urban low-income population in the united states.
+does treatment modality affect measures of arterial stiffness in women with gestational diabetes?.
+increased blood pressure in the offspring of diabetic mothers.
+pregnancy reveals evolving risk for cardiometabolic disease in women.
+maternal glucose levels and future risk of developing cardiovascular disease: a systematic review and meta-analysis protocol.
+cardiac troponin i levels and its relation to echocardiographic findings in infants of diabetic mothers.
+evaluation of subclinical atherosclerosis and cardiac functions in children of mothers with gestational diabetes and maternal obesity.
+the prevalence of documented cardiovascular-related pregnancy complications: cross-sectional study in an academic primary care centre.
+long-term cardiovascular disease after adverse pregnancy outcomes.
+adverse pregnancy outcomes and cardiovascular risk factor management.
+alterations of sympathetic nervous system, coagulation and platelet function in gestational diabetes.
+association of tribbles homologue 1 gene expression in human umbilical vein endothelial cells with duration of intrauterine exposure to hyperglycaemia.
+sex differences in cardiovascular risk factors and disease prevention.
+pregnancy as an early cardiovascular moment: peripartum cardiovascular health.
+genetic contributions to risk of adverse pregnancy outcomes.
+pregnancy complications and later development of hypertension.
+pregnancy-related complications and incidence of atrial fibrillation: a systematic review.
+early-life predictors of systolic blood pressure trajectories from infancy to adolescence: findings from project viva.
+[pregnancy complications as a risk factor for metabolic and cardiovascular disease in later life].
+troponins, heat shock proteins and glycogen phosphorylase bb in umbilical cord blood of complicated pregnancies.
+cardiometabolic risk, knowledge, risk perception, and self-efficacy among american indian women with previous gestational diabetes.
+provider counseling about and risk perception for future chronic disease among women with gestational diabetes and preeclampsia.
+gestational diabetes, inflammation, and late vascular disease.
+hyperglycemia-induced endothelial dysfunction is alleviated by thioredoxin mimetic peptides through the restoration of vegfr-2-induced responses and improved cell survival.
+maternal diabetes, birth weight, and neonatal risk of congenital heart defects in norway, 1994-2009.
+pregnancy as a predictor of maternal cardiovascular disease: the era of cardioobstetrics.
+long-term sequelae of adverse pregnancy outcomes.
+evaluating the postpartum maternal health clinic: how patient characteristics predict follow-up.
+utilization of primary and obstetric care after medically complicated pregnancies: an analysis of medical claims data.
+the fourth trimester: a time for enhancing transitions in cardiovascular care.
+maternal high fat diet and diabetes disrupts transcriptomic pathways that regulate cardiac metabolism and cell fate in newborn rat hearts.
+intrauterine exposure to diabetes and risk of cardiovascular disease in adolescence and early adulthood: a population-based birth cohort study.
+cardiovascular risk markers in pregnancies complicated by diabetes mellitus or preeclampsia.
+gestational diabetes and the offspring: implications in the development of the cardiorenal metabolic syndrome in offspring.
+infants with macrosomia and infants of diabetic mothers have increased carotid artery intima-media thickness in childhood.
+mediating effect of vascular risk factors underlying the link between gestational diabetes and cardiovascular disease.
+is a history of gestational diabetes related to risk factors for coronary heart disease?.
+mothers after gestational diabetes in australia (magda): a randomised controlled trial of a postnatal diabetes prevention program.
+risk factors and pregnancy outcome in women aged over 40 years at korle-bu teaching hospital in accra, ghana.
+altered diastolic function in infants of mothers with gestational diabetes: no relation to macrosomia.
+gestational diabetes and hypertensive disorders of pregnancy as vascular risk signals: an overview and grading of the evidence.
+long-term outcomes associated with post-kidney donation pregnancy complications.
+effect of diet composition on insulin sensitivity in humans.
+adverse pregnancy outcomes and future maternal cardiovascular disease.
+mothers with hip - the short term and long-term impact, what is new?.
+primary care management post gestational diabetes in australia.
+feasibility and utility of a cardiovascular risk screening tool in women undergoing routine gynecology evaluation.
+maternal obesity and pregnancy outcome.
+trends and burden of diabetes in pregnancy among aboriginal and non-aboriginal mothers in western australia, 1998-2015.
+pregnancy complications as markers for subsequent maternal cardiovascular disease: validation of a maternal recall questionnaire.
+impact of maternal diabetes on epigenetic modifications leading to diseases in the offspring.
+[short-term and long-term risks for children born from patients with gestational diabetes].
+placental pathology and abnormal fetal heart rate patterns in gestational diabetes.
+association of gestational diabetes with subsequent long-term risk of mortality.
+atherogenic lipoprotein phenotype and ldl size and subclasses in women with gestational diabetes.
+maternal obesity induced metabolic disorders in offspring and myeloid reprogramming by epigenetic regulation.
+clinical and biochemical approach to predicting post-pregnancy metabolic decompensation.
+the effect of vascular complications of diabetes mellitus on human umbilical cord tissue and the number of wharton jelly's mesenchymal stem cells.
+identifying postpartum intervention approaches to reduce cardiometabolic risk among american indian women with prior gestational diabetes, oklahoma, 2012-2013.
+oxysterol as a marker of atherogenic dyslipidemia in adolescence.
+features of endothelial dysfunction in umbilical cord vessels of women with gestational diabetes.
+genetics and epigenetics: implications for the life course of gestational diabetes.
+maternal arterial stiffness and fetal cardiovascular physiology in diabetic pregnancy.
+women with a history of gestational diabetes on long-term follow up have normal vascular function despite more dysglycemia, dyslipidemia and adiposity.
+study of global left atrial shortening in fetuses of diabetic mothers.
+association between diabetes during pregnancy and peripartum cardiomyopathy: a population-level analysis of 309,825 women.
+the association between in utero hyperinsulinemia and adolescent arterial stiffness.
+increased osteoprotegerin levels in women with previous gestational diabetes developing metabolic syndrome.
+abnormal glucose tolerance in women diagnosed with gestational diabetes (who 2013) 10 years after index pregnancy.
+sleep-disordered breathing and pregnancy-related cardiovascular disease.
+elevation of se-selectin levels 2-24 months following gestational diabetes is associated with early cardiometabolic risk in nondiabetic women.
+[occurrence and related factors of preterm birth in guangxi zhuang autonomous region during 2017-2019].
+pregnancy: a stress test for life.
+metabolic follow-up at one year and beyond of women with gestational diabetes treated with insulin and/or oral hypoglycaemic agents: study protocol for the identification of a core outcomes set using a delphi survey.
+[secundum atrial septal defect in newborns of diabetic mothers].
+maternal diabetes and risk of offspring congenital heart diseases: the japan environment and children's study.
+prevention of cardiovascular disease in women with pregnancy-related risk factors: a prospective women's heart clinic study.
+preconception metabolic indicators predict gestational diabetes and offspring birthweight.
+pregnancy as a window to future health: excessive gestational weight gain and obesity.
+multigenerational diabetes mellitus.
+beneficial effects of omega-3 polyunsaturated fatty acids in gestational diabetes: consequences in macrosomia and adulthood obesity.
+sleep-disordered breathing and future cardiovascular disease risk.
+relative uteroplacental insufficiency of labor.
+non-invasive myocardial work indices in infants born to mothers with diabetes in pregnancy.
+impact of maternal diabetes exposure on soluble adhesion molecules in the offspring.
+fetal heart rate decelerations in women with sleep-disordered breathing.
+umbilical artery intima-media and wall thickness in infants of diabetic mothers.
+preeclampsia across pregnancies and associated risk factors: findings from a high-risk us birth cohort.
+other adverse pregnancy outcomes and future chronic disease.
+liver-fat accumulation and insulin resistance in obese women with previous gestational diabetes.
+a mouse model of gestational diabetes shows dysregulated lipid metabolism post-weaning, after return to euglycaemia.
+type 2 diabetes after a pregnancy with gestational diabetes among first nations women in australia: the pandora study.
+pregnancy-associated risk factors for future cardiovascular disease - early prevention strategies warranted.
+circulating concentrations of asymmetrical dimethyl-l-arginine are increased in women with previous gestational diabetes.
+liraglutide mitigates tnf-α induced pro-atherogenic changes and microvesicle release in huvec from diabetic women.
+women-specific predictors of cardiovascular disease risk - new paradigms.
+association between pregnancy-related complications and development of type 2 diabetes and hypertension in women: an umbrella review.
+effect of thiazolidinedione treatment on progression of subclinical atherosclerosis in premenopausal women at high risk for type 2 diabetes.
+effect of hyperglycemia on tbx5a and nppa gene expression and its correlation to structural and functional changes in developing zebrafish heart.
+experiences with an integrated screening programme targeted at women who had a hypertensive disorder or diabetes in pregnancy in the netherlands: a qualitative study.
+cardiovascular risk factors in children exposed to maternal diabetes in utero.
+endothelial dysfunction, inflammation, and insulin resistance: a focus on subjects at risk for type 2 diabetes.
+anti-inflammatory activity of marine ovothiol a in an in vitro model of endothelial dysfunction induced by hyperglycemia.
+myocardial hypertrophy and dysfunction in maternal diabetes.
+pathophysiological effects of contemporary lifestyle on evolutionary-conserved survival mechanisms in polycystic ovary syndrome.
+a mobile clinical decision support system for high-risk pregnant women in rural india (smarthealth pregnancy): pilot cluster randomized controlled trial.
+etiology and perinatal outcome of polyhydramnios.
+pp103. arterial stiffness in women with previous gdm - a follow up of chinese hapo study cohort.
+pregnancy characteristics and women’s cardiovascular health.
+pregnancy as an opportunity to prevent type 2 diabetes mellitus: figo best practice advice.
+smarthealth pregnancy: feasibility and acceptability of a complex intervention for high-risk pregnant women in rural india: protocol for a pilot cluster randomised controlled trial.
+cohort profile: mysore parthenon birth cohort.
+contemporary clinical updates on the prevention of future cardiovascular disease in women who experience adverse pregnancy outcomes.
+evidence of a bi-directional relationship between arterial stiffness and diabetes: a systematic review and meta-analysis of cohort studies.
+altered transitional circulation in infants of diabetic mothers with strict antenatal obstetric management: a functional echocardiography study.
+metabolic programming in early life in humans.
+fibrinolytic dysfunction in insulin-resistant women with previous gestational diabetes.
+pregnancy and the postpartum period as an opportunity for cardiovascular risk identification and management.
+ten-year review of the postpartum maternal health clinic at the kingston health sciences centre.
+adverse perinatal outcomes and postpartum multi-systemic dysregulation: adding vitamin d deficiency to the allostatic load index.
+could the e/a ratio be included in the cardiological evaluation of the offspring of diabetic mothers? a case-control study in south sardinia.
+longitudinal management of cardiovascular risk factors among postpartum women.
+the influence of maternal and infant nutrition on cardiometabolic traits: novel findings and future research directions from four canadian birth cohort studies.
+cohort profile update: the norwegian stork groruddalen (stork g) pregnancy and birth cohort-the role of ethnicity and causal pathways for obesity, type 2 diabetes, cardiovascular disease and other health issues.
+the impact of a lifestyle intervention on postpartum cardiometabolic risk factors among hispanic women with abnormal glucose tolerance during pregnancy: secondary analysis of a randomized trial.
+long-term effects on offspring of intrauterine exposure to deficits in nutrition.
+interventions to mitigate risk of cardiovascular disease after adverse pregnancy outcomes: a review.
+maternal nutrition: effects on health in the next generation.
+hypertensive pregnancy complications and maternal characteristics as predictors of cardiovascular health within ten years after delivery.
+the maternal health clinic: an initiative for cardiovascular risk identification in women with pregnancy-related complications.
+reproductive history and blood cell dna methylation later in life: the young finns study.
+developmental programming of body composition: update on evidence and mechanisms.
+impact of prenatal exposure to maternal diabetes and high-fat diet on postnatal myocardial ketone body metabolism in rats.
+os031. lifestyle intervention after complicated pregnancy successfully improves cardiovascular and metabolic health: results of the pro-active study.
+association of pregnancy complications/risk factors with the development of future long-term health conditions in women: overarching protocol for umbrella reviews.
+cardiometabolic outcomes of women exposed to hyperglycaemia first detected in pregnancy at 3-6 years post-partum in an urban south african setting.
+associations of gestational cardiovascular health with pregnancy outcomes: the hyperglycemia and adverse pregnancy outcome study.
+association of maternal diabetes mellitus and polymorphisms of the nkx2.5 gene in children with congenital heart disease: a single centre-based case-control study.
+methylation analysis by targeted bisulfite sequencing in large for gestational age (lga) newborns: the largan cohort.
+intraabdominal fat, insulin sensitivity, and cardiovascular risk factors in postpartum women with a history of preeclampsia.
+maternal diabetes up-regulates nox2 and enhances myocardial ischaemia/reperfusion injury in adult offspring.
+associations of maternal cardiovascular health in pregnancy with offspring cardiovascular health in early adolescence.
+.
+there are 11 target papers found during the search in pubmed!.
+they are:.
+the risk and added values of the atherosclerotic cardiovascular risk enhancers on prediction of cardiovascular events: tehran lipid and glucose study.
+in the end, 10 target papers were left after filtering!.
+the number of target article missing is: 1.
+false positive rate: 0.5290753098188751.
+false negative rate: 0.09090909090909091.
+
+Included target articles are as follow:
+characteristics of premature myocardial infarction among women with prior adverse pregnancy outcomes.
+early cardiovascular events in women with a history of gestational diabetes mellitus.
+role of type 2 diabetes in determining retinal, renal, and cardiovascular outcomes in women with previous gestational diabetes mellitus.
+gestational diabetes and incident heart failure: a cohort study.
+the risk and added values of the atherosclerotic cardiovascular risk enhancers on prediction of cardiovascular events: tehran lipid and glucose study.
+adverse pregnancy outcomes and long term risk of ischemic heart disease in mothers: national cohort and co-sibling study.
+gestational diabetes mellitus in mothers and long term cardiovascular disease in both parents: results of over a decade follow-up of the iranian population.
+earlier age of onset of chronic hypertension and type 2 diabetes mellitus after a hypertensive disorder of pregnancy or gestational diabetes mellitus.
+association of history of gestational diabetes with long-term cardiovascular disease risk in a large prospective cohort of us women.
+gestational diabetes mellitus and later cardiovascular disease: a swedish population based case-control study.
+association of gestational diabetes with long-term risk of premature mortality, and cardiovascular outcomes and risk factors: a retrospective cohort analysis in the uk biobank.
+pregnancy complications and risk of cardiovascular disease later in life: a nationwide cohort study.
+increased risk of ischemic heart disease, hypertension, and type 2 diabetes in women with previous gestational diabetes mellitus, a target group in general practice for preventive interventions: a population-based cohort study.
+increased risk of cardiovascular and renal disease, and diabetes for all women diagnosed with gestational diabetes mellitus in new zealand-a national retrospective cohort study.
+history of gestational diabetes mellitus in relation to cardiovascular disease and cardiovascular risk factors in us women.
+pregnancy-induced hypertension and diabetes and the risk of cardiovascular disease, stroke, and diabetes hospitalization in the year following delivery.
+gestational diabetes mellitus increases the risk of cardiovascular disease in women with a family history of type 2 diabetes.
+gestational diabetes mellitus and the risks of overall and type-specific cardiovascular diseases: a population- and sibling-matched cohort study.
+gestational diabetes and cardiovascular risk factors and disease in u.s. hispanics/latinas in the hispanic community health study/study of latinos (hchs/sol).
+impact of gestational diabetes mellitus and high maternal weight on the development of diabetes, hypertension and cardiovascular disease: a population-level analysis.
+gestational diabetes mellitus and the role of intercurrent type 2 diabetes on long-term risk of cardiovascular events.
+association between history of adverse pregnancy outcomes and coronary artery disease assessed by coronary computed tomography angiography.
+previous pre-eclampsia, gestational diabetes mellitus and the risk of cardiovascular disease: a nested case-control study in sweden.
+relationship between pregnancy complications and subsequent coronary artery disease assessed by coronary computed tomographic angiography in black women.
+five-year risk of all-cause death and cardiovascular events in women with gestational diabetes and hypertensive disorders of pregnancy.

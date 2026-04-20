@@ -1,0 +1,91 @@
+total number of articles searched: 457.
+objectives: ['assess the association between genetic polymorphisms and clopidogrel efficacy in patients with ischemic stroke or tia', 'evaluate the specific role of cyp2c19 genotype in clopidogrel efficacy', 'analyze the impact of genetic polymorphisms on stroke outcomes, composite vascular events, and bleeding in clopidogrel-treated patients'].
+clopidogrel decreases the risk of aspiration pneumonia in patients with acute ischemic stroke.
+effect of cyp2c19 genotype on inhibition of platelet aggregation in hemodialysis patients with coronary artery disease.
+association of genetic (cyp2c19, cyp2c9 and p2y12 snps) and non genetic factors with antiplatelet effect of clopidogrel in ischemic stroke patients.
+aspirin and clopidogrel resistance in indian patients with ischemic stroke and its associations with gene polymorphisms.
+evaluation of the incremental prognostic value of the combination of cyp2c19 poor metabolizer status and abcb1 3435 tt polymorphism over conventional risk factors for cardiovascular events after drug-eluting stent implantation in east asians.
+effects of cyp2c19 and abcb1 gene polymorphisms on anti-platelet function of clopidogrel and recurrent vascular events in patients with acute ischemic stroke.
+mid-term on-clopidogrel platelet reactivity (pr) and long-term adverse events in patients on prolonged dual antiplatelet therapy (dapt).
+risclon-risk of recurrent stroke in clopidogrel non-responders.
+association of cyp2c19 polymorphisms with the clinical efficacy of clopidogrel therapy in patients undergoing carotid artery stenting in asia.
+efficacy of active management of the target p2y12 reaction unit range in patients undergoing aneurysmal neurointerventional procedures.
+platelet reactivity and clinical factors for cardiovascular events in stroke patients treated with clopidogrel: a subanalysis of the cognac study.
+risk factors for clopidogrel high on-treatment platelet reactivity in patients with carotid artery stenosis undergoing endarterectomy.
+comparison of verifynow p2y12 and thrombelastography for assessing clopidogrel response in stroke patients in china.
+association of pon1, p2y12 and cox1 with recurrent ischemic events in patients with extracranial or intracranial stenting.
+cyp2c19 polymorphisms are not associated with the long-term clinical outcomes in stroke patients treated with clopidogrel.
+purinergic receptor p2ry12-dependent microglial closure of the injured blood-brain barrier.
+association of cyp2c19 gene polymorphisms with long-term recurrent risk of ischemic stroke among ethnic han chinese from fujian.
+impact of cyp2c19 genotype in ischaemic stroke patients treated with clopidogrel.
+relationship between cytochrome p450 2c19 gene polymorphism and antiplatelet effect of clopidogre inpatients with ischemic stroke.
+comparison of antiplatelet effect and safety of clopidogrel napadisilate with clopidogrel bisulfate in stroke patients: multi-center, randomized, open-label, phase iv non-inferiority clinical trial.
+the role of cyp2c19 and abcb1 polymorphisms on platelet reactivity during dual antiplatelet therapy.
+cytochrome p450 cyp 2c19∗2 associated with adverse 1-year cardiovascular events in patients with acute coronary syndrome.
+disparity in protection from thrombotic risk depends on platelet thrombin receptor par4.
+effects of paraoxonase 1 polymorphisms on risk of recurrence in chinese ischemic stroke survivors receiving clopidogrel.
+use of genetic data to guide therapy in arterial disease.
+pharmacogenomics of antiplatelet drugs.
+relationship of longitudinal measurements of biomarkers of hemodynamic stress, systemic inflammation, and platelet reactivity with ischemic outcomes in non-st-elevation acute coronary syndrome patients managed without revascularization.
+45: update on genetics and stroke pharmacogenomics: using genetics to guide current stroke therapy.
+pharmacogenetic based algorithm of testing clopidogrel resistance after stroke.
+risk of ischemic stroke among users of clopidogrel and 5 different proton pump inhibitors.
+assessment of platelet thrombus formation in patients with carotid disease administered clopidogrel.
+impact of cytochrome p450 2c19 polymorphism on high on-treatment platelet reactivity in stroke patients treated with clopidogrel.
+clopidogrel resistance in stroke patients (the crisp trial).
+relationship between smoking and responsiveness to clopidogrel in non-cardiogenic ischemic stroke patients.
+early recurrent ischemic lesion on diffusion-weighted mri based on the cytochrome p450 2c19 genotype in stroke patients treated with clopidogrel.
+early recurrent ischemic lesion on diffusionweighted mri based on the cytochrome p450 2c19 genotype in stroke patients treated with clopidogrel.
+clopidogrel resistance due to cyp2c19∗2 polymorphism: an overestimated concern in a stroke population?.
+measurement of platelet reactivity in ischemic stroke patients undergoing antiplatelet therapy: an observational study.
+reduced cyp219 clopidogrel metabolism in a multiethnic population: prevalance and associated rates of recurrent cerebrovascular events.
+high on-treatment platelet reactivity in clopidogrel-treated patients undergoing elective carotid stenting: correlation with previous cerebrovascular events.
+antithromobotic therapy in asian patients with ischemic cerebrovascular disease.
+cardiovascular outcomes in patients using clopidogrel with selective serotonin reuptake inhibitors.
+clinical application of cardiovascular pharmacogenetics.
+carotid artery stent thrombosis in relation to clopidogrel resistance.
+cyp2c19 variants do not associated with clinical efficacy of clopidogrel in korean stroke survivors.
+classic prevalence and variation of reduced cyp219 metabolism in clopidogrel treated stroke and tia patients and associated rates of recurrent vascular events.
+pharmacogenomics of clopidogrel in stroke.
+the effect of the cyp 2c19*2 polymorphism on stroke care.
+the antiplatelet effect of clopidogrel is associated with cyp2c19 ∗2 and ∗3 polymorphism but not with pon-1 q192r polymorphism in japanese patients undergoing neurointervention.
+clopidogrel resistance: identifying and overcoming a barrier to effective antiplatelet treatment.
+impact of cyp2c19 variant genotypes on clinical efficacy of antiplatelet treatment with clopidogrel: systematic review and meta-analysis.
+detection of clopidogrel resistance: comparison of a new, p2y12 receptor specific platelet aggregation test and other laboratory methods in patients on clopidogrel monotherapy.
+is platelet inhibition due to thienopyridines increased in elderly patients, in patients with previous stroke and patients with low body weight as a possible explanation of an increased bleeding risk?.
+clopidogrel resistance and the effect of combination cilostazol in patients with ischemic stroke or carotid artery stenting using the verifynow p2y12 assay.
+antiplatelet resistance in stroke.
+p2y receptors in health and disease.
+personalized approaches to clopidogrel therapy: are we there yet?.
+influence of atorvastatin co-treatment on the inhibition of platelet activation by clopidogrel in ischemic stroke patients.
+antiplatelet agents' effectiveness for secondary prevention of ischemic stroke.
+cardiovascular risk in clopidogrel-treated patients according to cytochrome p450 2c19*2 loss-of-function allele or proton pump inhibitor coadministration. a systematic meta-analysis.
+cytochrome p450 2c19 polymorphisms are associated with reduced clopidogrel response in cerebrovascular disease.
+prevalence of “non-responsiveness” to commonly prescribed antiplatelet regimens in the late stable phase after tia or ischaemic stroke depends on the platelet function test employed.
+impact of genetic and acquired alteration in cytochrome p450 system on pharmacologic and clinical response to clopidogrel.
+determining the efficacy of antiplatelet therapies for the individual: lessons from clinical trials.
+antiplatelet treatment of cardiovascular disease: a translational research perspective.
+does glycoprotein iiia gene (pla) polymorphism influence clopidogrel resistance? a study in older patients.
+antiplatelet drug resistance and drug-drug interactions: role of cytochrome p450 3a4.
+resistance to antiplatelet drugs.
+there are 12 target papers found during the search in pubmed!.
+in the end, 8 target papers were left after filtering!.
+the number of target article missing is: 4.
+false positive rate: 0.2100656455142232.
+
+Included target articles are as follow:
+the association between cyp2c19 genotype and of in-stent restenosis among patients with vertebral artery stent treatment.
+cyp2c19 polymorphisms and antiplatelet effects of clopidogrel in acute ischemic stroke in china.
+influence of cyp2c19 polymorphisms on platelet reactivity and clinical outcomes in ischemic stroke patients treated with clopidogrel.
+cyp2c19 metabolizer status and clopidogrel efficacy in the secondary prevention of small subcortical strokes (sps3) study.
+association between cyp2c19 loss-of-function allele status and efficacy of clopidogrel for risk reduction among patients with minor stroke or transient ischemic attack.
+influence of genetic polymorphisms on clopidogrel response and clinical outcomes in patients with acute ischemic stroke cyp2c19 genotype on clopidogrel response.
+vasp phosphorylation and genetic polymorphism for clopidogrel resistance in chinese patients with non-cardioembolic ischemic stroke.
+cyp2c19 and ces1 polymorphisms and efficacy of clopidogrel and aspirin dual antiplatelet therapy in patients with symptomatic intracranial atherosclerotic disease.
+association of pon1, p2y12 and cox1 with recurrent ischemic events in patients with extracranial or intracranial stenting.
+association of cytochrome p450 genetic variants with clopidogrel resistance and outcomes in acute ischemic stroke.
+association of cyp2c19 polymorphisms with the clinical efficacy of clopidogrel therapy in patients undergoing carotid artery stenting in asia.
+reduced clopidogrel metabolism in a multiethnic population: prevalence and rates of recurrent cerebrovascular events.
+variant recurrent risk among stroke patients with different cyp2c19 phenotypes and treated with clopidogrel.
+cyp2c19 genotype and early ischemic lesion recurrence in stroke patients treated with clopidogrel.
+association of cyp2c19 gene polymorphisms with long-term recurrent risk of ischemic stroke among ethnic han chinese from fujian.

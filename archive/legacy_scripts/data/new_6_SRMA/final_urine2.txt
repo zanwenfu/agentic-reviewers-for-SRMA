@@ -1,0 +1,46 @@
+total number of articles searched: 127.
+objectives: ['to compare the diagnostic performance of the uac vs the acr in random urine samples for microalbuminuria screening among patients with dm.'].
+screening for microalbuminuria in patients with type 2 diabetes is incomplete in general practice.
+accuracy of urine dipstick test for microalbuminuria in type 2 diabetes mellitus patients.
+comparison of the usefulness of plasma levels of oxidatively modified forms of albumin in estimating kidney dysfunction in diabetic patients.
+prevalence and risk factors associated with chronic kidney disease in an adult population from southern china.
+assessing albuminuria in spot morning samples from diabetic patients.
+who is tested for diabetic kidney disease and who initiates treatment? the translating research into action for diabetes (triad) study.
+[evaluation of novel test strip to measure albumin and creatinine in urine].
+[nephropathy: an overview for daily practice].
+[diabetes, hypertension and microalbuminuria in primary care].
+microalbuminuria in diabetes mellitus: efficacy of a new screening method in comparison with timed overnight urine collection.
+an aid to the early detection and management of diabetic nephropathy: assessment of a new point of care microalbuminuria system in the diabetic clinic.
+screening for microalbuminuria to prevent nephropathy in patients with diabetes: a systematic review of the evidence.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+screening of diabetic patients for microalbuminuria in primary care--the prosit-project. proteinuria screening and intervention.
+detection of microalbuminuria. receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+multicenter evaluation of the micral-test ii test strip, an immunologic rapid test for the detection of microalbuminuria.
+[the significance of diagnosing microalbuminuria and microglobulinuria in diabetes mellitus and arterial hypertension].
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+screening for diabetic microalbuminuria in routine clinical care: which method?.
+cost-effectiveness of screening for microalbuminuria using immunochemical dipstick tests or laboratory assays in diabetic patients.
+choice of urine sample predictive of microalbuminuria in patients with insulin-dependent diabetes mellitus.
+albumin excretion rate, albumin concentration, and albumin/creatinine ratio compared for screening diabetics for slight albuminuria.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+screening for early diabetic nephropathy.
+screening for early diabetic nephropathy: which sample to detect microalbuminuria?.
+.
+there are 7 target papers found during the search in pubmed!.
+they are:.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
+in the end, 5 target papers were left after filtering!.
+the number of target article missing is: 2.
+false positive rate: 0.2047244094488189.
+false negative rate: 0.2857142857142857.
+
+Included target articles are as follow:
+assessing albuminuria in spot morning samples from diabetic patients.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.

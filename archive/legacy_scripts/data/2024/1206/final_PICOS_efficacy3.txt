@@ -1,0 +1,1680 @@
+total number of articles searched: 3310.
+include criteria: [['patients diagnosed with seasonal allergic rhinoconjunctivitis caused by grass pollen'], ['administration of grass pollen allergen sublingual immunotherapy tablets'], ['comparison group receiving placebo or no treatment'], ['improvement in symptoms such as nasal congestion, sneezing, and itching'], ['randomized controlled trials with a minimum follow-up period of 1 year']].
+exclude criteria: [['children under 5 years old', 'patients with severe allergic reactions to grass pollen', 'patients with comorbid conditions affecting immune system'], ['use of different forms of grass pollen allergen immunotherapy', 'use of oral immunotherapy instead of sublingual tablets'], ['patients receiving concurrent treatment with corticosteroids or antihistamines', 'use of placebo instead of active treatment'], ['assessment of long-term efficacy beyond 12 months', 'assessment of quality of life outcomes in addition to symptom improvement'], ['non-randomized controlled trials', 'case reports or case series']].
+high burden of respiratory allergy in children warrants early identification and treatment with allergen immunotherapy.
+escherichia coli heat-labile enterotoxin b subunit as an adjuvant of mucosal immune combined with gcrv-ii vp6 triggers innate immunity and enhances adaptive immune responses following oral vaccination of grass carp (ctenopharyngodon idella).
+a 300 ir 5-grass pollen sublingual immunotherapy tablet-specific systematic review and meta-analysis confirms its clinical benefits for patients with allergic rhinoconjunctivitis with or without asthma.
+house dust mite sublingual immunotherapy tablet for allergic rhinitis/rhinoconjunctivitis in monosensitized and polysensitized children.
+mucosal ifnλ1 mrna-based immunomodulation effectively reduces sars-cov-2 induced mortality in mice.
+polysensitisation is associated with more severe symptoms: the reality of patients with allergy.
+clinical validation of grass pollen exposure chamber in patients with allergic rhinitis triggered by timothy grass.
+consistent efficacy and safety of sublingual immunotherapy tablets across allergens and geographic regions.
+sq sublingual immunotherapy tablets for children with allergic rhinitis: a review of phase three trials.
+sublingual tablet immunotherapy improves quality of life in adults with allergic rhinoconjunctivitis.
+allergen immunotherapy: the evidence supporting the efficacy and safety of subcutaneous immunotherapy and sublingual forms of immunotherapy for allergic rhinitis/conjunctivitis and asthma.
+key factors for success or failure in ait trials.
+fda perspective on environmental exposure chamber (eec) data in the clinical development of allergenic products.
+benefit and limitations of apps and ehealth wearables in allergen immunotherapy.
+quantifying the benefits of early sublingual allergen immunotherapy tablet initiation in children.
+durvalumab impacts progression-free survival but not local control in patients with inoperable nsclc stage iii: real-world data from the austrian radio-oncological lung cancer study association registry (allstar).
+tolerability of sublingual versus vestibular allergy immunotherapy tablet administration: a randomized pilot study.
+peripheral blood mononuclear cell transcriptome profile in a clinical trial with subcutaneous, grass pollen allergoid immunotherapy.
+epinephrine administration in sublingual immunotherapy tablet trials is rare in children.
+efficacy and safety of house dust mite sublingual immunotherapy tablet for allergic rhinoconjunctivitis in subjects ≥50 years.
+grass allergy and risk of anaphylaxis during subcutaneous immunotherapy.
+response to immunotherapy in eosinophilic esophagitis.
+safety profile of grass, ragweed, and house dust mite sublingual immunotherapy tablets in children and adolescents.
+future directions of allergen immunotherapy for allergic rhinitis: experts’ perspective.
+grass pollen allergen immunotherapy: safety and efficacy profile.
+first in vitro and in vivo evaluation of recombinant il-1β protein as a potential immunomodulator against viral infection in fish.
+prevention is better than cure: impact of allergen immunotherapy on the progression of airway disease.
+anaphylaxis in clinical trials of sublingual immunotherapy tablets.
+allergen immunotherapy for asthma.
+the kaaaci guidelines for sublingual immunotherapy.
+grass pollen allergoids conjugated with mannan for subcutaneous and sublingual immunotherapy: a dose-finding study.
+sublingual immunotherapy tablets in monosensitized and polysensitized adults with allergic rhinoconjunctivitis.
+retrospective, real life study on the effectiveness and safety of a depigmented-polymerized subcutaneous vaccine containing a mixture of grasses and olea europaea.
+potency testing of allergoids: development of immunological test systems for quantification of cross-linked, aluminum hydroxide-adsorbed medicinal products.
+tapas - a long-term non-interventional study evaluating mct (microcrystalline tyrosine)-associated allergoids shows non-inferiority of clinical effectiveness in children compared to adults during a 3-year course of allergen immunotherapy.
+meta-analysis of primary endpoint of grass mata mpl field studies with optimized dose and treatment regimen of pq grass 27600 su.
+positive outcome of the pivotal phase iii study with pq grass 27600 su, a modified grass allergen subcutaneous immunotherapy (scit) product using microcrystalline tyrosine (mct) and monophosphoryl lipid a (mpl) as adjuvant system.
+clinical relevance of pre- and coseasonal sublingual immunotherapy with a 300 index of reactivity 5-grass slit tablet in allergic rhinoconjunctivitis.
+clinical efficacy in one-year treatment with artemisia annua-slit drops in monosensitized and polysensitized individuals.
+nasal and blood transcriptomic pathways underpinning the clinical response to grass pollen immunotherapy.
+short-course subcutaneous treatment with pq grass strongly improves symptom and medication scores in grass allergy.
+wheat-dependent exercise-induced anaphylaxis: subtypes, diagnosis, and management.
+a 5-year open-label follow-up of a randomized double-blind placebo-controlled trial of intralymphatic immunotherapy for birch and grass allergy reveals long-term beneficial effects.
+cost-effectiveness analysis of grass pollen specific immunotherapy in children with allergic rhinitis compared to the standard of care symptomatic treatment in portugal.
+ex vivo immunomodulatory effects of lactobacillus-, lacticaseibacillus-, and bifidobacterium-containing synbiotics on human peripheral blood mononuclear cells and monocyte-derived dendritic cells in the context of grass pollen allergy.
+real-world, long-term effectiveness of allergy immunotherapy in allergic rhinitis: subgroup analyses of the react study.
+ee414 health economic evaluation of early initiation of grass sublingual immunotherapy tablets in children.
+single-cell rna sequencing identifies precise tolerogenic cellular and molecular pathways induced by depigmented-polymerized grass pollen allergen extract.
+persistence in allergen immunotherapy: a longitudinal, prescription data-based real-world analysis.
+inmunocat study: the impact of molecular diagnosis on immunotherapy prescription in pollen polysensitized patients from catalonia.
+pre-seasonal immunotherapy is effective in both monosensitized and polysensitized patients with allergic rhinitis.
+rna sequencing of single allergen-specific memory b cells after grass pollen immunotherapy: two unique cell fates and cd29 as a biomarker for treatment effect.
+eaaci molecular allergology user's guide 2.0.
+anaphylaxis is uncommon in clinical trials of sublingual immunotherapy tablets as identified by a standardized algorithm.
+efficacy of sublingual immunotherapy tablets for allergic rhinoconjunctivitis in adult monosensitized and polysensitized subjects.
+differential transcriptome immunomodulatory profile of an adjuvanted modified grass immunotherapy in subjects with seasonal allergic rhinitis and rhinoconjuctivitis.
+modulation of pro-allergic t cell responses by pq grass 27600 su as a treatment for seasonal allergic rhinitis: a rdbpc pilot study.
+the sq slit-tablets significantly improves quality of life in adults with grass, tree, ragweed and house dust mite allergic rhinitis: results from pooled analyses.
+extract-shaped immune repertoire as source for nanobody-based human ige in grass pollen allergy.
+omalizumab added to allergen immunotherapy increased the effect in patients with local allergic rhinitis and allergy to hdm.
+molecular sensitization profile of allergic rhinitis in different age groups of georgian population.
+compensation of micronutritional deficiencies in immune cells of allergic patients leads to significant improvement in combined symptom and medication score (csms) in a double-blind placebo-controlled pilot study.
+evaluation of the effect of allergen immunotherapy by clinical and biological markers in patients with allergic rhinitis in real life-first results from bulgaria.
+trial design for the safety evaluation of a one-strength dose escalation scheme with a birch pollen allergoid for subcutaneous allergen immunotherapy.
+real-life effectiveness of mite, grass and pellitory injected ait with monomeric carbamylated allergens.
+efficacy and safety of sublingual immunotherapy with lais grass tablets allergoid for patients with grass pollen-induced allergic moderate/severe rhinoconjunctivitis.
+association between exposure to sublingual allergen immunotherapy and onset of asthma in patients with allergic rhinitis: a real-world nationwide enriched study.
+sensitization profiles of individual allergic patients in germany.
+age-specific effects of grass pollen allergen immunotherapy in reducing the risk for new onset asthma: a real-world dataset analysis.
+grass pollen allergen immunotherapy provides long-term relief of allergic rhinitis and asthma in patients of all age classes: a real world dataset analysis.
+high baseline prevalence of atopic comorbidities and medication use in children treated with allergy immunotherapy in the react-study.
+prolonging the interval between allergen immunotherapy (ait) maintenance doses may induce a more efficient stimulation of the immune system with increased clinical efficacy.
+retrospective cohort study to demonstrate the impact on atopic dermatitis (ad) occurrence and progression of a 2-years or more treatment with a depigmented allergoid in germany under real life conditions, based on ims® lrx.
+clinical relevance of pre-and coseasonal sublingual immunotherapy with a 5-grass slit tablet: a pooled post-hoc analysis of 3 phase iii trials.
+intralymphatic immunotherapy of patients using a modified microcrystalline tyrosine absorbed grass product: a dbpc rct.
+clinical effects of sq grass, tree, and ragweed slit-tablets in adults are realised in the first pollen season.
+sublingual allergen immunotherapy: safety, adherence, efficacy in adolescents during covid-19 pandemic.
+subgroup analyses of the react-study support the efficacy and safety profile of sq sublingual immunotherapy (slit)-tablets.
+efficacy and safety of sq slit-tablets in children with allergic rhinitis/conjunctivitis and concomitant asthma from randomized controlled trials.
+effect of immunostimulation with bacterial lysate on the clinical course of allergic rhinitis and the level of γδt, inkt and cytotoxic t cells in children sensitized to grass pollen allergens: a randomized controlled trial.
+efficacy and safety of sublingual immunotherapy for allergic rhinitis: a network meta-analysis.
+pharmacotherapy and immunotherapy of allergic rhinitis induced by house dust mite, grass, and birch pollen allergens: a meta-analysis of randomized clinical trials.
+identification of carboxymethyl (cm)-binding proteins derived from lolium multiflorum pollen extract and antibody reactivity in brazilian allergic patients.
+adoptive transfer of allergen-expressing b cells prevents ige-mediated allergy.
+efficacy and safety of sublingual versus subcutaneous immunotherapy in children with allergic rhinitis: a systematic review and meta-analysis.
+real-life effectiveness of subcutaneous immune therapy with carbamylated monomeric allergoids on mite, grass, and pellitory respiratory allergy: a retrospective study.
+correlation of the combined symptom and medication score with quality of life, symptom severity and symptom control in allergic rhinoconjunctivitis.
+the melbourne epidemic thunderstorm asthma event 2016: a 5-year longitudinal study.
+lidocaine anaphylaxis and implications for its ubiquity in aesthetic practice.
+allergen immunotherapy in young children.
+clinical efficacy and safety of artesimia annua -sublingual immunotherapy in seasonal allergic rhinitis patients based on different intervention time.
+aeromonas veronii infection remarkably increases expression of lysozymes in grass carp (ctenopharyngodon idellus) and injection of lysozyme expression cassette along with qcdc adjuvant significantly upregulates immune factors and decreases cumulative mortality.
+subcutaneous immunotherapy study demonstrates clinically relevant improvement in primary field outcome in grass pollen allergic subjects.
+efficacy and safety of sublingual allergen immunotherapy.
+long-term efficacy of the sublingual and subcutaneous routes in allergen immunotherapy.
+integrating the evidence in allergen immunotherapy: why real-world data should be important for the practicing clinician?.
+determining the minimal important differences in the rqlq score with grass and tree allergy immunotherapy versus placebo in adults with moderate-to-severe allergy.
+allergen immunotherapy for asthma prevention: a systematic review and meta-analysis of randomized and non-randomized controlled studies.
+regulation of the macrophage cellular response by clinacanthus nutans extracts in j774.2 macrophages.
+pharmacokinetics and concentration-response of dupilumab in patients with seasonal allergic rhinitis.
+coordinated igg2 and ige responses as a marker of allergen immunotherapy efficacy.
+high-dose pollen intralymphatic immunotherapy: two rdbpc trials question the benefit of dose increase.
+nasal carriage of staphylococcus aureus in children with grass pollen-induced allergic rhinitis and the effect of polyvalent mechanical bacterial lysate immunostimulation on carriage status: a randomized controlled trial.
+allergen immunotherapy in mask-air users in real-life: results of a bayesian mixed-effects model.
+interleukin-1β enhances the expression of two antimicrobial peptides in grass carp (ctenopharyngodon idella) against vibrio mimicus via activating nf-κb pathway.
+which patients with asthma are most likely to benefit from allergen immunotherapy?.
+allergen immunotherapy for long-term tolerance and prevention.
+baseline conjunctival provocation testing score predicts grass-specific immunoglobulin response.
+a tyrosine adsorbed modified grass allergen + mpl scit demonstrates clinically improvement in combined symptom and medication score in subjects with seasonal allergic rhinitis and/or rhinoconjunctivitis.
+factors associated with allergen immunotherapy-related systemic reactions.
+5-grass-pollen slit effectiveness in seasonal allergic rhinitis: impact of sensitization to subtropical grass pollen.
+adherence to subcutaneous immunotherapy with aeroallergens in real-life practice during the covid-19 pandemic.
+allergen immunotherapy: current and future trends.
+sublingual allergen-specific therapy in a child with diabetes mellitus.
+update about oralair® as a treatment for grass pollen allergic rhinitis.
+evaluation of children with allergic rhinitis and asthma who have completed allergen immunotherapy: 19 years of real-life data, single-center study.
+characteristics of adverse reactions and compliance in patients who underwent allergen-specific subcutaneous immunotherapy.
+allergen release profiles of fast-dissolving freeze-dried orodispersible sublingual allergy immunotherapy tablets.
+b cell functions in the development of type i allergy and induction of immune tolerance.
+healthswede: costs with sublingual immunotherapy—a swedish questionnaire study.
+comparative analysis of chronic rhinitis patient profiles during autumn pollen season between grassland and non-grassland cities in north china.
+safety and effectiveness of a single multiallergen subcutaneous immunotherapy in polyallergic patients.
+new insights in mite immunotherapy - sublingual tablets.
+plant food allergy improvement after grass pollen sublingual immunotherapy: a case series.
+similarities in efficacy and safety of sublingual immunotherapy tablets across geographic regions in clinical trials.
+first experience of sublingual immunotherapy for local allergic rhinitis in russian federation.
+intralymphatic immunotherapy reduced symptoms and improved quality of life of patients with grass pollen allergic rhinoconjunctivitis-a qualitative interview study.
+allergoids conjugated to mannan reprogram monocytes into tolerogenic dendritic cells through innate memory mechanisms involving epigenetic changes and metabolic reprogramming.
+diagram: cross-sectional, observational, descriptive survey of treatment modality selection criteria by sublingual allergen immunotherapy in grass pollen allergic rhinoconjunctivitis in france.
+baseline score during conjunctival provocation testing is an important predictor of treatment effect-post-hoc analyses of a phase ii study with a modified grass scit product.
+the mado study of the need, reasons and strategies for dose adjustment in allergen immunotherapy: patient profiles.
+utility and safety of pollen immunotherapy in pediatric mastocytosis.
+tapas-a long-term non-interventional study using mct® (microcrystalline tyrosine) adsorbed allergoids to demonstrate non-inferiority of children compared to adults.
+the population's baseline characteristics in the practis study: an observational, prospective, longitudinal study of patient profiles and treatment benefits of sublingual allergen immunotherapy.
+efficient allergen delivery by a freeze-dried slit-tablet formulation across a diverse range of allergen species.
+clinical development of sq sublingual immunotherapy tablets in adolescents and children.
+target-impact of authorized microcrystalline tyrosine (mct)-adsorbed pollen scit allergoids on allergic rhinitis (ar) under real life conditions.
+allergenicity and immunogenicity profile of depigmented-polymerized phleum pratense extract for use in allergen-specific immunotherapy treatments.
+local microrna-related repression of the pge2-ep3-axis upon allergen-specific immunotherapy.
+differential induction of allergen-specific iga responses following timothy grass subcutaneous and sublingual immunotherapy.
+immunoregulatory t cell epitope peptides for the treatment of allergic disease.
+real world effectiveness and cost consequences of grass pollen scit compared with slit and symptomatic treatment.
+interferon beta 1a (rebif®) in relapsing remitting multiple sclerosis.
+face masks suitable for preventing covid-19 and pollen allergy. a study in the exposure chamber.
+recent development on the use of sublingual immunotherapy tablets for allergic rhinitis.
+existing knowledge on euphorbia fischeriana steud. (euphorbiaceae): traditional uses, clinical applications, phytochemistry, pharmacology and toxicology.
+basic view of current immunotherapy approaches in allergic rhinitis.
+analysis of results of specific ige in 100 atopic dermatitis patients with the use of multiplex examination alex2—allergy explorer.
+basophil sensitivity reflects long-term clinical outcome of subcutaneous immunotherapy in grass pollen-allergic patients.
+preventive effect of allergen immunotherapy on asthma and new sensitizations.
+exploring novel systemic biomarker approaches in grass-pollen sublingual immunotherapy using omics.
+the evolution of allergy immunotherapy.
+intralymphatic immunotherapy improves grass pollen allergic rhinoconjunctivitis: a 3-year randomized placebo-controlled trial.
+geographical and socioeconomic differences in compliance with and access to allergen immunotherapy in denmark: a nationwide registry-based study – 1998-2016.
+impact of age and region on immune responses to allergy immunotherapy.
+dosing aeroallergen immunotherapy from freshly prepared maintenance vials: to adjust or not?.
+an exploratory field study with a subcutaneously administered tyrosine adsorbed modified grass allergen + mpl.
+allergen immunotherapy in asthma: current evidence.
+efficacy of sublingual immunotherapy tablets in dust mite and pollen allergy.
+methods for experimental allergen immunotherapy: subcutaneous and sublingual desensitization in mouse models of allergic asthma.
+prevalence and type of sensitization to pollen allergens in egyptian patients with respiratory allergy.
+detection and inhibition of ige for cross-reactive carbohydrate determinants evident in an enzyme-linked immunosorbent assay for detection of allergen-specific ige in the sera of dogs and cats.
+intradermal phleum pratense allergoid immunotherapy. double-blind, randomized, placebo-controlled trial.
+application of a mapping function to estimate utilities for ragweed allergy immunotherapy trials.
+high dose vitamin d3 empowers effects of subcutaneous immunotherapy in a grass pollen-driven mouse model of asthma.
+eosinophilic lingual tonsillitis induced by sublingual immunotherapy: a case series.
+resolution of pollen food allergy syndrome symptoms while on omalizumab therapy.
+sublingual immunotherapy (slit) is beneficial in long-term atopic shiba dogs in japan: two case reports.
+prevalence of ige against ccd and impact of ccd blocking in serum from cats.
+cost-effectiveness of grass pollen allergen immunotherapy in adults.
+omalizumab in three children with severe vernal keratoconjunctivitis.
+nasal reactivity evaluation in children with allergic rhinitis receiving grass pollen sublingual immunotherapy.
+real-world adherence of subcutaneous (scit) and sublingual (slit) pollen ait: a retrospective analysis in germany.
+impact of subcutaneous allergoid ait on patients with allergic rhinitis and/or asthma: a retrospective real-life, long-term cohort analysis.
+in silico design of phl p 6 variants with altered fold-stability significantly impacts antigen processing, immunogenicity and immune polarization.
+compliance in subcutaneous and sublingual allergen immunotherapy: a nationwide study.
+subsets of t regulatory cells in patients with grass pollen allergy.
+symptoms evolution in children treated with allergen immunotherapy: a real-life pilot study.
+satisfaction with grass pollen sublingual immunotherapy assessed by espia questionnaire – first results from bulgaria.
+validation of environmental exposure chamber (eec) for controlled human inhalation studies in patients with timothy grass pollen-triggered allergic rhinoconjunctivitis.
+patients' satisfaction with five-grass sublingual immunotherapy.
+influence of aeroallergen sensitization profile in clinical exacerbations of patients with cystic fibrosis.
+effectiveness and safety of immunotherapy with an allergoid adjuvanted with a tlr-4 agonist in asthmatic patients allergic to olive pollen: results of a controlled retrospective study.
+immunotherapy with a microcrystalline tyrosineadjuvanted allergoid combined with a tlr-4 agonist reduces emergency room admissions and improves asthma severity in children allergic to olive pollen.
+immunological changes, including cd300 molecules expression, during allergen desensitization immunotherapy.
+grass pollen sublingual immunotherapy treatment induces transcriptomic and metabolic changes over time.
+grass pollen sublingual immunotherapy drives the generation of functional il-10-producing innate lymphoid cells that are associated with clinical benefit: an rdbpc study.
+long-term effects of allergen immunotherapy to grass pollen.
+accelerated dose escalation schedule with 3 injections of a 6-grasses allergoid preparation is safe in children and adolescents.
+effects of combined treatment with allergen immunotherapy and dupilumab on nasal allergen challenge and tolerability of immunotherapy.
+efficacy of allergen immunotherapy for allergic rhinoconjunctivitis assessed by conjunctival allergen provocation-a real-life study.
+safety of an ultrarush immunotherapy build-up schedule of subcutaneous immunotherapy in paediatric age.
+specific immunotherapy in relation to health- related quality of life and symptom score-a three-year follow-up.
+eosinophilic esophagitis during allergen immunotherapy in children: is slit a possible risk factor.
+allergen exposure chambers: implementation in clinical trials in allergen immunotherapy.
+1,25(oh)2vitd3 supplementation enhances suppression of grass pollen-induced allergic asthma by subcutaneous and sublingual immunotherapy in a mouse model.
+allergen immunotherapy: what is the added value of real-world evidence from retrospective claims database studies?.
+induction of igg2 and igg4 b-cell memory following sublingual immunotherapy for ryegrass pollen allergy.
+serum immunoglobulin e reactivity to cross-reacting panallergen components in north-eastern poland patients pollen sensitized.
+are fungal spores relevant outdoor allergens?.
+tgfβ1 mimetic peptide modulates immune response to grass pollen allergens in mice.
+safety of timothy grass sublingual immunotherapy tablet in children: pooled analyses of clinical trials.
+the cost-effectiveness of allergen immunotherapy compared with pharmacotherapy for treatment of allergic rhinitis and asthma.
+persistence of the clinical effect of grass allergen peptide immunotherapy after the second and third grass pollen seasons.
+allergenicity and safety profile of depigmented-polymerized phleum pratense extract for use in allergen-specific immunotherapy treatments.
+nasal allergen neutralizing antibodies correlate closely with tolerated intranasal allergen challenge dose following grass pollen subcutaneous immunotherapy in patients with local allergic rhinitis.
+sublingual immunotherapy for grass pollen rhinitis in children: 3-year follow-up in a cohort in southern italy.
+improvement in nasal reactivity after two years of grass pollen slit treatment in children with allergic rhinitis.
+a quality-of-life mapping function developed from a grass pollen sublingual immunotherapy trial to a tree pollen sublingual immunotherapy trial.
+cinnamon extract inhibits allergen-specific immune responses in human and murine allergy models.
+real-world adherence and evidence of subcutaneous and sublingual immunotherapy in grass and tree pollen-induced allergic rhinitis and asthma.
+the role of allergoids in allergen immunotherapy: from injective to sublingual route.
+protein cross-reactivity and blood cancer.
+long-term effects of allergen sublingual immunotherapy.
+accelerated dose escalation with three injections of an aluminum hydroxide-adsorbed allergoid preparation of six grasses is safe for patients with moderate to severe allergic rhinitis.
+responders and nonresponders to pharmacotherapy and allergen immunotherapy.
+identification and functional characterization of the transcription factor nf-κb subunit p65 in common carp (cyprinus carpio l.).
+two years of treatment with the recombinant grass pollen allergy vaccine bm32 induces a continuously increasing allergen-specific igg4 response.
+a real-life study of the efficacy of sublingual immunotherapy against weed allergies in the serbian population.
+anaphylaxis to grass pollen sublingual immunotherapy in a pediatric patient.
+allergen immunotherapy for eosinophilic esophagitis exacerbated during pollen seasons: a case report.
+monophosphoryl lipid a used as an adjuvant in subcutaneous immunotherapy further increases allergen specific igg/igg4.
+strong dose response after immunotherapy with pq grass using conjunctival provocation testing.
+pollen exposure at birth and adolescent lung function, and modification by residential greenness.
+immunotherapy with the pres-based grass pollen allergy vaccine bm32 induces hepatitis bspecific protective antibody responses: kinetics and epitope specificity of antibody responses.
+immunologic mechanisms of a short-course of lolium perenne peptide immunotherapy: a randomized, double-blind, placebo-controlled trial.
+coadministration of sublingual immunotherapy tablets and management of potential adverse effects: austrian, german, and swiss expert recommendations.
+339 prevention of airway and intestinal inflammation in a humanized mouse model of allergy by depletion of natural killer cells prior to pbmc engraftment.
+diminished allergen-induced intestinal and airway inflammation in humanized mice by depletion of natural killer cells prior to pbmc engraftment.
+cinnamon extract and its anti-allergic properties on human dendritic cells and in an atopic dermatitis-like skin inflammation model.
+evaluating the clinical outcome of subcutaneous immunotherapy using an allergoid extract in children with allergic rhinoconjunctivitis.
+sublingual immunotherapy alters salivary iga and systemic immune mediators in timothy allergic children.
+agreement of serum allergy test results with unblocked and blocked immunoglobulin e against crossreactive carbohydrate determinants (ccd) and intradermal test results in atopic dogs.
+evaluation of the long-term effect of allergen immunotherapy in local allergic rhinitis patients.
+epigenetic changes in satb1 gene in foxp3 + regulatory t cells reflect immune tolerance status during grass pollen subcutaneous and sublingual immunotherapy.
+impact of local innate lymphoid cells type 2 (ilc2) in allergic rhinitis and asthma patients.
+grass pollen sublingual immunotherapy-experience in a uk children's hospital.
+biological standardization of the dactylis glomerata, festuca pratensis, lolium perenne, phleum pratense and poa pratensis allergen extracts: a phase ii clinical trial.
+real-life adherence of subcutaneous (scit) and sublingual (slit) ait: a retrospective, long-term cohort analysis in germany.
+bat as useful method for monitoring the effectiveness of specific allergen immunotherapy.
+strong dose-response on immunoglobulin markers during a phase ii allergen immunotherapy study with subcutaneously administered tyrosine adsorbed modified grass allergen + mpl.
+trial design for safety evaluation of an accelerated dose escalation schedule with one strength of a 6-grasses pollen allergoid in children and adolescents.
+strong dose-response using a conjunctival provocation test during a phase ii allergen immunotherapy study with subcutaneously administered tyrosine adsorbed modified grass allergen + mpl.
+microbiological findings on skin specimens in patients with atopic eczema.
+immunomodulatory properties of lolium perenne peptides for the treatment of seasonal allergic rhinitis.
+allergoids conjugated to mannan drive monocyte differentiation into tolerogenic dendritic cells and anti-inflammatory macrophages.
+a novel toll-like receptor 7 agonist can ameliorate phleum pratense induced allergic responses in vitro.
+ige and igg4 response uniformity allows for subject-specific measure of exposure to sublingual allergen immunotherapy.
+nasal provocation can be useful for diagnosing children with local allergic rhinitis.
+intralymphatic allergen immunotherapy against birch and grass pollen allergy: a 3-year double-blind randomized clinical trial of 72 patients.
+allergenicity of grass depigmentedpolymerized extracts by basophil activation test.
+real-life safety of 5-grass pollen tablet in 5-to-9-year-old children with allergic rhinoconjunctivitis.
+how to diagnose and treat local allergic rhinitis: a challenge for clinicians.
+immunotherapy with grass pollen tablets reduces medication dispensing for allergic rhinitis and asthma: a retrospective database study in france.
+follow up of sublingual immunotherapy in a paediatric population at cork university hospital.
+rational design of a hypoallergenic phl p 7 variant for immunotherapy of polcalcin-sensitized patients.
+evolution of subcutaneous allergen immunotherapy (part 1): from first developments to mechanism-driven therapy concepts.
+the importance of tablet formulation on allergen release kinetics and efficiency: comparison of freeze-dried and compressed grass pollen sublingual allergy immunotherapy tablet formulations.
+aeroallergen sensitivity pattern in poorly controlled asthmatics and its relation to asthma control in a tertiary care setting of central kerala, india.
+germination of pollen grains in the oesophagus of individuals with eosinophilic oesophagitis.
+role of il-35 in sublingual allergen immunotherapy.
+nasal allergen-neutralizing igg4 antibodies block ige-mediated responses: novel biomarker of subcutaneous grass pollen immunotherapy.
+two grass pollen tablets commercially available for allergy immunotherapy display different ige epitope repertoires.
+strong dose-response on immunoglobulin makers during a phase ii allergen immunotherapy study with subcutaneously administered tyrosine adsorbed modified grass allergen + mpl.
+long-term clinical effect of grass-allergen immunotherapy in local allergic rhinitis, and its capacity to modify the natural course of the disease.
+sublingual immunotherapy tablets do not alter skin prick responses during treatment.
+effect of sublingual allergen specific immunotherapy in mono-sensitized versus poly-sensitized patients with mild allergic asthma.
+a pooled post-hoc analysis of pre-treatment allergen specific ige and slit-tablet efficacy.
+the class of fast-dissolving tablets for sublingual allergen immunotherapy induce comparable serological ige and igg4 responses.
+association between baseline specific ige levels and adverse events with sublingual immunotherapy tablets.
+possible sources of bermuda sensitization in timothy grass allergic subjects.
+persistent regulatory t-cell response 2 years after 3 years of grass tablet slit: links to reduced eosinophil counts, sige levels, and clinical benefit.
+intralymphatic immunotherapy: update and unmet needs.
+prevention of allergen-induced gut and lung inflammation in humanized mice by depletion of natural killer cells prior to pbmc transfer.
+how to do a clinical trial? recommendations from the aerobiological point of view.
+the growing importance of real-life studies in allergen immunotherapy.
+thunderstorm-triggered asthma: what we know so far.
+allergy immunotherapies for allergic rhinitis: systematic review and assessment of evolving quality.
+isoforms of group 1 allergens from a tropical/ subtropical para grass (urochloa mutica) display different levels of ige reactivity and cross-reactivity.
+randomized immunotherapy trial in dual-allergic patients using “active allergen placebo” as control.
+the effect of allergen immunotherapy on serum periostin levels in children with allergic rhinitis.
+smoking history is negatively associated with allergen specific immunotherapy efficacy: a retrospective analysis.
+sensitization to aeroallergens in patients with allergic rhinitis in aguascalientes, mexico.
+allergen component testing - a new era in diagnostics of patients with pollen allergy.
+year-round treatment initiation for a 6-grasses pollen allergoid in specific immunotherapy of allergic rhinoconjunctivitis and asthma.
+ragweed allergy immunotherapy tablet mk-3641 (ragwitek®) for the treatment of allergic rhinitis.
+epicutaneous immunotherapy in rhino-conjunctivitis and food allergies: a review of the literature.
+sublingual allergen immunotherapy for respiratory allergy: a systematic review.
+serum ige reactivity to cross-reacting molecules in pollen allergic patients from north eastern poland.
+il-35 induces il-10 producing regulatory b cells in immunotherapy treated patients.
+an in vitro assay to screen toll-like receptor agonists as potential adjuvants in allergen immunotherapy.
+cost-effectiveness of the sq® grass sublingual immunotherapy (slit) tablet in a paediatric population.
+study on immunotherapy safety: clinical practice in allergy outpatient care.
+allergen immunotherapy in people, dogs, cats and horses – differences, similarities and research needs.
+an observational cohort study of the use of five-grass-pollen extract sublingual immunotherapy during the 2015 pollen season in france.
+new approaches to allergen immunotherapy.
+positive and negative ait trials: what makes the difference?.
+role of sublingual immunotherapy in the treatment of asthma: an updated systematic review.
+short course of grass allergen peptides immunotherapy over 3 weeks reduces seasonal symptoms in allergic rhinoconjunctivitis with/without asthma: a randomized, multicenter, double-blind, placebo-controlled trial.
+safety and efficacy of immunotherapy with the recombinant b-cell epitope–based grass pollen vaccine bm32.
+a novel glycocluster molecule prevents timothy-induced allergic airway inflammation in mice.
+results of a tolerability study of subcutaneous immunotherapy (skit) with native depot olea europaea pollen extract.
+biogeographical variation in ige specificity and avidity for subtropical and temperate grass pollen allergens.
+efficacy of slit with different doses of a liquid phleum pratense extract was shown during the grass pollen season and in an allergen exposure chamber (aec).
+tolerability of a two week rush up-dosing with modified trees, modified grasses or modified grasses/trees mixture in pollen allergic subjects in the day-to-day practice.
+immunotherapy with the recombinant b cell epitope-based grass pollen allergy vaccine bm32 induces a biphasic allergen-specific igg1 and igg4 response.
+t reg cd4+ cd25high in peripheral blood in patient with grass pollen allergy during sublingual specific immunotherapy slit.
+a real-life, long-term, retrospective analysis evidencing slower progression of grass pollen allergic rhinitis in patients treated with sublingual immunotherapy tablets.
+comparing the efficacy of 1-grass and 5-grass pollen slit tablets in the same patient: a case report.
+treatment effect of grass-pollen immunotherapy for children with allergic rhinoconjunctivitis in a district general hospital.
+differential network and pathway analysis of transcriptome molecular markers associated with an adjuvanted grass allergoid immunotherapy.
+specific immunotherapy with aeroallergens: indicated in a patient with serious persistent asthma?.
+rheumatoid arthritis developed during subcutaneous pollen allergen immunotherapy: a case report.
+sublingual immunotherapy with a liquid phleum pratense extract is effective in grass pollen allergic patients-results of a phase ii allergen exposure chamber (aec) trial.
+allergen-specific immunotherapy (ait) with the recombinant hypoallergenic peptide-fusion vaccine bm32 reveals similar immune alterations as treatment with a conventional grass pollen allergen extract.
+a longitudinal comparison of il-5 and il-10-producing antigen-specific clonal t cell repertoires throughout ait.
+updated safety analysis of a high-dose hypoallergenic birch pollen allergoid from clinical trial data.
+comparison of long term effect of perennial and preseasonal scit of seasonal allergic rhinitis adult patients with hypoallergenic grass pollen extracts.
+interleukin (il)-35 producing t regulatory cells (itr35) suppresses type ii innate lymphoid cell (ilc2) and t helper 2 (th2) cell function and are induced following grass pollen immunotherapy.
+the fast dissolving freeze-dried formulation of the sq-grass pollen slit-tablet is very effective for providing fast and complete delivery of soluble allergens.
+safety analysis of a study on the effect of micronized cellulose powder as add-on to intranasal as-needed treatment of subjects with pollen allergic rhinitis.
+induced sputum transcriptome reveals biomarker pattern in patients with allergic rhinitis and asthma.
+novel insights into the immunological mechanisms of action of allergoids coupled to mannan as next generation vaccines for allergen-specific immunotherapy.
+a machine learning approach to evaluate ige and igg4 responses as patient-specific measure of exposure to sublingual allergen immunotherapy.
+tolerability of a two week rush up-dosing with modified allergens in pollen allergic subjects in the day-to-day practice.
+molecular allergens contribution in the selection of grass and/or olive immunotherapy.
+food-dependent effort-induced anaphylaxis: four cases reports.
+long-term effect of grass-pollen slit on symptom control of patients with allergic rhinitis.
+updated safety analysis of a high-dose hypoallergenic 6-grasses pollen allergoid from clinical trial data.
+monitoring change in ige/igg4 ratio has predictive significance for estimating efficacy of allergen-specific immunotherapy (ait) and enhances rendering clinical decisions during treatment.
+the clinical and immunological effect of vitamin d supplementation combined with grass-specific slit in children with allergic rhinitis.
+a real-life, retrospective analysis evidencing slower long-term progression of asthma in grass pollen allergy patients treated with sublingual immunotherapy tablets.
+prediction of efficacy of sublingual immunotherapy in children with pollen-food allergy syndrome associated with birch pollen allergy.
+conjunctival allergen provocation tests may influence diagnosis and clinical decision.
+subcutaneous cluster immunotherapy (scit) with a high-polymerized grass pollen extract is safe and effective in a dbc clinical trial.
+safety of a 3-week allergen immunotherapy course with grass pollen peptides: a randomised double-blind placebo-controlled trial.
+managements of specific immunotherapy in professional footballer: case report.
+dose response and onset of action of sublingual immunotherapy with a liquid phleum pratense extract in grass pollen allergic patients.
+early nonreactivity in the conjunctival provocation test predicts beneficial outcome of sublingual immunotherapy.
+the global development and clinical efficacy of sublingual tablet immunotherapy for allergic diseases.
+lolium perenne peptide immunotherapy is well tolerated and elicits a protective b-cell response in seasonal allergic rhinitis patients.
+molecular sensitization patterns and influence of molecular diagnosis in immunotherapy prescription in children sensitized to both grass and olive pollen.
+impact of allergen immunotherapy in allergic asthma.
+ragweed sublingual tablet immunotherapy: part ii - practical considerations and pertinent issues.
+effect of grass sublingual tablet immunotherapy is similar in children and adults: a bayesian approach to design pediatric sublingual immunotherapy trials.
+synchronous immune alterations mirror clinical response during allergen immunotherapy.
+lack of effect of timothy grass pollen sublingual immunotherapy tablet on birch pollen–induced allergic rhinoconjunctivitis in an environmental exposure unit.
+rcat reflects symptom control and quality of life in allergic rhinoconjunctivitis patients.
+antigenic cross-reactivity between schistosoma mansoni and pollen allergens from the birch tree (betula verrucosa) and timothy grass (phleum pratense): involvement of shared glycan epitopes and implications for the hygiene hypothesis.
+specific immunotherapy in local allergic rhinitis: a randomized, double-blind placebo-controlled trial with phleum pratense subcutaneous allergen immunotherapy.
+a randomized, double-blind, placebo-controlled, dose-finding trial with lolium perenne peptide immunotherapy.
+novel strategies in immunotherapy for allergic diseases.
+the use of omalizumab in allergen immunotherapy.
+results from the 5-year sq grass sublingual immunotherapy tablet asthma prevention (gap) trial in children with grass pollen allergy.
+prevalence and clinical characteristics of local allergic rhinitis to house dust mites.
+modified allergens for immunotherapy.
+analysis of a possible anti-inflammatory effect of cinnamon extract in allergic immune responses.
+ultra-short-course booster is effective in recurrent grass pollen-induced allergic rhinoconjunctivitis.
+sublingual immunotherapy provides long-term relief in allergic rhinitis and reduces the risk of asthma: a retrospective, real-world database analysis.
+profilin, a change in the paradigm.
+recurrence of eosinophilic oesophagitis with subcutaneous grass pollen immunotherapy.
+quality of life during the hay fever season after short-course subcutaneous immunotherapy with lolium perenne peptides (lpp) in grass pollen related rhinoconjunctivitis: a rdbpct.
+safety of 300ir 5-grass tablet in children with grass pollen-induced allergic rhinoconjunctivitis: results of an observational, post-marketing safety study.
+consistent composition and potency of freeze dried tablets for sublingual immunotherapy.
+german practice – the effect of sublingual immunotherapy on standard pharmacotherapy – long-term data.
+the potential of component-resolved diagnosis in laboratory diagnostics of allergy.
+efficacy of allergen immunotherapy and evaluation methods. relation to specific allergen and route of administration.
+staloral in modern allergen immunotherapy.
+grass pollen sublingual immunotherapy tablets provide long-term relief of grass pollen-associated allergic rhinitis and reduce the risk of asthma: findings from a retrospective, real-world database subanalysis.
+preventing new sensitization and asthma onset by allergen immunotherapy: the current evidence.
+tablet-based sublingual immunotherapy for respiratory allergy.
+modulation of the immune reponse to subcutaneous grass pollen-specific immunotherapy by vitamin d-data from a controlled clinical pilot trial.
+twenty years' observation of subcutaneous pollen allergoid immunotherapy efficacy in adults.
+a retrospective analysis of patients who received treatment with sublingual immunotherapy for seasonal allergic rhinitis since 2010.
+structural and immunological characterisation of a broad-spectrum grass allergoid vaccine.
+study of impact of allergen immunotherapy using pollinex quattro tree and/ or grass pollen on patients with allergic rhinoconjunctivitis.
+allergenicity of dominant aeropollen in nigeria: part i.
+safety review of 5-grass pollen tablet from pooled data of clinical trials.
+dose-response relationship of a new timothy grass pollen allergoid in comparison with a 6-grass pollen allergoid.
+steroid sparing effect of sublingual immunotherapy: real life study in mono/polisensitized children with asthma.
+treatment with grass pollen slit tablets is associated with long-term relief of allergic conjunctivitis.
+tolerance of needleless subcutaneous immunotherapy in children.
+efficacy of sq slit-tablets in mono-and polysensitized hdm, grass, and ragweed allergic subjects.
+a plasmid containing cpg odn as vaccine adjuvant against grass carp reovirus in grass carp ctenopharyngodon idella.
+long-term impact of grass-pollen (gp) sublingual immunotherapy tablet (slit) on allergic rhinitis (ar) and on allergic asthma (aa) onset and progression.
+sialylated fetuin-a as a candidate predictive biomarker for successful grass pollen allergen immunotherapy.
+sq® grass tablet for subligual immunotherapy: current evidence and results of clinical trials conducted in europe and north america.
+assessment of allergen-specific ige by immunoblotting method in atopic dermatitis.
+molecular features of grass allergens and development of biotechnological approaches for allergy prevention.
+distinctive gene signature of allergen-specific cd4+t cells in allergic patients.
+a practical guide to the sublingual immunotherapy tablet adverse event profile: implications for clinical practice.
+poor sleep is highly associated with house dust mite allergic rhinitis in adults and children.
+a survey on the perception of allergy specialists about the reimbursed grass pollen tablets for seasonal allergic rhinitis in italy.
+treatment with grass allergen peptides improves symptoms of grass pollen–induced allergic rhinoconjunctivitis.
+local adverse effects and adherence to grass allergy sublingual immunotherapy with tablets in real life.
+preliminary results of a tolerability study with polymerized depot mixture (100/100) of olea europaea and phleum pratense pollen extract.
+nutritional wheat alpha-amylase/trypsin inhibitors but not a control storage protein from corn exacerbate allergen-induced gut and lung inflammation in humanized mice.
+evidence for long term effects of treatment with recombinant b cell epitope-based grass pollen allergy vaccine bm32.
+preseasonal grass pollen slit in at risk individuals confers protection from epidemic thunderstorm asthma.
+immunotherapy with the recombinant b cell epitope-based grass pollen vaccine, bm32, does not induce ige responses and may be suitable for prophylactic vaccination.
+identification of genetic biomarkers useful for the prediction of severe pollenmediated food reactions.
+long-term sustained reduction of allergic rhinoconjunctivitis in children with grass pollen allergy-results from an asthma prevention (gap) trial.
+efficacy of a 3-week subcutaneous immunotherapy course in patients with grass pollen-induced rhinoconjunctivitis: results of a phase-3 study.
+suitability of the facilitated antigen binding-assay for evaluation of treatment success in birch and grass pollen immunotherapy.
+development of an elisa-based surrogate assay for measuring blocking igg induced by ait.
+treatment with a 300 index of reactivity (ir) 5 grass pollen tablet is associated with long-term relief of allergic rhinitis: a retrospective real-life dataset subgroup analysis.
+grass pollen sublingual immunotherapy (slit) tablets treatment is associated with reduction of new onset and progression of asthma.
+igg4, but not igg1, repolarizes proallergic m2a macrophages to a tolerogenic m2blike phenotype: implications for allergen immunotherapy-mediated immune tolerance.
+graves-basedow disease in an asthmatic woman.
+identification of novel biomarkers in the assessment of grass pollen slit response.
+persistent induced regulatory t-cell response to grass tablet sublingual immunotherapy is linked to lower specific immunoglobulin-e and clinical benefit.
+relevant patient benefit of 5-grass pollen tablet allergen immunotherapy (ait) in grass-pollen allergic adults, adolescents and children with different clinical profiles.
+safety of an accelerated build up phase with pollen allergoids. a retrospective study.
+suppression of allergen-induced basophil activation upon treatment with subcutaneous house dust mite immunotherapy: a prospective study.
+increase of systemic and local regulatory b cells coincides with a shift in t cell subpopulations in and out of grass pollen season.
+clinical effect of intra-lymphatic immunotherapy: three years follow up from a double blind placebo controlled trail.
+short course treatment of subcutaneous peptide hydrolysate from lolium perenne (lpp) suppresses basophil responses and induces igg-associated blocking antibodies: a rdpct.
+preliminary results of a tolerability study of scit with native depot olea europaea pollen extract.
+sublingual immunotherapy with 5-grass allergen suppresses the “spilling” of the airway inflammation to the lung periphery during the pollen season.
+control of allergic rhinitis after one year of sublingual immunotherapy with 5 grasses/4 cereals extract.
+the efficiency of venom immunotherapy and its positive correlation on pollen allergy.
+prospective adherence to specific immunotherapy in europe (paste)-a three year survey.
+aluminium hydroxide impairs tolerogenic properties imprinted by allergoids conjugated to nonoxidized mannan in dendritic cells.
+intralymphatic immunotherapy (ilit) with both grass and birch allergen-a randomized double-blind placebo controlled trial.
+management of grass pollen allergy with 5-grass pollen tablet: results of a 2-year real-life study.
+allergen immunotherapy is safe during pollen season. results of a 10-year, real-life prospective study.
+treatment satisfaction during sublingual immunotherapy with a five-grass pollen tablet for allergic rhinoconjunctivitis: a prospective, non-interventional study.
+sublingual house dust mite immunotherapy has no impact on decrease of circulating erythrocytes upon airway allergen challenge in allergic rhinitis.
+mass spectrometry to complement standardization of house dust mite and other complex allergenic extracts.
+placebo effect in clinical trials with allergen-specific immunotherapy with inhalant allergens.
+allergic conjunctivitis in asia.
+differences and similarities between sublingual immunotherapy of allergy and oral tolerance.
+pharmacoeconomics of sublingual immunotherapy with the 5-grass pollen tablets for seasonal allergic rhinitis.
+a b cell epitope peptide derived from the major grass pollen allergen phl p 1 boosts allergen-specific secondary antibody responses without allergen-specific t cell help.
+comparison of scores associating symptoms and rescue medication use for evaluating the efficacy of allergy immunotherapy in seasonal allergic rhinoconjunctivitis: results from five trials.
+response to nasal challenge correlates with seasonal outcomes during grass pollen immunotherapy with either subcutaneous or sublingual immunotherapy.
+efficacy of 12 sq house dust mite sublingual immunotherapy tablet in monosensitized and polysensitized subjects.
+treatment of maize-based occupational rhinitis by phleum pretense subcutaneous immunotherapy.
+long-term treatment with 300ir 5-grass pollen sublingual tablet in grass pollen allergic subjects: safety outcome year after year.
+clinical management, expectations, and satisfaction of patients with moderate to severe allergic rhinoconjunctivitis treated with sq-standardized grass-allergen tablet under routine clinical practice conditions in spain.
+subcutaneous pollen immunotherapy by needleless device.
+topical nasal bacterial therapy associated with pre-seasonal allergoid scit in patients with grass allergy.
+dust mite–induced perennial allergic rhinitis in pediatric patients and sublingual immunotherapy.
+pharmacological management of allergic rhinitis in the elderly.
+the current overuse and misuse of meta-analyses on sublingual immunotherapy: the case of grass pollen allergy.
+erratum: timothy grass pollen therapeutic vaccine: optimal dose for subcutaneous immunotherapy (immunotherapy (2016) 8:3 (251-263)).
+epinephrine use in clinical trials of sublingual immunotherapy tablets.
+sublingual immunotherapy dosing regimens: what is ideal?.
+esophageal dysfunction and immunological changes induced by grass sublingual immunotherapy.
+allergen immunotherapy - an update.
+allergen immunotherapy for allergic rhinoconjunctivitis: a systematic review and meta-analysis.
+allergic sensitization feature under high pollen exposure in grassland of china.
+satisfaction and quality of life of allergic patients following sublingual five-grass pollen tablet immunotherapy in spain.
+similar biological activity in skin prick test for oralair® (8200 bau) and grazax® (6200 bau) reinforces effective slit dosing level.
+molecular diagnosis and immunotherapy.
+coseasonal initiation of allergen immunotherapy: a systematic review.
+phage display peptide libraries in molecular allergology: from epitope mapping to mimotope-based immunotherapy.
+evidence in immunotherapy for paediatric respiratory allergy: advances and recommendations.
+treatment effect of sublingual immunotherapy tablets and pharmacotherapies for seasonal and perennial allergic rhinitis: pooled analyses.
+novel strategies for the treatment of grass pollen-induced allergic rhinitis.
+concepts and perspectives on peptide-based immunotherapy in allergy.
+immunotherapy with the pres-based grass pollen allergy vaccine bm32 induces antibody responses protecting against hepatitis b infection.
+mechanisms, safety and efficacy of a b cell epitope-based vaccine for immunotherapy of grass pollen allergy.
+grass pollen-specific immunotherapy entails systemic increase of regulatory b cells and shift in th17 cell compartments.
+novel vaccines targeting dendritic cells by coupling allergoids to nonoxidized mannan enhance allergen uptake and induce functional regulatory t cells through programmed death ligand 1.
+peptide immunotherapy in allergic disease: targeting t cells to induce tolerance.
+regional variation in allergic sensitivity to subtropical and temperate grass pollen allergens.
+immunological mechanisms of short-term pre-seasonal sublingual allergen immunotherapy tablet treatment for seasonal allergic rhinitis.
+efficacy of immunotherapy with cupressus arizonica and a mixture of pollens.
+a randomised placebo-controlled trial of sublingual immunotherapy tablet for seasonal rhinitis to grass allergen: clinical outcomes, local symptoms and early time course of immunologic changes.
+efficacy of grass pollen allergen syblingual immunotherapy tablets for seasonal allergic rhinoconjunctivitis. a systematic review and meta-analysis.
+grass pollen subcutaneous and sublingual immunotherapy inhibit allergen-induced nasal responses and local th2 cytokines: a randomised controlled trial.
+comparison of relative and absolute treatment differences between sublingual immunotherapy tablets and pharmacotherapies for seasonal and perennial allergic rhinitis: pooled analyses of clinical trials.
+reccurent wheezing in turkish children.
+siglec targeting of phl p 5a peptides leads to superior suppression of allergic inflammation in vivo.
+the c1q regulatory dendritic cell marker inhibits allergic inflammation through a modulation of pdc function.
+safety profiles of ragweed and grass sublingual immunotherapy tablets taken alone or together.
+factors related to adverse reactions in scit cluster initiation schedules.
+pollen low dose intradermal therapy evaluation (pollenlite): a double-blind randomised placebo-controlled trial of low-dose intradermal grass pollen immunotherapy in seasonal allergic rhinitis.
+ilit is a similarly effective treatment of grass pollen induced rhinitis for patients with moderate/severe and mild symptoms.
+generation of a hypoallergenic variant of the grass pollen allergen phl p 7 as a vaccine for treatment of phl p 7-sensitized patients.
+grass pollen subcutaneous immunotherapy results in faster and greater suppression of allergen-induced skin responses compared to sublingual immunotherapy: a randomised controlled trial.
+group 5 allergen composition and protein composition of 9 sublingual immunotherapy therapies against grass pollen allergies.
+nutritional status and meal patterns in allergic children during immunotherapy.
+comparison of efficacy of sublingual and subcutaneous immunotherapy for allergic rhinoconjunctivitis in children.
+long term effect of monophosphoryl-aadjuvanted specific immunotherapy in children with grass pollen allergies.
+clinical evolution of patients treated with a precoseasonal sublingual immunotherapy with a native extract of grass pollen.
+aeroallergen sensitization profiles in northern greece.
+systemic increase of regulatory b cells coincides with shift in effector t cell compartments following grass pollenspecific immunotherapy.
+factors influencing the efficacy of sublingual immunotherapy in patients with allergic rhinitis and asthma.
+gaziantep university clinic of pediatric allergy specific immunotherapy in patients with multiple allergen frequency and multiple allergen immunotherapy.
+clinical evolution of patient treated with a precoseasonal sublingual immunotherapy with a mix extract of grass pollen and olea europaea.
+immunological biomarker predict clinical effects in subcutaneous peptide allergen immunotherapy.
+eosinophilic esophagitis and profilin allergy.
+immunological differences in oral mucosa and effector cell sensitivity in patients with different severity degree of profilin mediated food reactions.
+physicochemical and immunologic characterisation of grass allergoids: detection of allergen composition and identification of new epitopes.
+investigating the fate of sublingually administered antigens: a major role for lingual tonsil.
+grass pollen cluster inmunotherapy: safety aspects.
+minor allergens sensitization and adverse reactions with an optimized olea +/- grass allergen extract.
+comparison of allergenic extracts from different origins: the value of the fda’s bioequivalent allergy unit (bau).
+house dust mite-specific sublingual immunotherapy prevents the development of allergic inflammation in a mouse model of experimental asthma.
+effect of lactobacillus rhamnosus gg and vitamin d supplementation on the immunologic effectiveness of grassspecific sublingual immunotherapy in children with allergy.
+relevance of a 5-grass sublingual tablet for immunotherapy of patients with grass pollen allergy in north america.
+update: stability of allergen extracts to establish expiration dating.
+how does the efficacy and safety of oralair® compare to other products on the market?.
+intralymphatic immunotherapy induces allergen specific plasmablasts and increases tolerance to skin prick testing in a pilot study.
+debates in allergy medicine: specific immunotherapy efficiency in children with atopic dermatitis.
+case report of near-fatal asthma due to snail allergy in a house dust mite-allergic adult.
+grass pollen immunotherapy: where are we now.
+tolerability of the sq-standardised grass sublingual immunotherapy tablet in patients treated with concomitant allergy immunotherapy: a non-interventional observational study.
+allergen extracts for immunotherapy: to mix or not to mix?.
+sublingual allergen immunotherapy in hiv-positive patients.
+distinct modulation of allergic t cell responses by subcutaneous vs. sublingual allergen-specific immunotherapy.
+timothy grass pollen therapeutic vaccine: optimal dose for subcutaneous immunotherapy.
+sq grass sublingual allergy immunotherapy tablet for disease-modifying treatment of grass pollen allergic rhinoconjunctivitis.
+the clinical effect of vitamin d supplementation combined with grass-specific sublingual immunotherapy in children with allergic rhinitis.
+an accelerated dose escalation with a grass pollen allergoid is safe and well-tolerated: a randomized open label phase ii trial.
+pretreatment ige sensitization patterns determine the molecular profile of the igg4 response during updosing of subcutaneous immunotherapy with timothy grass pollen extract.
+changes in markers associated with dendritic cells driving the differentiation of either th2 cells or regulatory t cells correlate with clinical benefit during allergen immunotherapy.
+pre-seasonal, subcutaneous immunotherapy: a double-blinded, placebo-controlled study in elderly patients with an allergy to grass.
+a complication of eosinophilic esophagitis from sublingual immunotherapy.
+evaluation of sq-house dust mite sublingual immunotherapy tablet one-year after completion of a 24-week treatment period.
+a randomized placebo-controlled trial of intradermal grass pollen immunotherapy for seasonal allergic rhinitis.
+oral allergy symptoms and pollen sensitization in tree nut allergic subjects receiving walnut oral immunotherapy (woit).
+randomised placebo-controlled trial of grass pollen allergen tablet immunotherapy for seasonal rhinitis: clinical and surrogate outcomes and early time course of immunologic changes.
+comparison of skin test reactivity of sublingual immunotherapy tablets to commercial extracts.
+t-cell epitope optimization to maximize allergic donor responses.
+facilitated allergen binding (fab) is a meaningful immunological biomarker for monitoring immediate clinical efficacy in short-term peptide allergen immunotherapy.
+intralymphatic immunotherapy of pollen-induced rhinoconjunctivitis: a double-blind placebo-controlled trial.
+the immune mechanisms of abscopal effect in radiation therapy.
+persistence of treatment with 5-grass pollen tablets in patients with allergic rhinitis: a real-life study.
+t cell epitope peptide therapy for allergic diseases.
+aeroallergens, atopy and allergic rhinitis in the middle east.
+induction of bronchial tolerance after 1 cycle of monophosphoryl-a-adjuvanted specific immunotherapy in children with grass pollen allergies.
+sublingual immunotherapy (slit) - indications, mechanism, and efficacy: position paper prepared by the section of immunotherapy, polish society of allergy.
+epigram study: terms of use and safety of grazax® treatment in real-life settings obtained from a random sample of french clinicians who are qualified in allergy.
+component-resolved diagnostics in vernal conjunctivitis.
+allergen-specific immunotherapy in pediatric allergic asthma.
+dosing of european sublingual immunotherapy maintenance solutions relative to monthly recommended dosing of subcutaneous immunotherapy.
+its annual scientific meeting 2016.
+profiling of allergic asthma population at connolly hospital blanchardstown (chb) to identify suitable candidates for immunotherapy.
+choosing the optimal dose in sublingual immunotherapy: rationale for the 300 index of reactivity dose.
+timothy specific ige levels are associated with efficacy and safety of timothy grass sublingual immunotherapy tablet.
+pediatric investigation plans for specific immunotherapy: questionable contributions to childhood health.
+allergen immunotherapy in pregnancy.
+critical appraisal of timothy grass pollen extract grazax® in the management of allergic rhinitis.
+spires: a new horizon for allergic disease treatment?.
+biomarkers for antigen immunotherapy in allergy and type 1 diabetes.
+treatment effect of sublingual immunotherapy tablets and pharmacotherapies for seasonal allergic rhinitis: analysis of clinical trials.
+modulation of antibody response after sublingual immunotherapy in respiratory allergic patients from minsk, belarus.
+analysis of sensitization to alternaria in seasonal allergic rhinitis patients from north-eastern poland.
+optimum treatment strategies for polyallergic patients - analysis of a large observational trial.
+position paper of the eaaci: food allergy due to immunological cross-reactions with common inhalant allergens.
+anaphylaxis to oralair® sublingual immunotherapy.
+nasal symptoms in an environmental challenge chamber (ecc) in a dose range finding trial using a timothy grass (phleum pratense) pollen allergoid preparation.
+pre-seasonal combined grass pollen immunotherapy and anti-il-4: a randomised controlled trial.
+dendritic cells promoting th2 differentiation overexpress a specific mirna linked to allergic rhinitis severity and allergen immunotherapy efficacy.
+a comparison of allergic t cell response modulation induced by subcutaneous vs sublingual allergen-specific immunotherapy.
+changes in regulatory/pro-allergic dendritic cell (dcreg/dc2) ratios in peripheral blood predict the clinical efficacy of allergen-specific immunotherapy.
+house dust mite sublingual immunotherapy for respiratory allergies in clinical practice (the active study).
+the c1q regulatory dendritic cell marker is a potent inhibitor of allergic inflammation.
+evolution of the ige response to house dust mite allergen molecules in childhood.
+the number of fceri receptors on basophils decreases during subcutaneous immunotherapy.
+immunological adequacy of the mix 5 grasses for polcalcin and profilin.
+the prevalence of environmental and food sensitization in patients with eosinophilic esophagitis.
+a double-blind, placebo-controlled study of allergen immunotherapy with depigmented-polymerised phleum pratense pollen extract in allergic rhinoconjunctivitis, a placebo-based analysis.
+allergic reactions during the maintenance dose of allergen immunotherapy: risk factors related to pollen extracts.
+safety and efficacy of 3-injection immunotherapy protocol for treating grass pollen-induced rhinoconjunctivitis in american adolescents/young adults.
+safety and quality of ultrasound-guided intralymphatic allergen specific immunotherapy.
+patient preferences in allergy immunotherapy (ait) in germany-findings of a discrete choice experiment for patients indicated for ait.
+strong t-cell stimulation and clearly reduced basophil activation reflect promising clinical results of a new phleum pratense allergoid.
+multiple sublingual immunotherapies (slit) in polyallergic patients - real-life medical practice data.
+immunological mechanisms and therapeutic effects of sublingual immunotherapy (slit) in monosensitized and poly-sensitized respiratory allergy patients.
+adrenaline auto injector experience of children receiving immunotherapy in a single centre.
+persistence of the 5-grass pollen tablet in patients with allergic rhinitis: a real-life study.
+hydrolyzed lolium perenne peptide fragments administered subcutaneously to hay fever patients induce allergenspecific igg4 and blocking antibodies after two or more weeks of treatment.
+effect of pollen immunotherapy in asthmatic patients.
+the clinical and biological response to allergen-specific immunotherapy with basophil activation test (bat) in the atopic diseases.
+allergy immunotherapy prescribing trends for grass pollen-induced allergic rhinitis in germany: a retrospective cohort analysis.
+immunoregulatory t cell epitope peptides: the new frontier in allergy therapy.
+prolonged efficacy of the 300ir 5-grass pollen tablet up to 2 years after treatment cessation, as measured by a recommended daily combined score.
+"the value of pre- and co-seasonal sublingual immunotherapy in pollen-induced allergic rhinoconjunctivitis".
+safety and tolerability of 5-grass pollen tablet sublingual immunotherapy: pooled analysis and clinical review.
+allergic sensitisation in elderly patients with rhinitis.
+the relative clinical impact of sublingual immunotherapy with carbamylated monomeric allergoids on allergic respiratory symptoms.
+relative potency in spt of solution and tablet slit allergen extracts of timothy grass pollen from 2 european manufacturers compared to a us reference extract.
+controlled allergen challenge facilities and their unique contributions to allergic rhinitis research.
+effects of orally applied fes p1-displaying l. plantarum wcfs1 on fes p1 induced allergy in mice.
+a phase i clinical trial with subcutaneous immunotherapy vaccine of timothy grass pollen extract according to ema guidelines.
+network meta-analysis shows commercialized subcutaneous and sublingual grass products have comparable efficacy.
+clinical considerations in the use of sublingual immunotherapy for allergic rhinitis.
+level of asthma control in children after subcutaneous immunotherapy.
+the evaluation of efficacy and adverse effect in intralymphatic allergen-specific immunotherapy against house dust mite, cat, and dog allergens in allergic rhinitis.
+a systematic analysis of pollen transcriptomes from plant allergens reveals conserved targets of immune responses.
+clinical outcome and tolerability of a 2-year sublingual allergen immunotherapy (ait) with a 5-grass pollen tablet in polyallergic patients-real-life medical practice data.
+sustained efficacy assessed by number needed to treat for timothy grass immunotherapy tablets in the treatment of allergic rhinitis with/without conjunctivitis up to 2 years after 3 years of treatment.
+clinical and immunological assessment of efficacy specific sublingual immunotherapy in respiratory allergy patients.
+pre-treatment level of specific grass ige is associated with efficacy and safety of a timothy grass sublingual immunotherapy tablet.
+safety of 3-injection immunotherapy protocol for treating grass pollen-induced rhinoconjunctivitis in adolescents/ young adults.
+house dust mite-specific sublingual immunotherapy prevents allergic inflammation development in mice.
+value of microarray allergen assay in the management of eosinophilic oesophagitis.
+safety of sublingual immunotherapy timothy grass tablet in subjects with allergic rhinitis with or without conjunctivitis and history of asthma.
+specific ige recognition of pollen allergens from subtropic grasses in patients from the subtropics.
+basophil expression of diamine oxidase: a novel biomarker of allergen immunotherapy response.
+long-term efficacy of allergen specific immunotherapy in atopic dermatitis patients in relation to quality of life.
+efficacy of grass pollen allergen sublingual immunotherapy tablets for seasonal allergic rhinoconjunctivitis: a systematic review and meta-analysis.
+allergen immunotherapy: an update on protocols of administration.
+patient selection for subcutaneous versus sublingual immunotherapy.
+allergen immunotherapy in pollen-induced allergic rhinitis.
+the place of new grass pollen immunotherapy tablets for the management of patients with respiratory allergies in primary care.
+conjunctival provocation tests: a predictive factor for patients' seasonal allergic rhinoconjunctivitis symptoms.
+new developments in allergen immunotherapy.
+sublingual immunotherapy for allergic rhinitis: where are we now?.
+new strategies for allergen t cell epitope identification: going beyond ige.
+safety and efficacy of subcutaneous immunotherapy with pollen allergens in patients over 60 years of age.
+immune mechanisms of sublingual immunotherapy.
+impact of allergen immunotherapy on symptom-free days and health care costs in patients with grass pollen-induced allergic rhinitis in germany.
+cost-effectiveness of subcutaneous immunothereapy in allergic rhinitis using one or more allergens-an analysis long overdue.
+impact of allergen immunotherapy on quality of life and health care costs in adults and children with grass pollen-induced allergic rhinitis in germany.
+systematic literature review assessing data on the burden of allergic rhinitis from a cost and quality of life perspective.
+efficacy, immunologic response, and safety of rapidly-dissolving sublingual immunotherapy tablets in subjects over 50 years of age with allergic rhinitis.
+occurrence and duration of local allergic reactions is similar for ragweed, grass, and house dust mite sublingual immunotherapy tablets and consistent with an immediate ige-mediated reaction.
+stabilization of labile grass-fungal and grassinsect extract mixtures during storage at sub-zero (conventional freezer) temperatures.
+quantitative benefit and risk assessment of timothy grass and short ragweed sublingual immunotherapy tablets in the treatment of allergic rhinitis.
+gastrointestinal adverse events in subjects receiving rapidly dissolving timothy grass or short ragweed sublingual immunotherapy tablets.
+the efficacy and safety of the timothy grass allergy sublingual immunotherapy tablet in canadian adults and children.
+new product development with the innovative biomolecular sublingual immunotherapy formulations for the management of allergic rhinitis.
+sublingual immunotherapy in children: the recent experiences.
+allergen immunotherapy is useful in the treatment of childhood asthma.
+preventive allergen-specific sublingual immunotherapy in small children induces immunomodulation.
+dose-range finding of natural birch pollen exposure in patients with seasonal allergic rhinitis in the fraunhofer environmental challenge chamber.
+next generation sequencing and antibody engineering in combination defines different fates of allergen-specific antibodies during specific immunotherapy.
+identification of a candidate biomarker predicting clinical benefit during allergen immunotherapy.
+safety assessment of a shortened up-titration phase with a grass pollen allergoid preparation in patients with allergic rhinoconjunctivitis with or without asthma.
+the comparison of the efficacy of preseasonal grass pollen immunotherapy in monosensitised and polysensitised allergic rhinitis patients.
+co-seasonal up-dosing of cluster immunotherapy with grass pollen allergoid.
+spreading of maintenance interval in subcutaneous allergen immunotherapy with high-dose hypoallergenic pollen preparations is safe and effective in daily life.
+a second year of sublingual immunotherapy with a 5 grass allergen extract further suppresses airways inflammation as measured by exhaled breath temperature.
+grass-pollen subcutaneous immunotherapy suppresses asthma manifestations in a mouse model using vitamin d3 as an adjuvant.
+effectiveness and tolerability of a 2-year sublingual allergen immunotherapy (ait) in real-life medical practice in polyallergic patients with concomitant ait or concomitant symptomatic medication.
+pediatric trends in prescribing of specific immunotherapy for grass pollen allergy in germany: 2005-2012.
+trends in prescribing of specific immunotherapy for grass pollen allergy in germany: 2005-2012.
+food hypersensitive in patients sensitised for aeroallergens.
+characteristics of house dust mite allergic asthmatic adults initiating sublingual immunotherapy in a french real life setting.
+efficacy of 300ir 5-grass pollen extract sublingual tablet in patients with grass pollen-associated allergic rhinoconjunctivitis assessed by daily combined score in a long term study.
+first season with five grass pollen tablets in allergic children/teenagers. a real-life disease impact in terms of symptoms and medication. smile study.
+clinical and immunologic efficacy of sublingual immunotherapy in patients with respiratory allergy.
+treating grass pollen allergic patients with severe allergic rhinoconjunctivitis symptoms with 5-grass pollen tablets -results from a 2-year real-life medical practice study.
+oral specific immunotherapy in hiv infected patients.
+mixtures of depigmented and chemically modified pollen extracts from different homologous groups generate specific igg antibodies with ige blocking capacity against individual allergens.
+prospective study of pollen food syndrome in children attending a specialist allergy clinic.
+factors associated with early, local side effects of allergen-specific immunotherapy.
+disease-modifying properties of sq-standardised grass slit-tablets and long-term cost-effectiveness.
+prospective adherence to specific immunotherapy in europe (paste) study: the enrollment of patients in greece.
+a comparison of the relative clinical impacts of sublingual allergen immunotherapy tablets and symptomatic drugs in grass-pollen-induced allergic rhinoconjunctivitis.
+pilot trial to downregulate allergy by intralymphatic allergen immunotherapy.
+seasonal increases in peripheral innate lymphoid type 2 cells (ilc2s) are inhibited by grass pollen immunotherapy.
+design and objectives of alto: a 5-year observational study evaluating the quality of life of allergic rhinoconjunctivitis patients treated by 300ir 5-grass pollen sublingual tablet.
+impact of allergen immunotherapy on quality of life and healthcare costs in patients with grass pollen-induced allergic rhinitis in spain.
+impact of allergen immunotherapy on quality of life and healthcare costs in adults and children with grass polleninduced allergic rhinitis in germany.
+comparison of long term effect of perennial and preseasonal scit of seasonal allergic rhinitis patients with hypoallergenic grass pollen extracts.
+short-term preseasonal immunotherapy: is early clinical efficacy related to the basophil response?.
+estimation of health-related utility (eq-5d index) in subjects with seasonal allergic rhinoconjunctivitis to evaluate health gain associated with sublingual grass allergen immunotherapy.
+depigmented-polymerised allergoids favour regulatory over effector t cells: enhancement by 1α, 25-dihydroxyvitamin d3.
+a meta-analysis of sublingual allergen immunotherapy and pharmacotherapy in pollen-induced seasonal allergic rhinoconjunctivitis.
+usefulness of micro-arrays technology in ethiological diagnosis of eosinophilic esophagitis.
+efficacy and safety of mk-7243: a grass allergy sublingual immunotherapy tablet evaluated in canadian adults and children.
+down-regulation of fcεri-mediated cd63 basophil response during short-term vit determined venom-nonspecific desensitization.
+economic evaluation of sq-standardized grass allergy immunotherapy tablet (grazax®) in children.
+peptide based immunotherapy: a pivotal tool for allergy treatment.
+increased allergen-specific igg4 levels are linked to suppressed ige titers when analysed by isac but not by immunocap.
+in-print of the environment on the molecular sensitisation profile towards pollen allergens revealed by allergen micro-array.
+the patient's hay-fever diary: three years of results from germany.
+review of the use of sublingual allergen immunotherapy in children.
+sublingual immunotherapy for asthma: affects t-cells but does not impact basophil activation.
+dissection of the ige and t-cell recognition of the major group 5 grass pollen allergen phl p 5.
+specific immunotherapy modifies allergen-specific cd4+ t-cell responses in an epitope-dependent manner.
+p85-asthmatic children and adolescents treated in daily medical practice-results from a 2-year sublingual allergen immunotherapy (ait) study with grass pollen tablets.
+use of paper filter discs for measurement of local biomarkers of nasal mucosal inflammation.
+sublingual immunotherapy in the treatment of allergic rhinitis: series of cases.
+possible therapeutic potential of a recombinant group 2 grass pollen allergen-specific antibody fragment.
+efficacy and safety of grass sublingual immunotherapy tablet, mk-7243: a large randomized controlled trial.
+a subset of novel timothy grass antigens is associated with marked th1/th2 shifts following specific immunotherapy.
+grass pollen immunotherapy: impaired allergen-induced nasal and cutaneous responses correlate with overall seasonal symptom scores and are associated with suppressed local th2 cytokines in nasal fluid.
+efficacy of short ragweed sublingual immunotherapy tablet (slit-t) in mono-sensitized and poly-sensitized subjects.
+magnitude of changes in patient symptom and medication scores in grass allergy immunotherapy trials: dependency on levels of pollen exposure.
+eq-5d health utility values in the treatment of seasonal grass pollen induced rhinoconjunctivitis.
+the effects of pollen season on reactions to subcutaneous immunotherapy.
+aeroallergen immunotherapy reduces wheal diameter in seasonal and perennial allergen intradermal skin tests.
+a critical appraisal of analyzing nasal provocation test results in allergen immunotherapy trials.
+the use of single versus multiple antigens in specific allergen immunotherapy for allergic rhinitis: review of the evidence.
+sublingual immunotherapy for aeroallergens: status in the united states.
+immunological comparison of allergen immunotherapy tablet treatment and subcutaneous immunotherapy against grass allergy.
+immunostimulatory effects of etiolated wheat grass, triticum aestivum l. on dexamethasone induced immunosuppressed albino rats.
+sublingual immunotherapy: what we can learn from the european experience.
+allergen-specific immunotherapy increases plasma gelsolin levels.
+immunotherapy reduces cd40l expression and modifies cytokine production in the cd4 cells of pollen allergy patients.
+sublingual five-grass pollen tablets (oralair®): a guide to their use as allergen immunotherapy for grass pollen-induced allergic rhinoconjunctivitis.
+molecular approach to allergy diagnosis and therapy.
+a model for the determination of pollen count using google search queries for patients suffering from allergic rhinitis.
+negative clinical results from a randomised, double-blind, placebo-controlled trial evaluating the efficacy of two doses of immunologically enhanced, grass subcutaneous immunotherapy despite dose-dependent immunological response.
+immunotherapy in allergy and cellular tests: state of art.
+new developments in the treatment of pediatric allergic rhinitis and conjunctivitis.
+long-term intense exposure to grass pollen can mask positive effects of allergenic immunotherapy on non-specific bronchial hyperresponsiveness.
+grass tablet sublingual immunotherapy downregulates the th2 cytokine response followed by regulatory t-cell generation.
+sublingual or subcutaneous immunotherapy for seasonal allergic rhinitis: an indirect analysis of efficacy, safety and cost.
+magnitude of efficacy measurements in grass allergy immunotherapy trials is highly dependent on pollen exposure.
+house dust mite sublingual immunotherapy is safe and appears to be effective in moderate, persistent asthma.
+grass pollen sublingual immunotherapy: a double-blind, placebo-controlled study in elderly patients with seasonal allergic rhinitis.
+a milestone in house dust-mite-allergen immunotherapy: the new sublingual tablet s-524101 (actair).
+high-resolution crystal structure and ige recognition of the major grass pollen allergen phl p 3.
+a high polymerized grass pollen extract is efficacious and safe in a randomized double-blind, placebo-controlled study using a novel up-dosing cluster-protocol.
+scientific foundations of allergen-specific immunotherapy for allergic disease.
+sublingual allergen immunotherapy for respiratory allergies: what is new?.
+standardized sublingual allergen extract solution (staloral®): a guide to its use as allergen-specific immunotherapy.
+oral/sublingual phleum pretense grass tablet (grazax/grastek) to treat allergic rhinitis in the usa.
+300ir 5-grass pollen sublingual tablet offers relief from nasal symptoms in patients with allergic rhinitis.
+analysis of sensitization patterns of pollen allergic patients from west bohemia region.
+an observational, real-life safety study of a 5-grass pollen sublingual tablet in children and adolescents.
+preventive sublingual immunotherapy in preschool children: first evidence for safety and pro-tolerogenic effects.
+accelerated up-dosing of subcutaneous immunotherapy with a registered allergoid grass pollen preparation.
+allergen-specific immunotherapy.
+current status of sublingual immunotherapy in the united states.
+the influence of sublingual immunotherapy on several parameters of immunological response in children suffering from atopic asthma and allergic rhinitis depending on asthma features.
+mechanisms of allergen-specific immunotherapy and novel ways for vaccine development.
+the placebo effect in allergen-specific immunotherapy trials.
+allergen immunotherapy and allergic rhinitis: false beliefs.
+association between a low ige response to phl p 5 and absence of asthma in patients with grass pollen allergy.
+5-grass pollen tablets achieve disease control in patients with seasonal allergic rhinitis unresponsive to drugs: a real-life study.
+sublingual immunotherapy: the u.s. experience.
+new approaches to transcutaneous immunotherapy: targeting dendritic cells with novel allergen conjugates.
+evaluation of stability of allergen extracts for sublingual immunotherapy during transport under unfavourable temperature conditions with an innovative thermal insulating packaging.
+subcutaneous specific immunotherapy: what is the persistence and adherence of patients in real-life?.
+will sublingual immunotherapy offer benefit for asthma?.
+impact of a pharmacist-led clinic on adherence with sublingual immunotherapy in grass pollen rhinoconjuctivitis.
+feasibility of the juniper quality of life questionnaire for monitoring and assessing immunotherapy outcomes in routine clinical practice.
+phase i study of jrc-lamp-vax, a dna immunotherapy vaccine to treat japanese red cedar allergy.
+assessment of efficacy of allergen specific sublingual immunotherapy in patients with respiratory allergic disease.
+grass sublingual immunotherapy tablet treatment is associated with similar efficacy and safety in children and adults: subgroup analysis of data from a large north american trial.
+efficacy and safety of grass sublingual immuno-therapy tablet treatment in a large randomized controlled trial in north american children and adults.
+safety and tolerability of an intra-seasonal initiation of the sq-standardised grass allergy immunotherapy tablet: a non-interventional observational study investigating the feasibility during routine administration.
+sublingual immunotherapy with a five grass allergen extract on reduces local inflammation as measured by exhaled breath temperature in grass pollen allergic patients.
+polistes species venom is devoid of carbohydrate-based cross-reactivity and allows interference-free diagnostics.
+clinical efficacy of allergen-specific sublingual immunotherapy correlates with the induction of tolerogenic dendritic cell, but not cd4+ regulatory t cell, markers.
+grass pollen allergic patients treated with subcutaneous immunotherapy have elevated src-homology-2 domaincontaining inositol-5'phosphatase 1 and 2 (ship-1 and ship-2) protein levels.
+sustained effect of grass pollen subcutaneous immunotherapy on desensitisation of allergen specific basophil response.
+il-27 supresses allergen-driven th2 responses and il-27+ dendritic cells are significantly reduced in grass pollen allergic individuals compared to nonatopic controls.
+a novel subset of regulatory t cells: interleukin-35 producing t regs (itr35) are induced after grass pollen sublingual immunotherapy.
+the influence of pollen exposure on efficacy measurements in grass allergy immunotherapy trials.
+evaluation of the relationship between eq-5d health utilities and clinical efficacy endpoints in the treatment of seasonal grass pollen induced rhinoconjunctivitis.
+an evaluation of data on the relative clinical impact of sublingual allergen immunotherapy tablets and symptomatic medications in grass-pollen-induced allergic rhinoconjunctivitis.
+meta-analysis of allergen immunotherapy for treatment of grass pollen allergies indicates sublingual immunotherapy tablet is comparable to subcutaneous immunotherapy.
+allergen identification and characterisation of lysine modification in monomeric allergoids.
+identification of a candidate biomarker predictive of the response to allergen immunotherapy.
+satisfaction of patients with moderate/ severe allergic rhino conjunctivitis treated with specific immunotherapy as oral lyophilisate under routine clinical practice conditions.
+phleum pollen sensitisation pattern for major allergen components in southern romania grass pollinosis.
+mono and poly-aeroallergen sensitisation in allergic rhinitis patients from a pre-andes province in argentine.
+high-dose allergen immunotherapy induces a strong down-regulation of genes involved in th2 and th1 activation and function in adenoid tissues.
+immunogenic activity of pollen allergoids.
+is clinical efficacy of sublingual immunotherapy comparable at different pediatric age ranges?.
+tolerability and efficacy of house dust mite injective rush immunotherapy with monomeric allergoid compared to sublingual administration in patients with allergic rhinitis.
+patients with grass-induced allergic rhinitis and unresponsive to drugs achieve disease control through 5-grass pollen tablet treatment.
+one season of treatment with five grass pollen tablets in adults demonstrated a reduction in disease symptoms and impacts. findings of the smile study.
+decreased specific basophil responses following treatment with grass allergy immunotherapy tablets as well as subcutaneous phleum pratense immunotherapy.
+non-interventional 2-year-study of sublingual immunotherapy (slit) in patients with allergic rhinoconjunctivitis caused by grass pollen.
+absence of ige neosensitisation in allergic patients undergoing sublingual immunotherapy.
+what is the opinion of the patients under five grass pollen tablets immunotherapy? first season assessment in adults. findings of the smile study.
+protocols measuring cd63 or cd203c with or without il-3 priming lead to comparable conclusions for changes in specific activation of basophils from grass pollen allergic donors following specific immunotherapy.
+reaching maintenance dose with two injections in one week using an allergoid preparation for subcutaneous immunotherapy in children and adolescents.
+profile of patients treated with high-dose hypoallergenic pollen subcutaneous immunotherapy in the daily practice in germany.
+how late can a perlingual pre-co seasonal immunotherapy against grass pollen rhinitis be started? it's never too late.
+comparison of effect of subcutaneous immunotherapy with single or multiple allergens given in the same time.
+subcutaneus vs sublingual immunotherapy.
+grass allergen immunotherapy tablets vs symptomatic treatment for allergic rhinoconjunctivitis-a health economic evaluation.
+effects of treatment with sublingual and subcutaneous grass pollen specific immunotherapy preparations on igg4 antibody level.
+efficacy of 300ir 5-grass pollen extract sublingual tablet assessed by daily combined score: results of three doubleblind placebo-controlled natural field studies in children/adolescents and adults.
+full symptom control in patients with allergic rhinoconjunctivitis caused by grass pollen-results of a 2-year sublingual allergen immunotherapy study.
+custom made sublingual immunotherapy tablets for allergy disorders.
+specific sublingual immunotherapy in respiratory allergy patients.
+specific immunotherapy efficacy: which route is better?.
+compliance and safety of perlingual spray application with an aqueous allergen extract of grass pollen.
+the effect of standard regiment of specific immunotherapy on grass pollen induced allergic rhino-conjunctivitis.
+prospective adherence to specific immunotherapy in europe (paste) survey-preliminary results.
+th2 cytokine response down-regulation enables t regulatory cell generation in patients treated with sq-standardised grass allergy immunotherapy tablets.
+one-year sublingual immunotherapy in asthmatic children do not influence on basophil's cd203c stimulated and spontaneous expression.
+evaluation of a children's pollen immunotherapy service.
+transient impact of omalizumab in pollen allergic patients undergoing specific immunotherapy.
+allergen immunotherapy as a drug: the new deal of grass allergen tablets from clinical trials to current practice.
+transcutaneous delivery of cpg-adjuvanted allergen via laser-generated micropores.
+food hypersensitivity in patients treated with specific allergen immunotherapy (sit) for aeroallergens.
+a phase 3 trial assessing the efficacy and safety of grass allergy immunotherapy tablet in subjects with grass pollen-induced allergic rhinitis with or without conjunctivitis, with or without asthma.
+zap70 expression in regulatory t cells in allergic rhinitis: effect of immunotherapy.
+subcutaneous immunotherapy for allergic rhinitis: an evidence based review of the recent literature with recommendations.
+perennial is more effective than preseasonal subcutaneous immunotherapy in the treatment of seasonal allergic rhinoconjunctivitis.
+specific immunotherapy in childhood: subcutaneous or sublingual administration.
+assessment of specific immunotherapy efficacy using a novel placeboscore-based method.
+sensitisation patterns and association with age, gender, and clinical symptoms in children with allergic rhinitis in primary care: a cross-sectional study.
+pediatric sublingual immunotherapy efficacy: evidence analysis, 2009-2012.
+randomized controlled trial of ragweed allergy immunotherapy tablet efficacy and safety in north american adults.
+post-treatment efficacy of discontinuous treatment with 300ir 5-grass pollen sublingual tablet in adults with grass pollen-induced allergic rhinoconjunctivitis.
+economic evaluation of 5-grass pollen tablets versus placebo in the treatment of allergic rhinitis in adults.
+update on immune mechanisms associated with sublingual immunotherapy: practical implications for the clinician.
+clinical efficacy and immunological response in children is similar to that of adults after the first treatment season with sq-standardized grass allergy immunotherapy tablet in two randomized trials.
+sustained and post-treatment efficacy of a 5-grass pollen allergen extract sublingual tablet in adults with grass pollen-induced allergic rhinoconjunctivitis.
+cross reactions between pollens and vegetable food allergens.
+sublingual immunotherapy for allergic rhinitis and conjunctivitis.
+sublingual solution for immunotherapy: comparison of three different up-dosing schedules.
+long-term efficacy of allergen immunotherapy: what do we expect?.
+efficacy and safety of the sq-standardized grass allergy immunotherapy tablet in mono- and polysensitized subjects.
+induction of regulatory dendritic cells in correlation with clinical efficacy during grass pollen sublingual immunotherapy.
+molecular differences in major and minor allergens from us grass species support the association of several pollens for specific immunotherapy.
+immunotolerance mechanisms depend on high vs low dose of sublingual immunotherapy.
+local nasal 'protective' immunoglobulin g4 (igg4) responses in nasal fluid following grass pollen sublingual immunotherapy.
+specific immunotherapy: clinical experience with recombinant molecular major allergens and hypoallergenic variants.
+oralair®: a causal treatment for grass pollen-induced allergic rhinoconjunctivitis.
+a systematic review and economic evaluation of subcutaneous and sublingual allergen immunotherapy in adults and children with seasonal allergic rhinitis.
+[a three year survey of the practical application of pollen monitoring in specific allergen immunotherapy].
+the identification of potentially pathogenic and therapeutic epitopes from common human allergens.
+a molecular diagnostic algorithm to guide pollen immunotherapy in southern europe: towards component-resolved management of allergic diseases.
+celery - cause of severe anaphylactic shock.
+antigen presentation by dendritic cells and the practice of immunotherapy.
+postmarketing study for assessment of tolerability of a grass allergen immunotherapy tablet (grazax) in patients with rhinitis or rhinoconjunctivitis.
+long-term efficacy of specific immunotherapy in rhino-conjunctivitis to pollens.
+increased apoptosis of mononuclear cells in atopic patients - the effect of pollen season and stimulation with specific antigen.
+clinical efficacy of 300ir 5-grass pollen sublingual tablet in a us study: the importance of allergen-specific serum ige.
+repeated low dose intradermal allergen injection suppresses allergeninduced cutaneous late responses.
+audit of paediatric pollen immunotherapy in a regional clinic: quality of life outcomes.
+british society for allergy and clinical immunology abstracts of the 2012 annual meeting.
+disease-modifying effect of 300ir 5-grass pollen sublingual tablets in the treatment of grass pollen-induced allergic rhinoconjunctivitis in adults: assessment over an additional immunotherapy-free pollen season.
+allergic rhinitis: a review.
+the first year of treatment with sublingual tablet oralair.
+assessment of specific immunotherapy efficacy using a novel placebo score-based method.
+post marketing study (pms) about specific immunotherapy with a grass allergy immunotherapy tablet (ait).
+unique and cross-reactive t cell epitope peptides of the major bahia grass pollen allergen, pas n 1.
+transcutaneous immunotherapy via laser-generated micropores efficiently alleviates allergic asthma in phl p 5-sensitized mice.
+allergy patients treated with immunotherapy experience increased quality of life and fewer sick days after one year.
+clinical effects of immunotherapy in patients with allergic disease in the national institute of respiratory diseases.
+efficacy of timothy grass allergy immunotherapy tablet in european and north american patients with allergic rhinoconjunctivitis.
+cellular effects of intralymphatic allergen-specific immunotherapy.
+changes in allergen-specific cd4+ t-cell responses during grass pollen sublingual immunotherapy do not correlate with short-term clinical efficacy.
+heterogeneity of allergen epitope-specific cd4+ t-cell responses: steps toward optimal composition for peptide-based immunotherapy.
+seasonal nasal symptoms in grass allergic patients are reflected by symptoms induced in a standardised nasal challenge test with aqueous phleum pratense and linked to in vitro basophil activation.
+premature discontinuation of treatment among allergen immunotherapy users in allergic rhinitis.
+use of the sq-standardised grass allergen immunotherapy tablet improves health related quality of life (sf36) after completion of treatment.
+patterns of specific igg4 to allergen components in normal healthy individuals as measured with a microarray immunoassay.
+maintenance allergen immunotherapy prevents increase in feno induced by bronchial allergen challenge in seasonal allergic rhinitis patients.
+identification of grass pollen species using monoclonal antibody-based western blotting.
+safety of 5-grass pollen sublingual immunotherapy.
+pollen-specific allergen immunotherapy: is it safe to initiate the build-up phase during the pollen season? or is needed to reduce the dose?.
+immunological and genetic characterisation of a southern spain alternaria alternata allergic population.
+soluble trail levels in patients with allergic rhinoconjunctivitis: effect of immunotherapy.
+does sublingual immunotherapy work through the replacement of ige epitopes?.
+safety of ultra-rush perlingual immunotherapy in allergic rhinitis.
+the efficasy of pre-seasonal sublingual immunotherapy in patient with grass pollen allergy rhinitis during the first year of initiation.
+asthma prevention trial of an sqstandardised grass allergy immunotherapy tablet for children with grass pollen-induced rhinoconjunctivitis: preliminary baseline characteristics.
+the first season of use of a five-grass pollen sublingual immunotherapy tablet in patients in the slovak republic.
+economic evaluation of five-grass pollen tablets for the treatment of allergic rhinitis.
+the prevalence of complications in chronic allergic rhinitis.
+phenotypes of allergic rhinitis.
+effectiveness and safety of immunotherapy in patients over 50 years of age with grass pollen and birch allergy.
+persistence and compliance to grass immunotherapy treatment is comparable for sq-standardised allergy immunotherapy tablets and subcutaneous immunotherapy: a swedish registry study.
+allergymonitor: an useful tool for improving adherence of patients treated with sublingual immunotherapy.
+why do some patients refuse to start a slit course?.
+the risk of severe treatment-related adverse events is significantly lower in children compared with adults when treated with sq-standardised grass allergy immunotherapy tablets: post hoc analysis of seven clinical trials.
+subcutaneous specific immunotherapy with a high-dose hypoallergenic grass pollen preparation significantly reduces the number of worst days.
+how to define 'curing allergy'? results from a subcutaneous specific immunotherapy study using a high-dose hypoallergenic grass pollen preparation.
+safety and tolerability of pre-seasonal high cumulative dose sublingual immunotherapy regimen without updosing in birch-and grass-pollen sensitised patients with asthma and/or rhinitis.
+evolution of grass-pollen allergic patients treated with sublingual immunotherapy during a precoseasonal period.
+frequency and intensity of symptoms of grass pollen allergic patients treated with sublingual immunotherapy.
+component resolved diagnosis of phleum pratense allergens in a population residing in the centre of spain.
+is intralymphatic specific immunotherapy with grass pollen allergen ready for clinical use?.
+allergen immunotherapy treatment perception and satisfaction in patients with severe, grass-pollen-induced rhinoconjunctivitis.
+relationship between specific igg4 and basophil activation during the first year of pre-seasonal grass pollen allergoid immunotherapy.
+adjuvants for allergy vaccines.
+immunotherapy for inhalant allergens in childhood: revised consensus of the division of pediatric allergy of the dutch society of pediatrics.
+repeated low-dose intradermal allergen injection suppresses allergen-induced cutaneous late responses.
+budget impact analysis of two immunotherapy products for treatment of grass pollen-induced allergic rhino conjunctivitis.
+allergen specificity of igg4-expressing b cells in patients with grass pollen allergy undergoing immunotherapy.
+cross-reactivity and allergic rhinoconjunctivitis: practical implications for immunotherapy with a timothy grass pollen tablet.
+the cost-effectiveness of immunotherapy for respiratory allergy: a review.
+alpha purothionin, a new wheat food allergen, belongs to a family of plant defence proteins.
+ige reactivity profiling of allergic individuals in the philippines.
+compliance and persistence among users of subcutaneous and sublingual allergen immunotherapy.
+allergen-specific immunotherapy: from therapeutic vaccines to prophylactic approaches.
+subtropical grass pollen allergens are important for allergic respiratory diseases in subtropical regions.
+epigenetic modifications and improved regulatory t-cell function in subjects undergoing dual sublingual immunotherapy.
+mechanisms underlying allergy vaccination with recombinant hypoallergenic allergen derivatives.
+allergenic immunotherapy and seasonal changes in nitric oxide concentration in exhaled air in seasonal rhinitis patients.
+treatment of seasonal allergic rhinoconjunctivitis with a once-daily sq-standardized grass allergy immunotherapy tablet.
+early improvement of patients' condition during allergen-specific subcutaneous immunotherapy with a high-dose hypoallergenic 6-grass pollen preparation.
+3-years' long-term effect of subcutaneous immunotherapy (scit) with a high-dose hypoallergenic 6-grass pollen preparation in adults.
+efficacy of sublingual swallow immunotherapy in children with rye grass pollen allergic rhinitis: a double-blind placebo-controlled study.
+specific subcutaneous immunotherapy with recombinant grass pollen allergens: first randomized dose-ranging safety study.
+grass pollen immunotherapy in children: any symptoms 3 years after stopping the treatment?.
+the role of seasonal grass pollen on childhood asthma emergency department presentations.
+a multicenter, randomized, parallel-group trial assessing compliance, tolerability, safety, and efficacy to treatment with grass allergy tablets in 261 patients with grass pollen rhinoconjunctivitis.
+quality of life improvement with sublingual immunotherapy: a prospective study of efficacy.
+[update on current care guidelines: allergen specific immunotherapy].
+a regulatory dendritic cell signature correlates with the clinical efficacy of allergen-specific sublingual immunotherapy.
+how's my dosing? a one-step, math-free guide for comparing your clinic's maintenance immunotherapy doses to current practice parameter recommendations.
+one hundred years of immunotherapy: review of the first landmark studies.
+comparative effect of pre-coseasonal and continuous grass sublingual immunotherapy in children.
+analysis of allergen immunotherapy studies shows increased clinical efficacy in highly symptomatic patients.
+molecular profiles of ige to phleum pratense in children with grass pollen allergy: implications for specific immunotherapy.
+sq-standardized sublingual grass immunotherapy: confirmation of disease modification 2 years after 3 years of treatment in a randomized trial.
+effectiveness of preparations with non-modified allergens for sublingual application - evaluation of evidence by reference to clinical trials.
+glycoproteins are species-specific markers and major ige reactants in grass pollens.
+functional rather than immunoreactive levels of igg4 correlate closely with clinical response to grass pollen immunotherapy.
+a randomized placebo-controlled trial of rush preseasonal depigmented polymerized grass pollen immunotherapy.
+grass pollen inmunotherapy in children: safety aspects.
+timothy grass allergy immunotherapy tablets reduce nasal and ocular symptoms associated with allergic rhinoconjunctivitis during grass pollen season in north american children and adults: 2 randomized, placebo-controlled trials.
+the risk of severe treatment related adverse events is significantly lower in children compared to adults when treated with standardized timothy grass allergy immunotherapy tablets: post hoc analysis of 7 clinical trials.
+comparison of efficacy and safety of a dipigmented polymerized allergen extract of grass and birch with placebo in patients with type-1 allergic rhinoconjunctivitis.
+seasonal versus symptom-based evaluation of a depigmented grass-birch allergoid.
+clinical features and diagnostic value of specific ige to component allergen in bee venom allergy in korea.
+grass pollen allergen-induced surface expression of cd203c, cd63 and cd107a oncrth2+basophils: novel biomarkers for monitoring efficacy of allergen-specific immunotherapy.
+heterogeneity of allergen epitope-specific cd41 t cells responses: steps toward optimal composition for peptide-based immunotherapy.
+economic evaluation of grass tablets for immunotherapy (oralair) compared to placebo in adults and children in italy.
+efficacy and safety of 300ir 5-grass pollen sublingual allergen immunotherapy tablets in us adults with grass-pollen allergic rhinoconjunctivitis.
+long-term clinical efficacy of immunotherapy in rhino-conjunctivitis with pollen extract.
+the effect of specific immunotherapy on the clinical response in patients with grass-pollen induced rhinoconjunctivitis.
+does sublingual immunotherapy work with an immune deviation mechanism?.
+epidemiology of urticaria cases in the allergy service from a third level medical center. six year experience.
+induction of tolerance via the sublingual route: mechanisms and applications.
+asthma in patients with japanese cedar pollinosis.
+safety and efficacy of grass pollen specific immunotherapy using ultra-rush protocol and purethal vaccine.
+gram-positive bacteria on grass pollen exhibit adjuvant activity inducing inflammatory t cell responses.
+hypertonic saline is more effective than normal saline in seasonal allergic rhinitis in children.
+engineered forms of major grass pollen allergens as candidate vaccines for grass pollen allergy.
+sensitization profiles in polysensitized patients from a restricted geographical area: further lessons from multiplexed component resolved diagnosis.
+efficacy and safety of sublingual immunotherapy with grass monomeric allergoid: comparison between two different treatment regimens.
+immunological approaches for tolerance induction in allergy.
+clinical experience with recombinant molecules for allergy vaccination.
+intralymphatic immunotherapy: from the rationale to human applications.
+allergen immunotherapy and its place in the asthma treatment.
+grazax - tablet form of allergen immunotherapy.
+[pathophysiology of asthma: data concerning regulation of ige and th2 responses in the lung].
+changes in basophil activation during grass-pollen sublingual immunotherapy do not correlate with clinical efficacy.
+direct comparison between continuous and coseasonal regimen for sublingual immunotherapy in children with grass allergy: a randomized controlled study.
+local immunological mechanisms of sublingual immunotherapy.
+generation of a high affinity phl p 7-specific igg4 antibody.
+safety of pollinex quattro pollen immunotherapy in children.
+efficacy of timothy grass allergy immunotherapy tablet (ait) treatment in canadian children and adults with grass pollen-induced allergic rhinoconjunctivitis (arc).
+reproduction and juvenile animal toxicology studies in the rat with a new allergy vaccine adjuvanted with monophosphoryl lipid a (mpl®) for the treatment of grass pollen allergy.
+evidence of effect of subcutaneous immunotherapy in children: complete and updated review from 2006 onward.
+in subjects allergic to grass pollen, basophil sensitivity decreases during subcutaneous immunotherapy due to both humoral factors and cellular desensitization.
+budget impact analysis of immunotherapy in patients with grass pollen allergic rhinitis.
+impact of pollen exposure on the treatment effect of ragweed and grass immunotherapy tablets for seasonalallergic rhinoconjunctivitis: preliminary findings.
+efficacy of 300ir 5-grass pollen allergen sublingual immunotherapy (slit) tablets: subgroup analysis by baseline timothy-specific ige.
+clinical efficacy of sublingualimmunotherapy in patients with grass pollen induced respiratory allergy symptoms.
+allergen-specific immunotherapy in children.
+allergen immunotherapy practice in the united states: guidelines, measures, and outcomes.
+prediction of ige-binding epitopes by means of allergen surface comparison and correlation to cross-reactivity.
+specific immunotherapy for allergic rhinitis to grass and tree pollens in daily medical practiceâ€"symptom load with sublingual immunotherapy compared to subcutaneous immunotherapy.
+the average adjusted symptom score, a new primary efficacy end-point for specific allergen immunotherapy trials.
+diagnosis and treatment of grass pollen-induced allergic rhinitis in specialized current clinical practice in spain.
+a national audit of pollen immunotherapy for children in the united kingdom: patient selection and programme safety.
+sustained 3-year efficacy of pre- and coseasonal 5-grass-pollen sublingual immunotherapy tablets in patients with grass pollen-induced rhinoconjunctivitis.
+maintenance schedule of subcutaneous allergoid immunotherapy more efficacious than pre-seasonal.
+sustained clinical efficacy of sublingual immunotherapy with a high-dose grass pollen extract.
+allergen structures and epitopes.
+dosing and efficacy in specific immunotherapy.
+safety and tolerability of immunotherapy using various updosing schedules of a new scit product with an optimised allergen/aluminium hydroxide ratio.
+sustained effects of grass pollen ait.
+effect of ait in children including potential to prevent the development of asthma.
+immunotherapy concepts under investigation.
+oralair®: sublingual immunotherapy for the treatment of grass pollen allergic rhinoconjunctivitis.
+sublingual immunotherapy with natural grass pollen extracts: an appraisal of the evidence.
+preventing progression of allergic rhinitis: the role of specific immunotherapy.
+100 years of hyposensitization: history of allergen-specific immunotherapy (asit).
+comparison between major histocompatibility complex class ii tetramer staining and surface expression of activation markers for the detection of allergen-specific cd4+ t cells.
+importance of ostrya carpinifolia tree pollen exposure in exacerbating seasonal asthma.
+fas/fasl apoptosis as a marker of asit effectiveness in children with a grass pollen allergy.
+alum-formulated vaccines with singlespecies grass pollen extracts and mixtures of extracts from multiple phylogenetically related grass species activate allergic patients' basophils to the same degree.
+sensitisation to phleum pratense allergenic molecules (rphl p1, rphl p5, rphl p7, rphl p12) in grass pollen allergic children.
+treatment of grass pollen allergy with a patch: a randomised double-blind placebo controlled clinical trial.
+efficacy and safety of 300ir 5-grass pollen sublingual allergen immunotherapy tablets in adult patients with grass-pollen rhinoconjunctivitis in united states.
+efficacy of sublingual allergen immunotherapy tablets on individual symptom scores in adults with grass polleninduced allergic rhinoconjunctivitis.
+direct comparison between continuous and co-seasonal regimen for sublingual immunotherapy in children with grass allergy. a randomised controlled study.
+high-dose hypoallergenic grass pollen preparations for subcutaneous specific immunotherapy: fast onset of efficacy and long-term effects for up to 12 years after termination.
+efficacy and safety of sq-standardised grass allergy immunotherapy tablet in european and north american adults.
+during nasal challenge test with aqueous phleum pratense, measurements of nasal peakflow and total nasal symptom score are normalised 6 h post challenge.
+consistency of short-and long-term clinical trials results with 300 ir five-grass pollen tablets.
+relationship between allergic disease severity and efficacy of 300ir 5-grass pollen slit tablets for sublingual immunotherapy.
+allergy to subtropical grass pollens compared with temperate grass pollen in patients with allergic rhinitis from a subtropical region.
+efficacy and safety of sq-standardised grass allergy immunotherapy tablet in european and north american children and adolescents.
+recruitment for a trial investigating the preventive effect on asthma of an sqstandardised grass allergy immunotherapy tablet in children with grass pollen-induced rhinoconjunctivitis.
+safefy of cluster schedule for immunotherapy in allergic rinithis or asthma in children sensitised to grass pollen.
+safety of cluster immunotherapy with subcutaneous allergoid high-dose of pollen.
+considerable 6 years post treatment long-term effect of pre-seasonal subcutaneous specific immunotherapy (scit) with a high-dose hypoallergenic grass pollen preparation.
+safety and tolerability of sqstandardised grass allergy immunotherapy tablet in adults and children with allergic rhinoconjunctivitis: post hoc analysis of seven clinical trials.
+sq-standardised grass allergy immunotherapy tablet treatment did not result in asthma worsening in subjects with allergic grass pollen rhinoconjunctivitis with or without seasonal asthma.
+allergen-specific sublingual immunotherapy for patients with grass pollen induced respiratory disease.
+allergen-specific sublingual immunotherapy in patients season respiratory allergy symptoms.
+validation of an in house-development elisa for the quantification of phl p 5.
+allergen-specific modulation of allergic immune responses with low doses of timpol preparations in an experimental ige-mediated murine model of asthma.
+a phase i clinical trial with scit vaccines from timothy grass pollen extracts according to the new ema guidelines.
+clinical efficacy of sublingual immunotherapy in seasonal allergic asthma.
+the effect of preseasonal grass pollen allergoid immunotherapy on basophil cd203c expression.
+predicting treatment response after one course of short term immunotherapy adjuvanted with monophosphoryl lipid a.
+inhibition of grass allergen-specific t-cell responses by cd4+cd25+cd127lo regulatory t-cell.
+comprehensive allergen quantitation using mass spectrometry.
+monitoring latex immunotherapy efficacy with in vivo and in vitro methods (basophil activation test).
+changes in bronchial reactivity to histamine in the course of allergen immunotherapy in seasonal allergic rhinitis patients -are they really caused by the treatment? comparison of two schedules, maintenance versus pre-seasonal.
+changes in specific ige to single grass pollen allergens in patients undergoing sublingual immunotherapy.
+italian survey on the safety of ultrashortterm specific immunotherapy with pollen allergoids adjuvanted by monophosphoryl lipid a (issue study).
+specific immunotherapy improves the clinical response in patients with allergic rhinoconjunctivitis.
+noticeable placebo response in clinical studies investigating efficacy of different preparations for subcutaneous specific immunotherapy.
+a comparative health economic evaluation of the sq-standardised grass allergy immunotherapy tablet and subcutaneous immunotherapy in the treatment of grass pollen induced allergic rhinoconjunctivitis.
+olfactory function in seasonal allergic rhinitis can be improved by allergen-specific immunotherapy.
+treatment with sq-standardised grass allergy immunotherapy tablet impacted the number of days with low quality of life.
+tolerability of the sq-standardised grass allergy immunotherapy tablet and patient satisfaction with treatment in children, adolescents and adults during routine application.
+motivating factors for the initiation of allergen immunotherapy in severe, grasspollen-induced rhinoconjunctivitis.
+grass pollen nasal allergen challenge: technique, clinical outcomes and local biomarkers.
+cluster-immunotherapy with a highly polymerized pollen extract: a randomized, double-blind, placebo-controlled study.
+meta-analysis supports that the efficacy of grass allergy immunotherapy tablets is comparable to subcutaneous immunotherapy.
+intralymphatic specific immunotherapy, a new treatment form for grass pollen allergy. a preliminary safety study.
+long-term clinical efficacy of a 5-grass pollen sublingual immunotherapy tablet in adults with grass pollen-induced allergic rhinoconjunctivitis.
+mechanisms of sublingual immunotherapy.
+systemic reactions to subcutaneous allergen immunotherapy.
+sublingual immunotherapy for allergic respiratory diseases: efficacy and safety.
+the current role of sublingual immunotherapy in the treatment of allergic rhinitis in adults and children.
+effect of lactobacillus paracasei st11 on a nasal provocation test with grass pollen in allergic rhinitis.
+medication persistence with long-term, specific grass pollen immunotherapy measured by prescription renewal rates.
+recombinant allergens: what does the future hold?.
+characteristics of patients with respiratory allergy in france and factors influencing immunotherapy prescription: a prospective observational study (realis).
+recombinant allergens for specific immunotherapy.
+both sublingual and supralingual routes of administration are effective in long-term allergen-specific immunotherapy.
+investigation of the impact of aeroallergens sensitization on allergic rhinitis severity.
+purification of the major group 1 allergen from bahia grass pollen, pas n 1.
+sublingual allergen-specific immunotherapy adjuvanted with monophosphoryl lipid a: a phase i/iia study.
+long-term tolerance after allergen immunotherapy is accompanied by selective persistence of blocking antibodies.
+effect of grass pollen immunotherapy on asthma quality of life.
+efficacy of timothy grass allergy immunotherapy tablet during peak grass pollen season in north american children and adolescents.
+lower respiratory-related events in adults and children with allergic rhinoconjunctivitis receiving timothy grass allergy immunotherapy tablet.
+specific immunotherapy in treating atopic dermatitis: a systematic review using the grade system.
+consistency of clinical results throughout short-term and long-term studies with sublingual 300ir 5-grass pollen tablets.
+the efficacy of dual allergen sublingual immunotherapy in subjects with dermatophagoides farinae and timothy grass allergy as assessed by the rhinoconjunctivitis quality of life score.
+sublingual immunotherapy: a randomised comparison between continuous and seasonal treatment in children with grass pollen allergy.
+effect of timothy grass allergy immunotherapy tablet on allergic rhinoconjunctivitis eye symptoms in north american adults and children.
+efficacy of timothy grass allergy immunotherapy tablet during peak grass pollen season in north american adults.
+evidence for species-related differences between grass pollen allergens: implications for immunotherapy.
+impact of allergen specific immunotherapy and bacteriaderived immunomodulator on subpopulations of lymphocytes and cytokine synthesis in patients with respiratory allergies.
+ex vivo characterization of the cd4+ t cell response to ara h 1.
+days with severe symptoms: an additional efficacy endpoint in immunotherapy trials.
+allergy immunotherapy tablet: grazax® for the treatment of grass pollen allergy.
+efficacy and safety of timothy grass allergy immunotherapy tablets in north american children and adolescents.
+efficacy and safety of timothy grass allergy immunotherapy tablet treatment in north american adults.
+sublingual immunotherapy is effective and safe in children.
+future forms of immunotherapy.
+the consolidated standards of reporting trials (consort) statement applied to allergen-specific immunotherapy with inhalant allergens: a global allergy and asthma european network (ga2len) article.
+subcutaneous specific immunotherapy for seasonal allergic rhinitis: a review of treatment practices in the us and europe.
+safety of ultra-rush titration of sublingual immunotherapy in asthmatic children with tree-pollen allergy.
+in vivo and in vitro immunological changes induced by a short course of grass allergy immunotherapy tablets.
+practical aspects in sublingual specific immunotherapy.
+the rhinasthma gav scores without slit, at the beginning and at the end of seasonal slit.
+one-year follow-up of clinical and inflammatory parameters in children allergic to grass pollen receiving high-dose ultrarush sublingual immunotherapy.
+oraliar - subliguai tablets in specific allergen immunotherapy for hey fever/grass pollen fever.
+development of a sublingual allergy vaccinefor grass pollinosis.
+safety and efficacy of two days of rush immunotherapy among patients with allergic rhinitis and asthma.
+interactions between upper and lower airway.
+sublingual immunotherapy in polysensitized patients: effect on quality of life.
+effect on cell surface markers following allergen-induced desensitization of human whole-blood basophils.
+efficacy and safety of grass allergy immunotherapy tablet (ait) in a north american pediatric population.
+safety and tolerability of timothy grass allergy immunotherapy tablet in adults and children with allergic rhinoconjunctivitis: post hoc analysis of 7 clinical trials.
+disease-modifying effect of the sq-standardized grass allergy immunotherapy tablet is sustained and significant 2 year safter end of treatment.
+safety of dual allergen sublingual immunotherapy in subjects with dermatophagoides farinae and timothy grass allergy.
+atopy and aerd.
+eosinophilic cystitis treated with allergen immunotherapy.
+safety of timothy grass allergy immunotherapy tablet in north american adults and children.
+assessment of sustained efficacy and safety of a 300ir 5-grass pollen sublingual immunotherapy tablet (slit) in adults with grass pollen induced allergic rhinoconjunctivitis during a 3-year treatment study.
+efficacy and safety of timothy grass allergy immunotherapy tablet in north american adults.
+carbamylated monoid allergoids as a new therapeutic option for sublingual immunotherapy of mite- and grass-induced allergic rhinoconjunctivitis - a systematic review of published trials using lais® tablets.
+carbamylated monomelic allergoids as a therapeutic option for sublingual immunotherapy of dust mite- and grass pollen-induced allergic rhinoconjunctivitis: a systematic review of published trials with a meta-analysis of treatment using lais® tablets.
+allergic rhinitis: evidence-based practice.
+five-grass pollen 300ir slit tablets: efficacy and safety in children and adolescents.
+patch testing in atopic dermatitis patients.
+which allergen extract for grass pollen immunotherapy an in vitro study.
+important florida botanical aeroallergens.
+allergen immunotherapy in iceland 1977-2006.
+tolerance induction after specific immunotherapy with pollen allergoids adjuvanted by monophosphoryl lipid a in children.
+local and systemic ige in the evaluation and treatment of allergy.
+effect of birch pollen specific immunotherapy on birch pollen-related hazelnut allergy.
+patient satisfaction with current treatments for allergic rhinitis and asthma.
+application of mass spectrometry to the characterisation and quantification of pharmaceutical-grade allergens.
+influence of high-dose grass pollen sublingual immunotherapy on allergic eye and nose symptoms.
+amount of major allergen phl 5 and allergen activity in different european products for sublingual immunotherapy.
+subcutaneous immunotherapy with a preparation with optimised allergen aluminium hydroxide ratio: immunologic effects.
+an assessment of sustained efficacy and safety of a 300ir five-grass pollen sublingual immunotherapy tablet in adults with grass pollen induced allergic rhinoconjunctivitis during a 3-year treatment study.
+safety of sublingual immunotherapy for treatment of patients with severe asthma.
+molecular differences between species in major and minor allergens support the association of several grass pollens for immunotherapy.
+recombinant hypoallergenic variants of phl p 6: candidates for allergen-specific immunotherapy.
+experimental specific immunotherapy with timpol decreases allergic sensitisation and airway inflammation in mice.
+ultra-short preseasonal immunotherapy of depiquick grass pollen extract compared to placebo in patients with type-i allergic rhinoconjunctivitis.
+efficacy and safety of grass monomeric allergoid sublingual immunotherapy: a randomised study comparing two different treatment regimens versus drug therapy alone.
+comparison of efficacy of conventional subcutaneous immunotherapy and ultra-short subcutaneous immunotherapy containing monophosphoryl lipid a (mpl): results of a multicentre observational study after 2 years of treatment.
+intraseasonal short-time updosing with sq-standardised subcutaneous immunotherapy in patients with intermittent allergic rhinitis: a new therapeutic option.
+effect of the sq-standardised grass allergy immunotherapy tablet on immunological compartment in patients with grass pollen induced rhinoconjunctivitis.
+lack of association between clinical efficacy and cellular immune responses in the blood during grass pollen sublingual immunotherapy.
+heterogeneity of antibody responses among clinical responders following grass pollen sublingual immunotherapy.
+determination of sulfidoleukotrienes production in patients with atopic dermatitis.
+safety profile of sq-standardised grass allergy immunotherapy tablet for children one year post marketing authorisation.
+grass pollen sublingual immunotherapy tablets improve qol in a paediatric population.
+investigating the asthma preventive effect of the sq-standardised grass allergy immunotherapy tablet in grass allergic children - the gap trial.
+biologic potency by skin prick testing (spt) of us diagnostic allergen extracts of cat and bermuda grass pollen are two-fold higher compared to european and mexican extracts.
+the third seasonal sublingual immunotherapy in pollen-allergic rhinoconjunctivitis.
+a prospective italian survey on the safety of short term specific immunotherapy with pollen allergoids adjuvanted by monophosphoryl lipid a (uscit-mpl).
+the clinical development of specific immunotherapies: specific methodological issues and clinical interpretation of results.
+safety of allergen immunotherapy rush regimen in respiratory allergy.
+treatment satisfaction during routine treatment with the sq-standardised grass allergy immunotherapy tablet.
+a randomised, parallel-group, phase iv, open trial evaluating compliance to the treatment with grazax allergen immunotherapy tablet in patients with seasonal grass pollen rhinoconjuntivitis.
+long-lasting clinical efficacy of allergen specific immunotherapy in adults.
+comparison of clinical efficacy and preventive role between subcutaneous and sublingual immunotherapy in children with seasonal allergic rhinitis.
+real life benefit gains with grass pollen sub lingual tablet immunotherapy in severe conventional treatment refactory grass pollen rhinoconjunctivitis.
+asthma duration or number of sensitisations do not influence the treatment effect of the house dust mite allergy immunotherapy tablet.
+tolerability of a sublingual immunotherapy preparation with an increased allergen concentration - a non-interventional observational study.
+compliance side effects and safety of rush sublingual immunotherapy with monomeric allergoid tablets.
+quality of life during routine treatment with the sq-standardised grass allergy immunotherapy tablet.
+tolerability, safety and compliance of rush sublingual immunotherapy with monomeric allergoid tablets.
+safety profile and compliance of co-seasonal initiation of specific subcutaneous immunotherapy with a highly polymerised allergen extract.
+peach anaphylaxis due to a protein different than ltp.
+does the basophil specific ectoenzyme e-npp3 (cd203c) expression has a diagnostic value in pollen allergy?.
+sustained efficacy of the sq-standardised grass allergy immunotherapy tablet during the peak grass pollen season 2 years after treatment.
+disease-modifying effect of the sq-standardised grass allergy immunotherapy tablet is sustained 2 years after treatment.
+sublingual immunotherapy in children with allergic polysensitization.
+▼grazax for hay fever - what's new?.
+mechanistic studies of tolerance in sublingual immunotherapy (slit) patients with dermatophagoides farinae and timothy grass allergy.
+immunotherapy with a phleum pratense allergen extract induces an immune response to a grass-mix allergen extract.
+towards evidence-based medicine in specific grass pollen immunotherapy.
+mimotope vaccination for therapy of allergic asthma: anti-inflammatory effects in a mouse model.
+sublingual grass pollen immunotherapy is associated with increases in sublingual foxp3-expressing cells and elevated allergen-specific immunoglobulin g4, immunoglobulin a and serum inhibitory activity for immunoglobulin e-facilitated allergen binding to b cells.
+serum transforming growth factor-β levels depend on allergen exposure in allergic rhinitis.
+novel nasal secretion collection method for the analysis of allergen specific antibodies and inflammatory biomarkers.
+allergen immunotherapy.
+potency of commercial short ragweed extracts compared by elisa for amb a 1.
+comparison of specific sublingual immunotherapy to homeopathic therapy in children with allergic rhinitis.
+safety implications of different administration routes for specific immunotherapy.
+efficacy endpoints of a5 grass pollen sublingual tablets in adults and children.
+from evidence-based medicine to practice in specific grass pollen immunotherapy of seasonal allergic rhinoconjunctivitis.
+blocking antibodies: relationship between igg4-associated inhibitory activity and clinical response to grass-pollen immunotherapy.
+pre-seasonal specific immunotherapy in rhino-conjunctivitis versus placebo.
+long-term clinical efficacy in grass pollen-induced rhinoconjunctivitis after treatment with sq-standardized grass allergy immunotherapy tablet.
+grazax® - safety of specific immunotherapy with tablets taken at home.
+clinical parameters to evaluate the efficacy of allergen-specific immunotherapy in allergic rhinoconjunctivitis. calculation of "well days" as an adjunct concept.
+efficacy of non-modified allergen products for subcutaneous specific immunotherapy - evaluation of evidence in clinical trials.
+safety of anti-ige treatment with omalizumab in children with seasonal allergic rhinitis undergoing specific immunotherapy simultaneously.
+pre-seasonal specific short-term immunotherapy versus placebo in seasonal rhino-conjunctivitis.
+the importance of in vitro component-resolved diagnosis in paediatric patients.
+immunomodulatory nanoparticles as adjuvants and allergen-delivery system to human dendritic cells: implications for specific immunotherapy.
+phl p 5 resorption in human oral mucosa leads to dose-dependent and time-dependent allergen binding by oral mucosal langerhans cells, attenuates their maturation, and enhances their migratory and tgf-β1 and il-10-producing properties.
+certainties and doubts about sublingual and oral immunotherapy in children.
+efficacy, safety and tolerability of sublingual monomeric allergoid in tablets given without up-dosing to pediatric patients with allergic rhinitis and/or asthma due to grass pollen.
+treatment with the sq-standardised grass allergy immunotherapy tablet in children above and below the age of 10 - efficacy, safety and immunological response.
+sq-standardised grass allergy immunotherapy tablet in children induces clinical and immunological responses similar to those seen in adults.
+abstracts of the eaaci pediatric allergy and asthma meeting.
+sustained, disease-modifying effect of grass allergy tablet immunotherapy 1 year after a 3-year treatment period.
+audit of adverse reactions to pollen subcutaneous immunotherapy in children attending newcastle allergy clinic.
+rationale for five-grass pollen vaccine.
+comparison of intradermal skin testing (idst) and serum allergen-specific ige determination in an experimental model of feline asthma.
+a contemporary review of sublingual immunotherapy.
+epicutaneous allergen administration as a novel method of allergen-specific immunotherapy.
+temperature stabilitv and mixing compaitbilitv of phenolated, glycerinated short ragweed extracts.
+sq-standardized grass allergy immunotherapy tablet significantly improves quality of life in mono-and polysensitized patients.
+the sq-standardized grass allergy immunotherapy tabletis well tolerated over 3 years of treatment.
+diagnosis and management of allergic rhinitis.
+the future of sublingual immunotherapy.
+cost-effectiveness of grazax in the paediatric population for the treatment of grass pollen induced rhinoconjunctivitis in germany.
+rationale for a five-grass pollen vaccine.
+allergenicity and cross-reactivity of pine pollen.
+efficacy of grass pollen sublingual immunotherapy for three consecutive seasons and after cessation of treatment: the ecrit study.
+allergen content of grass pollen preparations for skin prick testing and sublingual immunotherapy.
+recombinant allergens for following antibody-responses during immunotherapywith a grass pollen vaccine and after five years of discontinuation.
+a novel nanoparticulate adjuvant for immunotherapy with lolium perenne.
+sublingual immunotherapy for japanese cedar pollinosis.
+mass spectrometric investigation of molecular variability of grass pollen group 1 allergens.
+safety of two cluster schedules for subcutaneous immunotherapy in allergic rhinitis or asthma patients sensitized to inhalant allergens.
+why can patients with baker's asthma tolerate wheat flour ingestion? is wheat pollen allergy relevant?.
+response to sublingual immunotherapy with grass pollen extract: monotherapy versus combination in a multiallergen extract.
+administration regimens for sublingual immunotherapy to pollen allergens: what do we know?.
+the problem of placebo-controlled trials allowing rescue medication: how to assess efficacy in rhinosinusitis and allergic rhinoconjunctivitis when both groups receive active rescue treatment.
+safety of sublingual grass pollen immunotherapy after anaphylaxis.
+allergen-specific immunotherapy in allergic rhinitis and asthma. mechanisms and proof of efficacy.
+allergic rhinitis.
+sublingual immunotherapy for children: are we there yet?. defining its role in clinical practice.
+safety and tolerability of an ultra short course subcutaneous immunotherapy formulation in a large randomised phase iii trial.
+foxp3 is increased in the sublingual mucosa after grass pollen sublingual immunotherapy and is accompanied by increases in serum igg4 and serum inhibitory activity for allergen-ige binding to b cells.
+characterisation of the group 13 pollen allergen of the subtropical bahia grass, paspalum notatum.
+a multicenter, randomised, parallel-group trial assessing compliance to 12-month treatment with grass tablets in 259 patients with grass pollen rhinoconjuntivitis.
+sustained, disease-modifying effect of grass allergen tablet immunotherapy 1 year after completion of treatment.
+efficacy and safety of a 300ir five-grass pollen slit tablet in children and adolescents with grass pollen rhinoconjunctivitis.
+safety and efficacy of recombinant grass pollen allergens: a dose - response study.
+early onset of action of a five-grass pollen 300 ir sublingual immunotherapy (slit) tablet evaluated in an allergen challenge chamber.
+asthma due to sulphites treated with immunotherapy.
+european outcomes amongst allergic rhinoconjunctivitis patients participating in a placebo-controlled study of ultra short course subcutaneous immunotherapy (uscit) conducted during the 2007 grass pollen season.
+the status of specific immunotherapy in the treatment of allergic rhinitis - data analysis of ecap study.
+evolution of subcutaneous specific immunotherapy formulations for seasonal allergic rhinitis.
+an exciting view on the immunological compartment during specific immunotherapy with grass tablet treatment.
+comparison of serum interleukin (il)-10, il-18, interferon (inf)-γ and igg4 levels in patients receiving preseasonal and perennial grass pollen immunotherapy.
+the novel acute adjuvant-free murine model of bronchial asthma induced by timothy pollen allergen.
+efficacy of a rush immunotherapy with a depigmented polymerised extract of grass pollen assessed in an environmental challenge chamber.
+grass pollen sit in daily medical practice - effectiveness of sublingual immunotherapy is comparable with subcutaneous treatment.
+quality of life benefits for patients with seasonal grass pollen-allergic rhinoconjunctivitis receiving ultra short course subcutaneous immunotherapy (uscit) with mpl adjuvant.
+specific immunotherapy for outpatients consulting for respiratory allergy symptoms - the french realis survey.
+does allergen specific immunotherapy influence clinical chemistry and haematology laboratory parameters in adults?.
+grass allergen tablet immunotherapy in children induces igg4 antibody and 4ige-blocking responses similar to those seen in adults.
+assessment of the efficacy of subcutaneous (sit), sublingual (slit) and combined sit and slit allergen immunotherapy in patients with pollen allergy and cross-reacting food allergen sensitisation.
+therapeutic approaches for patients with allergic rhinitis induced by grass pollen: the findings of the spanish petra study.
+grass pollen preseasonal immunotherapy: the effect on direct medical cost and quality of life.
+bronchial immunotolerance after ultrashort-course immunotherapy adjuvanted with monophosphoryl lipid a.
+ultra short course subcutaneous immunotherapy in asthmatic patients with allergy to grass pollen.
+the effect of the matched pairs method on the measurement of treatment effect in a trial of ultra short course specific immunotherapy.
+safety, tolerability and efficacy of a grass tablet 12-month treatment: a prospective multicenter trial in 259 patients with grass pollen rhinoconjuntivitis.
+an abbreviated dose escalation scheme of a high-dose sublingual immunotherapy (slit) single dose preparation is safe and convenient in adults and children.
+efficacy of sublingual immunotherapy with a high-dose 6-grass pollen preparation progressively increases in the third treatment year.
+evaluation of a 5-grass pollen sublingual immunotherapy (slit) tablet in a pediatric population at the pollen peak.
+efficacy assessment in an allergen challenge chamber (acc) of sublingual immunotherapy (slit) with a 5-grass pollen tablet.
+a new primary efficacy endpoint for specific immunotherapy clinical trials.
+seasonal slit clearly improves quality of life of grass pollen allergic patients - evaluation in a daily life setting.
+a multicentre study to evaluate the adherence of sublingual and depot immunotherapy to mixed grass in patients with rhinoconjunctivitis and/or asthma: the polite study.
+clinical efficacy of high-dose sublingual immunotherapy in children.
+relation between grass pollen exposure and efficacy for a grass allergen immunotherapy tablet.
+treatment with a grass allergen immunotherapy tablet in children above and below the age of 10 - efficacy, safety and immunological response.
+oral treatment of allergy with a nonpathogenic microorganism: a randomised clinical trial.
+recombinant timothy grass pollen allergen phl p 5.0109: physicochemical characterisation of the proposed international standardisation reference molecule.
+epitope-specific immunisation with a mimotope gene vaccine of phl p 5.
+a correlation of serum specific ige and skin prick tests.
+simultaneous scit with two separate allergen extracts demonstrates comparable safety and efficacy compared to scit with a single allergen extract.
+sq-standardised grass allergy immunotherapy tablet provides consistent reductions in all individual nose and eye seasonal symptoms compared to symptomatic medication alone 1 year after treatment.
+serum-specific ige/total ige ratio and clinical response to allergen-specific immunotherapy.
+with increased grass pollen exposure, treatment with sq-standardised grass allergy immunotherapy tablet further improves quality of life compared to symptomatic medications alone.
+efficacy and safety of sublingual specific immunotherapy in children.
+evaluation of subcutaneous versus mucosal (intranasal) allergen-specific rush immunotherapy in experimental feline asthma.
+safety and tolerability of seasonal ultra-rush, high-dose sublingual- swallow immunotherapy in allergic rhinitis to grass and tree pollens: an observational study in 193 children and adolescents.
+phleum pratense alone is sufficient for allergen-specific immunotherapy against allergy to pooideae grass pollens.
+evaluation of serum s-ige/total ige ratio in predicting clinical response to allergen-specific immunotherapy.
+an economic evaluation of grazax for the treatment of grass pollen induced rhinoconjunctivitis in children.
+reducing allergenicity by altering allergen fold: a mosaic protein of phl p 1 for allergy vaccination.
+efficacy and safety of 5-grass pollen sublingual immunotherapy tablets in patients with different clinical profiles of allergic rhinoconjunctivitis.
+implementation of pre-seasonal sublingual immunotherapy with a five-grass pollen tablet during optimal dosage assessment.
+efficacy and safety of high-doses sublingual immunotherapy in ultra-rush scheme in children allergic to grass pollen.
+clinical utility of sublingual immunotherapy in pediatric patients with allergic rhinitis and/or asthma.
+combination of omalizumab and specific immunotherapy is superior to immunotherapy in patients with seasonal allergic rhinoconjunctivitis and co-morbid seasonal allergic asthma.
+evaluation of a compliance device in a subgroup of adult patients receiving specific immunotherapy with grass allergen tablets (grazax®) in a randomized, open-label, controlled study: an a priori subgroup analysis.
+comparison of effectiveness of different immunotherapy treatment methods of patients with pollinosis and food cross-reactivity by studying immunological results.
+agreement of efficacy assessments for five grass pollen sublingual immunotherapy (slit) tablets in children and adolescents with grass pollen rhinoconjunctivitis and with or without mild asthma.
+sublingual immunotherapy with a once-daily 5-grass pollen tablet: efficacy assessment in an allergen challenge chamber (acc).
+significant improvements in quality of life following mpladjuvanted ultra short course subcutaneous immunotherapy (uscit) in patients with seasonal grass pollen allergy.
+effect of single-grass-allergen immunotherapy-tablet treatment on the time to first symptom and time to first use of rescue medication in children with allergic rhinitis.
+the efficacy of single-grass-allergen-immunotherapy-tablet treatment in mono- and multi-sensitized allergic rhinitis patients: findings from a post hoc analysis.
+evaluation of a five grass-pollen sublingual immunotherapy tablets (slit) in a pediatric population at peak pollen season and immunological outcomes.
+study of sublingual immunotherapy in subjects with dermatophagoides farniae and timothy grass allergy.
+ige-blocking antibodies may account for a large proportion of the observed treatment effect induced by specific immunotherapy (sit).
+changes in intradermal testing in patients receiving multiple allergen immunotherapy.
+significant reduction in combined symptom and medication score compared with placebo following mpl-adjuvanted uscit in patients with seasonal grass pollen allergy.
+agreement of efficacy assessments for five-grass pollen sublingual tablet immunotherapy.
+safety and efficacy in children of an sq-standardized grass allergen tablet for sublingual immunotherapy.
+compatibility of imported fire ant whole body extract with cat, ragweed, dermatophagoides pteronyssinus, and timothy grass allergens.
+long-term comparison of sublingual immunotherapy vs inhaled budesonide in patients with mild persistent asthma due to grass pollen.
+safety of sublingual immunotherapy started during the pollen season.
+emerging concepts of sublingual immunotherapy for allergy.
+randomized double-blind placebo-controlled trial of sublingual immunotherapy in children with house dust mite allergy in primary care: study design and recruitment.
+cost-effectiveness of specific immunotherapy with grazax in allergic rhinitis co-existing with asthma.
+sublingual immunotherapy: what have we learnt from the 'big trials'?.
+economic studies of immunotherapy: a review.
+tolerization of a type i allergic immune response through transplantation of genetically modified hematopoietic stem cells.
+molecular cloning, expression and immunological characterisation of pas n 1, the major allergen of bahia grass paspalum notatum pollen.
+control and regulation of peripheral tolerance in allergic inflammatory disease: therapeutic consequences.
+specific ige serum concentration is associated with symptom severity in children with seasonal allergic rhinitis.
+sublingual immunotherapy in youngsters: adherence in a randomized clinical trial.
+the predictive value of ige as biomarker in asthma.
+pre-seasonal or perennial multiple allergen extract based immunotherapy: hypothesis of therapeutic approach to treatment of symptomatic polysensitised allergic patients.
+double-blind, placebo-controlled evaluation of grass pollen specific immunotherapy with oral drops administered sublingually or supralingually.
+new visions in specific immunotherapy in children: an ipac summary and future trends.
+specific immunotherapy for common grass pollen allergies: pertinence of a five grass pollen vaccine.
+a hypoallergenic hybrid molecule with increased immunogenicity consisting of derivatives of the major grass pollen allergens, phl p 2 and phl p 6.
+lack of inflammatory cells in the oral mucosa of subjects undergoing sublingual immunotherapy.
+cluster immunotherapy with a glutaraldehyde-modified mixture of grasses results in an improvement in specific nasal provocation tests in less than 2.5 months of treatment.
+ige profiles of bermuda grass pollen sensitised patients evaluated by phleum pratense allergens phl p 1, 2, 4, 5, 6, 7, 11, 12.
+a patient with a five-fold, symptom-free overdosing of sublingual immunotherapy.
+grass pollen immunotherapy induces foxp3-expressing cd4+cd25+ cells in the nasal mucosa.
+cross-reactivity between pollen allergens from common pooideae grasses and rye.
+cross-reactivity between pollen allergens from common pooideae grasses and cultivated cereals.
+sublingual-oral administration of standardized allergenic extracts: phase 1 safety and dosing results.
+grass pollen immunotherapy: il-10 induction and suppression of late responses precedes igg4 inhibitory antibody activity.
+immunotherapy in childhood.
+local and systemic reactions occurring during immunotherapy: an epidemiological evaluation and a prospective safety-monitoring study.
+adjuvanted rush immunotherapy using cpg oligodeoxynucleotides in experimental feline allergic asthma.
+is specific immunotherapy now suitable for treating respiratory allergy?.
+economic evaluation of a tablet-based vaccination against hay fever in denmark.
+comparison of costs of sublingual immunotherapy and drug treatment in grass-pollen induced allergy: results from the simap database study.
+sublingual immunotherapy with standardized quality grass allergen tablets: results of the development program.
+treatment of grass pollen allergy: focus on a standardized grass allergen extract - grazax®.
+the role of anti-ige therapy in combination with allergen specific immunotherapy for seasonal allergic rhinitis.
+predicting patients at high-risk of systemic reactions to cluster allergen immunotherapy: a pilot prospective observational study.
+efficacy and quality of life with once-daily sublingual immunotherapy with grasses plus olive pollen extract without updosing.
+safety evaluation monitoring study of a short build up schedule of immunotherapy with intact mixture of grass and rye pollen extracts in adults.
+a case of pollinosis to grass pollens who presented with dyspnea and successfully treated by rush immunotherapy.
+sublingual immunotherapy in pollen-induced seasonal rhinitis and conjunctivitis: a randomized controlled trial.
+specific immunotherapy: the latest in new treatments.
+delineating the specificity of an ige-encoding transcriptome.
+sublingual-swallow immunotherapy with standardized 3-grass pollen extract: a double-blind, placebo-controlled study.
+grazax: an oral vaccine for the treatment of grass pollen allergy (hay fever).
+effect of grass pollen immunotherapy with alutard sq® on quality of life in seasonal allergic rhinoconjunctivitis.
+human dendritic cells transfected with allergen-dna stimulate specific immunoglobulin g4 but not specific immunoglobulin e production of autologous b cells from atopic individuals in vitro.
+lymphocyte differentiation in the nasal mucosa.
+cost-effectiveness of grazax® for prevention of grass pollen induced rhinoconjunctivitis in southern europe.
+safety of specific sublingual immunotherapy with sq standardized grass allergen tablets in children.
+omalizumab (xolair) in children with seasonal allergic rhinitis: leukotriene release as a potential in vitro parameter to monitor therapeutic effects.
+cross-reactivity of pollen allergens: impact on allergen immunotherapy.
+sublingual allergen immunotherapy: immunological mechanisms and prospects for refined vaccine preparations.
+grass allergen tablet immunotherapy relieves individual seasonal eye and nasal symptoms, including nasal blockage.
+prolonged preseasonal treatment phase with grazax sublingual immunotherapy increases clinical efficacy.
+stability of standardized grass, dust mite, cat, and short ragweed allergens after mixing with mold or cockroach extracts.
+skin test diagnosis of grass pollen allergy with a recombinant hybrid molecule.
+sublingual immunotherapy by means of disposable single-dose containers: tolerability and acceptance in patients with allergic rhinoconjunctivitis due to grass pollen.
+immunoglobulin e and g antibody profiles to grass pollen allergens during a short course of sublingual immunotherapy.
+sublingual specific immunotherapy: state of the art.
+new reagents on the horizon for immune tolerance.
+cost-effectiveness of grass allergen tablet (grazax®) for the prevention of seasonal grass pollen induced rhinoconjunctivitis - a northern european perspective.
+duration of allergen immunotherapy in respiratory allergy: when is enough, enough?.
+pharmacoeconomic assessment of specific immunotherapy versus current symptomatic treatment for allergic rhinitis and asthma in france.
+grass pollen immunotherapy induces an allergen-specific iga2 antibody response associated with mucosal tgf-β expression.
+sublingual immunotherapy with grass pollen is not effective in symptomatic youngsters in primary care.
+mechanisms of allergen-specific immunotherapy.
+recombinant allergens for immunotherapy.
+sublingual immunotherapy in sensitized mice.
+comparison of efficacy, safety and immunologic effects of subcutaneous and sublingual immunotherapy in birch pollinosis: a randomized study.
+generation of a low immunoglobulin e-binding mutant of the timothy grass pollen major allergen phl p 5a.
+effects of sublingual immunotherapy for multiple or single allergens in polysensitized patients.
+efficacy of pollen immunotherapy in seasonal allergic rhinitis.
+indoor allergens: relevance of major allergen measurements and standardization.
+evaluation of visual analog scales for the assessment of symptom severity in allergic rhinoconjunctivitis.
+quantitative assessment of the compliance with once-daily sublingual immunotherapy in children (easy project: evaluation of a novel slit formulation during a year).
+a group-1 grass pollen allergen influences the outcome of pollen competition in maize.
+grass pollen extracts are suitable for the hyposensitization of rye (secale cereale) pollen allergic patients.
+antigens drive memory ige responses in human allergy via the nasal mucosa.
+sublingual immunotherapy. a survey on the basis of controlled studies on efficacy, tolerability, long-term effects and prevention in children and adults with alk-scherax preparations.
+the ige-facilitated allergen binding (fab) assay: validation of a novel flow-cytometric based method for the detection of inhibitory antibody responses.
+do skin prick and conjunctival provocation tests predict symptom severity in seasonal allergic rhinoconjunctivitis?.
+specific immunotherapy with high dose sq standardized grass allergen tablets was safe and well tolerated.
+a double-blind randomized placebo-controlled trial with short-term β-glucuronidase therapy in children with chronic rhinoconjunctivitis and/or asthma due to dust mite allergy.
+efficacy and tolerability of high dose sublingual immunotherapy in patients with rhinoconjunctivitis.
+safety and tolerability of grass pollen tablets in sublingual immunotherapy - a phase-1 study.
+pollinex® quattro: a novel and well-tolerated, ultra short-course allergy vaccine.
+clinical and immunologic effects of sublingual immunotherapy in asthmatic children sensitized to mites: a double-blind, randomized, placebo-controlled study.
+immunization with a low-dose replicon dna vaccine encoding phl p 5 effectively prevents allergic sensitization.
+new insights in sublingual immunotherapy.
+mite immunotherapy.
+clinical efficacy and safety of preseasonal sublingual immunotherapy with grass pollen carbamylated allergoid in rhinitic patients. a double-blind, placebo-controlled study.
+multiple daily administrations of low-dose sublingual immunotherapy in allergic rhinoconjunctivitis.
+β-glucans in standardized allergen extracts.
+a localized reaction to sublingual immunotherapy.
+five-year follow-up on the pat study: specific immunotherapy and long-term prevention of asthma in children.
+once daily sublingual immunotherapy without updosing - a new treatment schedule.
+allergen immunotherapy: immunomodulatory treatment for allergic diseases.
+quality of life in allergic rhinitis and impact of high-dose sublingual immunotherapy: a real-life study.
+effects of high-dose sublingual immunotherapy on quality of life in patients with seasonal asthma: a pilot study.
+histamine receptors in immune regulation and allergen-specific immunotherapy.
+in contrast to specific b cells, human basophils are unaffected by the toxic activity of an allergen toxin due to lack of internalization of immunoglobulin e-bound allergen.
+side-effects of allergen-specific immunotherapy. a prospective multi-centre study.
+monoid sublingual immunotherapy.
+grass pollen immunotherapy as an effective therapy for childhood seasonal allergic asthma.
+efficacy and safety of specific immunotherapy with sq allergen extract in treatment-resistant seasonal allergic rhinoconjunctivitis.
+immune mechanisms of allergen-specific sublingual immunotherapy.
+safety of a sq-standardised grass allergen tablet for sublingual immunotherapy: a randomized, placebo-controlled trial.
+specific immunotherapy with sq standardized grass allergen tablets in asthmatics with rhinoconjunctiviti.
+twelve-year follow-up after discontinuation of preseasonal grass pollen immunotherapy in childhood.
+the role of allergen challenge chambers in the evaluation of anti-allergic medication: an international consensus paper.
+dose dependence of efficacy but not of safety in sublingual immunotherapy.
+dose dependence of efficacy and safety of subcutaneous immunotherapy.
+specific immunotherapy in the treatment of patients with atopic dermatitis - results of a double-blind, placebo-controlled study.
+accelerated immunotherapy schedules: review of efficacy and safety.
+effectiveness of specific immunotherapy in the treatment of children and youngsters suffering from atopic dermatitis. part iii. serum concentrations of selected immunologic parameters.
+allergoid-specific t-cell reaction as a measure of the immunological response to specific immunotherapy (sit) with a th1-adjuvanted allergy vaccine.
+the safer way to higher dosage: safe and effective specific immunotherapy with allergoids.
+health-economic analyses of subcutaneous specific immunotherapy for grass pollen and mite allergy.
+the effects of short-term immunotherapy using molecular standardized grass and rye allergens compared with symptomatic drug treatment on rhinoconjunctivitis symptoms, skin sensitivity, and specific nasal reactivity.
+possible relationship between systemic side effects and sensitization to rpar j 2 in allergic patients submitted to an ultra-rush (20 min) sublingual immunotherapy and selected by component resolved diagnosis.
+the results of diagnostic tests in patients with pollinosis treated by allergen immunotherapy.
+efficacy of specific immunotherapy in the treatment of children and youngsters suffering from atopic dermatitis. part i. evaluation of clinical score.
+an update on sublingual immunotherapy.
+intranasal tolerance induction with polypeptides derived from 3 noncross-reactive major aeroallergens prevents allergic polysensitization in mice.
+dose dependence of immunological response to sublingual immunotherapy.
+il-9 and c-kit+ mast cells in allergic rhinitis during seasonal allergen exposure: effect of immunotherapy.
+safety and tolerability of ultra-rush (20 minutes) sublingual immunotherapy in patients with allergic rhinitis and/or asthma.
+efficacy and safety of preseasonal-specific immunotherapy with an aluminium-adsorbed six-grass pollen allergoid.
+efficacy of sublingual allergen vaccination for respiratory allergy in children. conclusions from one meta-analysis.
+significant decrease of ige antibodies after a three-year controlled study of specific immunotherapy to pollen allergens in children with allergic asthma.
+sublingual immunotherapy in seasonal allergic rhinitis. review of 30 cases.
+physical exercise does not favour adverse reactions to allergen immunotherapy by the sublingual route.
+comparison of allergen immunotherapy and drug treatment in seasonal rhinoconjunctivitis: a 3-years study.
+from allergen avoidance to immunotherapy: treatment principles in grass pollen allergy.
+comparison of the biological potency of different allergen extracts: implications for future galenic application forms of slit.
+short-term immunotherapy with allergoids: results of a prospective, open study in allergologists' practices.
+a prospective, randomized, double-blind, placebo-controlled multi-centre study on the efficacy and safety of sublingual immunotherapy (slit) in children with seasonal allergic rhinoconjunctivitis to grass pollen.
+engineered allergens for immunotherapy.
+mapping of conformational ige epitopes on phl p 5a by using mimotopes from a phage display library.
+remission of allergic rhinitis: an 8-year observational study.
+efficacy and safety of specific allergen immunotherapy with standardized depod allergen h-ai depot. (pollens).
+prospective safety study of immunotherapy administered in a cluster schedule.
+sublingual and oral immunotherapy.
+canadian trial of sublingual swallow immunotherapy for ragweed rhinoconjunctivitis.
+tregs and allergic disease.
+randomized controlled trial of high-dose sublingual immunotherapy to treat seasonal allergic rhinitis.
+coseasonal sublingual immunotherapy reduces the development of asthma in children with allergic rhinoconjunctivitis.
+the co-seasonal application of anti-ige after preseasonal specific immunotherapy decreases ocular and nasal symptom scores and rescue medication use in grass pollen allergic children.
+inhibition of nasal mucosal eosinophils after immunotherapy is associated with a decrease in interleukin-13 mrna and vascular cell adhesion molecule-1 expression.
+plasmacytoid dendritic cells activate allergen-specific th2 memory cells: modulation by cpg oligodeoxynucleotides.
+sublingual immunotherapy in asthma and rhinoconjunctivitis.
+effect of anti-immunoglobulin e on nasal inflammation in patients with seasonal allergic rhinoconjunctivitis.
+molecular characterization of polygalacturonases as grass pollen-specific marker allergens: expulsion from pollen via submicronic respirable particles.
+allergen immunotherapy efficacy in rhinitis and asthma.
+noninjection immunotherapy.
+animal models of type i allergy using recombinant allergens.
+grass pollen immunotherapy induces mucosal and peripheral il-10 responses and blocking igg activity.
+allergen specific immunotherapy in allergic rhinitis.
+allergen immunotherapy practice parameter update.
+sublingual immunotherapy: an update.
+clinical efficacy of microencapsulated timothy grass pollen extract in grass-allergic individuals.
+clinical efficacy of sublingual and subcutaneous birch pollen allergen-specific immunotherapy: a randomized, placebo-controlled, double-blind, double-dummy study.
+immunotherapy in the age of anti-ige.
+variation of the skin end-point in patients treated with sublingual specific immunotherapy.
+safety of subcutaneous specific immunotherapy with pollen allergen extracts for respiratory allergy.
+inhibition of allergen-ige binding to b cells by igg antibodies after grass pollen immunotherapy.
+urinary leukotriene e4 levels in children with allergic rhinitis treated with specific immunotherapy and anti-ige (omalizumab).
+allergen-specific immunotherapy with a monophosphoryl lipid a-adjuvanted vaccine: reduced seasonally boosted immunoglobulin e production and inhibition of basophil histamine release by therapy-induced blocking antibodies.
+efficacy and tolerability of short-term specific immunotherapy with pollen allergoids adjuvanted by monophosphoryl lipid a (mpl®) for children and adolescents.
+allergen-specific immunotherapy in children. indications and results.
+inflammation, bronchial hyperreactivity and progression of asthma. five year follow-up study in grass sensitised farmers.
+induction of il-10+cd4+cd25+t cells by grass pollen immunotherapy.
+specific immunotherapy with tyrosine-adsorbed allergens: a post-marketing surveillance study.
+characteristics and immunobiology of grass pollen allergens.
+endotoxin content of standardized allergen vaccines.
+development of a quality-of-life assessment for the allergic child or teenager with multisystem allergic disease.
+hypoallergenic derivatives of major grass pollen allergens for allergy vaccination.
+genetic engineering of pollen allergens for hayfever immunotherapy.
+a pre-seasonal birch/hazel sublingual immunotherapy can improve the outcome of grass pollen injective treatment in bisensitized individuals. a case-referent, two-year controlled study.
+key pollen allergens in north america.
+efficacy of sublingual immunotherapy in grass pollen allergy.
+safety of allergen-specific sublingual immunotherapy and nasal immunotherapy.
+efficacy of sublingual immunotherapy in asthma and eczema.
+safety of various dosage regimens during induction of sublingual immunotherapy: a preliminary study.
+immunotherapy in children.
+short-term immunotherapy using an allergy vaccine adjuvanted with monophosphoryl lipid a: a post-marketing surveillance study.
+interleukin elispot assay for evaluation of specific sublingual immunotherapy in allergy.
+carbohydrate-based particles: a new adjuvant for allergen-specific immunotherapy.
+immunotherapy with an extract of olea europaea quantified in mass units: evaluation of the safety and efficacy after one year of treatment.
+the effect of anti-ige treatment on in vitro leukotriene release in children with seasonal allergic rhinitis.
+the cross-reactive calcium-binding pollen allergen, phl p 7, reveals a novel dimer assembly.
+immunotherapy for allergic asthma.
+short-term immunotherapy, results of a pms study.
+allergen immunotherapy: how to get the best results.
+a th1 inducing adjuvant, mpl®, safely assists in reducing the length of a pollen allergy vaccination course.
+efficacy of combination treatment with anti-ige plus specific immunotherapy in polysensitized children and adolescents with seasonal allergic rhinitis.
+grass pollen immunotherapy for hayfever is associated with increases in local nasal but not peripheral th1: th2 cytokine ratios.
+influence of allergen-specific immunotherapy on il-4-dependent il-12 production by monocytes.
+sublingual immunotherapy - results from a multi-centre, randomised, double-blind, placebo-controlled study with a standardised birch and grass/rye pollen extract.
+allergen immunotherapy - a position paper of the german society for allergology and clinical immunology.
+recombinant allergens - possibilities and limitations of their use.
+assistential profile of a cluster immunotherapy schedule with aluminium hydroxide-absorbed pollen extracts.
+quantification in mass units of group 1 grass allergens by a monoclonal antibody-based sandwich elisa.
+nasal immunotherapy at constant dosage: a double-blind, placebo-controlled study in grass-allergic rhinoconjunctivitis.
+rush immunotherapy with the standardised grass-pollen extract in children with mild allergic asthma. a comparison of two premedication regimens.
+sublingual tryptase and ecp in children treated with grass pollen sublingual immunotherapy (slit): safety and immunologic implications.
+allergen immunotheraphy - a position paper of the german society for allergology and clinical immunology.
+ifn-γ and il-12 plasmid dnas as vaccine adjuvant in a murine model of grass allergy.
+efficacy of specific immunotherapy in children with seasonal allergic rhinitis and conjunctivitis, sensitized to grass pollen.
+immunotherapy with a calcium phosphate-adsorbed five-grass-pollen extract in seasonal rhinoconjunctivitis: a double-blind, placebo-controlled study.
+a present state of the specific immunotherapy (hyposensitizaton, vaccination) of allergic diseases (clinical analysis of 618 treated allergic patients).
+specific immunotherapy in rhinitis and asthma.
+controlled study of preseasonal immunotherapy with grass pollen extract in tablets: effect on bronchial hyperreactivity.
+grass pollen immunotherapy: symptomatic improvement correlates with reductions in eosinophils and il-5 mrna expression in the nasal mucosa during the pollen season.
+peripheral blood lymphocyte subpopulations in patients with pollen allergy after specific immunotherapy.
+does allergen immunotherapy alter the natural course of allergic disorders?.
+can hla typing predict the outcome of grass pollen immunotherapy?.
+quality of life and compliance of patients treated with specific immunotherapy using grass and rye allergens (lqc study).
+evolution in the understanding of cross-reactivities of respiratory allergens: the role of recombinant allergens.
+a th1 inducing adjuvant, mpl®, safely provides a reduction in length of a pollen allergy vaccination course.
+preseasonal local allergoid immunotherapy to grass pollen in children: a double-blind, placebo-controlled, randomized trial.
+clinical efficacy of the whole year and preseasonal immunotherapy protocols in grass pollen allergy with catalet t vaccine.
+preventive symptomatic immunotherapy versus placebo in seasonal rhinitis due to grasses in children and to parietaria in adult patients.
+comparison of response to immunotherapy by intradermal skin test and antigen-specific ige in canine atopy.
+t cell reactivity with allergoids: influence of the type of apc.
+local nasal immunotherapy: efficacy and tolerability of two different administration schedules in grass pollen rhinitis.
+preventive immunotherapy.
+distribution of specific serum ige to recombinant pollen allergens (rphlp1, rphlp2, rphlp5, and rbetv2) and their relationship to each other and to their natural counterparts in patients allergic to grass pollen.
+safety of sublingual-swallow immunotherapy in children and adults.
+evaluation of ige antibodies to recombinant pollen allergens (phl p 1, phl p 2, and phl p 5) in a random sample of patients with specific ige to phleum pratense.
+long-term effects of specific immunotherapy, administered during childhood, in asthmatic patients allergic to either house-dust mite or to both house-dust mite and grass pollen.
+immunotherapy for hayfever.
+systemic immunological changes induced by administration of grass pollen allergens via the oral mucosa during sublingual immunotherapy.
+reaginic sensitizations and birthdate according to family history.
+short-term immunotherapy--a survey of current studies.
+grass pollen immunotherapy decreases the number of mast cells in the skin.
+molecular, immunological, and structural characterization of phl p 6, a major allergen and p-particle-associated protein from timothy grass (phleum pratense) pollen.
+reactivity of t cells with grass pollen allergen extract and allergoid.
+antigen specific immunoglobulin e to grass and weed pollens in the plasma of patients with seasonal allergic rhinitis.
+sublingual-swallow immunotherapy (slit) with a standardized five-grass- pollen extract (drops and sublingual tablets) versus placebo in seasonal rhinitis.
+sublingual immunotherapy and influence on urinary leukotrienes in seasonal pediatric allergy.
+cutting edge: identification of novel t cell epitopes in lol p5a by computational prediction.
+specific immunotherapy in stinging nettle pollen allergy.
+grass pollen specific sublingual/swallow immunotherapy in children: open-controlled comparison among different treatment protocols.
+the recombinant allergen-based concept of component-resolved diagnostics and immunotherapy (crd and crit).
+efficacy and safety of immunotherapy with modified grasspollen allergens. results of a placebo-controlled study.
+induction of antibody responses to new b cell epitopes indicates vaccination character of allergen immunotherapy.
+monitoring allergen immunotherapy of pollen-allergic patients: the ratio of allergen-specific igg4 to igg1 correlates with clinical outcome.
+interleukin-13 in the nasal lavage of pollinosis patients after specific intranasal challenge.
+specific immunotherapy.
+t-cell receptor contact and mhc binding residues of a major rye grass pollen allergen t-cell epitope.
+'allergen engineering': variants of the timothy grass pollen allergen phl p 5b with reduced ige-binding capacity but conserved t cell reactivity.
+b cell epitopes of the major timothy grass pollen allergen, phl p 1, revealed by gene fragmentation as candidates for immunotherapy.
+molecular and immunologic characterization of a highly cross-reactive two ef-hand calcium-binding alder pollen allergen, aln g 4: structural basis for calcium-modulated ige recognition.
+sensitization to alternaria and cladosporium in asthmatic patients and its in vitro diagnostic confirmation.
+induction of allergy to new aeroallergens during specific immunotherapy (sit) in grass pollen sensitive patients.
+serum fcεrii receptor (scd23) as an evaluating factor for grass pollen immunotherapy.
+specific immunotherapy for allergens - remarks on specific immunotherapy by the sub-lingual route.
+sublingual immunotherapy with a standardised grass pollen extract.
+immunoglobulins in acute, parainfectious, disseminated encephalo- myelitis.
+decrease of allergen-specific t-cell response induced by local nasal immunotherapy.
+specific immunotherapy downregulates peripheral blood cd4 and cd8 t- lymphocyte activation in grass pollen-sensitive asthma.
+levamisole's effect on the cutaneous hypersensitivity reaction and eosinophil function in patients allergic to grass pollen.
+eosinophil cationic protein in children with allergic diseases of the respiratory tract in exacerbation and remission of symptoms.
+short term efficacy of nasal immunotherapy.
+a novel dipstick developed for rapid bet v 1-specific ige detection: recombinant allergen immobilized via a monoclonal antibody to crystalline bacterial cell-surface layers.
+immunological changes during specific immunotherapy of grass pollen allergy: reduced lymphoproliferative responses to allergen and shift from th2 to th1 in t-cell clones specific for ph1 p 1, a major grass pollen allergen.
+specific immunotherapy suppresses il-1β and il-8 levels in nasal secretions: a possible explanation for the inhibition of inflammatory cell migration.
+clinical efficacy and tolerance of two year lolium perenne sublingual immunotherapy.
+short-term immunotherapy: a prospective, randomized, double-blind, placebo-controlled multicenter study of molecular standardized grass and rye allergens in patients with grass pollen-induced allergic rhinitis.
+interleukin-4 production in asthmatic patients during allergen immunotherapy: a preliminary study.
+nasal immunotherapy in pollen-sensitive children.
+clinical efficacy and safety of local nasal immunotherapy.
+the efficacy of the immunotherapy patients with pollinosis by allergovit and catalet.
+effect of preseasonal enzyme potentiated desensitisation (epd) on plasma. il-6 and il-10 of grass pollen-sensitive asthmatic children.
+a double-blind, placebo-controlled study of preventive immunotherapy with e.p.d., in the treatment of seasonal allergic disease.
+grass immunotherapy induces inhibition of allergen-specific human peripheral blood mononuclear cell proliferation.
+mediator release is altered in immunotherapy-treated patients: a 4-year study.
+sublingual versus injective immunotherapy in grass pollen allergic patients: a double blind (double dummy) study.
+preseasonal specific immunotherapy with modified phleum pratense allergenic extracts: tolerability and effects.
+the efficacy of e.p.d., a new immunotherapy, in the treatment of allergic diseases in children.
+local nasal immunotherapy with a powder extract for grass pollen induced rhinitis in pediatric ages: a controlled study.
+effects of mold proteases on the biological activity of allergenic pollen extracts.
+time course of olfactory function in allergic rhinitis.
+study on short-term and lasting clinical benefit afer 3 years of immunotherapy with grass pollen depot allergoid (allergovit).
+identification and characterization of the major allergens of velvet grass (holcus lanatus), hol l 1 and hol l 5.
+antihistamine premedication in specific cluster immunotherapy: a double- blind, placebo-controlled study.
+grass pollen immunotherapy inhibits allergen-induced infiltration of cd4+ t lymphocytes and eosinophils in the nasalmucosa and increases the number of cells expressing messenger rna for interferon-γ.
+immunotherapy for childhood asthma: is there a rationale for its use?.
+oral immunotherapy in the treatment of rhinoconjunctivitis due to grass pollen.
+effects of interferon-α on cytokine profile, t cell receptor repertoire and peptide reactivity of human allergen-specific t cells.
+local nasal immunotherapy with extract in powder form is effective and safe in grass pollen rhinitis: a double-blind study.
+a double-blind, placebo-controlled study of immunotherapy with grass-pollen extract alutard sq during a 3-year period with initial rush immunotherapy.
+immunotherapy with a standardized dermatophagoides pteronyssinus extract. v. duration of the efficacy of immunotherapy after its cessation.
+recombinant expression and epitope mapping of grass pollen allergens.
+clinical effects of specific immunotheraphy in children with atopic dermatitis.
+comparison of ige and igg antibody responses of atopic individuals with sensitization to tree and grass pollens.
+usefulness of soluble fractions in pollen immunotherapy.
+safety and efficacy of sublingual rush immunotherapy with grass allergen extracts. a double blind study.
+what can oral hyposensitization achieve?.
+oral hyposensitization of patients with plant pollens allergy.
+grass pollen immunotherapy: efficacy and safety during a 4-year follow-up study.
+inhibitory effect on the migration of inflammatory cells into the nasal mucosa by immunotherapy.
+grass pollen immunotherapy induces highly cross-reactive igg antibodies to group v allergen from different grass species.
+tear ige specific dosage to evaluate the desensitizing of atmospheric allergies using sublingual therapy.
+quadrillage - a co-seasonal treatment of pollinosis.
+t cell response to grass pollen allergens: correlation with skin test reactivity and serum ige levels.
+a reduction in allergen-induced fcεr2/cd23 expression on peripheral b cells correlates with successful hyposensitization in grass pollinosis.
+isolation of an immunodominant ige hapten from an epitope expression cdna library. dissection of the allergic effector reaction.
+comparison of three in vitro assays for serum ige with skin testing in asthmatic children.
+ige-binding capacity of recombinant timothy grass (phleum pratense) pollen allergens.
+susceptibility of a grass-pollen oral immunotherapy extract to the saliva and gastric fluid digestive process.
+immunotherapy in pollen and mould asthma.
+allergen immunotherapy decreases interleukin 4 production in cd4+ t cells from allergic individuals.
+rush immunotherapy with sublingual administration of grass allergen extract.
+cutaneous histamine reactivity, histamine content of commercial allergens, and potential for false-positive skin test reactions in dogs.
+linear monitoring of patients sensitive to olea and grass pollens treated with immunotherapy based on glutaraldehyde-modified (allergoid) extracts.
+a prospective safety-monitoring study of immunotherapy with biologically standardized extracts.
+identification of canary grass (phalaris aquatica) pollen allergens by immunoblotting: ige and igg antibody-binding studies.
+systemic reactions occurring during immunotherapy with standardized pollen extracts.
+allergen immunotherapy for the patient with allergic rhinitis.
+titration of immunotherapy by periodical nasal allergic challenges in the treatment of allergic rhinitis.
+allergy practice forum: hayfever in the united kingdom.
+differences in clinical and immunologic reactivity of patients allergic to grass pollens and to multiple-pollen species. ii. efficacy of a double-blind, placebo-controlled, specific immunotherapy with standardized extracts.
+allergen-antibody complexes can efficiently prevent seasonal rhinitis and asthma in grass pollen hypersensitive patients. allergen-antibody complex immunotherapy.
+immunotherapy and allergic inflammation.
+usefulness of immunotherapy in patients with severe summer hay fever uncontrolled by antiallergic drugs.
+reappraisal of inhalant allergens available for allergy practice in japan. a need to increase allergen extracts available for immunotherapy.
+hyposensitization therapy with whole pollen extract or purified allergens monitored by immunoblotting.
+desensitization at the first stage of ige-mediated response as hay fever prophylaxis.
+oral immunotherapy with grass pollen in enterosoluble capsules. a prospective study of the clinical and immunological response.
+double-blind, placebo-controlled immunotherapy with mixed grass-pollen allergoids. iv. comparison of the safety and efficacy of two dosages of a high-molecular-weight allergoid.
+detection of auto-anti-idiotypic antibodies to lol p i (rye i) ige antibodies in human sera by the use of murine idiotypes: levels in atopic and non-atopic subjects and effects of immunotherapy.
+a double-blind study on the value of low-dose immunotherapy in the treatment of asthma and allergic rhinitis.
+double-blind, placebo-controlled immunotherapy with mixed grass-pollen allergoids: iii. efficacy and safety of unfractionated and high-molecular-weight preparations in rhinoconjunctivitis and asthma.
+specific ige and igg antibody responses in children to timothy pollen components during immunotherapy.
+the effect of preseasonal immunotherapy on the production of histamine-releasing factor (hrf) by mononuclear cells from patients with seasonal asthma: results of a double-blind, placebo-controlled, randomized study.
+combination of parenteral and oral immunotherapy in grass pollen-allergic children. a double-blind controlled study of clinical and immunological efficacy.
+variations in antigen-specific histamine release related with immunotherapeutic treatment.
+change in sensitization parameters during allergen immunotherapy with an immunochemically characterized grass pollen extract.
+does the effect of immunotherapy last after termination of treatment? follow-up study in patients with grass pollen rhinitis.
+double-blind, placebo-controlled immunotherapy with mixed grass-pollen allergoids. ii. comparison between parameters assessing the efficacy of immunotherapy.
+lymphocyte transformation by grass pollen allergens: a study of atopic patients receiving immunotherapy. part ii. patients during maintenance treatment.
+treatment of hay fever by allerglobuline: a randomized double-blind study.
+immunological properties of chemically produced fragments of rye grass pollen extract.
+immunotherapy in children with pollenosis and pollen asthma using a modified depot allergoid extract (grass/rye = 80/20%).
+double-blind, placebo-controlled immunotherapy with mixed grass-pollen allergoids. i. rush immunotherapy with allergoids and standardized orchard grass-pollen extract.
+immunochemical studies of lolium perenne (rye grass) pollen allergens, lol p i, ii, and iii.
+efficacy of grass-maize pollen oral immunotherapy in patients with seasonal hay-fever: a double-blind study.
+igg subclass antibody markers in grass pollen immunotherapy.
+an investigation of human immune response to perennial ryegrass (lolium perenne) pollen cytochrome c (lol p x).
+determination of specific igg4 in allergy.
+clinical evaluation of hyposensitization in allergic rhinitis: comparison of the results obtained with three different extracts. material from a 3-year study.
+allergy indices based on allergen dose-response curve in a randomly selected sample of schoolchildren.
+oral hyposensitisation with enteric-coated allergens as extension therapy following a basic subcutaneous course of injections.
+a study of igg blocking antibodies in patients affected with respiratory allergy.
+a comparison of the immune response to immunotherapy with polymerized grass allergen and monomeric grass allergen.
+seasonal asthma in northern california: allergic causes and efficacy of immunotherapy.
+a multicenter trial of immunotherapy with alginate-conjugated grass pollen extract.
+immunologic histamine release from isolated human basophils during specific immunotherapy.
+soluble copolymer of wasp venom with human albumin for venom immunotherapy.
+assessment of ige-mediated sensitivity during immunotherapy: comparison of the rast with and without adsorption of igg to titrated prick skin tests.
+cross allergenicity among grasses determined by tissue threshold changes.
+clinical and biological evaluation of semi-rush and ordinary immunotherapy schemes in type i allergic respiratory diseases.
+induction of antigen-specific suppressor cells in patients with hay fever receiving immunotherapy.
+comparison between rush immunotherapy with a standardized allergen and an alum adjuved pyridine extracted material in grass pollen allergy.
+a comparison of the clinical and immunological effects of an alum-precipitated five-grass extract with a conjugated two-grass extract in the desensitization of hay fever.
+further evaluation of local intranasal immunotherapy with aqueous and allergoid grass extracts.
+biphasic systemic anaphylactic reaction: three illustrative cases.
+grass pollen allergoid. a 4-year follow-up study.
+rationale for specific immunotherapy of grass pollen allergy with extracts of rye pollen. skin test reactivity and immunochemical relationship between pollen allergens from rye and other common grasses.
+diagnosis and treatment of pollinosis by means of a standardised purified phleum extract.
+immunotherapy with alginate-conjugated and alum-precipitated grass pollen extracts in patients with allergic rhinoconjunctivitis.
+lymphocyte transformation by grass pollen allergens. a study of atopic patients receiving immunotherapy.
+a three-layer immunoradiometric assay for determination of igg subclass antibodies in human sera ('igg subclass rast'). validation of the subclass specificity, and establishment of equipotency.
+a double-blind histamine placebo-controlled trial of polymerized whole grass for immunotherapy of grass allergy.
+grass pollen hyposensitization versus placebo therapy.
+allergen-controlled study of intranasal immunotherapy for ragweed hay fever.
+an automated particle counting immunoassay (pacia) for determination of blocking antibodies against timothy grass pollen in sera from desensitized allergics.
+local intranasal immunotherapy for grass-allergic rhinitis.
+successful hyposensitization treatment in atopic eczema: results of a trial in monozygotic twins.
+immunotherapy with grass pollen major allergens. immunological results from a prospective 3-year double blind study.
+in vitro evaluation of blocking antibodies by rast interference during pollen desensitization: role of the igg fraction.
+side effects during immunotherapy with purified grass pollen extracts.
+the immune response in humans and rabbits to monomeric and polymeric grass allergens.
+clinical efficacy and changes in specific immunoglobulins after desensitization to grass pollens over two pollen seasons.
+immunotherapy with grass pollen major allergens. clinical results from a prospective 3-year double blind study.
+nasal and skin sensitivity during immunotherapy with two major allergens 19, 25 and partially purified extract of timothy grass pollen.
+clinical studies of a purified timothy pollen extract: desensitization therapy with a purified timothy pollen preparation compared to a crude timothy pollen extract. ii. results of the tests in vitro and their relation to symptoms and tests in vivo.
+immunotherapy of atopic disorders. present state of the art and future perspectives.
+further studies on the safety of polymerized antigens for immunotherapy.
+studies on the search for a promising immunopotentiative substance for the treatment of leprosy. i. analytical studies on bamboo grass.
+long-term immunotherapy with aqueous and aluminum-precipitated grass extracts.
+reduced allergen immunotherapy of grass pollinosis.
+how and when is immunotherapy for pollen allergy carried out?.
+use of glutaraldehyde-modified timothy grass pollen extract in nasal hyposensitisation treatment of hay fever.
+studies on t-lymphocyte populations in ige-mediated disorders. ii. ige, e rosettes and e active rosettes before and after immunotherapy.
+the clinical and immunologic specificity of immunotherapy.
+basophil histamine release in patients with hay fever. results compared with specific ige and total ige during immunotherapy.
+ige, igg and iga antibodies in serum and nasal secretion during parenteral hyposensitization.
+lymphocyte response to grass pollen antigens: a correlation with radioallergosorbent test and effect of immunotherapy.
+immunological studies in vitro and in vivo of children with pollenosis given immunotherapy with an aqueous and a glutaraldehyde treated tyrosine adsorbed grass pollen extract.
+controlled specific immunotherapy of the nasal atopy.
+depression of grass pollen induced lymphocyte transformation by serum from hyposensitized patients.
+there are 10 target papers found during the search in pubmed!.
+in the end, 10 target papers were left after filtering!.
+false positive rate: 0.5238670694864048.
+
+Included target articles are as follow:
+randomized controlled trial of high-dose sublingual immunotherapy to treat seasonal allergic rhinitis.
+efficacy and safety of sublingual immunotherapy with grass allergen tablets for seasonal allergic rhinoconjunctivitis.
+sublingual immunotherapy with once-daily grass allergen tablets: a randomized controlled trial in seasonal allergic rhinoconjunctivitis.
+optimal dose, efficacy, and safety of once-daily sublingual immunotherapy with a 5-grass pollen tablet for seasonal allergic rhinitis.
+safety and efficacy in children of an sq-standardized grass allergen tablet for sublingual immunotherapy.
+efficacy and safety of 5-grass-pollen sublingual immunotherapy tablets in pediatric allergic rhinoconjunctivitis.
+efficacy and safety of timothy grass allergy immunotherapy tablets in north american children and adolescents.
+efficacy and safety of timothy grass allergy immunotherapy tablet treatment in north american adults.
+clinical efficacy of 300ir 5-grass pollen sublingual tablet in a us study: the importance of allergen-specific serum ige.
+efficacy and safety of grass sublingual immunotherapy tablet, mk-7243: a large randomized controlled trial.

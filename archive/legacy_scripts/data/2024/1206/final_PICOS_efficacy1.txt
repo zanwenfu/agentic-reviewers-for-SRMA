@@ -1,0 +1,299 @@
+total number of articles searched: 432.
+include criteria: [['participants diagnosed with seasonal allergic rhinoconjunctivitis'], ['administration of grass pollen allergen sublingual immunotherapy tablets'], ['comparative group receiving placebo or standard treatment'], ['improvement in symptoms related to seasonal allergic rhinoconjunctivitis'], ['meta-analysis or systematic review study design']].
+exclude criteria: [['studies involving children under the age of 18'], ['use of a different form of immunotherapy (e.g. subcutaneous injections)'], ['lack of a control group for comparison'], ['lack of reported primary outcomes (e.g. symptom improvement, medication use)'], ['non-randomized study design']].
+antigen‐specific active immunotherapy for ovarian cancer.
+sublingual immunotherapy for treating allergic conjunctivitis.
+sublingual immunotherapy for allergic rhinitis.
+immunotherapy for advanced or metastatic urothelial carcinoma.
+allergen injection immunotherapy for seasonal allergic rhinitis.
+helminth therapy (worms) for allergic rhinitis.
+specific allergen immunotherapy for the treatment of atopic eczema.
+sublingual immunotherapy for asthma.
+immunotherapy for diabetic amyotrophy.
+immunotherapy for recurrent miscarriage.
+injection allergen immunotherapy for asthma.
+immunotherapy for metastatic renal cell carcinoma.
+oral and sublingual immunotherapy for egg allergy.
+mycobacterium vaccae immunotherapy for treating tuberculosis.
+venom immunotherapy for preventing allergic reactions to insect stings.
+adjuvant therapy for completely resected stage ii colon cancer.
+immunotherapy for igm anti‐myelin‐associated glycoprotein paraprotein‐associated peripheral neuropathies.
+interventions for the treatment of oral and oropharyngeal cancers: targeted therapy and immunotherapy.
+anti‐gd2 antibody‐containing immunotherapy postconsolidation therapy for people with high‐risk neuroblastoma treated with autologous haematopoietic stem cell transplantation.
+enteral nutrition formulations for acute pancreatitis.
+salvage systemic therapy for advanced gastric and oesophago‐gastric junction adenocarcinoma.
+neoadjuvant and adjuvant therapy for surgical resection of hepatocellular carcinoma.
+resection versus other treatments for locally advanced pancreatic cancer.
+systemic treatments for metastatic cutaneous melanoma.
+topical antihistamines and mast cell stabilisers for treating seasonal and perennial allergic conjunctivitis.
+cytoreductive nephrectomy in metastatic renal cell carcinoma.
+single or combined immune checkpoint inhibitors compared to first‐line platinum‐based chemotherapy with or without bevacizumab for people with advanced non‐small cell lung cancer.
+pembrolizumab monotherapy versus chemotherapy for treatment of advanced urothelial carcinoma with disease progression during or following platinum‐containing chemotherapy. a cochrane rapid review.
+immune checkpoint inhibitors plus platinum‐based chemotherapy compared to platinum‐based chemotherapy with or without bevacizumab for first‐line treatment of older people with advanced non‐small cell lung cancer.
+management of people with early‐ or very early‐stage hepatocellular carcinoma.
+therapeutic vaccines for advanced non‐small cell lung cancer.
+targeted therapy for metastatic renal cell carcinoma.
+intravesical bacillus calmette‐guérin in ta and t1 bladder cancer.
+daclizumab for relapsing remitting multiple sclerosis.
+palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro‐entero‐pancreatic neuroendocrine tumours.
+pharmacological treatment for continuous spike‐wave during slow wave sleep syndrome and landau‐kleffner syndrome.
+anti‐inflammatory treatment for carditis in acute rheumatic fever.
+antihistamines used in addition to topical nasal steroids for intermittent and persistent allergic rhinitis in children.
+cisplatin versus carboplatin in combination with third‐generation drugs for advanced non‐small cell lung cancer.
+aerobic physical exercise for adult patients with haematological malignancies.
+chemotherapy and radiotherapy for advanced pancreatic cancer.
+nasal saline irrigations for the symptoms of chronic rhinosinusitis.
+exercise interventions for adults with cancer receiving radiation therapy alone.
+pegylated liposomal doxorubicin for relapsed epithelial ovarian cancer.
+maintenance therapy for chronic lymphocytic leukaemia.
+biologics for chronic rhinosinusitis.
+functional endoscopic balloon dilation of sinus ostia for chronic rhinosinusitis.
+topical and systemic antifungal therapy for chronic rhinosinusitis.
+short‐course oral steroids as an adjunct therapy for chronic rhinosinusitis.
+short‐course oral steroids alone for chronic rhinosinusitis.
+capsaicin for non‐allergic rhinitis.
+antibiotics versus placebo for acute bacterial conjunctivitis.
+topical pharmacologic interventions versus placebo for epidemic keratoconjunctivitis.
+medical interventions for chronic rhinosinusitis in cystic fibrosis.
+functional endoscopic sinus surgery for chronic rhinosinusitis.
+surgical interventions for chronic rhinosinusitis with nasal polyps.
+surgical versus medical interventions for chronic rhinosinusitis with nasal polyps.
+intranasal steroids versus placebo or no intervention for chronic rhinosinusitis.
+steroid‐eluting sinus stents for improving symptoms in chronic rhinosinusitis patients undergoing functional endoscopic sinus surgery.
+house dust mite avoidance measures for perennial allergic rhinitis.
+infant formulas containing hydrolysed protein for prevention of allergic disease.
+environmental sanitary interventions for preventing active trachoma.
+maternal glucose administration for facilitating tests of fetal wellbeing.
+fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).
+fetal vibroacoustic stimulation for facilitation of tests of fetal wellbeing.
+vaccines for preventing typhoid fever.
+g‐csf and gm‐csf for treating or preventing neonatal infections.
+maternal prenatal and/or postnatal n‐3 long chain polyunsaturated fatty acids (lcpufa) supplementation for preventing allergies in early childhood.
+ribavirin for treating crimean congo haemorrhagic fever.
+penicillin for secondary prevention of rheumatic fever.
+oestrogen therapy for treating pelvic organ prolapse in postmenopausal women.
+saline nasal irrigation for acute upper respiratory tract infections.
+interventions for treating genital   chlamydia trachomatis infection in pregnancy.
+probiotics for treatment of clostridium difficile‐associated colitis in adults.
+surgical approach to hysterectomy for benign gynaecological disease.
+saline irrigation for allergic rhinitis.
+yellow fever vaccine for patients with hiv infection.
+rapid diagnostic tests for typhoid and paratyphoid (enteric) fever.
+probiotics for the treatment of bacterial vaginosis.
+selenium supplementation for asthma.
+oestrogens for treatment or prevention of pelvic organ prolapse in postmenopausal women.
+capsaicin for allergic rhinitis in adults.
+gonadotropin‐releasing hormone analogues for endometriosis.
+paracetamol versus placebo or physical methods for treating fever in children.
+long‐term antibiotic prophylaxis for prevention of rheumatic fever recurrence and progression to rheumatic heart disease.
+short acting beta2‐agonists for bronchiectasis.
+family therapy for asthma in children.
+antenatal immunoglobulin for fetal red blood cell alloimmunization.
+magnesium sulfate for treating exacerbations of acute asthma in the emergency department.
+exercise for diabetic pregnant women.
+tartrazine exclusion for allergic asthma.
+non‐pharmacological therapies for dysphagia in parkinson's disease.
+recruitment manoeuvres for adults with acute respiratory distress syndrome receiving mechanical ventilation.
+chinese herbal medicine for endometriosis.
+skin grafting and tissue replacement for treating foot ulcers in people with diabetes.
+chinese herbal medicine for treating recurrent urinary tract infections in women.
+zinc supplementation for the treatment of measles in children.
+heliox for non‐intubated acute asthma patients.
+unit‐dose packaged drugs for treating malaria.
+hyperventilation therapy for acute traumatic brain injury.
+hypnosis for schizophrenia.
+acupuncture and assisted reproductive technology.
+botulinum toxin a as an adjunct to treatment in the management of the upper limb in children with spastic cerebral palsy (update).
+non pharmacological interventions for spasticity in multiple sclerosis.
+non‐pharmacological interventions for people with epilepsy and intellectual disabilities.
+treatment for lambert‐eaton myasthenic syndrome.
+chinese herbal medicine suxiao jiuxin wan for angina pectoris.
+skin grafting for venous leg ulcers.
+habit retraining for the management of urinary incontinence in adults.
+non‐invasive ventilation for the management of acute hypercapnic respiratory failure due to exacerbation of chronic obstructive pulmonary disease.
+intranasal corticosteroids for asthma control in people with coexisting asthma and rhinitis.
+tranexamic acid for the reduction of bleeding during functional endoscopic sinus surgery.
+interventions for chronic palmoplantar pustulosis.
+antibiotics for trachoma.
+paracetamol (acetaminophen) or non‐steroidal anti‐inflammatory drugs, alone or combined, for pain relief in acute otitis media in children.
+antibiotics for treating acute chest syndrome in people with sickle cell disease.
+nebulised hypertonic saline solution for acute bronchiolitis in infants.
+methotrexate for induction of remission in refractory crohn's disease.
+impact of diagnostic strategies for tuberculosis using lateral flow urine lipoarabinomannan assay in people living with hiv.
+educational interventions for improving primary caregiver complementary feeding practices for children aged 24 months and under.
+short‐course versus prolonged‐course antibiotic therapy for hospital‐acquired pneumonia in critically ill adults.
+corticosteroids for the treatment of kawasaki disease in children.
+antiretroviral interventions for preventing breast milk transmission of hiv.
+topical mydriatics as adjunctive therapy for traumatic iridocyclitis.
+irrigants for non‐surgical root canal treatment in mature permanent teeth.
+fertility awareness‐based methods for contraception.
+multidisciplinary rehabilitation following botulinum toxin and other focal intramuscular treatment for post‐stroke spasticity.
+over‐the‐counter (otc) medications to reduce cough as an adjunct to antibiotics for acute pneumonia in children and adults.
+lasers or light sources for treating port‐wine stains.
+benzodiazepines for catatonia in people with schizophrenia or other serious mental illnesses.
+massage therapy for people with hiv/aids.
+nidotherapy for people with schizophrenia.
+chinese herbal medicine for schizophrenia.
+weight loss interventions for chronic asthma.
+chinese medicinal herbs to treat the side‐effects of chemotherapy in breast cancer patients.
+effects of glucocorticoids on radiological progression in rheumatoid arthritis.
+nitrous oxide‐based versus nitrous oxide‐free general anaesthesia and accidental awareness during general anaesthesia in surgical patients.
+antivirals for idiopathic sudden sensorineural hearing loss.
+surfactant for meconium aspiration syndrome in term and late preterm infants.
+singing for adults with chronic obstructive pulmonary disease.
+mass media interventions for smoking cessation in adults.
+decision aids for people considering taking part in clinical trials.
+hmg coa reductase inhibitors (statins) for preventing acute kidney injury after surgical procedures requiring cardiac bypass.
+amifostine for salivary glands in high‐dose radioactive iodine treated differentiated thyroid cancer.
+routes of administration of antibiotic prophylaxis for preventing infection after caesarean section.
+combined and alternating paracetamol and ibuprofen therapy for febrile children.
+intranasal steroids for acute sinusitis.
+pharmacological interventions for the prevention of allergic and febrile non‐haemolytic transfusion reactions.
+granulopoiesis‐stimulating factors to prevent adverse effects in the treatment of malignant lymphoma.
+interventions for the prevention of persistent post‐covid‐19 olfactory dysfunction.
+tiagabine add‐on therapy for drug‐resistant focal epilepsy.
+community‐based antibiotic delivery for possible serious bacterial infections in neonates in low‐ and middle‐income countries.
+manipulative therapies for infantile colic.
+clomiphene and other antioestrogens for ovulation induction in polycystic ovarian syndrome.
+inhaled antibiotics for pulmonary exacerbations in cystic fibrosis.
+exercise for dysmenorrhoea.
+activity monitors for increasing physical activity in adult stroke survivors.
+pharmacological interventions for painful sickle cell vaso‐occlusive crises in adults.
+exercise training for bronchiectasis.
+continuous positive airway pressure (cpap) during the postoperative period for prevention of postoperative morbidity and mortality following major abdominal surgery.
+intravesical electromotive drug administration for non‐muscle invasive bladder cancer.
+vena caval filters for the prevention of pulmonary embolism.
+audio‐visual presentation of information for informed consent for participation in clinical trials.
+influenza vaccination for healthcare workers who care for people aged 60 or older living in long‐term care institutions.
+phonics training for english‐speaking poor readers.
+ultrafiltration for acute heart failure.
+adjunctive steroid therapy versus antibiotics alone for acute endophthalmitis after intraocular procedure.
+devices and dressings to secure peripheral venous catheters to prevent complications.
+signs and symptoms to determine if a patient presenting in primary care or hospital outpatient settings has covid‐19.
+artemether for severe malaria.
+uterotonic agents for preventing postpartum haemorrhage: a network meta‐analysis.
+interventions for patent ductus arteriosus (pda) in preterm infants: an overview of cochrane systematic reviews.
+optical coherence tomography for diagnosing skin cancer in adults.
+high‐frequency ultrasound for diagnosing skin cancer in adults.
+surgical interventions for the management of chronic pelvic pain in women.
+educational interventions for the management of cancer‐related fatigue in adults.
+nebulised hypertonic saline for cystic fibrosis.
+dopamine transporter imaging for the diagnosis of dementia with lewy bodies.
+prophylactic non‐steroidal anti‐inflammatory drugs for the prevention of macular oedema after cataract surgery.
+interventions for idiopathic intracranial hypertension.
+psychosocial interventions for supporting women to stop smoking in pregnancy.
+antibiotic strategies for eradicating pseudomonas aeruginosa in people with cystic fibrosis.
+acupuncture for depression.
+parent‐mediated interventions for promoting communication and language development in young children with down syndrome.
+mesh versus non‐mesh for inguinal and femoral hernia repair.
+repositioning for pressure injury prevention in adults.
+cognitive‐behavioural interventions for attention deficit hyperactivity disorder (adhd) in adults.
+symptomatic treatment of the cough in whooping cough.
+cyclamen europaeum extract for acute sinusitis.
+primary prophylactic colony‐stimulating factors for the prevention of chemotherapy‐induced febrile neutropenia in breast cancer patients.
+anticholinergic burden (prognostic factor) for prediction of dementia or cognitive decline in older adults with no known cognitive syndrome.
+antibiotics for treating scrub typhus.
+remediating buildings damaged by dampness and mould for preventing or reducing respiratory tract symptoms, infections and asthma.
+probiotics in infants for prevention of allergic disease and food hypersensitivity.
+prebiotics in infants for prevention of allergy.
+early discontinuation of antibiotics for febrile neutropenia versus continuation until neutropenia resolution in people with cancer.
+antibiotic prophylaxis for transrectal prostate biopsy.
+total versus subtotal hysterectomy for benign gynaecological conditions.
+high first dose quinine regimen for treating severe malaria.
+surgical portosystemic shunts versus devascularisation procedures for prevention of variceal rebleeding in people with hepatosplenic schistosomiasis.
+pelargonium sidoides extract for treating acute respiratory tract infections.
+artemisinin derivatives for treating uncomplicated malaria.
+modes of administration of antibiotics for symptomatic severe urinary tract infections.
+antibiotics for infection prevention after excision of the cervical transformation zone.
+fish oil for induction of remission in ulcerative colitis.
+antimicrobial agents for preventing urinary tract infections in adults undergoing cystoscopy.
+advising patients to increase fluid intake for treating acute respiratory infections.
+methods of delivering the placenta at caesarean section.
+abdominal surgical incisions for caesarean section.
+pre‐emptive antifungal therapy versus empirical antifungal therapy for febrile neutropenia in people with cancer.
+antibiotic prophylaxis during the second and third trimester to reduce adverse pregnancy outcomes and morbidity.
+intravenous immunoglobulin for myasthenia gravis.
+interventions for orbital lymphangioma.
+aspiration and sclerotherapy versus hydrocoelectomy for treating hydrocoeles.
+antibiotics for asymptomatic bacteriuria in kidney transplant recipients.
+antibiotic prophylaxis for operative vaginal delivery.
+drug therapy for obstructive sleep apnoea in adults.
+leukotriene inhibitors for bronchiolitis in infants and young children.
+pain management for women in labour: an overview of systematic reviews.
+intramuscular arteether for treating severe malaria.
+high‐dose therapy with autologous stem cell transplantation versus chemotherapy or immuno‐chemotherapy for follicular lymphoma in adults.
+needle aspiration versus incision and drainage for the treatment of peritonsillar abscess.
+anti‐histamines for prolonged non‐specific cough in children.
+immersion in water during labour and birth.
+different antibiotic treatments for group a streptococcal pharyngitis.
+inhaled bronchodilators for acute chest syndrome in people with sickle cell disease.
+artemisinin derivatives for treating severe malaria.
+efficacy and safety of covid‐19 vaccines.
+trifluoperazine versus low‐potency first‐generation antipsychotic drugs for schizophrenia.
+uterotonic agents for first‐line treatment of postpartum haemorrhage: a network meta‐analysis.
+rapid tests for the diagnosis of visceral leishmaniasis in patients with suspected disease.
+perioperative systemic nonsteroidal anti‐inflammatory drugs (nsaids) in women undergoing breast surgery.
+enzyme replacement therapy for anderson‐fabry disease.
+intravenous immunoglobulin for treating sepsis, severe sepsis and septic shock.
+opioids for acute pancreatitis pain.
+fluphenazine (oral) versus placebo for schizophrenia.
+heated, humidified air for the common cold.
+antibody therapies for lymphoma in children.
+intraperitoneal chemotherapy for the initial management of primary epithelial ovarian cancer.
+vaccines for preventing malaria (blood‐stage).
+antifungal therapies for allergic bronchopulmonary aspergillosis in people with cystic fibrosis.
+polyclonal and monoclonal antibodies for treating acute rejection episodes in kidney transplant recipients.
+wolbachia ‐carrying   aedes mosquitoes for preventing dengue infection.
+surgical versus non‐surgical management for pleural empyema.
+chemotherapy alone versus chemotherapy plus radiotherapy for adults with early stage hodgkin lymphoma.
+antibiotics to prevent complications following tooth extractions.
+sildenafil citrate for erectile dysfunction in patients with multiple sclerosis.
+interleukin‐2 as maintenance therapy for children and adults with acute myeloid leukaemia in first complete remission.
+skin care interventions in infants for preventing eczema and food allergy.
+systemic corticosteroids for acute otitis media in children.
+prophylactic drug management for febrile seizures in children.
+effects of all‐trans retinoic acid (atra) in addition to chemotherapy for adults with acute myeloid leukaemia (aml) (non‐acute promyelocytic leukaemia (non‐apl)).
+interventions for non‐tubal ectopic pregnancy.
+corticosteroids for dengue infection.
+blood transfusions for treating acute chest syndrome in people with sickle cell disease.
+antibiotics for preventing suppurative complications from undifferentiated acute respiratory infections in children under five years of age.
+hepatitis b immunisation in persons not previously exposed to hepatitis b or with unknown exposure status.
+interleukin 2 receptor antagonists for kidney transplant recipients.
+chemotherapy for children with medulloblastoma.
+different classes of antibiotics given to women routinely for preventing infection at caesarean section.
+surgical techniques for uterine incision and uterine closure at the time of caesarean section.
+oral nonsteroidal anti‐inflammatory drugs for fibromyalgia in adults.
+neuraminidase inhibitors for preventing and treating influenza in children (published trials only).
+antibiotics for uncomplicated diverticulitis.
+strategies to increase the ownership and use of insecticide‐treated bednets to prevent malaria.
+vitamin c for preventing and treating the common cold.
+corticosteroids for tuberculous pleurisy.
+systemic interventions for treatment of stevens‐johnson syndrome (sjs), toxic epidermal necrolysis (ten), and sjs/ten overlap syndrome.
+topical repellents for malaria prevention.
+platinum‐based chemotherapy for early triple‐negative breast cancer.
+taxanes for adjuvant treatment of early breast cancer.
+bisphosphonates for paget's disease of bone in adults.
+antibiotic regimens for postpartum endometritis.
+exercise prior to influenza vaccination for limiting influenza incidence and its related complications in adults.
+antibiotics for induction and maintenance of remission in crohn's disease.
+systemic antibiotics for symptomatic apical periodontitis and acute apical abscess in adults.
+radiofrequency (thermal) ablation versus no intervention or other interventions for hepatocellular carcinoma.
+corticosteroids as adjunctive therapy in the treatment of influenza.
+oral 5‐aminosalicylic acid for induction of remission in ulcerative colitis.
+zinc for prevention and treatment of the common cold.
+adenoidectomy for recurrent or chronic nasal symptoms in children.
+alpha‐blockers after shock wave lithotripsy for renal or ureteral stones in adults.
+transfusion of red blood cells stored for shorter versus longer duration for all conditions.
+nucleic acid and antigen detection tests for leptospirosis.
+infliximab for medical induction of remission in crohn's disease.
+risperidone versus typical antipsychotic medication for schizophrenia.
+metrifonate for alzheimer's disease.
+.
+there are 0 target papers found during the search in pubmed!.
+they are:.
+in the end, 0 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.6643518518518519.
+false negative rate: 0.
+
+Included target articles are as follow:

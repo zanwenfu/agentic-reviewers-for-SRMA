@@ -1,0 +1,228 @@
+total number of articles searched: 438.
+include criteria: [['patients diagnosed with coronary artery disease', 'adult patients with confirmed coronary artery disease'], ['studies examining the association between atherogenic index of plasma and cardiovascular outcomes', 'meta-analyses investigating the relationship between atherogenic index of plasma and cardiovascular events'], ['articles comparing patients with different levels of atherogenic index of plasma', 'research focusing on the impact of atherogenic index of plasma on cardiovascular events'], ['assessment of cardiovascular outcomes such as myocardial infarction, stroke, or cardiovascular mortality', 'studies reporting on the relationship between atherogenic index of plasma and specific outcomes in patients with coronary artery disease'], ['meta-analyses, systematic reviews, or cohort studies analyzing the association between atherogenic index of plasma and cardiovascular outcomes', 'articles with clear criteria for inclusion and rigorous methodology']].
+exclude criteria: [['studies with populations outside of patients with coronary artery disease'], ['articles not investigating the association of atherogenic index of plasma with cardiovascular outcomes'], ['articles without a control group or comparator'], ['studies with outcomes unrelated to cardiovascular outcomes'], ['non-systematic reviews or meta-analyses']].
+atherogenic index of plasma and triglycerideglucose index to predict more advanced coronary artery diseases in patients with the first diagnosis of acute coronary syndrome.
+the relationship between plasma atherogenic index and long-term outcomes after endovascular intervention in superficial femoral artery lesions.
+associations of the triglyceride-glucose index and atherogenic index of plasma with the severity of new-onset coronary artery disease in different glucose metabolic states.
+effect of atherogenic index of plasma on pre-percutaneous coronary intervention thrombolysis in myocardial infarction flow in patients with st elevation myocardial infarction.
+are there any correlations between vitamin d, calcium, and magnesium intake and coronary and obesity indices?.
+glycation of ldl: ages, impact on lipoprotein function, and involvement in atherosclerosis.
+unraveling the understudied influence of a lead variant in the 9p21 locus on the atherogenic index among type 2 diabetes patients with coronary artery disease.
+predictive value of atherogenic index of plasma and atherogenic index of plasma combined with low-density lipoprotein cholesterol for the risk of acute myocardial infarction.
+research progress of lipid-derived parameters in atherosclerotic cardiovascular disease.
+atherogenic index of plasma: a new indicator for assessing the short-term mortality of patients with acute decompensated heart failure.
+the triglyceride–glucose index might be a better indicator for predicting poor cardiovascular outcomes in chronic coronary syndrome.
+atherogenic index of plasma and its association with food group intake in korean adults: based on the baseline data of koges-hexa study.
+diabetes mellitus mediates the relationship between atherogenic index of plasma and gallstones: a population-based cross-sectional study.
+the predictive value of atherogenic index of plasma, non- high density lipoprotein cholesterol (non-hdl-c), non-hdl-c/hdl-c, and lipoprotein combine index for stroke incidence and prognosis in maintenance hemodialysis patients.
+evaluation of the atherogenic index of plasma to predict all-cause mortality in elderly with acute coronary syndrome: a long-term follow-up.
+association between nontraditional lipid profiles and the severity of obstructive sleep apnea: a retrospective study.
+impact of 24-week dapagliflozin treatment on body weight, body composition, and cardiac risk indicators of patients with type-2 diabetes mellitus.
+role of interleukin-17 in the pathogenesis and progression of coronary artery disease.
+atherogenic combined index: validation of a novel predictive lipid biomarker for the presence and severity of coronary artery disease.
+investigation of the relationship between atherogenic index, anthropometric characteristics, and 10-year risk of metabolic syndrome: a population-based study.
+is non-high-density lipoprotein associated with metabolic syndrome? a systematic review and meta-analysis.
+empagliflozin inhibits increased na influx in atrial cardiomyocytes of patients with hfpef.
+association analysis of apoe gene polymorphism with glucolipid metabolism and arteriosclerosis.
+the comparison of the associations of lipoprotein(a) and the atherogenic index of plasma with coronary artery calcification in patients without high ldl-c: a comparative analysis.
+evaluation value of atherogenic index of plasma for long-term prognosis of coronary artery disease.
+spotlight on very-low-density lipoprotein as a driver of cardiometabolic disorders: implications for disease progression and mechanistic insights.
+aggravated systemic inflammation and atherogenicity in african patients living with type 2 diabetes and hypertension comorbidity.
+anti-atherosclerotic effects of pioglitazon by interference with inflammatory and stress pathway in male rabbits.
+the relationships among atherogenic index of plasma and inflammatory adipocytokines with the severity of coronary artery calcification in coronary artery disease.
+triglyceride-rich lipoprotein remnants, low-density lipoproteins, and risk of coronary heart disease: a uk biobank study.
+atherogenic index of plasma and its cardiovascular risk factor correlates among patients with type 2 diabetes in uganda.
+atherogenic indices in preeclamptic and eclamptic patients in north-central nigeria.
+sphingomyelins of local fat depots and blood serum as promising biomarkers of cardiovascular diseases.
+efficacy of nigella sativa oil on endothelial function and atherogenic indices in patients with coronary artery diseases: a randomized, double-blind, placebo-control clinical trial.
+atherogenic lipid profile in patients with statin treatment after acute coronary syndrome: a real-world analysis from chinese cardiovascular association database.
+relationship between blood uric acid level and plasma atherogenic index in patients with type 2 diabetes.
+comparing atherogenic ratios using paraoxonase 1 and hdl-c in diagnosis of severity of coronary artery disease in type 2 diabetes patients with nephropathy.
+dietary atherogenicity and thrombogenicity indexes predicting cardiovascular mortality: 50-year follow-up of the seven countries study.
+genetic determinants of atherogenic indexes.
+time-varying effect of postoperative cholesterol profile on long-term outcomes of isolated coronary artery bypass graft surgery.
+prevalence of asymptomatic coronary artery stenosis based on coronary computed tomography angiography in adults with erectile dysfunction: a cross-sectional study.
+impact of atherogenic indexes in saphenous vein graft stenosis.
+the relationships of serum homocysteine levels and traditional lipid indicators with disease activity and coronary artery involvement in takayasu arteritis.
+expression of neutrophil elastase and myeloperoxidase genes in coronary atherosclerosis.
+correlation between small and dense low density lipoprotein cholesterol and athero-genic index of plasma in patients with coronary heart disease.
+vitexin and an hmg-co a reductase inhibitor prevent the risks of atherosclerosis in high-fat atherogenic diet fed rats.
+glycated haemoglobin as a marker of elevated ldl and tag: a cohort study.
+cardiometabolic risk factors in predicting obstructive coronary artery disease in patients with non-st-segment elevation acute coronary syndrome.
+di’ao xinxuekang capsule improves the anti-atherosclerotic effect of atorvastatin by downregulating the srebp2/pcsk9 signalling pathway.
+comment on “the relationship between atherogenic index of plasma and no‑reflow in patients with acute st‑segment elevation myocardial infarction who underwent primary percutaneous coronary intervention”.
+hypolipidemic effect of portulaca oleracea and salvia officinalis comparing to atorvastatin in rats.
+subclinical hypothyroidism and associated cardiovascular risk factor in perimenopausal females.
+hyperhomocysteinemia and inflammatory biomarkers are associated with higher clinical syntax score in patients with stable coronary artery disease.
+the effect of untraditional lipid parameters in the development of coronary artery disease: atherogenic index of plasma, atherogenic coefficient and lipoprotein combined index.
+uric acid as one of the markers of polymorbidity in patients with coronary heart disease.
+atherogenic index of plasma in women with rheumatoid arthritis and systemic lupus erythematosus: a 10-year potential predictor of cardiovascular disease.
+atherogenic index of plasma and coronary artery calcification progression beyond traditional risk factors according to baseline coronary artery calcium score.
+reply to the letter to the editor: [letter by yue j, et al. regarding article ‘the relationship between atherogenic index of plasma and noreflow in patients with acute st segment elevation myocardial infarction who underwent primary percutaneous coronary intervention’].
+predictive value of atherogenic index of plasma for stent restenosis after percutaneous coronary intervention.
+prognostic significance of multiple triglycerides-derived metabolicindices in patients with acute coronary syndrome.
+estimation of lipid profile and kidney function test in hypertensive patients in thi-qar province/ iraq.
+impact of serum 25 hydroxyvitamin d deficiency on lipid biomarkers in established coronary artery disease.
+role of dyslipidemia in early vascular aging syndrome.
+association of c-peptide and lipoprotein(a) as two predictors with cardiometabolic biomarkers in patients with type 2 diabetes in kercadr population-based study.
+preliminary study on the correlation between different blood lipids and coronary artery disease.
+atherogenic index of plasma as an additional marker of adverse cardiovascular outcomes.
+atherogenic index of plasma and its association with risk factors of coronary artery disease and nutrient intake in korean adult men: the 2013–2014 knhanes.
+cardioprotective effect of low level of ldl cholesterol on perioperative myocardial injury in off-pump coronary artery bypass grafting.
+the atherogenic index of plasma and its impact on recanalization of chronic total occlusion.
+effect of calculated plasma osmolality and atherogenic index of plasma on carotid artery blood flow velocities.
+the value of atherogenic index of plasma in predicting premature coronary artery disease.
+intensification of lipid-lowering therapy in very high-risk patients: potential of combination with pcsk9 inhibitors.
+orexin a hormone and its relation to coronary heart diseases.
+cow’s milk intake and risk of coronary heart disease in korean postmenopausal women.
+blood group b and decreased risk of coronary artery disease in hypertensive elderly.
+could the systemic immune-inflammation index be a predictor to estimate cerebrovascular events in hypertensive patients?.
+the sensibility of the new blood lipid indicator-atherogenic index of plasma (aip) in menopausal women with coronary artery disease.
+predictive value of the atherogenic index of plasma for chronic total occlusion before coronary angiography.
+comparative benefits of statins in coronary heart disease.
+prognostic signifi cance of atherogenic index of plasma, atherogenic coeffi cient and lipoprotein combined index among elderly patients with non-st-segment elevation myocardial infarction in 1-year follow-up.
+reply to the letter to the editor: [comment on “the relationship between atherogenic index of plasma and no-reflow in patients with acute st-segment elevation myocardial infarction who underwent primary percutaneous coronary intervention].
+the association of triglyceride glucose index for coronary artery disease in postmenopausal women.
+proprotein convertase subtilisin and kexin type 9 in sub clinical hypothyroidism as a risk factor for cardiovascular disease.
+impact of normal weight central obesity on clinical outcomes in male patients with premature acute coronary syndrome.
+enhanced camkii-dependent late inainduces atrial proarrhythmic activity in patients with sleep-disordered breathing.
+atherogenic index of plasma is a novel and strong predictor associated with fatty liver: a cross-sectional study in the chinese han population.
+association of osteoprotegerin and lipid risk factors with severity of stenosis in coronary artery disease patients with diabetes mellitus.
+evaluation of antihyperlipidaemic effect of macrotyloma uniflorum seed extract in experimental hyperlipidaemia.
+moringa oleifera lam. a herbal medicine for hyperlipidemia: a pre-clinical report.
+residual cardiovascular risk in patients with stable coronary heart disease over the last 16 years (czech part of the euroaspire i-iv surveys).
+relationships between alcohol intake and atherogenic indices in women.
+estimating the effectiveness of hypolipidemic therapy with rosuvastatin in patients with coronary heart disease depending on the genotype of lipoprotein lipase.
+comparison of the various lipid ratios and indices for risk assessment in patients of myocardial infarction.
+antihyperlipidemic and anti-hyperglycemic effects of cymbopogon jwarancusa in high-fat high-sugar diet model.
+dose-dependent impacts on the diagnostic efficacies of atherogenic lipids in adult indian smokers.
+dietary almonds increase serum hdl cholesterol in coronary artery disease patients in a randomized controlled trial1-3.
+atherogenic impact of homocysteine: can hmg-coa reductase inhibitors additionally influence hyperhomocysteinaemia?.
+the potential influence of atherogenic dyslipidemia on the severity of chronic chagas heart disease.
+anti-atherosclerotic activity of ethanolic extract of chrysanthemum indicum l. flowers against high-fat diet-induced atherosclerosis in male wistar rats.
+hypocholesterolemic effects of curcuma longa l. with nelumbo nucifera leaf in an in vitro model and a high cholesterol diet-induced hypercholesterolemic mouse model.
+effect of losartan in comparison with pioglitazone on atherogenic indices in a rat model of type 2 diabetes mellitus.
+prognostic factors in patients with non-st-segment elevation acute coronary syndrome concurrent with type 2 diabetes mellitus (according to the results of the registry).
+erectile dysfunction associated with cardiovascular risk factors.
+aip conference proceedings.
+association between blood lipid profile and blood glucose levels in men with coronary heart disease, metabolic syndrome, and type 2 diabetes mellitus.
+atherogenic risk assessment among persons living in rural uganda.
+features of the lipid profile of indigenous and nonindigenous population of the sakha republic (yakutia) of senior age groups with coronary heart disease.
+activity of serum paraoxonase 1, lipid profile and atherogenic indexes in diabetic induced rats treated with alpha lipoic acid.
+evaluation of association between atherogenic index of plasma and intima-media thickness of the carotid artery for subclinic atherosclerosis in patients on maintenance hemodialysis.
+physical examination data of patients with previous schistosome infection and its relationship with hepatic adipose infiltration and coronary heart disease.
+high sensitive c-reactive protein (hscrp) as a cardiovascular risk factor in hypertensive nigerians.
+a computational fluid-structure interaction model for plaque vulnerability assessment in atherosclerotic human coronary arteries.
+prognostic value of some cardiovascular risk factors in cosmonauts.
+lipid profile in subfertile clients with premature ovarian failure: university of ilorin teaching hospital experience.
+association of adiponectin levels and polymorphisms in adipoq and adipor2 genes with metabolic syndrome and atherogenic index of plasma.
+the impact of multiple blood donations on the risk of cardiovascular diseases: insight of lipid profile.
+prognostic values of some cardiovascular risk factors in cosmonauts.
+the role of epicardial fat and obesity parameters in the prediction of coronary heart disease.
+plaque and arterial vulnerability investigation in a three-layer atherosclerotic human coronary artery using computational fluid-structure interaction method.
+assessment of cardiovascular risks of tobacco chewers by comparing it with normal human beings.
+lipid profile in patients with newly diagnosed coronary heart disease: 2012 and 2013 cross-sectional study in luis vernaza hospital, ecuador.
+protective effects of an alfalfa aqueous extract on lead toxicity in broiler chickens: a biochemical approach.
+the leaf and seed aqueous extract of phyllanthus amarus improves insulin resistance diabetes in experimental animal studies.
+effect of seaweed mixture intake on plasma lipid and antioxidant profile of hyperholesterolaemic rats.
+atherogenic index of plasma(aip) in post menopausal women.
+evaluation of dyslipidemia, lipid ratios, and atherogenic index as cardiovascular risk factors among semi-urban dwellers in nigeria.
+chemical composition and hypolipidemic effects of an aromatic water of ziziphora tenuior l. in cholesterol-fed rabbits.
+effect of force-induced mechanical stress at the coronary artery bifurcation stenting: relation to in-stent restenosis.
+coronary artery bypass grafting in different age groups: one-year results of monitoring.
+can statins help "good cholesterol" to become even better.
+nutritional quality indices of milk fat from goats on diets supplemented with different roughages.
+risk of cardiovascular complications in patients with type ii diabetes mellitus in relation to serum triacylglycerols.
+influence polyunsaturated fatty acids omega-3 on coagulation and fibrinolysis systems in patients with niddm.
+the effect of a high-intensity interval training program on high-density lipoprotein cholesterol in young men.
+orally and transdermally replaced estradiol improves endothelial function equally in middle-aged women after surgical menopause.
+lipid profile of postmenopausal women in calabar, nigeria.
+ezetimibe/simvastatin: a review of its use in the management of hypercholesterolemia.
+risk of coronary heart disease in women after menopause.
+time-dependence of hypolipemic statin effects.
+effects of short-term hormone replacement on atherogenic indices in indian postmenopausal women.
+lipid balance and cardiovascular risk in patients in a psychiatric long-term facility.
+[effect of liandou qingmai recipe on atherogenic indices of plasma and high-sensitivity c-reactive protein in patients with coronary heart disease].
+use of biologically active supplement containing omega-3 polyunsaturated fatty acids in patients with type 2 diabetes mellitus.
+effects of amaranthus caudatus l. extract and lovastatin on atherosclerosis in hypercholesterolemic rabbits.
+relations between particle size of hdl and ldl lipoproteins and cholesterol esterification rate.
+how do apolipoproteins apob and apoa-i perform in patients with acute coronary syndromes.
+low hdl cholesterol associates with major depression in a sample with a 7-year history of depressive symptoms.
+coronary artery disease risk factors in type 2 diabetes mellitus with metabolic syndrome in the urban south indian population.
+dyslipidemia in pregnancy induced hypertension.
+etofyllin clofibrate improves the metabolism of lipids and glucose in patients with hyperlipidemia and diabetes.
+effects of fish oil alone and combined with long chain (n-6) fatty acids on some coronary risk factors in male subjects.
+ω-3 fatty acids in physical and mental health and disease.
+concordance/discordance between plasma apolipoprotein b levels and the cholesterol indexes of atherosclerotic risk.
+a common mutation of cholesteryl ester transfer protein gene in dialysis patients.
+lipid levels in female patients with affective disorders.
+lipid lowering effect of ethanolic extract of aerial parts of peucedanum pastinacifolium boiss. and hausskn. in hypercholesterolemic rats.
+dietary fish and sesame oil effects on serum lipid profile of rats fed on coconut oil based high fat diet.
+clinical usefulness of coronary atherogenic index (cai).
+normal cholesterol measurements in white collar workers still at cardiovascular risk?.
+visceral fat syndrome in hemodialysis patients.
+prevalence of renal artery stenosis in patients with critical limb ischemia.
+hyperhomocysteinaemia and cardiovascular risk in female ovariectomized rats: role of folic acid and hormone replacement therapy.
+hemostatic changes in patients with dyslipidemia and coronary artery disease.
+changes in the indices of lipid metabolism in patients with ischemic heart disease occupied in natural gas fields.
+platelet aggregation and lipid profile in offsprings of young ischemics.
+triglyceride profile in dyslipidaemia of type 2 diabetes mellitus.
+high-sensitivity c-reactive protein (crp) assay--a novel method for assessment of risk ratios for atherosclerotic vascular diseases.
+body fat topography as a predictor of an increase in blood lipids.
+lipid peroxidation intensity and lipid status parameters in the estimation of the severity of ischemic heart disease.
+comparison of cord blood atherogenic index in males and females.
+hypocholesterolemic action of lactobacillus plantarum nrrl-b-4524 and lactobacillus paracasei in mice with hypercholesterolemia induced by diet.
+biochemical markers of atherosclerosis.
+differences between several atherogenic parameters in patients with controlled and uncontrolled type 2 diabetes mellitus.
+hypolipidemic effect of the polysaccharide from pholiota nameko.
+peanut consumption and cardiovascular risk.
+clinical estimation of coronary risk factors with special reference to coronary arteriographic findings.
+the evaluation of lipoprotein as a screening test for coronary heart disease.
+α-lipoprotein cholesterol and its variability in patients with ischemic heart disease.
+studies on xanthomatosis—occurence of coronary artery disease.
+cholesterol electrophoresis in 1184 male recruits, 20 years old, and relation of the atherogenic index (cholesterol/hdl-cholest) to other risk factors of coronary heart disease.
+high density lipoprotein cholesterol levels in the japanese.
+effects of anti-atherosclerosis diet containing omega 3 fatty acids on the lipid spectrum of blood and cell membranes in patients with ischemic heart disease and essential hypertension.
+experience with the risk factor-based prevention of ischemic heart disease at a pyatigorsk health resort.
+endocrinology: abdominal fat: risk factor for cardiovascular disease in the elderly diabetic patient.
+body fat mass distribution. influence on metabolic and atherosclerotic parameters in non-insulin dependent diabetics and obese subjects with and without impaired glucose tolerance. influence of weight reduction.
+use of enterosorption for correction of dyslipoproteinemias in patients with ischemic heart disease in geriatric practice.
+serum levels of tocopherol and their relationship to risk factor of coronary heart disease in university students.
+the effect of alcohol withdrawal on serum concentrations of lp(a), apolipoproteins a‐1 and b, and lipids.
+the evalution of the diagonal ear lobe crease (elc) as a atherosclerotic sign.
+relationship of periodic mental stress to serum lipoprotein and cholesterol levels.
+the anti-lipidemic effect of minipress.
+increased frequency of lipoprotein disorders similar to type iii hyperlipoproteinemia in survivors of myocardial infarction in japan.
+hypertriglyceridemia—acute pancreatitis—ischemic heart disease: a case study in a pair of monozygotic twins.
+diagnosis of atherosclerosis. i. correlation between clinical diagnosis, serum cholesterol and low-density lipoproteins, and resting and exercise electrocardiograms.
+the help‐ldl‐apheresis multicentre study, an angiographically assessed trial on the role of ldl‐apheresis in the secondary prevention of coronary heart disease. ii. final evaluation of the effect of regular treatment on ldl‐cholesterol plasma concentrations and the course of coronary heart disease.
+blood lipids and lipid peroxides in the families of patients with ischemic heart disease.
+blood plasma lipids and apolipoproteins as indicators of coronary atherosclerosis.
+high-density lipoprotein cholesterol and its protective role against the development of coronary heart disease in japanese diabetics.
+the atherogenic index in normal male recruits and its relation to other risk factors of coronary disease.
+electrocardiographic data on ischemic heart disease in hyperlipoproteinemia patients.
+purification and identification of very low density lipoprotein toxicity preventing activity.
+long-term efficiency, biocompatibility, and clinical safety of combined simultaneous ldl-apheresis and haemodialysis in patients with hypercholesterolaemia and end-stage renal failure.
+relation of the nutritional characteristics of the population to the blood plasma level of high-density lipoprotein cholesterol.
+coronary risk factors in angiographically defined patients with chest pain.
+coronary risk factors used to predict coronary artery disease by logistic regression analysis.
+lipoprotein‐related coronary risk factors in patients with angiographically defined coronary artery disease: relation to number of stenosed arteries.
+there are 11 target papers found during the search in pubmed!.
+in the end, 11 target papers were left after filtering!.
+false positive rate: 0.773972602739726.
+
+Included target articles are as follow:
+prognostic impact of the atherogenic index of plasma in type 2 diabetes mellitus patients with acute coronary syndrome undergoing percutaneous coronary intervention.
+the non-hdl-c/hdl-c ratio is a strong and independent predictor of the no-reflow phenomenon in patients with st-elevation myocardial infarction.
+the relation between atherogenic index of plasma and cardiovascular outcomes in prediabetic individuals with unstable angina pectoris.
+the triglyceride–glucose index might be a better indicator for predicting poor cardiovascular outcomes in chronic coronary syndrome.
+the association between atherogenic index of plasma and no-reflow phenomenon in acute coronary syndrome.
+association between the atherogenic index of plasma and adverse long-term prognosis in patients diagnosed with chronic coronary syndrome.
+atherogenic index of plasma and triglyceride-glucose index to predict more advanced coronary artery diseases in patients with the first diagnosis of acute coronary syndrome.
+effect of body mass index on the prognostic value of atherogenic index of plasma in patients with acute coronary syndrome undergoing percutaneous coronary intervention.
+relationship between atherogenic index of plasma and stent thrombosis in patients with acute coronary syndrome.
+prognostic significance of multiple triglycerides-derived metabolic indices in patients with acute coronary syndrome.
+atherogenic index of plasma for non-diabetic, coronary artery disease patients after percutaneous coronary intervention: a prospective study of the long-term outcomes in china.
+novel predictors and adverse long-term outcomes of no-reflow phenomenon in patients with acute st elevation myocardial infarction undergoing primary percutaneous coronary intervention.
+the relationship between atherogenic index of plasma and no-reflow in patients with acute st-segment elevation myocardial infarction who underwent primary percutaneous coronary intervention.
+the atherogenic index of plasma plays an important role in predicting the prognosis of type 2 diabetic subjects undergoing percutaneous coronary intervention: results from an observational cohort study in china.

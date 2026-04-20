@@ -1,0 +1,60 @@
+total number of articles searched: 344.
+objectives: ['evaluate the association of atherogenic index of plasma (aip) with cardiovascular prognosis in patients with coronary artery disease (cad)', 'determine the impact of aip on major cardiovascular events (mace)', 'assess the relationship between aip and secondary outcomes including all-cause death, cardiovascular death, myocardial infarction (mi), stroke, revascularization, and no-reflow phenomenon'].
+atherogenic index of plasma and triglyceride- glucose index to predict more advanced coronary artery diseases in patients with the first diagnosis of acute coronary syndrome.
+the association of atherogenic index of plasma with cardiovascular outcomes in patients with coronary artery disease: a systematic review and meta-analysis.
+atherogenic index of plasma, triglyceride-glucose index and monocyte-to-lymphocyte ratio for predicting subclinical coronary artery disease.
+comment on "the relationship between atherogenic index of plasma and no-reflow in patients with acute st-segment elevation myocardial infarction who underwent primary percutaneous coronary intervention".
+a cross-sectional study of atherogenic index of plasma and angiographic profile by gensini score in patients of acute coronary syndrome.
+correlation between the atherogenic index of plasma and progression of non-target lesion vascular disease following percutaneous coronary intervention using drug-eluting stents.
+association between atherogenic index of plasma and atherogenic coefficient and in-stent restenosis after drug-eluting stent implantation for stable coronary artery disease.
+the value of atherogenic index of plasma in estimating coronary artery calcium scores.
+the anti-oxidative capacity of high-density lipoprotein is reduced in acute coronary syndrome but not in stable coronary artery disease.
+atherogenic index of plasma: a novel biomarker and lipid indices in young myocardial infarction patients.
+use of the atherogenic index in premature coronary heart disease prediction.
+pioglitazone reduces atherogenic index of plasma in patients with type 2 diabetes.
+"atherogenic index of plasma" (log<sub>10</sub> triglyceride/high-density lipoprotein-cholesterol) predicts high blood pressure, diabetes, and vascular events.
+atherogenic index of plasma is positively associated with the risk of all-cause death in elderly women a 10-year follow-up.
+high resolution heart rate variability analysis in patients with angina pectoris during coronary artery bypass graft surgery.
+the ten-year risk of developing cardiovascular disease among public health workers in north-central nigeria using framingham and atherogenic index of plasma risk scores.
+serum interleukin-6 and lipid atherogenic index risk ratios as interpreters of cardiac disease in obese and non obese male patients of coronary artery disease.
+a novel score for an old enemy: atherogenic plasma index predicts in-stent restenosis among stable angina pectoris patients.
+correlation between atherogenic index and oxidative stress in coronary artery disease patients presenting to a tertiary hospital.
+the logarithm of the triglyceride/hdl-cholesterol ratio is related to the history of cardiovascular disease in patients with familial hypercholesterolemia.
+evaluating the use of novel atherogenicity indices and insulin resistance surrogate markers in predicting the risk of coronary artery disease: a case-control investigation with comparison to traditional biomarkers.
+assessment of atherogenic indicus in type 2 diabetes mellitus.
+soluble vascular cell adhesion molecule-1 as an atherogenic biomarker in coronary artery disease: a cross-sectional study.
+predictive models for cholesterol crystals and plaque vulnerability in acute myocardial infarction: insights from an optical coherence tomography study.
+differences between several atherogenic parameters in patients with controlled and uncontrolled type 2 diabetes mellitus.
+analysis between cigarette and shisha smokers for early atherogenesis: a cardiovascular disease.
+gender and racial differences in the cardiovascular risk factors among overweight and obese rural adults, kuching and samarahan division, sarawak, malaysia.
+relationship of microalbuminuria designing with loss of coronary artery on patients of coronary heart disease.
+prognostic value of novel atherogenic indices in patients with acute myocardial infarction with and without type 2 diabetes.
+lipid indices in typeii diabetes mellitus and their association with macro and micro vascular complications.
+lipid profile and atherogenic indices and their association with platelet indices in familial mediterranean fever.
+cardiovascular risk prediction with cardio-ankle vascular index in the malaysian cohort study.
+comparison of the various lipid ratios and indices for risk assessment in patients of myocardial infarction.
+the relationship between non-hdl cholesterol and other lipid parameters in japanese subjects.
+increased frequency of lipoprotein disorders similar to type-iii hyperlipoproteinemia in survivors of myocardial-infarction in japan.
+high-density lipoprotein cholesterol levels in the japanese.
+amount and intensity of physical activity, physical fitness, and serum lipids in men.
+cardiovascular risk determination - discrepancy between total cholesterol evaluation and 2 compound laboratory indexes in norway.
+global risk management in patients with type 2-diabetes mellitus.
+there are 9 target papers found during the search in pubmed!.
+in the end, 8 target papers were left after filtering!.
+false positive rate: 0.27906976744186046.
+false negative rate: 0.1111111111111111.
+
+Included target articles are as follow:
+prognostic impact of the atherogenic index of plasma in type 2 diabetes mellitus patients with acute coronary syndrome undergoing percutaneous coronary intervention.
+the non-hdl-c/hdl-c ratio is a strong and independent predictor of the no-reflow phenomenon in patients with st-elevation myocardial infarction.
+the relation between atherogenic index of plasma and cardiovascular outcomes in prediabetic individuals with unstable angina pectoris.
+the association between atherogenic index of plasma and no-reflow phenomenon in acute coronary syndrome.
+association between the atherogenic index of plasma and adverse long-term prognosis in patients diagnosed with chronic coronary syndrome.
+atherogenic index of plasma and triglyceride-glucose index to predict more advanced coronary artery diseases in patients with the first diagnosis of acute coronary syndrome.
+effect of body mass index on the prognostic value of atherogenic index of plasma in patients with acute coronary syndrome undergoing percutaneous coronary intervention.
+relationship between atherogenic index of plasma and stent thrombosis in patients with acute coronary syndrome.
+prognostic significance of multiple triglycerides-derived metabolic indices in patients with acute coronary syndrome.
+atherogenic index of plasma for non-diabetic, coronary artery disease patients after percutaneous coronary intervention: a prospective study of the long-term outcomes in china.
+novel predictors and adverse long-term outcomes of no-reflow phenomenon in patients with acute st elevation myocardial infarction undergoing primary percutaneous coronary intervention.
+the relationship between atherogenic index of plasma and no-reflow in patients with acute st-segment elevation myocardial infarction who underwent primary percutaneous coronary intervention.
+the atherogenic index of plasma plays an important role in predicting the prognosis of type 2 diabetic subjects undergoing percutaneous coronary intervention: results from an observational cohort study in china.

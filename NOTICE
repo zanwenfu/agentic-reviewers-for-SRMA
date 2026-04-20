@@ -1,0 +1,38 @@
+LUMINA
+Copyright (c) 2025 Zanwen Fu
+
+This product includes software, prompts, documentation, and research data
+developed by Zanwen Fu as part of the LUMINA project.
+
+Required attribution for redistributions and derivative works
+-------------------------------------------------------------
+
+You must retain the following notice in any distribution of the source or
+binary form, and in any documentation, README, or about-screen of a
+derived work:
+
+    Based on LUMINA by Zanwen Fu (2025).
+    Source: https://github.com/<your-handle>/agentic-reviewers-for-SRMA
+    Manuscript: docs/paper/LUMINA_manuscript.pdf
+    Licensed under CC BY-NC 4.0.
+
+Required citation for academic use
+----------------------------------
+
+Any paper, preprint, thesis, technical report, or published artifact that
+uses this work — including the prompt templates, the pipeline, the metric
+definitions, or the per-SRMA result tables under
+docs/paper/supplementary_tables/ — must cite:
+
+    Fu Z, Chen M, Yang Q, Illanes SE, Choolani M, Xiao X, Li L-J.
+    "Application of Large Language Machine Learning Model to Enhance
+    Screening Accuracy and Efficiency in Systematic Reviews and
+    Meta-Analyses." Manuscript, 2025. NEJM AI submission ID AI-25-00939.
+
+A machine-readable citation is provided in CITATION.cff.
+
+Commercial use
+--------------
+
+Commercial use is not permitted under CC BY-NC 4.0. For commercial
+licensing, contact the author via the details in CITATION.cff.

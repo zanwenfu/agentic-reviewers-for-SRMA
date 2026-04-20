@@ -1,0 +1,3 @@
+Articles filtered out:
+- 'Development of a quadruple qRT-PCR assay for simultaneous identification of highly and low pathogenic H7N9 avian influenza viruses and characterization against oseltamivir resistance: because it focuses on avian influenza viruses and not on the evaluation of Oseltamivir used to prevent hospitalization in outpatients with Influenza.'
+- 'Desialylation of Platelets by Pneumococcal Neuraminidase A Induces ADP-Dependent Platelet Hyperreactivity: because it explores the effects of desialylation on platelets by a different pathogen and does not directly relate to the evaluation of Oseltamivir in outpatients with Influenza.'

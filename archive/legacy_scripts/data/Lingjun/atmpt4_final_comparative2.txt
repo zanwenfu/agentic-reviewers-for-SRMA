@@ -1,0 +1,111 @@
+total number of articles searched: 122.
+objectives: ['estimate the comparative clinical efficacy of non-surgical brain stimulation for the acute treatment of major depressive episodes in adults.', 'estimate the acceptability of non-surgical brain stimulation for the acute treatment of major depressive episodes in adults.'].
+a pilot study of the comparative efficacy of 100 hz magnetic seizure therapy and electroconvulsive therapy in persistent depression.
+clinical effectiveness of non-tms neurostimulation in depression: clinical trials from 2010 to 2020.
+current updates on newer forms of transcranial magnetic stimulation in major depression.
+characterizing cortical oscillatory responses in major depressive disorder before and after convulsive therapy: a tms-eeg study.
+transcranial magnetic stimulation in the treatment of mood disorder: a review and comparison with electroconvulsive therapy.
+connectivity-guided theta burst transcranial magnetic stimulation versus repetitive transcranial magnetic stimulation for treatment-resistant moderate to severe depression: magnetic resonance imaging protocol and sars-cov-2-induced changes for a randomized double-blind controlled trial.
+antidepressant efficacy and immune effects of bilateral theta burst stimulation monotherapy in major depression: a randomized, double-blind, sham-controlled study.
+comparing the anti-depressive effect of electroconvulsive therapy (ect) versus transcranial magnetic stimulation (tms) in the treatment of patients with depression.
+effects of intermittent theta-burst transcranial magnetic stimulation on cognition and hippocampal volumes in bipolar depression.
+efficacy of adjunctive d-cycloserine to intermittent theta-burst stimulation for major depressive disorder: a randomized clinical trial.
+feasibility of intermediate theta burst stimulation as sham control in therapeutic transcranial magnetic stimulation studies.
+bridging the skull: electroconvulsive therapy (ect) and repetitive transcranial magnetic stimulation (rtms) in psychiatry.
+propofol and methohexital as anesthetic agents for electroconvulsive therapy: a randomized, double-blind comparison of electroconvulsive therapy seizure quality, therapeutic efficacy, and cognitive performance.
+there are 4 target papers found during the search in pubmed!.
+in the end, 4 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.36885245901639346.
+false negative rate: 0.0.
+
+Included target articles are as follow:
+antidepressant effects of high-dose right unilateral electroconvulsive therapy.
+a controlled study of repetitive transcranial magnetic stimulation in medication-resistant major depression.
+intensive hf-rtms treatment in refractory medication-resistant unipolar depressed patients.
+the combination of antidepressant drug therapy and high-frequency repetitive transcranial magnetic stimulation in medication-resistant depression.
+a randomized clinical trial of repetitive transcranial magnetic stimulation in the treatment of major depression.
+clinical efficacy of formula-based bifrontal versus right unilateral electroconvulsive therapy (ect) in the treatment of major depression among elderly patients: a pragmatic, randomized, assessor-blinded, controlled trial.
+a randomized double-blind sham-controlled comparison of unilateral and bilateral repetitive transcranial magnetic stimulation for treatment-resistant major depression.
+effectiveness of theta burst versus high-frequency repetitive transcranial magnetic stimulation in patients with depression (three-d): a randomised non-inferiority trial.
+a randomized, double-blind clinical trial on the efficacy of cortical direct current stimulation for the treatment of major depression.
+long-lasting effects of high frequency repetitive transcranial magnetic stimulation in major depressed patients.
+lack of a therapeutic effect of a 2-week sub-threshold transcranial magnetic stimulation course for treatment-resistant depression.
+electroconvulsive therapy: results in depressive illness from the leicestershire trial.
+trial of electrical direct-current therapy versus escitalopram for depression.
+superior antidepressant effect occurring 1 month after rtms: add-on rtms for subjects with medication-resistant depression.
+preliminary assessment of the therapeutic efficacy of continuous theta-burst magnetic stimulation (ctbs) in major depression: a double-blind sham-controlled study.
+augmentative repetitive transcranial magnetic stimulation (rtms) in the acute treatment of poor responder depressed patients: a comparison study between high and low frequency stimulation.
+accelerated intermittent theta burst stimulation treatment in medication-resistant major depression: a fast road to remission?.
+clinical efficacy and cognitive side effects of bifrontal versus right unilateral electroconvulsive therapy (ect): a short-term randomised controlled trial in pharmaco-resistant major depression.
+left prefrontal activation predicts therapeutic effects of repetitive transcranial magnetic stimulation (rtms) in major depression.
+a randomized trial of unilateral and bilateral prefrontal cortex transcranial magnetic stimulation in treatment-resistant major depression.
+a randomized, controlled trial of sequential bilateral repetitive transcranial magnetic stimulation for treatment-resistant depression.
+transcranial magnetic stimulation in the treatment of depression: a double-blind, placebo-controlled trial.
+priming stimulation enhances the effectiveness of low-frequency right prefrontal cortex transcranial magnetic stimulation in major depression.
+a pilot study of the comparative efficacy of 100 hz magnetic seizure therapy and electroconvulsive therapy in persistent depression.
+accelerated repetitive transcranial magnetic stimulation in the treatment of depression.
+a negative double-blind controlled trial of sequential bilateral rtms in the treatment of bipolar depression.
+a double blind randomized trial of unilateral left and bilateral prefrontal cortex transcranial magnetic stimulation in treatment resistant major depression.
+equivalent beneficial effects of unilateral and bilateral prefrontal cortex transcranial magnetic stimulation in a large randomized trial in treatment-resistant major depression.
+a functional magnetic resonance imaging study of the effects of low frequency right prefrontal transcranial magnetic stimulation in depression.
+modest adjunctive benefit with transcranial magnetic stimulation in medication-resistant depression.
+daily left prefrontal transcranial magnetic stimulation therapy for major depressive disorder: a sham-controlled randomized trial.
+a controlled trial of daily left prefrontal cortex tms for treating depression.
+mood improvement following daily left prefrontal repetitive transcranial magnetic stimulation in patients with depression: a placebo-controlled crossover trial.
+the nottingham ect study. a double-blind comparison of bilateral, unilateral and simulated ect in depressive illness.
+a randomized controlled comparison of electroconvulsive therapy and repetitive transcranial magnetic stimulation in severe and resistant nonpsychotic major depression.
+repetitive transcranial magnetic stimulation as add-on antidepressant treatment. the applicability of the method in a clinical setting.
+treatment of depression using sleep electroencephalogram modulated repetitive transcranial magnetic stimulation.
+identifying brain imaging correlates of clinical response to repetitive transcranial magnetic stimulation (rtms) in major depression.
+shorter duration of depressive episode may predict response to repetitive transcranial magnetic stimulation.
+comparing bilateral to unilateral electroconvulsive therapy in a randomized study with eeg monitoring.
+repetitive transcranial magnetic stimulation versus electroconvulsive therapy for major depression: preliminary results of a randomized trial.
+a double-blind sham controlled study of right prefrontal repetitive transcranial magnetic stimulation (rtms): therapeutic and cognitive effect in medication free unipolar depression during 4 weeks.
+a pilot study of the use of eeg-based synchronized transcranial magnetic stimulation (stms) for treatment of major depression.
+frontostriatal connectivity changes in major depressive disorder after repetitive transcranial magnetic stimulation: a randomized sham-controlled study.
+slow right prefrontal transcranial magnetic stimulation as a treatment for medication-resistant depression: a double-blind, placebo-controlled study.
+degree of postictal suppression depends on seizure induction time in magnetic seizure therapy and electroconvulsive therapy.
+bifrontal, bitemporal and right unilateral electrode placement in ect: randomised trial.
+frequency dependence of antidepressant response to left prefrontal repetitive transcranial magnetic stimulation (rtms) as a function of baseline cerebral glucose metabolism.
+therapeutic efficacy of right prefrontal slow repetitive transcranial magnetic stimulation in major depression: a double-blind controlled study.
+the acdc pilot trial: targeting the anterior cingulate by double cone coil rtms for the treatment of depression.
+therapeutic advantage of bifrontal electrode placement in ect.
+efficacy and safety of low-field synchronized transcranial magnetic stimulation (stms) for treatment of major depression.
+efficacy and safety of deep transcranial magnetic stimulation for major depression: a prospective multicenter randomized controlled trial.
+efficacy of prefrontal theta-burst stimulation in refractory depression: a randomized sham-controlled study.
+double-blind controlled investigation of bilateral prefrontal transcranial magnetic stimulation for the treatment of resistant major depression.
+double-blind controlled investigation of transcranial magnetic stimulation for the treatment of resistant major depression.
+transcranial direct current stimulation for depression: 3-week, randomised, sham-controlled trial.
+international randomized-controlled trial of transcranial direct current stimulation in depression.
+a sham-controlled trial of the efficacy and safety of twice-daily rtms in major depression.
+a double-blind, sham-controlled trial of transcranial direct current stimulation for the treatment of depression.
+a controlled study of repetitive transcranial magnetic stimulation as a treatment of depression in the elderly.
+markedly suprathreshold right unilateral ect versus minimally suprathreshold bilateral ect: antidepressant and memory effects.
+combination rapid transcranial magnetic stimulation in treatment refractory depression.
+a randomized controlled trial with 4-month follow-up of adjunctive repetitive transcranial magnetic stimulation of the left prefrontal cortex for depression.
+left prefrontal transcranial magnetic stimulation (tms) treatment of depression in bipolar affective disorder: a pilot study of acute safety and efficacy.
+efficacy and safety of transcranial magnetic stimulation in the acute treatment of major depression: a multisite randomized controlled trial.
+repetitive transcranial magnetic stimulation (rtms) in major depression: relation between efficacy and stimulation intensity.
+repetitive transcranial magnetic stimulation (rtms) in pharmacotherapy-refractory major depression: comparative study of fast, slow and sham rtms.
+unilateral low frequency versus sequential bilateral repetitive transcranial magnetic stimulation: is simpler better for treatment of resistant depression?.
+transcranial direct current stimulation in treatment resistant depression: a randomized double-blind, placebo-controlled study.
+bilateral prefrontal rtms and theta burst tms as an add-on treatment for depression: a randomized placebo controlled trial.
+bifrontal versus right unilateral and bitemporal electroconvulsive therapy in major depressive disorder.
+comparison of repetitive transcranial magnetic stimulation and electroconvulsive therapy in unipolar non-psychotic refractory depression: a randomized, single-blind study.
+a symptom-specific analysis of the effect of high-frequency left or low-frequency right transcranial magnetic stimulation over the dorsolateral prefrontal cortex in major depression.
+transcranial magnetic stimulation in treatment-resistant depressed patients: a double-blind, placebo-controlled trial.
+effects of stimulus intensity and electrode placement on the efficacy and cognitive effects of electroconvulsive therapy.
+a prospective, randomized, double-blind comparison of bilateral and right unilateral electroconvulsive therapy at different stimulus intensities.
+effects of pulse width and electrode placement on the efficacy and cognitive effects of electroconvulsive therapy.
+efficacy and safety of transcranial direct current stimulation as an add-on treatment for bipolar depression: a randomized clinical trial.
+bitemporal versus high-dose unilateral twice-weekly electroconvulsive therapy for depression (effect-dep): a pragmatic, randomized, non-inferiority trial.
+randomized comparison of ultra-brief bifrontal and unilateral electroconvulsive therapy for major depression: clinical efficacy.
+antidepressant efficacy of high and low frequency rtms at 110% of motor threshold versus sham stimulation over left prefrontal cortex.
+antidepressant effects of high and low frequency repetitive transcranial magnetic stimulation to the dorsolateral prefrontal cortex: a double-blind, randomized, placebo-controlled trial.
+fixed high-dose electroconvulsive therapy in the elderly with depression: a double-blind, randomized comparison of efficacy and tolerability between unilateral and bilateral electrode placement.
+add-on rtms for medication-resistant depression: a randomized, double-blind, sham-controlled trial in chinese patients.
+short-term cognitive effects of unilateral and bilateral ect.
+changes in brain connectivity during a sham-controlled, transcranial magnetic stimulation trial for depression.
+right and left dorsolateral pre-frontal rtms treatment of refractory depression: a randomized, sham-controlled trial.
+high-frequency rtms treatment increases left prefrontal myo-inositol in young patients with treatment-resistant depression.

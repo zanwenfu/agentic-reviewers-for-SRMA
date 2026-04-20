@@ -1,0 +1,2109 @@
+PMID- 11841956
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020828
+LR  - 20131121
+IS  - 1041-3499 (Print)
+IS  - 1041-3499 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2002 Feb
+TI  - Polycystic ovary syndrome in adolescents.
+PG  - 73-88, vi
+AB  - Recent findings suggest substantial metabolic sequelae to polycystic ovary 
+      syndrome (PCOS), including risk of diabetes and cardiovascular disease. Primary 
+      treatment of the metabolic sequelae should be the focus of the clinician. The 
+      definition of PCOS has been expanded from a disorder that presents at menarche 
+      and ends at menopause to a disorder that may be present from birth to senescence. 
+      The earliest recognized PCOS phenotype to date is premature pubarche 
+      characterized by excessively elevated levels of dehydroepiandosterone sulfate and 
+      hyperinsulinemia. Such girls are at high risk to develop the full PCOS phenotype, 
+      including ovarian hyperandrogenism and chronic anovulation. A fasting 
+      glucose-to-insulin ratio of < 7 is a useful index of insulin resistance in 
+      adolescents. However, each patient should be evaluated for glucose intolerance 
+      and lipid abnormalities on a regular basis by completing a 2-hour oral glucose 
+      tolerance test and a fasting lipid profile. Primary prevention of diabetes and 
+      cardiovascular disease by lifestyle modifications, regular exercise, and a 
+      balanced diet are of utmost importance, especially in adolescents who have the 
+      opportunity to establish healthy habits before entering adulthood. The role of 
+      insulin-sensitizing medications is still under study. Although no clinical trials 
+      over 6 months in duration have assessed the long-term efficacy of metformin use 
+      in adolescents, short-term trials have shown promising effects in lowering 
+      insulin secretion, improving insulin sensitivity, restoring normal menstrual 
+      cycles, and correcting lipid abnormalities.
+FAU - Kent, Sarah C
+AU  - Kent SC
+AD  - Pennsylvania State University College of Medicine, M S Hershey Medical Center, 
+      Hershey, 17003, USA.
+FAU - Legro, Richard S
+AU  - Legro RS
+LA  - eng
+GR  - K24 HD01476/HD/NICHD NIH HHS/United States
+GR  - M01 RR10732/RR/NCRR NIH HHS/United States
+GR  - U54 HD 34449/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PL  - United States
+TA  - Adolesc Med
+JT  - Adolescent medicine (Philadelphia, Pa.)
+JID - 9006270
+RN  - 0 (Hypoglycemic Agents)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+MH  - Adolescent
+MH  - Anovulation/etiology
+MH  - Diabetes Mellitus, Type 2/drug therapy/etiology/*prevention & control
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Glucose Intolerance/etiology
+MH  - Humans
+MH  - Hyperandrogenism/etiology
+MH  - Hyperlipidemias/etiology
+MH  - Hypoglycemic Agents/*therapeutic use
+MH  - *Insulin Resistance
+MH  - Metformin/*therapeutic use
+MH  - *Polycystic Ovary Syndrome/complications/diagnosis/drug therapy/metabolism
+MH  - Treatment Outcome
+RF  - 95
+EDAT- 2002/02/14 10:00
+MHDA- 2002/08/29 10:01
+CRDT- 2002/02/14 10:00
+PHST- 2002/02/14 10:00 [pubmed]
+PHST- 2002/08/29 10:01 [medline]
+PHST- 2002/02/14 10:00 [entrez]
+PST - ppublish
+SO  - Adolesc Med. 2002 Feb;13(1):73-88, vi.
+
+PMID- 15709062
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050613
+LR  - 20191109
+IS  - 0893-8652 (Print)
+IS  - 0893-8652 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2005 Jan-Feb
+TI  - Preventing type 2 diabetes mellitus.
+PG  - 37-43
+AB  - Type 2 diabetes is a serious, costly, and increasingly common disease. Several 
+      conditions commonly seen in family medicine settings confer increased risk of 
+      developing diabetes. Among these conditions are impaired glucose tolerance, 
+      impaired fasting glucose, obesity, gestational diabetes, hypertension, 
+      hyperlipidemia, and menopause. We here present the results of a systematic review 
+      of the literature examining the evidence for different strategies aimed at 
+      preventing type 2 diabetes in patients with these conditions. The strongest 
+      evidence supports an intensive lifestyle intervention designed to induce modest 
+      weight loss. The greatest degree of prevention, based on lesser quality evidence, 
+      may be imparted by bariatric surgery. Metformin and troglitazone have appreciable 
+      evidence in specific populations, and orlistat and acarbose have slightly less 
+      evidence among obese patients, for preventing diabetes. Ramipril, captopril, 
+      losartan, pravastatin, and estrogens show some very preliminary promise for 
+      preventing diabetes in patients treated for hypertension, hyperlipidemia, and 
+      menopause, but each needs a more rigorous evaluation. Although more questions 
+      remain to be answered, family physicians now have tools available to help our 
+      patients lead lives free of diabetes.
+FAU - Curtis, Jeff
+AU  - Curtis J
+AD  - Phoenix Indian Medical Center, Indian Health Service, Phoenix, Arizona 85016, 
+      USA. jfcurtis@mail.nih.gov
+FAU - Wilson, Charlton
+AU  - Wilson C
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+PL  - United States
+TA  - J Am Board Fam Pract
+JT  - The Journal of the American Board of Family Practice
+JID - 8807505
+SB  - IM
+MH  - Bariatrics/methods
+MH  - Diabetes Mellitus, Type 2/*prevention & control
+MH  - Female
+MH  - Hormone Replacement Therapy
+MH  - Humans
+MH  - Hyperlipidemias/drug therapy
+MH  - Hypertension/drug therapy
+MH  - Male
+MH  - Menopause
+MH  - Obesity/therapy
+RF  - 41
+EDAT- 2005/02/15 09:00
+MHDA- 2005/06/14 09:00
+CRDT- 2005/02/15 09:00
+PHST- 2005/02/15 09:00 [pubmed]
+PHST- 2005/06/14 09:00 [medline]
+PHST- 2005/02/15 09:00 [entrez]
+AID - 18/1/37 [pii]
+AID - 10.3122/jabfm.18.1.37 [doi]
+PST - ppublish
+SO  - J Am Board Fam Pract. 2005 Jan-Feb;18(1):37-43. doi: 10.3122/jabfm.18.1.37.
+
+PMID- 34216041
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220111
+LR  - 20220111
+IS  - 1365-2710 (Electronic)
+IS  - 0269-4727 (Linking)
+VI  - 46
+IP  - 5
+DP  - 2021 Oct
+TI  - The impact of metformin on prolactin levels in postmenopausal women.
+PG  - 1433-1440
+LID - 10.1111/jcpt.13470 [doi]
+AB  - WHAT IS KNOWN AND OBJECTIVE: Metformin-induced reduction in prolactin levels is 
+      more pronounced in users of hormonal contraception than in non-users. The current 
+      study was aimed at investigating whether physiological concentrations of 
+      estradiol determine the impact of metformin on lactotrope secretory function. 
+      METHODS: We studied two matched groups of postmenopausal women with elevated 
+      prolactin levels. Twenty-three women were on hormone replacement therapy (group 
+      1), while the remaining ones (group 2, n = 23) did not use sex hormones. Because 
+      of coexistent prediabetes, all individuals received metformin (2.55-3 g daily) 
+      for the following six months. Circulating levels of total prolactin, monomeric 
+      prolactin, thyrotropin, gonadotropins, free thyroid hormones and estradiol were 
+      determined at the beginning and at the end of the study. RESULTS AND DISCUSSION: 
+      Compared with group 1, group 2 was characterized by higher gonadotropin levels 
+      and lower estrogen levels. Although metformin reduced monomeric prolactin levels 
+      in both study groups, this effect was more pronounced in group 1 than in group 2. 
+      Only in group 1, metformin decreased total prolactin levels, while only in group 
+      2 the drug reduced FSH levels. Metformin treatment did not affect circulating 
+      levels of the remaining hormones. The impact of metformin on total and monomeric 
+      prolactin levels correlated with baseline prolactin levels and with the degree of 
+      improvement in insulin sensitivity. WHAT IS NEW AND CONCLUSION: The obtained 
+      results indicate that the impact of metformin on lactotrope secretory function is 
+      partially determined by the estrogen status of patients.
+CI  - © 2021 John Wiley & Sons Ltd.
+FAU - Krysiak, Robert
+AU  - Krysiak R
+AUID- ORCID: 0000-0001-5454-2620
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+FAU - Kowalcze, Karolina
+AU  - Kowalcze K
+AD  - Department of Pediatrics in Bytom, School of Health Sciences in Katowice, Medical 
+      University of Silesia, Katowice, Poland.
+FAU - Okopień, Bogusław
+AU  - Okopień B
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20210702
+PL  - England
+TA  - J Clin Pharm Ther
+JT  - Journal of clinical pharmacy and therapeutics
+JID - 8704308
+RN  - 0 (Blood Glucose)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+RN  - 0 (Thyroid Hormones)
+RN  - 4TI98Z838E (Estradiol)
+RN  - 9002-62-4 (Prolactin)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+MH  - Aged
+MH  - Blood Glucose
+MH  - Body Mass Index
+MH  - Comorbidity
+MH  - Estradiol/blood
+MH  - Estrogen Replacement Therapy/methods
+MH  - Female
+MH  - Humans
+MH  - Hyperprolactinemia/*drug therapy
+MH  - Hypoglycemic Agents/*pharmacology/therapeutic use
+MH  - Insulin/blood
+MH  - Metformin/*pharmacology/therapeutic use
+MH  - Middle Aged
+MH  - *Postmenopause
+MH  - Prediabetic State/drug therapy
+MH  - Prolactin/*drug effects
+MH  - Thyroid Hormones/blood
+OTO - NOTNLM
+OT  - estradiol
+OT  - lactotropes
+OT  - menopause
+OT  - metformin
+EDAT- 2021/07/04 06:00
+MHDA- 2022/01/12 06:00
+CRDT- 2021/07/03 06:17
+PHST- 2021/06/01 00:00 [revised]
+PHST- 2021/03/17 00:00 [received]
+PHST- 2021/06/05 00:00 [accepted]
+PHST- 2021/07/04 06:00 [pubmed]
+PHST- 2022/01/12 06:00 [medline]
+PHST- 2021/07/03 06:17 [entrez]
+AID - 10.1111/jcpt.13470 [doi]
+PST - ppublish
+SO  - J Clin Pharm Ther. 2021 Oct;46(5):1433-1440. doi: 10.1111/jcpt.13470. Epub 2021 
+      Jul 2.
+
+PMID- 9403322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980217
+LR  - 20190512
+IS  - 0268-1161 (Print)
+IS  - 0268-1161 (Linking)
+VI  - 12 Suppl 1
+DP  - 1997 Oct
+TI  - Perspective in the treatment of insulin resistance.
+PG  - 63-71
+AB  - Improving the action of insulin is a relatively new concept in therapy. It 
+      should, however, become more and more important because of the rapid expansion of 
+      the insulin resistance syndrome (including upper body adiposity, glucose 
+      intolerance, hypertension, dyslipidaemia, etc.) in industrialized countries and 
+      its dramatic consequences for public health. Insulin sensitivity can be improved 
+      by non-pharmacological means, essentially reduction of excessive body weight, 
+      promotion of regular physical activity and modification of dietary habits, as 
+      well as, possibly, cessation of smoking and correction of subclinical magnesium 
+      deficiency. Currently available pharmacological means mainly include the 
+      biguanide compound metformin and possibly anti-obesity agents, such as (d-) 
+      fenfluramine, fluoxetine and benfluorex. New compounds aiming at improving the 
+      action of insulin are in development, especially the thiazolidinedione 
+      derivatives (e.g. troglitazone), known as 'insulin sensitizers'. Treatment of 
+      insulin resistance may have important gynaecological applications, essentially in 
+      polycystic ovary syndrome and, possibly, after menopause. Hopefully, improving 
+      insulin sensitivity could ameliorate the cardiovascular prognosis of numerous 
+      individuals having some or all components of insulin resistance syndrome.
+FAU - Scheen, A J
+AU  - Scheen AJ
+AD  - Department of Medicine, CHU Sart Tilman, Liège, Belgium.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Hum Reprod
+JT  - Human reproduction (Oxford, England)
+JID - 8701199
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - *Insulin Resistance
+MH  - Menopause/*physiology
+MH  - Obesity/physiopathology/*prevention & control
+MH  - Polycystic Ovary Syndrome/physiopathology/*prevention & control
+RF  - 76
+EDAT- 1997/12/24 00:00
+MHDA- 1997/12/24 00:01
+CRDT- 1997/12/24 00:00
+PHST- 1997/12/24 00:00 [pubmed]
+PHST- 1997/12/24 00:01 [medline]
+PHST- 1997/12/24 00:00 [entrez]
+AID - 10.1093/humrep/12.suppl_1.63 [doi]
+PST - ppublish
+SO  - Hum Reprod. 1997 Oct;12 Suppl 1:63-71. doi: 10.1093/humrep/12.suppl_1.63.
+
+PMID- 23168523
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140306
+LR  - 20240610
+IS  - 1530-0374 (Electronic)
+IS  - 1072-3714 (Print)
+IS  - 1072-3714 (Linking)
+VI  - 20
+IP  - 4
+DP  - 2013 Apr
+TI  - Reductions in glucose among postmenopausal women who use and do not use estrogen 
+      therapy.
+PG  - 393-400
+LID - 10.1097/gme.0b013e3182703b73 [doi]
+AB  - OBJECTIVE: Among postmenopausal women who do not use estrogen therapy (ET), we 
+      have previously reported that intensive lifestyle modification (ILS) leads to 
+      increases in sex hormone-binding globulin (SHBG) and that such increases are 
+      associated with reductions in fasting plasma glucose (FPG) and 2-hour 
+      postchallenge glucose (2HG). Oral ET decreases FPG and increases 2HG while 
+      increasing both SHBG and estradiol (E2). It is unknown if ILS reduces glucose 
+      among ET users, if changes in SHBG and E2 might mediate any glucose decreases in 
+      ET users, and if these patterns differ from those in non-ET users. METHODS: We 
+      conducted a secondary analysis of postmenopausal women in the Diabetes Prevention 
+      Program who used ET at baseline and 1-year follow-up (n = 324) and who did not 
+      use ET at either time point (n = 382). Participants were randomized to ILS, 
+      metformin, or placebo administered at 850 mg BID. RESULTS: ET users were younger, 
+      more often white, and more likely to have had bilateral oophorectomy than non-ET 
+      users. Among ET users, ILS reduced FPG (P < 0.01) and 2HG (P < 0.01), and 
+      metformin reduced FPG (P < 0.01) but not 2HG (P = 0.56), compared with placebo. 
+      Associations between SHBG and total E2 with FPG and 2HG were not significant 
+      among women randomized to ILS or metformin. These patterns differed from those 
+      observed among women who did not use ET. CONCLUSIONS: We conclude that among 
+      glucose-intolerant ET users, interventions to reduce glucose are effective but 
+      possibly mediated through different pathways than among women who do not use ET.
+FAU - Kim, Catherine
+AU  - Kim C
+AD  - University of Michigan, Ann Arbor, MI 48109-5429, USA. cathkim@umich.edu
+FAU - Kong, Shengchun
+AU  - Kong S
+FAU - Laughlin, Gail A
+AU  - Laughlin GA
+FAU - Golden, Sherita H
+AU  - Golden SH
+FAU - Mather, Kieren J
+AU  - Mather KJ
+FAU - Nan, Bin
+AU  - Nan B
+FAU - Randolph, John F Jr
+AU  - Randolph JF Jr
+FAU - Edelstein, Sharon L
+AU  - Edelstein SL
+FAU - Labrie, Fernand
+AU  - Labrie F
+FAU - Buschur, Elizabeth
+AU  - Buschur E
+FAU - Barrett-Connor, Elizabeth
+AU  - Barrett-Connor E
+CN  - Diabetes Prevention Program Research Group
+LA  - eng
+GR  - U01DK048489/DK/NIDDK NIH HHS/United States
+GR  - R01DK083297/DK/NIDDK NIH HHS/United States
+GR  - R01 DK083297/DK/NIDDK NIH HHS/United States
+GR  - P30 DK079637/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR001449/TR/NCATS NIH HHS/United States
+GR  - K23DK071552/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR000041/TR/NCATS NIH HHS/United States
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - K23 DK071552/DK/NIDDK NIH HHS/United States
+GR  - U01 DK048489/DK/NIDDK NIH HHS/United States
+GR  - P30 DK017047/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Menopause
+JT  - Menopause (New York, N.Y.)
+JID - 9433353
+RN  - 0 (Blood Glucose)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Placebos)
+RN  - 0 (Sex Hormone-Binding Globulin)
+RN  - 4TI98Z838E (Estradiol)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+CIN - Menopause. 2013 Apr;20(4):365-7. doi: 10.1097/GME.0b013e31828b60ab. PMID: 
+      23921470
+MH  - Behavior Therapy
+MH  - Blood Glucose/*analysis
+MH  - Diabetes Mellitus/prevention & control
+MH  - Estradiol/blood
+MH  - *Estrogen Replacement Therapy
+MH  - Fasting
+MH  - Female
+MH  - Food
+MH  - Glucose Intolerance/drug therapy
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Life Style
+MH  - Metformin/therapeutic use
+MH  - Middle Aged
+MH  - Ovariectomy
+MH  - Placebos
+MH  - Postmenopause/*blood
+MH  - Sex Hormone-Binding Globulin/analysis
+PMC - PMC3582709
+MID - NIHMS409682
+COIS- Conflicts of interest: None declared.
+EDAT- 2012/11/22 06:00
+MHDA- 2014/03/07 06:00
+PMCR- 2014/04/01
+CRDT- 2012/11/22 06:00
+PHST- 2012/11/22 06:00 [entrez]
+PHST- 2012/11/22 06:00 [pubmed]
+PHST- 2014/03/07 06:00 [medline]
+PHST- 2014/04/01 00:00 [pmc-release]
+AID - 10.1097/gme.0b013e3182703b73 [doi]
+PST - ppublish
+SO  - Menopause. 2013 Apr;20(4):393-400. doi: 10.1097/gme.0b013e3182703b73.
+
+PMID- 37085892
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230425
+LR  - 20240917
+IS  - 1475-2840 (Electronic)
+IS  - 1475-2840 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2023 Apr 21
+TI  - Extended-release metformin improves cognitive impairment in frail older women 
+      with hypertension and diabetes: preliminary results from the LEOPARDESS Study.
+PG  - 94
+LID - 10.1186/s12933-023-01817-4 [doi]
+LID - 94
+AB  - BACKGROUND: Women have a high risk of frailty independently of age and menopause 
+      state. Diabetes and hypertension increase the risk of frailty and cognitive 
+      impairment. Metformin has been employed in post-menopausal women and some reports 
+      have shown encouraging effects in terms of attenuated frailty. However, the 
+      impact on cognitive performance of a recently introduced extended-release 
+      formulation of metformin has never been explored. METHODS: We studied consecutive 
+      frail hypertensive and diabetic older women presenting at the ASL (local health 
+      authority of the Italian Ministry of Health) Avellino, Italy, from June 2021 to 
+      August 2022, who were treated or not with extended-release metformin. We included 
+      a control group of frail older males with diabetes and hypertension treated with 
+      extended-release metformin and a control group of frail older women with diabetes 
+      and hypertension treated with regular metformin. RESULTS: A total of 145 patients 
+      successfully completed the study. At the end of the 6-month follow-up, we 
+      observed a significantly different cognitive performance compared to baseline in 
+      the group of frail women treated with extended-release metformin (p: 0.007). 
+      Then, we compared the follow-up groups and we observed significant differences 
+      between frail women treated vs. untreated (p: 0.041), between treated frail women 
+      and treated frail men (p: 0.016), and between women treated with extended-release 
+      metformin vs. women treated with regular metformin (p: 0.048). We confirmed the 
+      crucial role of extended-release metformin applying a multivariable logistic 
+      analysis to adjust for potential confounders. CONCLUSIONS: We evidenced, for the 
+      first time to the best of our knowledge, the favorable effects on cognitive 
+      impairment of extended-release metformin in frail women with diabetes and 
+      hypertension.
+CI  - © 2023. The Author(s).
+FAU - Mone, Pasquale
+AU  - Mone P
+AD  - Department of Medicine, Division of Cardiology, Einstein Institute for Aging 
+      Research, Fleischer Institute for Diabetes Research (FIDAM), Einstein - Mount 
+      Sinai Diabetes Research Center (ES-DRC), Albert Einstein College of Medicine, New 
+      York City, NY, USA. drpasquale.mone@gmail.com.
+AD  - ASL Avellino, Avellino, Italy. drpasquale.mone@gmail.com.
+AD  - University of Campania "Luigi Vanvitelli", Caserta, Italy. 
+      drpasquale.mone@gmail.com.
+FAU - Martinelli, Giuseppe
+AU  - Martinelli G
+AD  - University of Campania "Luigi Vanvitelli", Caserta, Italy.
+FAU - Lucariello, Angela
+AU  - Lucariello A
+AD  - Parthenope University Naples, Naples, Italy.
+FAU - Leo, Anna Luisa
+AU  - Leo AL
+AD  - ASL Avellino, Avellino, Italy.
+FAU - Marro, Anna
+AU  - Marro A
+AD  - ASL Avellino, Avellino, Italy.
+FAU - De Gennaro, Stefano
+AU  - De Gennaro S
+AD  - ASL Avellino, Avellino, Italy.
+FAU - Marzocco, Stefania
+AU  - Marzocco S
+AD  - Department of Pharmacy, University of Salerno, Fisciano, Italy.
+FAU - Moriello, Divina
+AU  - Moriello D
+AD  - ASL Avellino, Avellino, Italy.
+FAU - Frullone, Salvatore
+AU  - Frullone S
+AD  - ASL Avellino, Avellino, Italy.
+FAU - Cobellis, Luigi
+AU  - Cobellis L
+AD  - University of Campania "Luigi Vanvitelli", Caserta, Italy.
+FAU - Santulli, Gaetano
+AU  - Santulli G
+AD  - Department of Medicine, Division of Cardiology, Einstein Institute for Aging 
+      Research, Fleischer Institute for Diabetes Research (FIDAM), Einstein - Mount 
+      Sinai Diabetes Research Center (ES-DRC), Albert Einstein College of Medicine, New 
+      York City, NY, USA. gsantulli001@gmail.com.
+AD  - Department of Molecular Pharmacology, Institute for Neuroimmunology and 
+      Inflammation (INI), Albert Einstein College of Medicine, New York City, NY, USA. 
+      gsantulli001@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230421
+PL  - England
+TA  - Cardiovasc Diabetol
+JT  - Cardiovascular diabetology
+JID - 101147637
+SB  - IM
+MH  - Male
+MH  - Aged
+MH  - Humans
+MH  - Female
+MH  - *Frailty/diagnosis/drug therapy
+MH  - Frail Elderly/psychology
+MH  - *Cognitive Dysfunction/diagnosis/drug therapy
+MH  - *Diabetes Mellitus
+MH  - *Hypertension/diagnosis/drug therapy
+PMC - PMC10122301
+OTO - NOTNLM
+OT  - Aging
+OT  - Biguanides
+OT  - Cognitive dysfunction
+OT  - Frailty
+OT  - Hyperglycemia
+OT  - Menopause
+OT  - Metformin
+OT  - Sex differences
+OT  - Women’s health
+COIS- No competing interests.
+EDAT- 2023/04/22 10:42
+MHDA- 2023/04/25 10:20
+PMCR- 2023/04/21
+CRDT- 2023/04/21 23:40
+PHST- 2023/03/04 00:00 [received]
+PHST- 2023/03/28 00:00 [accepted]
+PHST- 2023/04/25 10:20 [medline]
+PHST- 2023/04/22 10:42 [pubmed]
+PHST- 2023/04/21 23:40 [entrez]
+PHST- 2023/04/21 00:00 [pmc-release]
+AID - 10.1186/s12933-023-01817-4 [pii]
+AID - 1817 [pii]
+AID - 10.1186/s12933-023-01817-4 [doi]
+PST - epublish
+SO  - Cardiovasc Diabetol. 2023 Apr 21;22(1):94. doi: 10.1186/s12933-023-01817-4.
+
+PMID- 36791677
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230529
+LR  - 20230603
+IS  - 1423-0313 (Electronic)
+IS  - 0031-7012 (Print)
+IS  - 0031-7012 (Linking)
+VI  - 108
+IP  - 3
+DP  - 2023
+TI  - Rosuvastatin Potentiates Gonadotropin-Lowering Effects of Metformin in 
+      Postmenopausal Women: A Pilot Study.
+PG  - 245-254
+LID - 10.1159/000528939 [doi]
+AB  - INTRODUCTION: Metformin reduces elevated levels of FSH and LH. In some studies, 
+      gonadotroph secretory function was inhibited by statins. The aim of the present 
+      study was to investigate whether statin therapy modulates the impact of metformin 
+      on hypothalamic-pituitary-gonadal axis activity in postmenopausal women. METHODS: 
+      The study population included 60 postmenopausal women with prediabetes, 40 of 
+      whom, because of high cardiovascular risk, received rosuvastatin (20-40 mg 
+      daily). One group of rosuvastatin-treated women (group A, n = 23) and all 
+      statin-naïve patients (group B, n = 20) were matched for age, glucose homeostasis 
+      markers, and gonadotropin levels. Over the entire study period (6 months), these 
+      women received metformin. The third group (group C) included 17 
+      rosuvastatin-treated women refusing metformin treatment. We assessed baseline and 
+      follow-up plasma lipids, glucose homeostasis markers, and concentrations of FSH, 
+      LH, thyrotropin, prolactin, adrenocorticotropic hormone (ACTH), insulin-like 
+      growth factor-1, estradiol, progesterone, and anti-Müllerian hormone (in selected 
+      patients). RESULTS: Fifty-three women (18 in groups A and B and 17 in group C) 
+      completed the study. At study entry, rosuvastatin-treated and statin-naïve women 
+      differed in levels of total cholesterol, LDL-cholesterol, and ACTH. In 
+      statin-naïve women, metformin reduced FSH levels and tended to reduce LH levels. 
+      In rosuvastatin-treated women, metformin decreased FSH and LH levels, and both 
+      effects were stronger than in statin-naïve women. Although observed in both 
+      groups, the impact on glucose homeostasis markers was more pronounced in 
+      individuals not receiving statin therapy. Metformin treatment did not affect 
+      circulating levels of lipids, thyrotropin, prolactin, ACTH, insulin-like growth 
+      factor-1, estradiol, and anti-Müllerian hormone. In group C, plasma lipids, 
+      glucose homeostasis markers, and hormone levels remained at a similar level 
+      throughout the study period. CONCLUSION: The obtained results indicate that 
+      statin therapy may enhance gonadotropin-lowering effects of metformin.
+CI  - © 2023 The Author(s). Published by S. Karger AG, Basel.
+FAU - Krysiak, Robert
+AU  - Krysiak R
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+FAU - Kowalcze, Karolina
+AU  - Kowalcze K
+AD  - Department of Pediatrics in Bytom, School of Health Sciences in Katowice, Medical 
+      University of Silesia, Bytom, Poland.
+FAU - Okopień, Bogusław
+AU  - Okopień B
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20230215
+PL  - Switzerland
+TA  - Pharmacology
+JT  - Pharmacology
+JID - 0152016
+RN  - 9100L32L2N (Metformin)
+RN  - 83MVU38M7Q (Rosuvastatin Calcium)
+RN  - 9002-62-4 (Prolactin)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+RN  - 80497-65-0 (Anti-Mullerian Hormone)
+RN  - 0 (Gonadotropins)
+RN  - 4TI98Z838E (Estradiol)
+RN  - 9002-71-5 (Thyrotropin)
+RN  - 9002-68-0 (Follicle Stimulating Hormone)
+RN  - 9002-60-2 (Adrenocorticotropic Hormone)
+RN  - IY9XDZ35W2 (Glucose)
+RN  - 0 (Lipids)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - *Metformin/pharmacology/therapeutic use
+MH  - Rosuvastatin Calcium/pharmacology/therapeutic use
+MH  - Prolactin
+MH  - Pilot Projects
+MH  - Insulin-Like Growth Factor I
+MH  - Postmenopause
+MH  - *Hydroxymethylglutaryl-CoA Reductase Inhibitors/pharmacology/therapeutic use
+MH  - Anti-Mullerian Hormone
+MH  - Gonadotropins
+MH  - Estradiol
+MH  - Thyrotropin
+MH  - Follicle Stimulating Hormone
+MH  - Adrenocorticotropic Hormone
+MH  - Glucose
+MH  - Lipids
+PMC - PMC10233706
+OTO - NOTNLM
+OT  - Hormones
+OT  - Hypothalamic-pituitary-gonadal axis
+OT  - Menopause
+OT  - Metformin
+OT  - Statins
+COIS- The authors have no conflicts of interest to disclose.
+EDAT- 2023/02/16 06:00
+MHDA- 2023/05/29 06:42
+PMCR- 2023/02/15
+CRDT- 2023/02/15 18:22
+PHST- 2022/09/07 00:00 [received]
+PHST- 2022/12/28 00:00 [accepted]
+PHST- 2023/05/29 06:42 [medline]
+PHST- 2023/02/16 06:00 [pubmed]
+PHST- 2023/02/15 18:22 [entrez]
+PHST- 2023/02/15 00:00 [pmc-release]
+AID - 000528939 [pii]
+AID - pha-0108-0245 [pii]
+AID - 10.1159/000528939 [doi]
+PST - ppublish
+SO  - Pharmacology. 2023;108(3):245-254. doi: 10.1159/000528939. Epub 2023 Feb 15.
+
+PMID- 21709591
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111207
+LR  - 20211020
+IS  - 1530-0374 (Electronic)
+IS  - 1072-3714 (Print)
+IS  - 1072-3714 (Linking)
+VI  - 18
+IP  - 8
+DP  - 2011 Aug
+TI  - Menopause and risk of diabetes in the Diabetes Prevention Program.
+PG  - 857-68
+LID - 10.1097/gme.0b013e31820f62d0 [doi]
+AB  - OBJECTIVE: The study objectives were to examine the association between menopause 
+      status and diabetes risk among women with glucose intolerance and to determine if 
+      menopause status modifies response to diabetes prevention interventions. METHODS: 
+      The study population included women in premenopause (n = 708), women in natural 
+      postmenopause (n = 328), and women with bilateral oophorectomy (n = 201) in the 
+      Diabetes Prevention Program, a randomized placebo-controlled trial of lifestyle 
+      intervention and metformin among glucose-intolerant adults. Associations between 
+      menopause and diabetes risk were evaluated using Cox proportional hazard models 
+      that adjusted for demographic variables (age, race/ethnicity, family history of 
+      diabetes, history of gestational diabetes mellitus), waist circumference, insulin 
+      resistance, and corrected insulin response. Similar models were constructed after 
+      stratification by menopause type and hormone therapy use. RESULTS: After 
+      adjustment for age, there was no association between natural menopause or 
+      bilateral oophorectomy and diabetes risk. Differences by study arm were observed 
+      in women who reported bilateral oophorectomy. In the lifestyle arm, women with 
+      bilateral oophorectomy had a lower adjusted hazard for diabetes (hazard ratio 
+      [HR], 0.19; 95% CI, 0.04-0.94), although observations were too few to determine 
+      if this was independent of hormone therapy use. No significant differences were 
+      seen in the metformin (HR, 1.29; 95% CI, 0.63-2.64) or placebo arms (HR, 1.37; 
+      95% CI, 0.74-2.55). CONCLUSIONS: Among women at high risk for diabetes, natural 
+      menopause was not associated with diabetes risk and did not affect response to 
+      diabetes prevention interventions. In the lifestyle intervention, bilateral 
+      oophorectomy was associated with a decreased diabetes risk.
+FAU - Kim, Catherine
+AU  - Kim C
+AD  - Department of Medicine, University of Michigan, Ann Arbor, MI, USA.
+FAU - Edelstein, Sharon L
+AU  - Edelstein SL
+FAU - Crandall, Jill P
+AU  - Crandall JP
+FAU - Dabelea, Dana
+AU  - Dabelea D
+FAU - Kitabchi, Abbas E
+AU  - Kitabchi AE
+FAU - Hamman, Richard F
+AU  - Hamman RF
+FAU - Montez, Maria G
+AU  - Montez MG
+FAU - Perreault, Leigh
+AU  - Perreault L
+FAU - Foulkes, Mary A
+AU  - Foulkes MA
+FAU - Barrett-Connor, Elizabeth
+AU  - Barrett-Connor E
+CN  - Diabetes Prevention Program Research Group
+LA  - eng
+GR  - U01 DK048406/DK/NIDDK NIH HHS/United States
+GR  - U01DK048489/DK/NIDDK NIH HHS/United States
+GR  - K23 DK071552/DK/NIDDK NIH HHS/United States
+GR  - U01 DK048489/DK/NIDDK NIH HHS/United States
+GR  - P30 DK017047/DK/NIDDK NIH HHS/United States
+GR  - K23DK071552/DK/NIDDK NIH HHS/United States
+GR  - ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Menopause
+JT  - Menopause (New York, N.Y.)
+JID - 9433353
+RN  - 0 (Hypoglycemic Agents)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+CIN - Menopause. 2011 Aug;18(8):837-8. doi: 10.1097/gme.0b013e318221bafe. PMID: 
+      21712731
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Body Mass Index
+MH  - Combined Modality Therapy
+MH  - Diabetes Mellitus, Type 2/*drug therapy/*prevention & control
+MH  - Female
+MH  - Health Promotion/methods
+MH  - Humans
+MH  - Hypoglycemic Agents/*administration & dosage
+MH  - *Life Style
+MH  - *Menopause
+MH  - Metformin/*administration & dosage
+MH  - Middle Aged
+MH  - Patient Education as Topic/methods
+MH  - Prediabetic State/drug therapy/prevention & control
+MH  - Proportional Hazards Models
+MH  - Quality of Life
+MH  - Risk Assessment
+MH  - Women's Health
+PMC - PMC3500880
+MID - NIHMS272485
+COIS- Conflict of interest: None
+FIR - Bray, George A
+IR  - Bray GA
+FIR - Culbert, Iris W
+IR  - Culbert IW
+FIR - Champagne, Catherine M
+IR  - Champagne CM
+FIR - Eberhardt, Barbara
+IR  - Eberhardt B
+FIR - Greenway, Frank
+IR  - Greenway F
+FIR - Guillory, Fonda G
+IR  - Guillory FG
+FIR - Herbert, April A
+IR  - Herbert AA
+FIR - Jeffirs, Michael L
+IR  - Jeffirs ML
+FIR - Kennedy, Betty M
+IR  - Kennedy BM
+FIR - Lovejoy, Jennifer C
+IR  - Lovejoy JC
+FIR - Melancon, Lee E
+IR  - Melancon LE
+FIR - Morris, Laura H
+IR  - Morris LH
+FIR - Ryan, Donna
+IR  - Ryan D
+FIR - Sanford, Deborah A
+IR  - Sanford DA
+FIR - Smith, Kenneth G
+IR  - Smith KG
+FIR - Smith, Lisa L
+IR  - Smith LL
+FIR - St Amant, Julia A
+IR  - St Amant JA
+FIR - Tulley, Richard T
+IR  - Tulley RT
+FIR - Vicknair, Paula C
+IR  - Vicknair PC
+FIR - Williamson, Donald
+IR  - Williamson D
+FIR - Zachwieja, Jeffery J
+IR  - Zachwieja JJ
+FIR - Polonsky, Kenneth S
+IR  - Polonsky KS
+FIR - Tobian, Janet
+IR  - Tobian J
+FIR - Ehrmann, David
+IR  - Ehrmann D
+FIR - Matulik, Margaret J
+IR  - Matulik MJ
+FIR - Clark, Bart
+IR  - Clark B
+FIR - Czech, Kirsten
+IR  - Czech K
+FIR - DeSandre, Catherine
+IR  - DeSandre C
+FIR - Hilbrich, Ruthanne
+IR  - Hilbrich R
+FIR - McNabb, Wylie
+IR  - McNabb W
+FIR - Semenske, Ann R
+IR  - Semenske AR
+FIR - Caro, Jose F
+IR  - Caro JF
+FIR - Watson, Pamela G
+IR  - Watson PG
+FIR - Goldstein, Barry J
+IR  - Goldstein BJ
+FIR - Smith, Kellie A
+IR  - Smith KA
+FIR - Mendoza, Jewel
+IR  - Mendoza J
+FIR - Liberoni, Renee
+IR  - Liberoni R
+FIR - Pepe, Constance
+IR  - Pepe C
+FIR - Spandorfer, John
+IR  - Spandorfer J
+FIR - Donahue, Richard P
+IR  - Donahue RP
+FIR - Kula, Lyn M
+IR  - Kula LM
+FIR - Malloy, Maureen A
+IR  - Malloy MA
+FIR - Nicosia, Maryanne
+IR  - Nicosia M
+FIR - Oldmixon, Cathryn F
+IR  - Oldmixon CF
+FIR - Pan, Jocelyn
+IR  - Pan J
+FIR - Quitingon, Marizel
+IR  - Quitingon M
+FIR - Rubtchinsky, Stacy
+IR  - Rubtchinsky S
+FIR - Seely, Ellen W
+IR  - Seely EW
+FIR - Schweizer, Dana
+IR  - Schweizer D
+FIR - Simonson, Donald
+IR  - Simonson D
+FIR - Smith, Fannie
+IR  - Smith F
+FIR - Solomon, Caren G
+IR  - Solomon CG
+FIR - Warram, James
+IR  - Warram J
+FIR - Kahn, Steven E
+IR  - Kahn SE
+FIR - Montgomery, Brenda K
+IR  - Montgomery BK
+FIR - Fujimoto, Wilfred
+IR  - Fujimoto W
+FIR - Knopp, Robert H
+IR  - Knopp RH
+FIR - Lipkin, Edward W
+IR  - Lipkin EW
+FIR - Marr, Michelle
+IR  - Marr M
+FIR - Trence, Dace
+IR  - Trence D
+FIR - Kitabchi, Abbas E
+IR  - Kitabchi AE
+FIR - Murphy, Mary E
+IR  - Murphy ME
+FIR - Applegate, William B
+IR  - Applegate WB
+FIR - Bryer-Ash, Michael
+IR  - Bryer-Ash M
+FIR - Frieson, Sandra L
+IR  - Frieson SL
+FIR - Imseis, Raed
+IR  - Imseis R
+FIR - Lambeth, Helen
+IR  - Lambeth H
+FIR - Lichtermann, Lynne C
+IR  - Lichtermann LC
+FIR - Oktaei, Hooman
+IR  - Oktaei H
+FIR - Sherman, Amy R
+IR  - Sherman AR
+FIR - Smith, Clara M
+IR  - Smith CM
+FIR - Soberman, Judith E
+IR  - Soberman JE
+FIR - Williams-Cleaves, Beverly
+IR  - Williams-Cleaves B
+FIR - Metzger, Boyd E
+IR  - Metzger BE
+FIR - Johnson, Mariana K
+IR  - Johnson MK
+FIR - Behrends, Catherine
+IR  - Behrends C
+FIR - Cook, Michelle
+IR  - Cook M
+FIR - Fitzgibbon, Marian
+IR  - Fitzgibbon M
+FIR - Giles, Mimi M
+IR  - Giles MM
+FIR - Heard, Deloris
+IR  - Heard D
+FIR - Johnson, Cheryl K H
+IR  - Johnson CK
+FIR - Larsen, Diane
+IR  - Larsen D
+FIR - Lowe, Anne
+IR  - Lowe A
+FIR - Lyman, Megan
+IR  - Lyman M
+FIR - McPherson, David
+IR  - McPherson D
+FIR - Molitch, Mark E
+IR  - Molitch ME
+FIR - Pitts, Thomas
+IR  - Pitts T
+FIR - Reinhart, Renee
+IR  - Reinhart R
+FIR - Rowland, Nancy D
+IR  - Rowland ND
+FIR - Wheeler, Madelyn L
+IR  - Wheeler ML
+FIR - Ratner, Robert E
+IR  - Ratner RE
+FIR - Youssef, Gretchen
+IR  - Youssef G
+FIR - Shapiro, Sue
+IR  - Shapiro S
+FIR - Bavido-Arrage, Catherine
+IR  - Bavido-Arrage C
+FIR - Boggs, Geraldine
+IR  - Boggs G
+FIR - Bronsord, Marjorie
+IR  - Bronsord M
+FIR - Brown, Ernestine
+IR  - Brown E
+FIR - Cheatham, Wayman W
+IR  - Cheatham WW
+FIR - Cola, Susan
+IR  - Cola S
+FIR - Evans, Cindy
+IR  - Evans C
+FIR - Gibbs, Peggy
+IR  - Gibbs P
+FIR - Kellum, Tracy
+IR  - Kellum T
+FIR - Levatan, Claresa
+IR  - Levatan C
+FIR - Nair, Asha K
+IR  - Nair AK
+FIR - Passaro, Maureen
+IR  - Passaro M
+FIR - Uwaifo, Gabriel
+IR  - Uwaifo G
+FIR - Saad, Mohammed F
+IR  - Saad MF
+FIR - Budget, Maria
+IR  - Budget M
+FIR - Jinagouda, Sujata
+IR  - Jinagouda S
+FIR - Akbar, Khan
+IR  - Akbar K
+FIR - Conzues, Claudia
+IR  - Conzues C
+FIR - Magpuri, Magpuri
+IR  - Magpuri M
+FIR - Ngo, Kathy
+IR  - Ngo K
+FIR - Rassam, Amer
+IR  - Rassam A
+FIR - Waters, Debra
+IR  - Waters D
+FIR - Xapthalamous, Kathy
+IR  - Xapthalamous K
+FIR - Santiago, Julio V
+IR  - Santiago JV
+FIR - Dagogo-Jack, Samuel
+IR  - Dagogo-Jack S
+FIR - White, Neil H
+IR  - White NH
+FIR - Das, Samia
+IR  - Das S
+FIR - Santiago, Ana
+IR  - Santiago A
+FIR - Brown, Angela
+IR  - Brown A
+FIR - Fisher, Edwin
+IR  - Fisher E
+FIR - Hurt, Emma
+IR  - Hurt E
+FIR - Jones, Tracy
+IR  - Jones T
+FIR - Kerr, Michelle
+IR  - Kerr M
+FIR - Ryder, Lucy R
+IR  - Ryder LR
+FIR - Wernimont, Cormarie
+IR  - Wernimont C
+FIR - Saudek, Christopher D
+IR  - Saudek CD
+FIR - Bradley, Vanessa
+IR  - Bradley V
+FIR - Sullivan, Emily
+IR  - Sullivan E
+FIR - Whittington, Tracy
+IR  - Whittington T
+FIR - Abbas, Caroline
+IR  - Abbas C
+FIR - Brancati, Frederick L
+IR  - Brancati FL
+FIR - Clark, Jeanne M
+IR  - Clark JM
+FIR - Barr, Susan
+IR  - Barr S
+FIR - Boraz, Miriam
+IR  - Boraz M
+FIR - Clifford, Lisa
+IR  - Clifford L
+FIR - Culyba, Rebecca
+IR  - Culyba R
+FIR - Frazier, Marlene
+IR  - Frazier M
+FIR - Gilligan, Ryan
+IR  - Gilligan R
+FIR - Harrier, Susan
+IR  - Harrier S
+FIR - Harris, Louann
+IR  - Harris L
+FIR - Jeffries, Susan
+IR  - Jeffries S
+FIR - Kriska, Andrea
+IR  - Kriska A
+FIR - Manjoo, Qurashia
+IR  - Manjoo Q
+FIR - Mullen, Monica
+IR  - Mullen M
+FIR - Noel, Alicia
+IR  - Noel A
+FIR - Otto, Amy
+IR  - Otto A
+FIR - Smith, Cheryl F
+IR  - Smith CF
+FIR - Smith, Marie
+IR  - Smith M
+FIR - Venditti, Elizabeth
+IR  - Venditti E
+FIR - Weinzierl, Valarie
+IR  - Weinzierl V
+FIR - Williams, Katherine V
+IR  - Williams KV
+FIR - Wilson, Tara
+IR  - Wilson T
+FIR - Arakaki, Richard F
+IR  - Arakaki RF
+FIR - Arakaki, Richard F
+IR  - Arakaki RF
+FIR - Baker-Ladao, Narleen K
+IR  - Baker-Ladao NK
+FIR - Beddow, Ralph
+IR  - Beddow R
+FIR - Dias, Lorna
+IR  - Dias L
+FIR - Inouye, Jillian
+IR  - Inouye J
+FIR - Mau, Marjorie K
+IR  - Mau MK
+FIR - Mikami, Kathy
+IR  - Mikami K
+FIR - Mohideen, Pharis
+IR  - Mohideen P
+FIR - Odom, Sharon K
+IR  - Odom SK
+FIR - Perry, Raynette U
+IR  - Perry RU
+FIR - Knowler, William C
+IR  - Knowler WC
+FIR - Cooeyate, Norman
+IR  - Cooeyate N
+FIR - Hoskin, Mary A
+IR  - Hoskin MA
+FIR - Percy, Carol A
+IR  - Percy CA
+FIR - Acton, Kelly J
+IR  - Acton KJ
+FIR - Andre, Vickie L
+IR  - Andre VL
+FIR - Barber, Rosalyn
+IR  - Barber R
+FIR - Begay, Shandiin
+IR  - Begay S
+FIR - Bennett, Peter H
+IR  - Bennett PH
+FIR - Benson, Mary Beth
+IR  - Benson MB
+FIR - Bird, Evelyn C
+IR  - Bird EC
+FIR - Broussard, Brenda A
+IR  - Broussard BA
+FIR - Chavez, Marcella
+IR  - Chavez M
+FIR - Doughty, Matthew S
+IR  - Doughty MS
+FIR - Duncan, Roberta
+IR  - Duncan R
+FIR - Edgerton, Cyndy
+IR  - Edgerton C
+FIR - Marcovina, Santica
+IR  - Marcovina S
+FIR - Strylewicz, Greg
+IR  - Strylewicz G
+FIR - Aldrich, F Alan
+IR  - Aldrich FA
+FIR - Rautaharju, Pentti
+IR  - Rautaharju P
+FIR - Prineas, Ronald J
+IR  - Prineas RJ
+FIR - Alexander, Teresa
+IR  - Alexander T
+FIR - Campbell, Charles
+IR  - Campbell C
+FIR - Hall, Sharon
+IR  - Hall S
+FIR - Li, Yabing
+IR  - Li Y
+FIR - Mills, Margaret
+IR  - Mills M
+FIR - Pemberton, Nancy
+IR  - Pemberton N
+FIR - Rautaharju, Farida
+IR  - Rautaharju F
+FIR - Zhang, Zhuming
+IR  - Zhang Z
+FIR - Goldberg, Ronald B
+IR  - Goldberg RB
+FIR - Prineas, Ronald
+IR  - Prineas R
+FIR - Rowe, Patricia
+IR  - Rowe P
+FIR - Calles, Jeanette
+IR  - Calles J
+FIR - Florez, Hermes J
+IR  - Florez HJ
+FIR - Giannella, Anna
+IR  - Giannella A
+FIR - Kirby, Lascelles
+IR  - Kirby L
+FIR - Larreal, Carmen
+IR  - Larreal C
+FIR - McLymont, Valerie
+IR  - McLymont V
+FIR - Mendez, Jadell
+IR  - Mendez J
+FIR - Ojito, Juliet
+IR  - Ojito J
+FIR - Perry, Arlette
+IR  - Perry A
+FIR - Saab, Patrice
+IR  - Saab P
+FIR - Haffner, Steven M
+IR  - Haffner SM
+FIR - Montez, Maria G
+IR  - Montez MG
+FIR - Lorenzo, Carlos
+IR  - Lorenzo C
+FIR - Martinez, Arlene
+IR  - Martinez A
+FIR - Hamman, Richard F
+IR  - Hamman RF
+FIR - Nash, Patricia V
+IR  - Nash PV
+FIR - Testaverde, Lisa
+IR  - Testaverde L
+FIR - Anderson, Denise R
+IR  - Anderson DR
+FIR - Ballonoff, Larry B
+IR  - Ballonoff LB
+FIR - Bouffard, Alexis
+IR  - Bouffard A
+FIR - Calonge, B Ned
+IR  - Calonge BN
+FIR - Delve, Lynne
+IR  - Delve L
+FIR - Farago, Martha
+IR  - Farago M
+FIR - Hill, James O
+IR  - Hill JO
+FIR - Hoyer, Shelley R
+IR  - Hoyer SR
+FIR - Hoyer, Shelley R
+IR  - Hoyer SR
+FIR - Lenz, Dione
+IR  - Lenz D
+FIR - Miller, Marsha
+IR  - Miller M
+FIR - Price, David W
+IR  - Price DW
+FIR - Regensteiner, Judith G
+IR  - Regensteiner JG
+FIR - Seagle, Helen
+IR  - Seagle H
+FIR - Smith, Carissa M
+IR  - Smith CM
+FIR - Steinke, Sheila C
+IR  - Steinke SC
+FIR - VanDorsten, Brent
+IR  - VanDorsten B
+FIR - Horton, Edward S
+IR  - Horton ES
+FIR - Lawton, Kathleen E
+IR  - Lawton KE
+FIR - Arky, Ronald A
+IR  - Arky RA
+FIR - Bryant, Marybeth
+IR  - Bryant M
+FIR - Burke, Jacqueline P
+IR  - Burke JP
+FIR - Caballero, Enrique
+IR  - Caballero E
+FIR - Callaphan, Karen M
+IR  - Callaphan KM
+FIR - Ganda, Om P
+IR  - Ganda OP
+FIR - Franklin, Therese
+IR  - Franklin T
+FIR - Jackson, Sharon D
+IR  - Jackson SD
+FIR - Jacobsen, Alan M
+IR  - Jacobsen AM
+FIR - Kocal, Margaret
+IR  - Kocal M
+FIR - Roston, Susan
+IR  - Roston S
+FIR - Schinleber, Pamela A
+IR  - Schinleber PA
+FIR - Nathan, David M
+IR  - Nathan DM
+FIR - McKitrick, Charles
+IR  - McKitrick C
+FIR - Turgeon, Heather
+IR  - Turgeon H
+FIR - Abbott, Kathy
+IR  - Abbott K
+FIR - Anderson, Ellen
+IR  - Anderson E
+FIR - Bissett, Laurie
+IR  - Bissett L
+FIR - Cagliero, Enrico
+IR  - Cagliero E
+FIR - Delahanty, Linda
+IR  - Delahanty L
+FIR - Goldman, Valerie
+IR  - Goldman V
+FIR - Poulos, Alexandra
+IR  - Poulos A
+FIR - Olefsky, Jerrold M
+IR  - Olefsky JM
+FIR - Carrion-Petersen, Mary Lou
+IR  - Carrion-Petersen ML
+FIR - Barrett-Connor, Elizabeth
+IR  - Barrett-Connor E
+FIR - Edelman, Steven V
+IR  - Edelman SV
+FIR - Henry, Robert R
+IR  - Henry RR
+FIR - Horne, Javiva
+IR  - Horne J
+FIR - Janesch, Simona Szerdi
+IR  - Janesch SS
+FIR - Leos, Diana
+IR  - Leos D
+FIR - Mudaliar, Sundar
+IR  - Mudaliar S
+FIR - Polonsky, William
+IR  - Polonsky W
+FIR - Smith, Jean
+IR  - Smith J
+FIR - Vejvoda, Karen
+IR  - Vejvoda K
+FIR - Pi-Sunyer, F Xavier
+IR  - Pi-Sunyer FX
+FIR - Lee, Jane E
+IR  - Lee JE
+FIR - Allison, David B
+IR  - Allison DB
+FIR - Aronoff, Nancy J
+IR  - Aronoff NJ
+FIR - Crandall, Jill P
+IR  - Crandall JP
+FIR - Foo, Sandra T
+IR  - Foo ST
+FIR - Pal, Carmen
+IR  - Pal C
+FIR - Parkes, Kathy
+IR  - Parkes K
+FIR - Pena, Mary Beth
+IR  - Pena MB
+FIR - Rooney, Ellen S
+IR  - Rooney ES
+FIR - Van Wye, Gretchen E H
+IR  - Van Wye GE
+FIR - Viscovich, Kristine A
+IR  - Viscovich KA
+FIR - Marrero, David G
+IR  - Marrero DG
+FIR - Prince, Melvin J
+IR  - Prince MJ
+FIR - Kelly, Susie M
+IR  - Kelly SM
+FIR - Dotson, Yolanda F
+IR  - Dotson YF
+FIR - Fineberg, Edwin S
+IR  - Fineberg ES
+FIR - Guare, John C
+IR  - Guare JC
+FIR - Hadden, Angela M
+IR  - Hadden AM
+FIR - Ignaut, James M
+IR  - Ignaut JM
+FIR - Jackson, Marcia L
+IR  - Jackson ML
+FIR - Kirkman, Marion S
+IR  - Kirkman MS
+FIR - Mather, Kieren J
+IR  - Mather KJ
+FIR - Porter, Beverly D
+IR  - Porter BD
+FIR - Roach, Paris J
+IR  - Roach PJ
+FIR - Charleston, Jeanne B
+IR  - Charleston JB
+FIR - Freel, Janice
+IR  - Freel J
+FIR - Horak, Katherine
+IR  - Horak K
+FIR - Jiggetts, Dawn
+IR  - Jiggetts D
+FIR - Johnson, Deloris
+IR  - Johnson D
+FIR - Joseph, Hope
+IR  - Joseph H
+FIR - Loman, Kimberly
+IR  - Loman K
+FIR - Mosley, Henry
+IR  - Mosley H
+FIR - Rubin, Richard R
+IR  - Rubin RR
+FIR - Samuels, Alafia
+IR  - Samuels A
+FIR - Stewart, Kerry J
+IR  - Stewart KJ
+FIR - Williamson, Paula
+IR  - Williamson P
+FIR - Schade, David S
+IR  - Schade DS
+FIR - Adams, Karwyn S
+IR  - Adams KS
+FIR - Johannes, Carolyn
+IR  - Johannes C
+FIR - Atler, Leslie F
+IR  - Atler LF
+FIR - Burge, Mark R
+IR  - Burge MR
+FIR - Canady, Janene L
+IR  - Canady JL
+FIR - Chai, Lisa
+IR  - Chai L
+FIR - Gonzales, Ysela
+IR  - Gonzales Y
+FIR - Hernandez-McGinnis, Doris A
+IR  - Hernandez-McGinnis DA
+FIR - Katz, Patricia
+IR  - Katz P
+FIR - King, Carolyn
+IR  - King C
+FIR - Rassam, Amer
+IR  - Rassam A
+FIR - Rubinchik, Sofya
+IR  - Rubinchik S
+FIR - Senter, Willette
+IR  - Senter W
+FIR - Waters, Debra
+IR  - Waters D
+FIR - Shamoon, Harry
+IR  - Shamoon H
+FIR - Brown, Janet O
+IR  - Brown JO
+FIR - Adorno, Elsie
+IR  - Adorno E
+FIR - Cox, Liane
+IR  - Cox L
+FIR - Crandall, Jill
+IR  - Crandall J
+FIR - Duffy, Helena
+IR  - Duffy H
+FIR - Engel, Samuel
+IR  - Engel S
+FIR - Friedler, Allison
+IR  - Friedler A
+FIR - Howard-Century, Crystal J
+IR  - Howard-Century CJ
+FIR - Kloiber, Stacey
+IR  - Kloiber S
+FIR - Longchamp, Nadege
+IR  - Longchamp N
+FIR - Martinez, Helen
+IR  - Martinez H
+FIR - Pompi, Dorothy
+IR  - Pompi D
+FIR - Scheindlin, Jonathan
+IR  - Scheindlin J
+FIR - Violino, Elissa
+IR  - Violino E
+FIR - Walker, Elizabeth
+IR  - Walker E
+FIR - Wylie-Rosett, Judith
+IR  - Wylie-Rosett J
+FIR - Zimmerman, Elise
+IR  - Zimmerman E
+FIR - Zonszein, Joel
+IR  - Zonszein J
+FIR - Orchard, Trevor
+IR  - Orchard T
+FIR - Wing, Rena R
+IR  - Wing RR
+FIR - Koenning, Gaye
+IR  - Koenning G
+FIR - Kramer, Kaye
+IR  - Kramer K
+FIR - Ghahate, Jacqueline M
+IR  - Ghahate JM
+FIR - Glass, Justin
+IR  - Glass J
+FIR - Glass, Martia
+IR  - Glass M
+FIR - Gohdes, Dorothy
+IR  - Gohdes D
+FIR - Grant, Wendy
+IR  - Grant W
+FIR - Hanson, Robert L
+IR  - Hanson RL
+FIR - Horse, Ellie
+IR  - Horse E
+FIR - Ingraham, Louise E
+IR  - Ingraham LE
+FIR - Jackson, Merry
+IR  - Jackson M
+FIR - Jay, Priscilla
+IR  - Jay P
+FIR - Kaskalla, Roylen S
+IR  - Kaskalla RS
+FIR - Kessler, David
+IR  - Kessler D
+FIR - Kobus, Kathleen M
+IR  - Kobus KM
+FIR - Krakoff, Jonathan
+IR  - Krakoff J
+FIR - Manus, Catherine
+IR  - Manus C
+FIR - Michaels, Sara
+IR  - Michaels S
+FIR - Morgan, Tina
+IR  - Morgan T
+FIR - Nashboo, Yolanda
+IR  - Nashboo Y
+FIR - Nelson, Julie A
+IR  - Nelson JA
+FIR - Poirier, Steven
+IR  - Poirier S
+FIR - Polczynski, Evette
+IR  - Polczynski E
+FIR - Reidy, Mike
+IR  - Reidy M
+FIR - Roumain, Jeanine
+IR  - Roumain J
+FIR - Rowse, Debra
+IR  - Rowse D
+FIR - Sangster, Sandra
+IR  - Sangster S
+FIR - Sewenemewa, Janet
+IR  - Sewenemewa J
+FIR - Tonemah, Darryl
+IR  - Tonemah D
+FIR - Wilson, Charlton
+IR  - Wilson C
+FIR - Yazzie, Michelle
+IR  - Yazzie M
+FIR - Bain, Raymond
+IR  - Bain R
+FIR - Fowler, Sarah
+IR  - Fowler S
+FIR - Brenneman, Tina
+IR  - Brenneman T
+FIR - Abebe, Solome
+IR  - Abebe S
+FIR - Bamdad, Julie
+IR  - Bamdad J
+FIR - Callaghan, Jackie
+IR  - Callaghan J
+FIR - Edelstein, Sharon L
+IR  - Edelstein SL
+FIR - Gao, Yuping
+IR  - Gao Y
+FIR - Grimes, Kristina L
+IR  - Grimes KL
+FIR - Grover, Nisha
+IR  - Grover N
+FIR - Haffner, Lori
+IR  - Haffner L
+FIR - Jones, Steve
+IR  - Jones S
+FIR - Jones, Tara L
+IR  - Jones TL
+FIR - Katz, Richard
+IR  - Katz R
+FIR - Lachin, John M
+IR  - Lachin JM
+FIR - Mucik, Pamela
+IR  - Mucik P
+FIR - Orlosky, Robert
+IR  - Orlosky R
+FIR - Rochon, James
+IR  - Rochon J
+FIR - Sapozhnikova, Alla
+IR  - Sapozhnikova A
+FIR - Sherif, Hanna
+IR  - Sherif H
+FIR - Stimpson, Charlotte
+IR  - Stimpson C
+FIR - Temprosa, Marinella
+IR  - Temprosa M
+FIR - Walker-Murray, Fredricka
+IR  - Walker-Murray F
+FIR - Fradkin, Judith
+IR  - Fradkin J
+FIR - Garfield, Sanford
+IR  - Garfield S
+FIR - Mayer-Davis, Elizabeth
+IR  - Mayer-Davis E
+FIR - Moran, Robert R
+IR  - Moran RR
+FIR - Ganiats, Ted
+IR  - Ganiats T
+FIR - David, Kristin
+IR  - David K
+FIR - Sarkin, Andrew J
+IR  - Sarkin AJ
+FIR - Florez, Jose C
+IR  - Florez JC
+FIR - Altshuler, David
+IR  - Altshuler D
+FIR - de Bakker, Paul I W
+IR  - de Bakker PI
+FIR - Franks, Paul
+IR  - Franks P
+FIR - Hanson, Robert L
+IR  - Hanson RL
+FIR - Jablonski, Kathleen
+IR  - Jablonski K
+FIR - Knowler, William C
+IR  - Knowler WC
+FIR - McAteer, Jarred
+IR  - McAteer J
+FIR - Pollin, Toni I
+IR  - Pollin TI
+FIR - Shuldiner, Alan R
+IR  - Shuldiner AR
+EDAT- 2011/06/29 06:00
+MHDA- 2011/12/13 00:00
+PMCR- 2012/11/19
+CRDT- 2011/06/29 06:00
+PHST- 2011/06/29 06:00 [entrez]
+PHST- 2011/06/29 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+PHST- 2012/11/19 00:00 [pmc-release]
+AID - 10.1097/gme.0b013e31820f62d0 [doi]
+PST - ppublish
+SO  - Menopause. 2011 Aug;18(8):857-68. doi: 10.1097/gme.0b013e31820f62d0.
+
+PMID- 33356861
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20211028
+IS  - 2053-3705 (Electronic)
+IS  - 2053-3691 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2021 Mar
+TI  - Targeting insulin resistance with selected antidiabetic agents prevents 
+      menopausal associated central obesity, dysglycemia, and cardiometabolic risk.
+PG  - 45-48
+LID - 10.1177/2053369120982753 [doi]
+AB  - Menopause consequent to reduced circulating estrogen is associated with 
+      diminished insulin receptor sensitivity and fat redistribution, particularly 
+      central adiposity and increased waist circumference. Peri and menopausal women 
+      are at risk of hyperglycemia, prediabetes and attendant metabolic disturbances. 
+      Hormone replacement therapy increases insulin receptor sensitivity, but may 
+      precipitate an increased cardiovascular risk, depending on the route, if not 
+      commenced within the proposed period denoted by the 'timing hypothesis'. The 
+      therapeutic ideal of dietary modification with increased physical activity may 
+      have compliance issues. We theorize that selected antidiabetic agents reduce 
+      visceral fat deposits, restore insulin sensitivity and inhibit inflammatory 
+      mediator release. Glucagon-like peptide 1 agonists, sodium-glucose cotransporter 
+      2 inhibitors and even metformin are worthy interventions to treat 
+      menopausal-induced obesogenic metabolic conditions. Loss of visceral fat restores 
+      insulin receptor sensitivity, decreases central obesity and adipokines to halt 
+      dysmetabolic changes.
+FAU - Jankie, Satish
+AU  - Jankie S
+AUID- ORCID: 0000-0002-3871-5146
+AD  - School of Pharmacy, University of the West Indies, St. Augustine Campus, 
+      Trinidad.
+FAU - Pinto Pereira, Lexley Maureen
+AU  - Pinto Pereira LM
+AD  - Department of Paraclinical Sciences, Faculty of Medical Sciences, University of 
+      the West Indies, St. Augustine Campus, Trinidad.
+LA  - eng
+PT  - Journal Article
+DEP - 20201225
+PL  - United States
+TA  - Post Reprod Health
+JT  - Post reproductive health
+JID - 101626590
+RN  - 0 (Hypoglycemic Agents)
+SB  - IM
+MH  - *Cardiovascular Diseases/prevention & control
+MH  - Female
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - *Insulin Resistance
+MH  - Menopause
+MH  - *Obesity, Abdominal/prevention & control
+OTO - NOTNLM
+OT  - Alternative therapies
+OT  - perimenopause
+OT  - postmenopause
+EDAT- 2020/12/29 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2020/12/28 10:11
+PHST- 2020/12/29 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+PHST- 2020/12/28 10:11 [entrez]
+AID - 10.1177/2053369120982753 [doi]
+PST - ppublish
+SO  - Post Reprod Health. 2021 Mar;27(1):45-48. doi: 10.1177/2053369120982753. Epub 
+      2020 Dec 25.
+
+PMID- 38888178
+OWN - NLM
+STAT- Publisher
+LR  - 20240618
+IS  - 1945-7197 (Electronic)
+IS  - 0021-972X (Linking)
+DP  - 2024 Jun 18
+TI  - Polycystic Ovary Syndrome, Metabolic Syndrome, and Inflammation in the Hispanic 
+      Community Health Study/Study of Latinos.
+LID - dgae426 [pii]
+LID - 10.1210/clinem/dgae426 [doi]
+AB  - CONTEXT: Polycystic Ovary Syndrome (PCOS) is a multifaceted endocrine disorder 
+      with reproductive and metabolic dysregulation. PCOS has been associated with 
+      inflammation and Metabolic Syndrome (MetS); however, the moderating effects of 
+      inflammation as measured by C-reactive protein (CRP) and menopause on the 
+      PCOS-MetS association have not been studied in Hispanic/Latinas with PCOS who 
+      have a higher metabolic burden. OBJECTIVE: We studied the cross-sectional 
+      association between PCOS and (i) MetS in 7316 females of the Hispanic Community 
+      Health Study/Study of Latinos (HCHS/SOL), (ii) subcomponents of MetS including 
+      impaired fasting glucose (IFG) and elevated triglycerides (TGL), and (iii) effect 
+      modification by menopausal status and CRP. DESIGN: HCHS/SOL is a multicenter, 
+      longitudinal, and observational study of US Hispanic/Latinos. Our study sample 
+      included females from Visit 2 with self-reported PCOS and MetS (ages 23-82 
+      years). RESULTS: PCOS (prevalence=18.8%) was significantly associated with MetS 
+      prevalence (OR=1.41[95% confidence interval: 1.13-1.76]), IFG and TGL 
+      (OR=1.42[1.18-1.72], OR=1.48[1.20-1.83] respectively). We observed effect 
+      modification by menopausal status (ORpre=1.46, pint=0.02; ORpost=1.34, pint=0.06) 
+      and CRP (ORelevated=1.41, pint=0.04; ORnormal=1.26, pint=0.16) on the PCOS-MetS 
+      association. We also observed a super-additive interaction between CRP and PCOS, 
+      adjusting for which resulted in an attenuated effect of PCOS on MetS 
+      (OR=1.29[0.93-1.78]). CONCLUSIONS: Hispanic/Latino females with PCOS had higher 
+      odds of MetS, IFG, and elevated TGL, than their peers without PCOS. Interaction 
+      analyses revealed that the odds of MetS are higher among PCOS females who have 
+      pre-menopausal status or high inflammation. Interventions in Hispanic/Latinas 
+      should target these outcomes for effective management of the disease.
+CI  - © The Author(s) 2024. Published by Oxford University Press on behalf of the 
+      Endocrine Society. All rights reserved. For commercial re-use, please contact 
+      reprints@oup.com for reprints and translation rights for reprints. All other 
+      permissions can be obtained through our RightsLink service via the Permissions 
+      link on the article page on our site—for further information please contact 
+      journals.permissions@oup.com. See the journal About page for additional terms.
+FAU - Rao, Hridya C
+AU  - Rao HC
+AUID- ORCID: 0000-0003-3532-3435
+AD  - Department of Biobehavioral Health, Pennsylvania State University, University 
+      Park, PA.
+FAU - Meyer, Michelle L
+AU  - Meyer ML
+AD  - Department of Emergency Medicine, University of North Carolina at Chapel Hill, 
+      Chapel Hill, NC.
+FAU - Kominiarek, Michelle A
+AU  - Kominiarek MA
+AD  - Department of Obstetrics and Gynecology, Northwestern University, Chicago, IL.
+FAU - Daviglus, Martha L
+AU  - Daviglus ML
+AD  - Department of Preventative Medicine, University of Illinois, Chicago, IL.
+FAU - Gallo, Linda C
+AU  - Gallo LC
+AD  - Department of Psychology, San Diego State University, San Diego, CA.
+FAU - Cordero, Christina
+AU  - Cordero C
+AUID- ORCID: 0000-0003-1032-5303
+AD  - Department of Psychology, University of Miami, Miami, FL.
+FAU - Syan, Raveen
+AU  - Syan R
+AD  - Department of Urology, University of Miami, Miami, FL.
+FAU - Perreira, Krista M
+AU  - Perreira KM
+AD  - Department of Social Medicine, HCHS/SOL Coordinating Center, University of North 
+      Carolina at Chapel Hill, Chapel Hill, NC.
+FAU - Talavera, Gregory A
+AU  - Talavera GA
+AD  - Department of Psychology, San Diego State University, San Diego, CA.
+FAU - Fernández-Rhodes, Lindsay
+AU  - Fernández-Rhodes L
+AD  - Department of Biobehavioral Health, Pennsylvania State University, University 
+      Park, PA.
+LA  - eng
+PT  - Journal Article
+DEP - 20240618
+PL  - United States
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of clinical endocrinology and metabolism
+JID - 0375362
+SB  - IM
+OTO - NOTNLM
+OT  - C-Reactive Protein
+OT  - Hispanic/Latinos
+OT  - Metabolic Syndrome
+OT  - PCOS
+OT  - menopause
+OT  - metformin
+EDAT- 2024/06/18 17:43
+MHDA- 2024/06/18 17:43
+CRDT- 2024/06/18 07:23
+PHST- 2024/02/22 00:00 [received]
+PHST- 2024/06/12 00:00 [revised]
+PHST- 2024/06/14 00:00 [accepted]
+PHST- 2024/06/18 17:43 [medline]
+PHST- 2024/06/18 17:43 [pubmed]
+PHST- 2024/06/18 07:23 [entrez]
+AID - 7695535 [pii]
+AID - 10.1210/clinem/dgae426 [doi]
+PST - aheadofprint
+SO  - J Clin Endocrinol Metab. 2024 Jun 18:dgae426. doi: 10.1210/clinem/dgae426.
+
+PMID- 34145615
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240724
+LR  - 20240724
+IS  - 1440-1681 (Electronic)
+IS  - 0305-1870 (Linking)
+VI  - 48
+IP  - 11
+DP  - 2021 Nov
+TI  - The impact of metformin on hypothalamic-pituitary-thyroid axis activity in 
+      postmenopausal women with untreated non-autoimmune subclinical hypothyroidism.
+PG  - 1469-1476
+LID - 10.1111/1440-1681.13542 [doi]
+AB  - Metformin was found to reduce elevated thyrotropin levels in subjects with 
+      hypothyroidism. The impact on thyrotropin levels was stronger in women receiving 
+      oral contraceptive pills than in women not using any contraception. The aim of 
+      the present study was to determine whether physiological levels of oestradiol 
+      determine the effect of metformin on hypothalamic-pituitary-thyroid axis 
+      activity. The study population included 40 postmenopausal women with prediabetes 
+      and untreated non-autoimmune subclinical hypothyroidism, using (group A; n = 18) 
+      or not using (group B; n = 22) oestradiol replacement therapy. Over the entire 
+      study periods, all subjects were treated with metformin (2.55-3.00 g daily). 
+      Plasma levels of glucose, lipids, insulin, thyrotropin, free thyroxine, free 
+      triiodothyronine, prolactin, gonadotropins and oestradiol were measured, while 
+      the structure parameters of thyroid homeostasis and the degree of insulin 
+      sensitivity were calculated at the beginning of the study and 6 months later. At 
+      entry, both groups differed in gonadotropin and oestrogen levels. Despite 
+      improving insulin sensitivity, thyrotropin levels and Jostel's thyrotropin index 
+      in both study groups, these effects were stronger in group A than group B. Only 
+      in group A, metformin increased SPINA-GT, while only in group B the drug 
+      decreased FSH levels. Levels of the other variables remained at a similar level 
+      throughout the study. The effect of treatment on thyrotropin levels correlated 
+      with its baseline values, as well as with the improvement of insulin sensitivity. 
+      The results obtained suggest that the impact of metformin on 
+      hypothalamic-pituitary-thyroid axis activity depends on the oestrogen status of 
+      patients.
+CI  - © 2021 John Wiley & Sons Australia, Ltd.
+FAU - Krysiak, Robert
+AU  - Krysiak R
+AUID- ORCID: 0000-0001-5454-2620
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+FAU - Kowalcze, Karolina
+AU  - Kowalcze K
+AD  - Department of Pediatrics in Bytom, School of Health Sciences in Katowice, Medical 
+      University of Silesia, Katowice, Poland.
+FAU - Okopień, Bogusław
+AU  - Okopień B
+AD  - Department of Internal Medicine and Clinical Pharmacology, Medical University of 
+      Silesia, Katowice, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20210629
+PL  - Australia
+TA  - Clin Exp Pharmacol Physiol
+JT  - Clinical and experimental pharmacology & physiology
+JID - 0425076
+RN  - 9100L32L2N (Metformin)
+RN  - 9002-71-5 (Thyrotropin)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 4TI98Z838E (Estradiol)
+RN  - Q51BO43MG4 (Thyroxine)
+RN  - 0 (Blood Glucose)
+MH  - Humans
+MH  - *Metformin/therapeutic use/pharmacology
+MH  - Female
+MH  - *Hypothyroidism/drug therapy/blood
+MH  - *Postmenopause/blood/drug effects
+MH  - *Hypothalamo-Hypophyseal System/drug effects/metabolism
+MH  - Middle Aged
+MH  - *Thyroid Gland/drug effects/metabolism/physiopathology
+MH  - Thyrotropin/blood
+MH  - Hypoglycemic Agents/therapeutic use/pharmacology
+MH  - Estradiol/blood
+MH  - Insulin Resistance
+MH  - Aged
+MH  - Thyroxine/blood
+MH  - Blood Glucose/metabolism/drug effects
+OTO - NOTNLM
+OT  - menopause
+OT  - metformin
+OT  - oestradiol
+OT  - thyroid function tests
+OT  - thyrotrope
+EDAT- 2021/06/20 06:00
+MHDA- 2022/02/25 06:00
+CRDT- 2021/06/19 06:28
+PHST- 2021/06/08 00:00 [revised]
+PHST- 2021/04/28 00:00 [received]
+PHST- 2021/06/16 00:00 [accepted]
+PHST- 2021/06/20 06:00 [pubmed]
+PHST- 2022/02/25 06:00 [medline]
+PHST- 2021/06/19 06:28 [entrez]
+AID - 10.1111/1440-1681.13542 [doi]
+PST - ppublish
+SO  - Clin Exp Pharmacol Physiol. 2021 Nov;48(11):1469-1476. doi: 
+      10.1111/1440-1681.13542. Epub 2021 Jun 29.
+
+PMID- 23942251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150209
+LR  - 20211021
+IS  - 1530-0374 (Electronic)
+IS  - 1072-3714 (Print)
+IS  - 1072-3714 (Linking)
+VI  - 21
+IP  - 5
+DP  - 2014 May
+TI  - Does hormone therapy affect blood pressure changes in the Diabetes Prevention 
+      Program?
+PG  - 477-83
+LID - 10.1097/GME.0b013e3182a0e3ea [doi]
+AB  - OBJECTIVE: This study aims to examine whether blood pressure reductions differ by 
+      estrogen use among overweight glucose-intolerant women. METHODS: We conducted a 
+      secondary analysis of Diabetes Prevention Program postmenopausal participants who 
+      used oral estrogen with or without progestogen at baseline and 1-year follow-up 
+      (n = 324) versus those who did not use oral estrogen with or without progestogen 
+      at either time point (n = 382). Changes in systolic blood pressure (SBP) and 
+      diastolic blood pressure (DBP) were examined by randomization arm (intensive 
+      lifestyle change [ILS], metformin 850 mg twice daily, or placebo). Associations 
+      between changes in blood pressure and changes in sex hormone-binding globulin, 
+      estradiol, testosterone, and dehydroepiandrosterone were also examined. RESULTS: 
+      Estrogen users and nonusers had similar prevalences of baseline hypertension (33% 
+      vs 34%, P = 0.82) and use of blood pressure medications at baseline (P = 0.25) 
+      and on follow-up (P = 0.10). Estrogen users and nonusers randomized to ILS had 
+      similar decreases in SBP (-3.3 vs -4.7 mm Hg, P = 0.45) and DBP (-3.1 vs -4.7 mm 
+      Hg, P = 0.16). Among estrogen users, women randomized to ILS had significant 
+      declines in SBP (P = 0.016) and DBP (P = 0.009) versus placebo. Among nonusers, 
+      women randomized to ILS had significant declines in DBP (P = 0.001) versus 
+      placebo, but declines in SBP were not significant (P = 0.11). Metformin was not 
+      associated with blood pressure reductions versus placebo regardless of estrogen 
+      therapy. Blood pressure changes were not associated with changes in sex hormones 
+      regardless of estrogen therapy. CONCLUSIONS: Among overweight women with 
+      dysglycemia, the magnitude of blood pressure reductions after ILS is unrelated to 
+      postmenopausal estrogen use.
+FAU - Kim, Catherine
+AU  - Kim C
+AD  - From the 1Department of Medicine and Obstetrics and Gynecology, University of 
+      Michigan, Ann Arbor, MI; 2Department of Medicine, Johns Hopkins University, 
+      Baltimore, MD; 3Department of Biostatistics, University of Michigan, Ann Arbor, 
+      MI; 4Department of Medicine, Indiana University, Indianapolis, IN; and 
+      5Department of Preventive Medicine, University of California San Diego, La Jolla, 
+      CA.
+FAU - Golden, Sherita H
+AU  - Golden SH
+FAU - Kong, Shengchun
+AU  - Kong S
+FAU - Nan, Bin
+AU  - Nan B
+FAU - Mather, Kieren J
+AU  - Mather KJ
+FAU - Barrett-Connor, Elizabeth
+AU  - Barrett-Connor E
+CN  - Diabetes Prevention Program Research Group
+LA  - eng
+GR  - U01 DK048406/DK/NIDDK NIH HHS/United States
+GR  - U01DK048489/DK/NIDDK NIH HHS/United States
+GR  - R01DK083297/DK/NIDDK NIH HHS/United States
+GR  - R01 DK083297/DK/NIDDK NIH HHS/United States
+GR  - P30 DK079637/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR001449/TR/NCATS NIH HHS/United States
+GR  - UL1 TR000041/TR/NCATS NIH HHS/United States
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - K23 DK071552/DK/NIDDK NIH HHS/United States
+GR  - U01 DK048489/DK/NIDDK NIH HHS/United States
+GR  - P30 DK017047/DK/NIDDK NIH HHS/United States
+GR  - K23DK071552/DK/NIDDK NIH HHS/United States
+GR  - ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Menopause
+JT  - Menopause (New York, N.Y.)
+JID - 9433353
+RN  - 0 (Sex Hormone-Binding Globulin)
+RN  - 3XMK78S47O (Testosterone)
+RN  - 459AG36T1B (Dehydroepiandrosterone)
+RN  - 4TI98Z838E (Estradiol)
+SB  - IM
+MH  - Blood Pressure/*physiology
+MH  - Body Weight/physiology
+MH  - Dehydroepiandrosterone/blood
+MH  - Diabetes Mellitus/prevention & control
+MH  - Estradiol/blood
+MH  - *Estrogen Replacement Therapy
+MH  - Female
+MH  - Glucose Intolerance/*physiopathology
+MH  - Humans
+MH  - Life Style
+MH  - Middle Aged
+MH  - Sex Hormone-Binding Globulin/analysis
+MH  - Testosterone/blood
+MH  - Waist Circumference/physiology
+PMC - PMC3858523
+MID - NIHMS508072
+EDAT- 2013/08/15 06:00
+MHDA- 2015/02/11 06:00
+PMCR- 2015/05/01
+CRDT- 2013/08/15 06:00
+PHST- 2013/08/15 06:00 [entrez]
+PHST- 2013/08/15 06:00 [pubmed]
+PHST- 2015/02/11 06:00 [medline]
+PHST- 2015/05/01 00:00 [pmc-release]
+AID - 10.1097/GME.0b013e3182a0e3ea [doi]
+PST - ppublish
+SO  - Menopause. 2014 May;21(5):477-83. doi: 10.1097/GME.0b013e3182a0e3ea.
+
+PMID- 22879633
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130125
+LR  - 20220317
+IS  - 1945-7197 (Electronic)
+IS  - 0021-972X (Print)
+IS  - 0021-972X (Linking)
+VI  - 97
+IP  - 11
+DP  - 2012 Nov
+TI  - Racial/ethnic differences in sex hormone levels among postmenopausal women in the 
+      diabetes prevention program.
+PG  - 4051-60
+LID - 10.1210/jc.2012-2117 [doi]
+AB  - CONTEXT: Sex hormones may differ by race/ethnicity in postmenopausal women. 
+      Whether racial/ethnic differences also exist among those who are overweight and 
+      glucose intolerant is not clear. OBJECTIVES: The objective of the study was to 
+      compare sex hormones by race/ethnicity [non-Hispanic white (NHW), Hispanic, 
+      African-American (AA)] in overweight, glucose-intolerant, postmenopausal women. 
+      DESIGN: This was a secondary analysis of a randomized controlled trial. 
+      PARTICIPANTS: Participants included postmenopausal glucose-intolerant women 
+      participating in the Diabetes Prevention Program. INTERVENTIONS: Interventions 
+      included intensive lifestyle modification (consisting of diet and physical 
+      activity) or metformin 850 mg twice a day vs. placebo. MAIN OUTCOME MEASURES: 
+      Baseline levels and 1-yr intervention-related changes in SHBG, total and 
+      bioavailable estradiol (E2), total and bioavailable testosterone, and 
+      dehydroepiandrosterone were measured. RESULTS: At baseline, among women not using 
+      estrogen (n = 370), NHW had higher total and bioavailable E2 and testosterone 
+      levels than Hispanics independent of age, type of menopause, waist circumference, 
+      alcohol intake, and current smoking. NHW also had higher levels of bioavailable 
+      E2 and lower levels of SHBG than AA. At baseline, among estrogen users (n = 310), 
+      NHW had higher total and bioavailable E2 than Hispanics and higher levels of SHBG 
+      than AA after adjustment. At 1 yr, among women not using estrogen, NHW had larger 
+      declines in total E2 and bioavailable E2 levels than AA after adjustment for the 
+      above covariates, changes in waist circumference, and randomization arm. At 1 yr, 
+      among estrogen users, sex hormone changes did not differ by race/ethnicity. 
+      CONCLUSIONS: Among postmenopausal women, there were significant race/ethnicity 
+      differences in baseline sex hormones and changes in sex hormones.
+FAU - Kim, Catherine
+AU  - Kim C
+AD  - Departments of Biostatistics and Obstetrics and Gynecology, University of 
+      Michigan, Ann Arbor, Michigan 48109-5429, USA. cathkim@umich.edu
+FAU - Golden, Sherita Hill
+AU  - Golden SH
+FAU - Mather, Kieren J
+AU  - Mather KJ
+FAU - Laughlin, Gail A
+AU  - Laughlin GA
+FAU - Kong, Shengchun
+AU  - Kong S
+FAU - Nan, Bin
+AU  - Nan B
+FAU - Barrett-Connor, Elizabeth
+AU  - Barrett-Connor E
+FAU - Randolph, John F Jr
+AU  - Randolph JF Jr
+CN  - Diabetes Prevention Program Research Group
+LA  - eng
+GR  - U01DK048489/DK/NIDDK NIH HHS/United States
+GR  - P30 DK092926/DK/NIDDK NIH HHS/United States
+GR  - R01DK083297/DK/NIDDK NIH HHS/United States
+GR  - R01 DK083297/DK/NIDDK NIH HHS/United States
+GR  - P30 DK079637/DK/NIDDK NIH HHS/United States
+GR  - K23DK071552/DK/NIDDK NIH HHS/United States
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - K23 DK071552/DK/NIDDK NIH HHS/United States
+GR  - U01 DK048489/DK/NIDDK NIH HHS/United States
+GR  - P30 DK017047/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+DEP - 20120809
+PL  - United States
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of clinical endocrinology and metabolism
+JID - 0375362
+RN  - 0 (Blood Glucose)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Sex Hormone-Binding Globulin)
+RN  - 3XMK78S47O (Testosterone)
+RN  - 459AG36T1B (Dehydroepiandrosterone)
+RN  - 4TI98Z838E (Estradiol)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+MH  - Aged
+MH  - Blood Glucose
+MH  - Body Mass Index
+MH  - Dehydroepiandrosterone/*blood
+MH  - Estradiol/*blood
+MH  - Ethnicity
+MH  - Female
+MH  - Glucose Intolerance/blood/drug therapy/ethnology
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Life Style
+MH  - Metformin/therapeutic use
+MH  - Middle Aged
+MH  - Postmenopause/*blood/ethnology
+MH  - Sex Hormone-Binding Globulin/*metabolism
+MH  - Testosterone/*blood
+PMC - PMC3485611
+EDAT- 2012/08/11 06:00
+MHDA- 2013/01/26 06:00
+PMCR- 2013/11/01
+CRDT- 2012/08/11 06:00
+PHST- 2012/08/11 06:00 [entrez]
+PHST- 2012/08/11 06:00 [pubmed]
+PHST- 2013/01/26 06:00 [medline]
+PHST- 2013/11/01 00:00 [pmc-release]
+AID - jc.2012-2117 [pii]
+AID - 12-2117 [pii]
+AID - 10.1210/jc.2012-2117 [doi]
+PST - ppublish
+SO  - J Clin Endocrinol Metab. 2012 Nov;97(11):4051-60. doi: 10.1210/jc.2012-2117. Epub 
+      2012 Aug 9.

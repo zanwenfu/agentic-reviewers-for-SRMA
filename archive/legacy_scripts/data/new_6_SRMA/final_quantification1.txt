@@ -1,0 +1,104 @@
+total number of articles searched: 206.
+objectives: ['quantify assay-based variation in g6pd spectrophotometry', 'explore the diagnostic implications of applying a universal threshold for g6pd deficiency', 'compare repeatability and intra- and interlaboratory variability in g6pd activity measurements', 'derive a universal threshold for g6pd deficiency', 'compare the diagnostic performance of a universal threshold to site-specific thresholds'].
+review and drug therapy implications of glucose-6-phosphate dehydrogenase deficiency.
+comparison of quantitative and qualitative tests for glucose-6-phosphate dehydrogenase deficiency.
+glucose-6-phosphate dehydrogenase screening in israel-arab and palestinian-arab neonates.
+glucose-6-phosphate dehydrogenase deficiency in tunisia: molecular data and phenotype-genotype association.
+point-of-care quantitative measure of glucose-6-phosphate dehydrogenase enzyme deficiency.
+glucose-6-phosphate dehydrogenase deficiency prevalence and genetic variants in malaria endemic areas of colombia.
+neonatal screening for glucose-6-phosphate dehydrogenase deficiency: biochemical versus genetic technologies.
+quantitative neonatal glucose-6-phosphate dehydrogenase screening: distribution, reference values, and classification by phenotype.
+screening for glucose-6-phosphate dehydrogenase deficiency in neonates: a comparison between cord and peripheral blood samples.
+glucose-6-phosphate-dehydrogenase deficiency and haematopoietic stem cell transplantation in chinese patients.
+prevalence of glucose-6-phosphate dehydrogenase deficiency and diagnostic challenges in 1500 immigrants in denmark examined for haemoglobinopathies.
+prevalence and molecular characterization of glucose-6-phosphate dehydrogenase deficiency in northern thailand.
+field evaluation of quantitative point of care diagnostics to measure glucose-6-phosphate dehydrogenase activity.
+glucose-6-phosphate dehydrogenase deficiency among yemeni children residing in malaria-endemic areas of hodeidah governorate and evaluation of a rapid diagnostic test for its detection.
+performance of the carestart glucose-6-phosphate dehydrogenase (g6pd) rapid diagnostic test in gressier, haiti.
+study of glucose-6-phosphate dehydrogenase deficiency: 5 years retrospective egyptian study.
+molecular analysis of glucose-6-phosphate dehydrogenase gene mutations in bangladeshi individuals.
+screening for glucose-6-phosphate dehydrogenase deficiency in blood donors.
+prevalence and molecular characterization of glucose-6-phosphate dehydrogenase deficient variants among the kurdish population of northern iraq.
+point-of-care testing for g6pd deficiency: opportunities for screening.
+evaluation of the phenotypic test and genetic analysis in the detection of glucose-6-phosphate dehydrogenase deficiency.
+prevalence of erythrocyte glucose-6-phosphate dehydrogenase (g6pd) deficiency in the population of western turkey.
+primaquine-induced haemolysis in females heterozygous for g6pd deficiency.
+glucose-6-phosphate dehydrogenase deficiency among male blood donors in sana'a city, yemen.
+methods for the field evaluation of quantitative g6pd diagnostics: a review.
+determination of glucose-6-phosphate dehydrogenase cut-off values in a tunisian population.
+red blood cell disorders in rwandese neonates: screening for sickle cell disease and glucose-6-phosphate dehydrogenase deficiency.
+comparison of spectrophotometry, chromate inhibition, and cytofluorometry versus gene sequencing for detection of heterozygously glucose-6-phosphate dehydrogenase-deficient females.
+screening for glucose-6-phosphate dehydrogenase deficiency using three detection methods: a cross-sectional survey in southwestern uganda.
+a new paper-based analytical device for detection of glucose-6-phosphate dehydrogenase deficiency.
+molecular heterogeneity of glucose-6-phosphate dehydrogenase deficiency in gaza strip palestinians.
+hemolytic potential of tafenoquine in female volunteers heterozygous for glucose-6-phosphate dehydrogenase (g6pd) deficiency (g6pd mahidol variant) versus g6pd-normal volunteers.
+in vitro inhibition effects of some coumarin derivatives on human erythrocytes glucose-6-phosphate dehydrogenase activities.
+omics markers of the red cell storage lesion and metabolic linkage.
+massive acute haemolysis and severe neonatal hyperbilirubinemia in glucose-6-phosphate dehydrogenase-deficient preterm triplets.
+the prevalence of glucose-6-phosphate dehydrogenase deficiency in gambian school children.
+glucose-6-phosphate dehydrogenase (g6pd) activity and deficiency in a population of nigerian males resident in jos.
+newborn screening of glucose-6-phosphate dehydrogenase deficiency in guangxi, china: determination of optimal cutoff value to identify heterozygous female neonates.
+performance of binaxnow g6pd deficiency point-of-care diagnostic in p. vivax-infected subjects.
+field trial of the carestart biosensor analyzer for the determination of glucose-6-phosphate dehydrogenase activity in haiti.
+effect of glucose-6-phosphate dehydrogenase deficiency on some biophysical properties of human erythrocytes.
+re-evaluation of methaemoglobin reduction as a screening procedure for glucose-6-phosphate dehydrogenase (g6pd).
+suitability of capillary blood for quantitative assessment of g6pd activity and performances of g6pd point-of-care tests.
+validation of g6pd point-of-care tests among healthy volunteers in yangon, myanmar.
+determination of optimal cutoff value to accurately identify glucose-6-phosphate dehydrogenase-deficient heterozygous female neonates.
+neonatal screening external quality assessment in china, 2014.
+hemolysis and mediterranean g6pd mutation (c.563 c>t) and c.1311 c>t polymorphism among palestinians at gaza strip.
+population screening for glucose-6-phosphate dehydrogenase deficiencies in isabel province, solomon islands, using a modified enzyme assay on filter paper dried bloodspots.
+high incidence of glucose-6-phosphate dehydrogenase deficiency in croatian island isolate: example from vis island, croatia.
+the g6pd flow-cytometric assay is a reliable tool for diagnosis of g6pd deficiency in women and anaemic subjects.
+a comparison of rapid diagnostic testing (by plasmodium lactate dehydrogenase), and quantitative buffy coat technique in malaria diagnosis in children.
+g6pd deficiency in plasmodium falciparum and plasmodium vivax malaria-infected cambodian patients.
+heterogeneity of g6pd deficiency prevalence in mozambique: a school-based cross-sectional survey in three different regions.
+two new class iii g6pd variants [g6pd tunis (c.920a>c: p.307gln>pro) and g6pd nefza (c.968t>c: p.323 leu>pro)] and overview of the spectrum of mutations in tunisia.
+assessment of point-of-care diagnostics for g6pd deficiency in malaria endemic rural eastern indonesia.
+implications of current therapeutic restrictions for primaquine and tafenoquine in the radical cure of vivax malaria.
+validation of the quantitative point-of-care carestart biosensor for assessment of g6pd activity in venous blood.
+the challenges of introducing routine g6pd testing into radical cure: a workshop report.
+validation of the rapid test carestart(tm) g6pd among malaria vivax-infected subjects in the brazilian amazon.
+a comparison of three quantitative methods to estimate g6pd activity in the chittagong hill tracts, bangladesh.
+performance of the carestart™ g6pd deficiency screening test, a point-of-care diagnostic for primaquine therapy screening.
+co-ordinated stage-dependent enhancement of plasmodium falciparum antioxidant enzymes and heat shock protein expression in parasites growing in oxidatively stressed or g6pd-deficient red blood cells.
+[clinical evaluation of a melting curve analysis-based pcr assay for glucose phosphate dehydrogenase gene mutation detection].
+g6pd deficiency at sumba in eastern indonesia is prevalent, diverse and severe: implications for primaquine therapy against relapsing vivax malaria.
+a vegetable-induced hemolytic crisis in a g6pd deficient person: a case report.
+field trial evaluation of the performances of point-of-care tests for screening g6pd deficiency in cambodia.
+comparison of three screening test kits for g6pd enzyme deficiency: implications for its use in the radical cure of vivax malaria in remote and resource-poor areas in the philippines.
+the gametocytocidal efficacy of different single doses of primaquine with dihydroartemisinin-piperaquine in asymptomatic parasite carriers in the gambia: a randomized controlled trial.
+evaluation of the diagnostic accuracy of carestart g6pd deficiency rapid diagnostic test (rdt) in a malaria endemic area in ghana, africa.
+prophylactic efficacy of primaquine for preventing plasmodium falciparum and plasmodium vivax parasitaemia in travelers: a meta-analysis and systematic review.
+g6pd a-variant influences the antibody responses to plasmodium falciparum msp2.
+machine learning prioritizes synthesis of primaquine ureidoamides with high antimalarial activity and attenuated cytotoxicity.
+diospyros lotus l. fruit extract protects g6pd-deficient erythrocytes from hemolytic injury in vitro and in vivo: prevention of favism disorder.
+g6pd enzyme activity in normal term malaysian neonates and adults using a osmmr2000-d kit with hb normalization.
+role of vitamin e supplementation on serum levels of copper and zinc in hemolytic anemic patients with g6pd deficiency.
+methemoglobinemia hemotoxicity of some antimalarial 8-aminoquinoline analogues and their hydroxylated derivatives: density functional theory computation of ionization potentials.
+g6pd deficiency in vataliya prajapati community settled in surat.
+[methemoglobinemia in patients with plasmodium vivax receiving oral therapy with primaquine].
+.
+there are 13 target papers found during the search in pubmed!.
+they are:.
+co-inheritance of glucose-6-phosphate dehydrogenase deficiency mutations and hemoglobin e in a kachin population in a malaria-endemic region of southeast asia.
+glucose-6-phosphate dehydrogenase deficiency and sickle cell trait among prospective blood donors: a cross-sectional study in berekum, ghana.
+in the end, 11 target papers were left after filtering!.
+the number of target article missing is: 2.
+false positive rate: 0.3786407766990291.
+false negative rate: 0.15384615384615385.
+
+Included target articles are as follow:
+glucose-6-phosphate dehydrogenase deficiency and sickle cell trait among prospective blood donors: a cross-sectional study in berekum, ghana.
+suitability of capillary blood for quantitative assessment of g6pd activity and performances of g6pd point-of-care tests.
+prevalence and molecular characterization of glucose-6-phosphate dehydrogenase deficiency in northern thailand.
+co-inheritance of glucose-6-phosphate dehydrogenase deficiency mutations and hemoglobin e in a kachin population in a malaria-endemic region of southeast asia.
+glucose-6-phosphate dehydrogenase (g6pd) activity and deficiency in a population of nigerian males resident in jos.
+comparison of three screening test kits for g6pd enzyme deficiency: implications for its use in the radical cure of vivax malaria in remote and resource-poor areas in the philippines.
+g6pd deficiency in plasmodium falciparum and plasmodium vivax malaria-infected cambodian patients.
+performance of the carestart™ g6pd deficiency screening test, a point-of-care diagnostic for primaquine therapy screening.
+comparison of quantitative and qualitative tests for glucose-6-phosphate dehydrogenase deficiency.
+field trial evaluation of the performances of point-of-care tests for screening g6pd deficiency in cambodia.
+screening for glucose-6-phosphate dehydrogenase deficiency using three detection methods: a cross-sectional survey in southwestern uganda.
+assessment of point-of-care diagnostics for g6pd deficiency in malaria endemic rural eastern indonesia.
+field trial of the carestart biosensor analyzer for the determination of glucose-6-phosphate dehydrogenase activity in haiti.

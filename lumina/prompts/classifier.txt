@@ -1,0 +1,20 @@
+### Systematic Review: Title, Abstract and Keywords
+**Title:**
+{sr_title}
+**Abstract:**
+{sr_abstract}
+
+### Citation in investigation
+I give the title and abstract of the article that is in investigation as input.
+**Title:** {candidate_title}
+**Abstract:** {candidate_abstract}
+
+### Instructions, including abstract considerations
+We now evaluate the relevance of provided article, and categorize it into one of the broad categories: potentially relevant, likely irrelevant, and uncertain.
+First, we will reflect on the contents of both systematic review and article in investigation. Then we will think step by step, giving reasons for why the articles are categorized as potentially relevant, likely irrelevant, or uncertain.
+
+### Importance
+Be lenient. Our aim should be to inclusively screen abstracts, ensuring broad coverage of pertinent studies while filtering out those that are clearly irrelevant.
+
+### Output format
+We will conclude by outputting (on the very last line) 'XXX', if the study is potentially relevant. 'YYY', if the study is uncertain. 'ZZZ', if the study is likely irrelevant.

@@ -1,0 +1,576 @@
+total number of articles searched: 1236.
+objectives: ['to assess the benefits of outpatient treatment options for covid-19', 'to assess the harms of outpatient treatment options for covid-19', 'to evaluate 22 different covid-19 treatments'].
+remdesivir alone or in combination with monoclonal antibodies as an early treatment to prevent severe covid-19 in patients with mild/moderate disease at high risk of progression: a single centre, real-life study.
+real-world effectiveness of sars-cov-2 vaccine booster in hemodialysis patients with covid-19 receiving molnupiravir.
+safety and efficacy of outpatient treatments for covid-19: real-life data from a regionwide cohort of high-risk patients in tuscany, italy (the federate cohort).
+short-term effectiveness of oral nirmatrelvir/ritonavir against the sars-cov-2 omicron variant and culture-positive viral shedding.
+molnupiravir and nirmatrelvir/ritonavir: tolerability, safety, and adherence in a retrospective cohort study.
+tixagevimab and cilgavimab (evusheld™) prophylaxis prevents breakthrough covid-19 infections in immunosuppressed population: 6-month prospective study.
+outcomes with and without outpatient sars-cov-2 treatment for patients with covid-19 and systemic autoimmune rheumatic diseases: a retrospective cohort study.
+real-world experience of tixagevimab-cilgavimab pre-exposure prophylaxis in orthotopic heart transplant recipients.
+effectiveness of nirmatrelvir plus ritonavir treatment for patients with chronic lymphocytic leukemia during the omicron surge.
+clinical efficacy and safety of molnupiravir for nonhospitalized and hospitalized patients with covid-19: a systematic review and meta-analysis of randomized control trials.
+how to use covid-19 antiviral drugs in patients with chronic kidney disease.
+the effect of nirmatrelvir-ritonavir on viral clearance and length of hospital stay in patients infected with sars-cov-2 omicron variants.
+efficacy and safety of inhaled ethanol in early-stage sars-cov-2 infection in older adults: a phase ii randomized clinical trial.
+real-world clinical outcomes of molnupiravir for the treatment of mild to moderate covid-19 in adult patients during the dominance of the omicron variant: a meta-analysis.
+liver injury in favipiravir-treated covid-19 patients: retrospective single-center cohort study.
+monoclonal antibody therapy for covid-19: a retrospective observational study at a regional hospital.
+a phase 2/3 study of s-217622 in participants with sars-cov-2 infection (phase 3 part).
+favipiravir in the treatment of outpatient covid-19: a multicenter, randomized, triple-blind, placebo-controlled clinical trial.
+dexamethasone mitigates remdesivir-induced liver toxicity in human primary hepatocytes and covid-19 patients.
+anakinra-an interleukin-1 receptor antagonist for covid-19.
+effect of convalescent plasma transfusion on outcomes of coronavirus disease 2019: a meta-analysis with trial sequential analysis.
+coronavirus disease 2019 convalescent plasma outpatient therapy to prevent outpatient hospitalization: a meta-analysis of individual participant data from 5 randomized trials.
+effect of higher-dose ivermectin for 6 days vs placebo on time to sustained recovery in outpatients with covid-19: a randomized clinical trial.
+pharmacometrics of high-dose ivermectin in early covid-19 from an open label, randomized, controlled adaptive platform trial (platcov).
+real-world effectiveness of nirmatrelvir/ritonavir on covid-19-associated hospitalization prevention: a population-based cohort study in the province of québec, canada.
+pan-american guidelines for the treatment of sars-cov-2/covid-19: a joint evidence-based guideline of the brazilian society of infectious diseases (sbi) and the pan-american association of infectious diseases (api).
+efficacy and safety of favipiravir in treating covid-19 patients: a meta-analysis of randomized control trials.
+characteristics and outcomes of covid-19 patients presumed to be treated with sotrovimab in nhs hospitals in england.
+corticosteroids and outcomes in solid organ transplant recipients infected with severe acute respiratory syndrome coronavirus 2.
+convalescent plasma therapy for coronavirus disease 2019 in ambulatory versus hospitalized patients: efficacy and risk of thromboembolism.
+effectiveness of favipiravir monotherapy in the treatment of covid-19: real world data analysis from thailand.
+population-based evaluation of the effectiveness of nirmatrelvir-ritonavir for reducing hospital admissions and mortality from covid-19.
+real-world use of nirmatrelvir-ritonavir in outpatients with covid-19 during the era of omicron variants including ba.4 and ba.5 in colorado, usa: a retrospective cohort study.
+covid-19 symptom-onset to diagnosis and diagnosis to treatment intervals are significant predictors of disease progression and hospitalization in high-risk patients: a real world analysis.
+real-world effectiveness of molnupiravir, nirmatrelvir-ritonavir, and sotrovimab on preventing hospital admission among higher-risk patients with covid-19 in wales: a retrospective cohort study.
+an overview on the treatments and prevention against covid-19.
+the role of age and comorbidities on the outcome of confirmed clinically critical covid-19 patients treated with remdesivir at indonesia's national referral hospital.
+real-world effectiveness of molnupiravir and nirmatrelvir/ritonavir among covid-19 community, highly vaccinated patients with high risk for severe disease: evidence that both antivirals reduce the risk for disease progression and death.
+pharmacovigilance follow-up of patients in the context of the covid-19 pandemic.
+in high-risk outpatients with covid-19, neither colchicine nor aspirin reduced disease progression or death at 45 d.
+convalescent plasma (hyperimmune immunoglobulin) for covid-19 management: an update.
+safety, virology, pharmacokinetics, and clinical experience of high-dose intravenous sotrovimab for the treatment of mild to moderate covid-19: an open-label clinical trial.
+<i>in silico</i> study of coumarins: wedelolactone as a potential inhibitor of the spike protein of the sars-cov-2 variants.
+safety and efficacy of glucocorticoids in the treatment of covid-19: a meta-analysis of randomized control trials.
+host immunological responses facilitate development of sars-cov-2 mutations in patients receiving monoclonal antibody treatments.
+symptom duration and resolution with early outpatient treatment of convalescent plasma for coronavirus disease 2019: a randomized trial.
+effect of colchicine and aspirin given together in patients with moderate covid-19.
+efficacy and safety of regdanvimab in patients with mild to moderate covid-19: a rapid review and meta-analysis.
+subcutaneous regen-cov antibody administration in a community pharmacy.
+the benefits of molnupiravir treatment in healthcare facilities patients with covid-19.
+characteristics and outcomes of us veterans at least 65 years of age at high risk of severe sars-cov-2 infection with or without receipt of oral antiviral agents.
+safety and efficacy of paxlovid against omicron variants of coronavirus disease 2019 in elderly patients.
+remdesivir for the treatment of covid-19.
+safety, tolerability and pharmacokinetics of half-life extended severe acute respiratory syndrome coronavirus 2 neutralizing monoclonal antibodies azd7442 (tixagevimab-cilgavimab) in healthy adults.
+early treatment with monoclonal antibodies or convalescent plasma reduces mortality in non-vaccinated covid-19 high-risk patients.
+impact of early sars-cov-2 antiviral therapy on disease progression.
+tixagevimab/cilgavimab in sars-cov-2 prophylaxis and therapy: a comprehensive review of clinical experience.
+comparative effectiveness of paxlovid versus sotrovimab and molnupiravir for preventing severe covid-19 outcomes in non-hospitalised patients: observational cohort study using the opensafely platform.
+efficacy and safety of selective serotonin reuptake inhibitors in covid-19 management: a systematic review and meta-analysis.
+nirmatrelvir-ritonavir therapy and covid-19 vaccination improve clinical outcomes of sars-cov-2 omicron variant infection.
+molnupiravir for the treatment of covid-19 in immunocompromised participants: efficacy, safety, and virology results from the phase 3 randomized, placebo-controlled move-out trial.
+timing of corticosteroids in non-severe non-hospitalized covid-19 patients: open-label, two-center, randomized controlled study (tics-cov19 study).
+colchicine and risk of hospitalization due to covid-19: a population-based study.
+effect of fluvoxamine vs placebo on time to sustained recovery in outpatients with mild to moderate covid-19: a randomized clinical trial.
+real-world effectiveness of tixagevimab and cilgavimab (evusheld) in patients with hematological malignancies.
+real-world effectiveness of sotrovimab for the early treatment of covid-19 during sars-cov-2 delta and omicron waves in the usa.
+experience of the united arab emirates in the use of monoclonal antibody drug sotrovimab in high-risk vaccinated and unvaccinated patients with covid-19: an observational cohort study.
+antiviral treatment in covid-19 outpatients: a systematic review of randomized controlled trials.
+reduction in the rate of mortality of moderate to severe covid 19 infected patients with the use of remdesivir - a tertiary care hospital-based retrospective observational study.
+effectiveness of nirmatrelvir-ritonavir against hospital admission or death: a cohort study in a large us healthcare system.
+the effectiveness of paxlovid treatment in long-term care facilities in south korea during the outbreak of the omicron variant of sars-cov-2.
+the 'myth of hydroxychloroquine (hcq) as post-exposure prophylaxis (pep) for the prevention of covid-19' is far from reality.
+nirmatrelvir and covid-19: development, pharmacokinetics, clinical efficacy, resistance, relapse, and pharmacoeconomics.
+real-world effectiveness of sotrovimab and remdesivir for early treatment of high-risk hospitalized covid-19 patients: a propensity score adjusted retrospective cohort study.
+hydroxychloroquine for treatment of non-hospitalized adults with covid-19: a meta-analysis of individual participant data of randomized trials.
+an open label randomized controlled trial of ivermectin plus favipiravir-based standard of care <i>versus</i> favipiravir-based standard of care for treatment of moderate covid-19 in thailand.
+remdesivir improves biomarkers associated with disease severity in covid-19 patients treated in an outpatient setting.
+recent changes in the mutational dynamics of the sars-cov-2 main protease substantiate the danger of emerging resistance to antiviral drugs.
+population-level strategies for nirmatrelvir/ritonavir prescribing-a cost-effectiveness analysis.
+time to negative pcr conversion amongst high-risk patients with mild-to-moderate omicron ba.1 and ba.2 covid-19 treated with sotrovimab or nirmatrelvir.
+post-covid depression and its multiple factors, does favipiravir have a protective effect? a longitudinal study of indonesia covid-19 patients.
+dual effects of nv-cov-2 biomimetic polymer: an antiviral regimen against covid-19.
+the efficacy of neutralizing monoclonal antibodies in transplant recipients with mild-to-moderate covid-19.
+effectiveness of sotrovimab in preventing covid-19-related hospitalizations or deaths among u.s. veterans.
+lopinavir/ritonavir for treatment of non-hospitalized patients with covid-19: a randomized clinical trial.
+vv116 versus nirmatrelvir-ritonavir for oral treatment of covid-19.
+oral antivirals against sars-cov-2 in multiple myeloma outpatients: a case series.
+comparison of the effects of plasmapheresis, hemoperfusion, and convalescent plasma therapy on inflammatory factors in covid-19 patients.
+molnupiravir plus usual care versus usual care alone as early treatment for adults with covid-19 at increased risk of adverse outcomes (panoramic): an open-label, platform-adaptive randomised controlled trial.
+effectiveness of casirivimab-imdevimab and sotrovimab monoclonal antibody treatment among high-risk patients with sars-cov-2 infection: a real-world experience.
+the course of covid-19 in patients with systemic autoimmune rheumatic diseases.
+oral gs-441524 derivatives: next-generation inhibitors of sars-cov-2 rna-dependent rna polymerase.
+efficacy and safety of tixagevimab/cilgavimab to prevent covid-19 (pre-exposure prophylaxis): a systematic review and meta-analysis.
+outpatient treatment of covid-19 with metformin, ivermectin, and fluvoxamine and the development of long covid over 10-month follow-up.
+antiviral treatments lead to the rapid accrual of hundreds of sars-cov-2 mutations in immunocompromised patients.
+the use of mebendazole in covid-19 patients: an observational retrospective single center study.
+effectiveness of corticosteroids to treat coronavirus disease 2019 symptoms: a meta-analysis.
+sotrovimab therapy in solid organ transplant recipients with mild to moderate covid-19: a systematic review and meta-analysis.
+efficacy and safety profile of corticosteroids and non-steroidal anti-inflammatory drugs in covid-19 management: a narrative review.
+efficacy and safety of molnupiravir in mild covid-19 patients in india.
+impact of fluvoxamine on outpatient treatment of covid-19 in honduras in a prospective observational real-world study.
+nirmatrelvir plus ritonavir in covid-19: a profile of its use.
+covid-19 convalescent plasma outpatient therapy to prevent outpatient hospitalization: a meta-analysis of individual participant data from five randomized trials.
+nirmatrelvir/ritonavir use with tacrolimus in lung transplant recipients: a single-center case series.
+oral antiviral treatment for covid-19 in patients with systemic autoimmune rheumatic diseases.
+hospital at home treatment with remdesivir for patients with covid-19: real-life experience.
+effectiveness of covid-19 treatment with nirmatrelvir-ritonavir or molnupiravir among u.s. veterans: target trial emulation studies with one-month and six-month outcomes.
+factors associated with the speed and scope of diffusion of covid-19 therapeutics in a nationwide healthcare setting: a mixed-methods investigation.
+a double-blind, randomized, placebo-controlled, phase ii clinical study to evaluate the efficacy and safety of camostat mesylate (dwj1248) in adult patients with mild to moderate covid-19.
+effect of ivermectin 600 μg/kg for 6 days vs placebo on time to sustained recovery in outpatients with mild to moderate covid-19: a randomized clinical trial.
+treatment options for patients with mild-to-moderate coronavirus disease 2019 in korea.
+the preclinical discovery and development of molnupiravir for the treatment of sars-cov-2 (covid-19).
+use of remdesivir for covid-19 in patients with hematologic cancer.
+nirmatrelvir plus ritonavir for early covid-19 in a large u.s. health system : a population-based cohort study.
+corticosteroids use for covid-19: an overview of systematic reviews.
+ivermectin compared with placebo in the clinical course in mexican patients with asymptomatic and mild covid-19: a randomized clinical trial.
+clinical outcomes after use of inhaled corticosteroids or oral steroids in a covid-19 telemedicine clinic cohort: retrospective chart review.
+hydroxychloroquine for treatment of covid-19 patients: a systematic review and meta-analysis of randomized controlled trials.
+efficacy and safety of ensitrelvir in patients with mild-to-moderate coronavirus disease 2019: the phase 2b part of a randomized, placebo-controlled, phase 2/3 study.
+study of different local treatments of post covid-19 smell dysfunction.
+real-world clinical outcomes of treatment with molnupiravir for patients with mild-to-moderate coronavirus disease 2019 during the omicron variant pandemic.
+increased reporting of venous and arterial thromboembolic events reported with tixagevimab-cilgavimab for coronavirus disease 2019.
+comparative effectiveness of sotrovimab and molnupiravir for preventing severe covid-19 outcomes in non-hospitalised patients on kidney replacement therapy: observational cohort study using the opensafely-ukrr linked platform and srr database.
+the clinical effectiveness of regen-cov in sars-cov-2 infection with omicron versus delta variants.
+paxlovid associated with decreased hospitalization rate among adults with covid-19 - united states, april-september 2022.
+nirmatrelvir/ritonavir prescription rate and outcomes in coronavirus disease 2019: a single center study.
+<p>estimated impact of oral nirmatrelvir.
+characteristics and outcomes of patients with covid-19 at high-risk of disease progression receiving sotrovimab, oral antivirals or no treatment in england.
+efficacy and safety of nirmatrelvir/ritonavir, molnupiravir, and remdesivir in a real-world cohort of outpatients with covid-19 at high risk of progression: the pisa outpatient clinic experience.
+outpatient treatment of confirmed covid-19: a living, rapid review for the american college of physicians.
+covid-19 infection in rheumatic patients on chronic antimalarial drugs: a systematic review and meta-analysis.
+characterisation of sars-cov-2 genomic variation in response to molnupiravir treatment in the agile phase iia clinical trial.
+population pharmacokinetics and exposure-response analysis of sotrovimab in the early treatment of covid-19.
+early access to oral antivirals in high-risk outpatients: good weapons to fight covid-19.
+outcomes of high-risk adult outpatients with haematological malignancies treated with early remdesivir therapy during the sars-cov-2 omicron era: experiences from the national centre of hungary.
+exploratory data on the clinical efficacy of monoclonal antibodies against sars-cov-2 omicron variant of concern.
+long-term respiratory outcomes after covid-19: a brazilian cohort study.
+nucleoside analogs for management of respiratory virus infections: mechanism of action and clinical efficacy.
+psychotropic drug repurposing for covid-19: a systematic review and meta-analysis.
+the effect of favipiravir on liver enzyme among patients with mild to moderate covid-19 infection: a prospective cohort study.
+metformin is associated with reduced covid-19 severity in patients with prediabetes.
+paxlovid administration in elderly patient with covid-19 caused by omicron ba.2.0: a case report.
+early antiviral and supervisory dexamethasone treatment improve clinical outcomes of nonsevere covid-19 patients.
+gene set proximity analysis: expanding gene set enrichment analysis through learned geometric embeddings, with drug-repurposing applications in covid-19.
+diabetes medications and associations with covid-19 outcomes in the n3c database: a national retrospective cohort study.
+systemic corticosteroids for the treatment of covid-19: equity-related analyses and update on evidence.
+effectiveness of the available early therapies in reducing severe covid-19 in non-hospitalized patients with solid tumors on active treatment.
+comparative effectiveness of sotrovimab and molnupiravir for prevention of severe covid-19 outcomes in patients in the community: observational cohort study with the opensafely platform.
+acute hypersensitivity reaction after casirivimab/imdevimab infusion in a covid-19-positive young male: myopericarditis or kounis syndrome?.
+efficacy of colchicine in patients with moderate covid-19: a double-blinded, randomized, placebo-controlled trial.
+early treatment with fluvoxamine among patients with covid-19: a cost-consequence model.
+characteristics of ivermectin toxicity in patients taking veterinary and human formulations for the prevention and treatment of covid-19.
+monoclonal antibodies for treatment of sars-cov-2 infection during pregnancy : a cohort study.
+the paxlovid rebound study: a prospective cohort study to evaluate viral and symptom rebound differences between paxlovid and untreated covid-19 participants.
+safety profile of the lopinavir/ritonavir combination before and during the sars-cov-2 pandemic.
+home and out-of-hospital therapy with covid-19 convalescent plasma in europe.
+early adoption of anti-sars-cov-2 pharmacotherapies among us veterans with mild to moderate covid-19, january and february 2022.
+a comprehensive review on the efficacy of several pharmacologic agents for the treatment of covid-19.
+prognostic comparison of covid-19 outpatients and inpatients treated with remdesivr: a retrospective cohort study.
+convalescent plasma treatment for sars-cov-2 infected high-risk patients: a matched pair analysis to the leoss cohort.
+systematic review of the clinical effectiveness of tixagevimab/cilgavimab for prophylaxis of covid-19 in immunocompromised patients.
+nirmatrelvir and the risk of post-acute sequelae of covid-19.
+safety and efficacy of four drug regimens versus standard-of-care for the treatment of symptomatic outpatients with covid-19: a randomised, open-label, multi-arm, phase 2 clinical trial.
+real-world effectiveness of nirmatrelvir/ritonavir use for covid-19: a population-based cohort study in ontario, canada.
+remdesivir treatment for patients with moderate to severe covid-19.
+disease progression of hospitalized elderly patients with omicron ba.2 treated with molnupiravir.
+effect of antidiabetic therapy on clinical outcomes of covid-19 patients with type 2 diabetes: a systematic review and meta-analysis.
+the effect of nitazoxanide on the clinical outcomes in patients with covid-19: a systematic review and meta-analysis of randomized controlled trials.
+fluvoxamine for outpatient treatment of covid-19: a decentralized, placebo-controlled, randomized, platform clinical trial.
+molnupiravir as an early treatment for covid-19: a real life study.
+molnupiravir when used alone seems to be safe and effective as outpatient covid-19 therapy for hemodialyzed patients and kidney transplant recipients.
+early outpatient treatment of covid-19: a retrospective analysis of 392 cases in italy.
+nirmatrelvir/ritonavir and molnupiravir in the treatment of mild/moderate covid-19: results of a real-life study.
+[pharmacoepidemiological research of covid-19 in the russian federation egida-2020].
+early outpatient treatment with remdesivir in patients at high risk for severe covid-19: a prospective cohort study.
+[efficacy and safety of regdanvimab in patients with mild/moderate covid-19 and high risk of progression of the disease: a retrospective study in a short-term stay unit].
+favipiravir in early symptomatic covid-19, a randomised placebo-controlled trial.
+within-trial economic analysis of resource use from comet-ice: a phase 3 clinical trial evaluating sotrovimab for the treatment of patients with covid-19 at high risk of progression.
+inflammatory profile of convalescent plasma to treat covid: impact of amotosalen/uva pathogen reduction technology.
+effect of corticosteroids in patients with covid-19: a bayesian network meta-analysis.
+effect of fluvoxamine on outcomes of nonhospitalized patients with covid-19: a systematic review and meta-analysis.
+molnupiravir versus placebo in unvaccinated and vaccinated patients with early sars-cov-2 infection in the uk (agile cst-2): a randomised, placebo-controlled, double-blind, phase 2 trial.
+use of remdesivir for covid-19 pneumonia in patients with advanced kidney disease: a retrospective multicenter study.
+comparison of the risk of hospitalisation among ba.1 and ba.2 covid-19 cases treated with sotrovimab in the community in england.
+effect of ivermectin vs placebo on time to sustained recovery in outpatients with mild to moderate covid-19: a randomized clinical trial.
+effect of remdesivir on moderate to severe covid-19 patients’ outcomes.
+comparative effectiveness of neutralising monoclonal antibodies in high risk covid-19 patients: a bayesian network meta-analysis.
+the efficacy and safety of remdesivir and its combination with other drug for the treatment of covid-19: a systematic review and meta-analysis.
+impact of a subcutaneous casirivimab and imdevimab clinic in outpatients with symptomatic covid-19: a single-center, propensity-matched cohort study.
+favipiravir, lopinavir-ritonavir, or combination therapy (flare): a randomised, double-blind, 2 × 2 factorial placebo-controlled trial of early antiviral therapy in covid-19.
+clinical antiviral efficacy of remdesivir and casirivimab/imdevimab against the sars-cov-2 delta and omicron variants.
+chlorpheniramine intranasal spray to accelerate covid-19 clinical recovery in an outpatient setting: the accros trials.
+the impact of covid-19 monoclonal antibodies on clinical outcomes: a retrospective cohort study.
+change in effectiveness of sotrovimab for preventing hospitalization and mortality for at-risk covid-19 outpatients during an omicron ba.1 and ba.1.1-predominant phase.
+colchicine and aspirin in community patients with covid-19 (act): an open-label, factorial, randomised, controlled trial.
+[immunotherapy with anti-sars-cov-2 neutralizing f(ab')2 antibodies from equine serum in the treatment of outpatients with bilateral covid-19 pneumonia].
+effectiveness of the neutralizing antibody sotrovimab among high-risk patients with mild-to-moderate sars-cov-2 in qatar.
+real-world clinical outcomes of bebtelovimab and sotrovimab treatment of high-risk persons with coronavirus disease 2019 during the omicron epoch.
+association of molnupiravir and nirmatrelvir-ritonavir with preventable mortality, hospital admissions and related avoidable healthcare system cost among high-risk patients with mild to moderate covid-19.
+real-world effectiveness of molnupiravir and nirmatrelvir plus ritonavir against mortality, hospitalisation, and in-hospital outcomes among community-dwelling, ambulatory patients with confirmed sars-cov-2 infection during the omicron wave in hong kong: an observational study.
+evaluation and comparison of vitamin a supplementation with standard therapies in the treatment of patients with covid-19.
+clinical, virologic, and immunologic evaluation of symptomatic coronavirus disease 2019 rebound following nirmatrelvir/ritonavir treatment.
+regular use of ivermectin as prophylaxis for covid-19 led up to a 92% reduction in covid-19 mortality rate in a dose-response manner: results of a prospective observational study of a strictly controlled population of 88,012 subjects.
+real-world clinical outcomes of treatment with molnupiravir for patients with mild- to-moderate coronavirus disease 2019 during the omicron variant pandemic.
+opportunistic <i>candida</i> infections in critical covid-19 patients.
+outcomes of monoclonal antibody infusion treatment during delta (b.1.617.2) and omicron (b.1.1.529) covid 19 variant surges among vaccinated and unvaccinated patients.
+ivermectin-induced clinical improvement and alleviation of significant symptoms of covid-19 outpatients: a cross-sectional study.
+impact of fluvoxamine on outpatient treatment of covid-19 in honduras.
+viral load decrease in sars-cov-2 ba.1 and ba.2 omicron sublineages infection after treatment with monoclonal antibodies and direct antiviral agents.
+effectiveness of subcutaneous casirivimab and imdevimab in ambulatory patients with covid-19.
+fragile-colcovid19: a clinical trial based on early administration of an oral combination of colchicine and prednisone in elderly patients with covid-19 in geriatric facilities.
+<p>molnupiravir use and severe covid-19 outcomes during the omicron surge</p>.
+author correction: randomized controlled trial of favipiravir, hydroxychloroquine, and standard care in patients with mild/moderate covid-19 disease.
+treatment outcome with high versus low-to-moderate dosing of corticosteroids in early vis-a-vis late-onset hypoxic cases of covid-19: a multicentric retrospective cohort study.
+oral inhalation of cannabidiol delivered from a metered dose inhaler to alleviate cytokine production induced by sars-cov-2 and pollutants.
+reply to "successful early use of anti-sars-cov-2 monoclonal neutralizing antibodies in sars-cov-2 infected hematological patients-a czech multicenter experience": a case series of sars-cov-2 omicron infection and aggressive lymphoma in the sotrovimab era.
+a randomized, open-label trial of combined nitazoxanide and atazanavir/ritonavir for mild to moderate covid-19.
+accumulation of mutations in antibody and cd8 t cell epitopes in a b cell depleted lymphoma patient with chronic sars-cov-2 infection.
+repurposing potential of the antiparasitic agent ivermectin for the treatment and/or prophylaxis of covid-19.
+treatment with sotrovimab for sars-cov-2 infection in a cohort of high-risk kidney transplant recipients.
+clinical progression and outcome of hospitalized patients infected with sars-cov-2 omicron variant in shanghai, china.
+short-course early outpatient remdesivir prevents severe disease due to covid-19 in organ transplant recipients during the omicron ba.2 wave.
+real-world use of molnupiravir in the treatment of outpatients with sars-cov-2 infection-a patient profile based on the experience of a tertiary infectious disease center.
+the efficacy of paxlovid in elderly patients infected with sars-cov-2 omicron variants: results of a non-randomized clinical trial.
+a critical analysis of the use of cilgavimab plus tixagevimab monoclonal antibody cocktail (evusheld™) for covid-19 prophylaxis and treatment.
+comparative effectiveness of sotrovimab and molnupiravir for prevention of severe covid-19 outcomes in non-hospitalised patients: an observational cohort study using the opensafely platform.
+effectiveness of molnupiravir in high-risk patients: a propensity score matched analysis.
+comparable outcomes for bebtelovimab and ritonavir-boosted nirmatrelvir treatment in high-risk patients with coronavirus disease-2019 during severe acute respiratory syndrome coronavirus 2 ba.2 omicron epoch.
+nirmatrelvir combined with ritonavir for preventing and treating covid-19.
+spike-specific t-cell responses in patients with covid-19 successfully treated with neutralizing monoclonal antibodies against sars-cov-2.
+real-world use of nirmatrelvir-ritonavir in covid-19 outpatients during the emergence of omicron variants ba.2/ba2.12.1.
+a randomized phase 2/3 study of ensitrelvir, a novel oral sars-cov-2 3c-like protease inhibitor, in japanese patients with mild-to-moderate covid-19 or asymptomatic sars-cov-2 infection: results of the phase 2a part.
+real-world effectiveness of nirmatrelvir/ritonavir in preventing hospitalization among patients with covid-19 at high risk for severe disease in the united states: a nationwide population-based cohort study.
+azithromycin use and outcomes in patients with covid-19: an observational real-world study.
+favipiravir for the treatment of coronavirus disease 2019 pneumonia.
+real-world effectiveness of sotrovimab for the early treatment of covid-19 during sars-cov-2 delta and omicron waves in the united states.
+optimization of the prodrug moiety of remdesivir to improve lung exposure/selectivity and enhance anti-sars-cov-2 activity.
+randomized trial of metformin, ivermectin, and fluvoxamine for covid-19.
+favipiravir in patients with early mild-to-moderate coronavirus disease 2019 (covid-19): a randomized controlled trial.
+efficacy and safety of nitazoxanide in treating sars-cov-2 infection: a systematic review and meta-analysis of blinded, placebo-controlled, randomized clinical trials.
+safety and efficacy of convalescent plasma as a therapy for sars-cov-2: a systematic review and meta-analysis.
+safety, efficacy, and relapse of nirmatrelvir-ritonavir in kidney transplant recipients infected with sars-cov-2.
+lessons learned from the use of covid-19 convalescent plasma at kaiser permanente.
+a randomized clinical trial of regdanvimab in high-risk patients with mild-to-moderate coronavirus disease 2019.
+comparison of a target trial emulation framework to cox regression to estimate the effect of corticosteroids on covid-19 mortality.
+impact of the use of oral antiviral agents on the risk of hospitalization in community coronavirus disease 2019 patients (covid-19).
+corticosteroids: a boon or bane for covid-19 patients?.
+real-world effectiveness of early molnupiravir or nirmatrelvir-ritonavir in hospitalised patients with covid-19 without supplemental oxygen requirement on admission during hong kong's omicron ba.2 wave: a retrospective cohort study.
+safety profile and outcomes of early covid-19 treatments in immunocompromised patients: a single-centre cohort study.
+european society of clinical microbiology and infectious diseases guidelines for coronavirus disease 2019: an update on treatment of patients with mild/moderate disease.
+the clinical efficacy and safety of anti-viral agents for non-hospitalized patients with covid-19: a systematic review and network meta-analysis of randomized controlled trials.
+outpatient convalescent plasma therapy for high-risk patients with early covid-19: a randomized placebo-controlled trial.
+nirmatrelvir use and severe covid-19 outcomes during the omicron surge.
+real-world experience with molnupiravir during the period of sars-cov-2 omicron variant dominance.
+nirmatrelvir/ritonavir and molnuipiravir in the treatment of mild/moderate covid-19: results of a real-life study.
+early treatment of favipiravir in covid-19 patients without pneumonia: a multicentre, open-labelled, randomized control study.
+oral nirmatrelvir and ritonavir in nonhospitalized vaccinated patients with coronavirus disease 2019.
+remdesivir administration in covid-19 patients with renal impairment: a systematic review.
+antibody therapy reverses biological signatures of covid-19 progression.
+uptake of sotrovimab for prevention of severe covid-19 and its safety in the community in england.
+effect of corticosteroid therapy on mortality in covid-19 patients-a systematic review and meta-analysis.
+covid-19 convalescent plasma for the treatment of immunocompromised patients: a systematic review.
+the efficiency of convalescent plasma in covid-19 patients: a systematic review and meta-analysis of randomized controlled clinical trials.
+virologic efficacy of casirivimab and imdevimab covid-19 antibody combination in outpatients with sars-cov-2 infection: a phase 2 dose-ranging randomized clinical trial.
+clinical practice guidelines from the association for the advancement of blood and biotherapies (aabb): covid-19 convalescent plasma.
+inhaled fluticasone for outpatient treatment of covid-19: a decentralized, placebo-controlled, randomized, platform clinical trial.
+ivermectin for treatment of mild-to-moderate covid-19 in the outpatient setting: a decentralized, placebo-controlled, randomized, platform clinical trial.
+inflammatory and thrombotic parameters associated with the covid-19 course in poland (sarster study).
+covid-19 rebound after paxlovid treatment during omicron ba.5 vs ba.2.12.1 subvariant predominance period.
+determining population-level allocation strategies for covid-19 treatments in the united states using a quantitative framework, a case study using nirmatrelvir/ritonavir.
+geriatric risk and protective factors for serious covid-19 outcomes among older adults in shanghai omicron wave.
+safety and tolerability study of sotrovimab (vir-7831) prophylaxis against covid-19 infection in immunocompromised individuals with impaired sars-cov-2 humoral immunity.
+viral kinetics of severe acute respiratory syndrome coronavirus 2 (sars-cov-2) omicron infection in mrna-vaccinated individuals treated and not treated with nirmatrelvir-ritonavir.
+noninferiority of subcutaneous versus intravenous casirivimab/imdevimab for outpatient treatment of sars-cov-2 in a real-world setting.
+combination therapy with remdesivir and immunomodulators improves respiratory status in covid-19: a retrospective study.
+convalescent plasma in older adults with covid-19: a systematic review and meta-analysis.
+preliminary clinical experience of molnupiravir to prevent progression of covid-19 in kidney transplant recipients.
+real-world effectiveness of early remdesivir and sotrovimab in the highest-risk covid-19 outpatients during the omicron surge.
+a randomized controlled trial of combined ivermectin and zinc sulfate versus combined hydroxychloroquine, darunavir/ritonavir, and zinc sulfate among adult patients with asymptomatic or mild coronavirus-19 infection.
+early clinical experience with molnupiravir for mild to moderate breakthrough covid-19 among fully vaccinated patients at risk for disease progression.
+a randomised -controlled phase 2 trial of molnupiravir in unvaccinated and vaccinated individuals with early sars-cov-2.
+antiviral drug treatment for nonsevere covid-19: a systematic review and network meta-analysis.
+association of nirmatrelvir/ritonavir treatment on upper respiratory severe acute respiratory syndrome coronavirus 2 reverse transcription-polymerase chain reaction (sars-cov-2 rt-pcr) negative conversion rates among high-risk patients with coronavirus disease 2019 (covid-19).
+systematic review and meta-analysis of ivermectin for treatment of covid-19: evidence beyond the hype.
+favipiravir and/or nitazoxanide: a randomized, double-blind, 2×2 design, placebo-controlled trial of early therapy in covid-19 in health workers, their household members, and patients treated at imss (fantaze).
+real-world experience of sotrovimab in high-risk, immunocompromised covid-19 patients.
+safety and efficacy of molnupiravir in sars-cov-2-infected patients: a real-life experience.
+outcomes of bebtelovimab and sotrovimab treatment of solid organ transplant recipients with mild-to-moderate coronavirus disease 2019 during the omicron epoch.
+pharmacometric assessment of the in vivo antiviral activity of ivermectin in early symptomatic covid-19.
+characterisation of sars-cov-2 genomic variations in response to molnupiravir treatment in the agile phase iia clinical trial.
+bradyarrhythmia after remdesivir administration in sars-cov-2: a review of literature and meta-analysis of observational studies in epidemiology.
+participant and research team perspectives on the conduct of a remote therapeutic covid-19 clinical trial: a mixed methods approach.
+effect of colchicine on the outcomes of patients with covid-19: a systematic review and meta-analysis of randomised controlled trials.
+efficacy of early treatment with hydroxychloroquine in people with mild to moderate covid-19: a systematic review and meta-analysis.
+potential benefit of early treatment with sotrovimab in patients with high risk for severe covid-19 carrying ba.2 infection.
+real-world effectiveness of early molnupiravir and nirmatrelvir/ritonavir among hospitalized, non-oxygen-dependent covid-19 patients on admission during hong kong’s omicron ba.2 wave: an observational study.
+timing of regen-cov administration and progression to severe covid-19.
+the effect of ivermectin on the viral load and culture viability in early treatment of nonhospitalized patients with mild covid-19 - a double-blind, randomized placebo-controlled trial.
+protocol of pakistan randomized and observational trial to evaluate coronavirus treatment among newly diagnosed patients with covid-19: azithromycin, oseltamivir, and hydroxychloquine.
+covid-19 therapeutics and outcomes among solid organ transplant recipients during the omicron ba.1 era.
+efficacy and safety of camostat mesylate in early covid-19 disease in an ambulatory setting: a randomized placebo-controlled phase ii trial.
+serial convalescent plasma infusions for the initial covid-19 infections in the appalachian region of west virginia.
+jak inhibition as a new treatment strategy for patients with covid-19.
+the effect of inhaled corticosteroids on the outcomes of patients with covid-19: a systematic review and meta-analysis of randomized controlled trials.
+antiviral efficacy and safety of molnupiravir against omicron variant infection: a randomized controlled clinical trial.
+non-effectiveness of ivermectin on inpatients and outpatients with covid-19.
+receipt of anti-sars-cov-2 pharmacotherapies among u.s. veterans with mild to moderate covid-19, january-february 2022.
+cost-effectiveness analysis of molnupiravir versus best supportive care for the treatment of outpatient covid-19 in adults in the us.
+medications associated with lower mortality in a sars-cov-2 positive cohort of 26,508 veterans.
+efficacy and safety of ensitrelvir in patients with mild-to-moderate covid-19: the phase 2b part of a randomized, placebo-controlled, phase 2/3 study.
+safety and efficacy of ivermectin for the prevention and treatment of covid-19: a double-blinded randomized placebo-controlled study.
+oral co-supplementation of curcumin, quercetin, and vitamin d3 as an adjuvant therapy for mild to moderate symptoms of covid-19-results from a pilot open-label, randomized controlled trial.
+will the use of pharmacogenetics improve treatment efficiency in covid-19?.
+a multi-center, open-label, randomized controlled trial to evaluate the efficacy of convalescent plasma therapy for coronavirus disease 2019: a trial protocol (covipla-rct).
+efficacy of single-dose and double-dose ivermectin early treatment in preventing progression to hospitalization in mild covid-19: a multi-arm, parallel-group randomized, double-blind, placebo-controlled trial.
+in vivo virological efficacy of monoclonal antibodies and direct antiviral agents against the sars-cov-2 ba.1 and ba.2 omicron sublineages.
+major candidate variables to guide personalised treatment with steroids in critically ill patients with covid-19: ciberesucicovid study.
+[analysis of clinical characteristics of 362 vaccinated or unvaccinated patients infected by novel coronavirus omicron variant].
+the effect of ivermectin on cases of covid-19.
+effectiveness of subcutaneous casirivimab and imdevimab relative to no covid-19 antibody treatment among patients diagnosed with covid-19 in the ambulatory setting.
+tixagevimab/cilgavimab pre-exposure prophylaxis is associated with lower breakthrough infection risk in vaccinated solid organ transplant recipients during the omicron wave.
+covid-19 rebound after paxlovid and molnupiravir during january-june 2022.
+ivermectin for preventing and treating covid-19.
+clinical efficacy of different monoclonal antibody regimens among non-hospitalised patients with mild to moderate covid-19 at high risk for disease progression: a prospective cohort study.
+change in effectiveness of sotrovimab for preventing hospitalization and mortality in covid-19 outpatients during the omicron phase.
+treatment with metformin glycinate reduces sars-cov-2 viral load: an in vitro model and randomized, double-blind, phase iib clinical trial.
+nirmatrelvir plus ritonavir for early covid-19 and hospitalization in a large us health system.
+erratum: fluvoxamine treatment of patients with symptomatic covid-19 in a community treatment center: a preliminary result of randomized controlled trial.
+early oxygen requirement in patients with mild-to-moderate covid-19 who received regdanvimab after delta-variant outbreak.
+rebound phenomenon after nirmatrelvir/ritonavir treatment of coronavirus disease 2019 (covid-19) in high-risk persons.
+janus kinase inhibitors for the treatment of covid-19.
+ivermectin under scrutiny: a systematic review and meta-analysis of efficacy and possible sources of controversies in covid-19 patients.
+the comparative effectiveness of covid-19 monoclonal antibodies: a learning health system randomized clinical trial.
+favipiravir and/or nitazoxanide: a randomized, double-blind, 2x2 design, placebo-controlled trial of early therapy in covid-19 (fantaze).
+sofosbuvir/ledipasvir in combination or nitazoxanide alone are safe and efficient treatments for covid-19 infection: a randomized controlled trial for repurposing antivirals.
+efficacy and safety of intramuscular administration of tixagevimab-cilgavimab for early outpatient treatment of covid-19 (tackle): a phase 3, randomised, double-blind, placebo-controlled trial.
+efficacy and safety of hydroxychloroquine in healthcare professionals with mild sars-cov-2 infection: prospective, non-randomized trial.
+efficacy of covid-19 treatments among geriatric patients: a systematic review.
+efficacy and safety of nitazoxanide in treating sars-cov-2 infection: a systematic review and meta-analysis of blinded, placebo- controlled, randomized clinical trials.
+single dose of ivermectin is not useful in patients with hematological disorders and covid-19 illness: a phase ii b open labelled randomized controlled trial.
+outcomes of pregnant patients treated with regen-cov during the covid-19 pandemic.
+efficacy and safety of blood derivative therapy for patients with covid-19: a systematic review and meta-analysis.
+protection by metformin against severe covid-19: an in-depth mechanistic analysis.
+impact of dexamethasone and tocilizumab on hematological parameters in covid-19 patients with chronic disease.
+effect of molnupiravir on biomarkers, respiratory interventions, and medical services in covid-19 : a randomized, placebo-controlled trial.
+effectiveness of paxlovid in reducing severe coronavirus disease 2019 and mortality in high-risk patients.
+viral load rebound in placebo and nirmatrelvir-ritonavir treated covid-19 patients is not associated with recurrence of severe disease or mutations.
+frequency, characteristics and outcome of corona virus disease 2019 (covid-19) infection in iranian patients with rheumatic diseases.
+remdesivir and its combination with repurposed drugs as covid-19 therapeutics.
+trends, variation and clinical characteristics of recipients of antivirals and neutralising monoclonal antibodies for non-hospitalised covid-19: a descriptive cohort study of 23.4 million people in opensafely.
+safety of short-term treatments with oral chloroquine and hydroxychloroquine in patients with and without covid-19: a systematic review.
+tixagevimab/cilgavimab for prevention of covid-19 during the omicron surge: retrospective analysis of national va electronic data.
+omicron ba.1 and ba.2 neutralizing activity following pre-exposure prophylaxis with tixagevimab plus cilgavimab in vaccinated solid organ transplant recipients.
+real-world effectiveness of molnupiravir and nirmatrelvir/ritonavir against mortality, hospitalization, and in-hospital outcomes among community-dwelling, ambulatory covid-19 patients during the ba.2.2 wave in hong kong: an observational study.
+a review on drug repurposing in covid-19: from antiviral drugs to herbal alternatives.
+evaluation of monoclonal antibodies in preventing hospitalizations, emergency department visits, and mortality in high-risk covid-19 patients.
+regen-cov antibody combination in patients with lymphoproliferative malignancies and sars-cov-2 infection.
+clinical effectiveness of regdanvimab treatment for mild-to-moderate covid-19: a retrospective cohort study.
+ivermectin compared with placebo in the clinical evolution of mexican patients with asymptomatic and mild covid-19: a randomized clinical trial.
+early experience with modified dose nirmatrelvir/ritonavir in dialysis patients with coronavirus disease-2019.
+risk factors for progression to acute respiratory failure after casirivimab and imdevimab administration: a retrospective study.
+real-world effectiveness of casirivimab and imdevimab among patients diagnosed with covid-19 in the ambulatory setting: a retrospective cohort study using a large claims database.
+real-world experience with available, outpatient covid-19 therapies in solid organ transplant recipients during the omicron surge.
+real-world evidence of the neutralizing monoclonal antibody sotrovimab for preventing hospitalization and mortality in covid-19 outpatients.
+real-world assessment of 2879 covid-19 patients treated with monoclonal antibody therapy: a propensity score-matched cohort study.
+prospective individual patient data meta-analysis of two randomized trials on convalescent plasma for covid-19 outpatients.
+first-generation oral antivirals against sars-cov-2.
+evaluation of the safety and efficacy of favipiravir in adult indian patients with mild-to-moderate covid-19 in a real-world setting.
+agreement of treatment effects from observational studies and randomized controlled trials evaluating hydroxychloroquine, lopinavir-ritonavir, or dexamethasone for covid-19: meta-epidemiological study.
+early remdesivir to prevent severe covid-19 in recipients of solid organ transplant: a real-life study from northern italy.
+emulation of a target trial from observational data to compare effectiveness of casirivimab/imdevimab and bamlanivimab/etesevimab for early treatment of non-hospitalized patients with covid-19.
+rates of severe outcomes after bamlanivimab-etesevimab and casirivimab-imdevimab treatment of high-risk patients with mild to moderate coronavirus disease 2019.
+the effect of casirivimab with imdevimab on disease progression in nonsevere covid-19 patients in a single hospital in japan.
+recommendations for the outpatient drug treatment of patients with covid-19.
+outcomes of sars-cov-2 infection in unvaccinated compared with vaccinated solid organ transplant recipients: a propensity matched cohort study.
+hydroxychloroquine pre-exposure prophylaxis for covid-19 among healthcare workers: initial experience from india.
+kidney transplant recipients and omicron: outcomes, effect of vaccines and the efficacy and safety of novel treatments.
+monoclonal antibody therapy in kidney transplant recipients with delta and omicron variants of sars-cov-2: a single-center case series.
+committee report: questionnaire survey on the treatment of covid-19 in patients receiving dialysis therapy.
+describing covid-19 patients during the first two months of paxlovid (nirmatrelvir/ritonavir) initiation in a large hmo in israel.
+<p>ivermectin is associated with increase in spo2 in hypoxemic sars-cov-2 patients: pharmacodynamic profile and correlates.</p><p> </p>.
+antiviral used among non-severe covid-19 cases in relation to time till viral clearance: a retrospective cohort study.
+efficacy of sofosbuvir plus ledipasvir in egyptian patients with covid-19 compared to standard treatment: a randomized controlled trial.
+effectiveness of the neutralizing antibody sotrovimab among high-risk patients with mild to moderate sars-cov-2 in qatar.
+favipiravir for treatment of outpatients with asymptomatic or uncomplicated coronavirus disease 2019: a double-blind, randomized, placebo-controlled, phase 2 trial.
+monoclonal antibodies for treatment of sars-cov-2 infection during pregnancy.
+colchicine for covid-19 in the community (principle): a randomised, controlled, adaptive platform trial.
+intramuscular azd7442 (tixagevimab-cilgavimab) for prevention of covid-19.
+differential efficacy and safety of anti-sars-cov-2 antibody therapies for the management of covid-19: a systematic review and network meta-analysis.
+sars-cov-2 evolution and immune escape in immunocompromised patients treated with exogenous antibodies.
+discovery of a new generation of angiotensin receptor blocking drugs: receptor mechanisms and in silico binding to enzymes relevant to sars-cov-2.
+effect of common maintenance drugs on the risk and severity of covid-19 in elderly patients.
+efficacy of remdesivir for hospitalized covid-19 patients with end stage renal disease.
+favipiravir in sars-cov-2 infection: is it worth it?.
+outcome of covid-19 in interstitial lung disease patients treated with anti-inflammatory drugs and antiviral drugs.
+“efficacy and safety of fixed combination of hydroxychloroquine with azithromycin versus hydroxychloroquine and placebo in patients with mild covid-19: randomized, double blind, placebo controlled trial”.
+covid-19 outcomes: does the use of psychotropic drugs make a difference? accumulating evidence of a beneficial effect of antidepressants-a scoping review.
+association of subcutaneous or intravenous administration of casirivimab and imdevimab monoclonal antibodies with clinical outcomes in adults with covid-19.
+outcome of very high-risk patients treated by sotrovimab for mild-to-moderate covid-19 omicron, a prospective cohort study (the anrs 0003s cocoprev study).
+early th2 inflammation in the upper respiratory mucosa as a predictor of severe covid-19 and modulation by early treatment with inhaled corticosteroids: a mechanistic analysis.
+therapeutic efficacy of four antiviral drugs in treatment of covid-19: a protocol for systematic review and network meta-analysis.
+auxora vs. placebo for the treatment of patients with severe covid-19 pneumonia: a randomized-controlled clinical trial.
+trial of early antiviral therapies during non-hospitalized outpatient window (treat now) for covid-19: a summary of the protocol and analysis plan for a decentralized randomized controlled trial.
+effect of chronic hydroxychloroquine use on covid-19 risk in patients with rheumatoid arthritis and systemic lupus erythematosus: a multicenter retrospective cohort.
+serious cardiovascular adverse events associated with hydroxychloroquine/chloroquine alone or with azithromycin in patients with covid-19: a pharmacovigilance analysis of the fda adverse event reporting system (faers).
+innovative randomized phase i study and dosing regimen selection to accelerate and inform pivotal covid-19 trial of nirmatrelvir.
+fluvoxamine for outpatient management of covid-19 to prevent hospitalization: a systematic review and meta-analysis.
+fluvoxamine in nonhospitalized patients with acute covid-19 infection and the lack of efficacy in reducing rates of hospitalization, mechanical ventilation, and mortality in placebo-controlled trials: a systematic review and meta-analysis.
+effectiveness of regdanvimab at preventing the need for oxygen therapy in patients with mild-to-moderate covid-19: a retrospective cohort study.
+fluvoxamine treatment of patients with symptomatic covid-19 in a community treatment center: a preliminary result of randomized controlled trial.
+safety and efficacy of colchicine in covid-19 patients: a systematic review and meta-analysis of randomized control trials.
+model-based cost-effectiveness analysis of oral antivirals against sars-cov-2 in korea.
+effectiveness and safety of regdanvimab in patients with mild-to-moderate covid-19: a retrospective cohort study.
+hydroxychloroquine versus placebo in the treatment of non-hospitalised patients with covid-19 (cope - coalition v): a double-blind, multicentre, randomised, controlled trial.
+use of antivirals in sars-cov-2 infection. critical review of the role of remdesivir.
+diabetes, metformin and the clinical course of covid-19: outcomes, mechanisms and suggestions on the therapeutic use of metformin.
+real world evidence of the neutralizing monoclonal antibody sotrovimab for preventing hospitalization and mortality in covid-19 outpatients.
+low-dose radiation therapy in the management of covid-19 pneumonia (lowrad-cov19). final results of a prospective phase i-ii trial.
+<p>convalescent plasma to treat covid-19: a randomized double blind 2 centers trial</p>.
+metformin is associated with favorable outcomes in patients with covid-19 and type 2 diabetes mellitus.
+effectiveness of pulse dose methyl prednisolone in management of covid 19: a systematic review and meta-analysis of observational studies.
+efficacy of pharmacological interventions in covid-19: a network meta-analysis.
+acute pancreatitis or severe increase in pancreatic enzyme levels following remdesivir administration in covid-19 patients: an observational study.
+effect of early treatment with ivermectin among patients with covid-19.
+early outpatient treatment for covid-19 with convalescent plasma.
+the roles of methylprednisolone treatment in patients with covid-19: a systematic review and meta-analysis.
+an update of antispike severe acute respiratory syndrome coronavirus 2 (sars-cov-2) monoclonal antibodies.
+antidepressants for covid-19: a systematic review.
+one-pot synthesis and molecular modeling studies of new bioactive spiro-oxindoles based on uracil derivatives as sars-cov-2 inhibitors targeting rna polymerase and spike glycoprotein.
+randomized controlled trial of favipiravir, hydroxychloroquine, and standard care in patients with mild/moderate covid-19 disease.
+anti-inflammatory response of cardamom extract and prediction of therapeutic window in covid-19 patients by assessing inflammatory markers using rt-pcr.
+frequency and severity of covid-19 in patients with various rheumatic diseases treated regularly with colchicine or hydroxychloroquine.
+efficacy of the combination of baricitinib, remdesivir, and dexamethasone in hypoxic adults with covid-19: a retrospective study.
+molnupiravir: a lethal mutagenic drug against rapidly mutating severe acute respiratory syndrome coronavirus 2-a narrative review.
+effectiveness of favipiravir on nonsevere, early-stage covid-19 in japan: a large observational study using the covid-19 registry japan.
+sulforaphane exhibits antiviral activity against pandemic sars-cov-2 and seasonal hcov-oc43 coronaviruses in vitro and in mice.
+inhaled ciclesonide for outpatient treatment of covid-19 in adults at risk of adverse outcomes: a randomised controlled trial (coverage).
+comparative efficacy of early covid-19 monoclonal antibody therapies: a retrospective analysis.
+nudt18 catalyzes the hydrolysis of active metabolites of the antivirals remdesivir, ribavirin and molnupiravir.
+efficacy and safety of regdanvimab (ct-p59): a phase 2/3 randomized, double-blind, placebo-controlled trial in outpatients with mild-to-moderate coronavirus disease 2019.
+efficacy and safety of favipiravir plus interferon-beta versus lopinavir/ritonavir plus interferon-beta in moderately ill patients with covid-19: a randomized clinical trial.
+antiviral activity of molnupiravir against covid-19: a schematic review of evidences.
+effect of sotrovimab on hospitalization or death among high-risk patients with mild to moderate covid-19: a randomized clinical trial.
+computational identification of host genomic biomarkers highlighting their functions, pathways and regulators that influence sars-cov-2 infections and drug repurposing.
+[sotrovimab in controlling sars-cov-2 infection].
+comparison of the ivermectin and lopinavir/ritonavir treatment outcomes among covid-19 mild to moderate cases in kaduna state.
+safety and efficacy of a meuri program for the use of high dose ivermectin in covid-19 patients.
+clinical prognosis of patients with mild covid-19 treated with casirivimab/imdevimab in japan.
+covid-19 convalescent plasma and clinical trials: understanding conflicting outcomes.
+fluvoxamine for the early treatment of covid-19: a meta-analysis of randomized clinical trials.
+rationale and design of the covid-19 outpatient prevention evaluation (cope - coalition v) randomized clinical trial: hydroxychloroquine vs. placebo in non-hospitalized patients.
+impact of colchicine on mortality and morbidity in covid-19: a systematic review.
+the anti-coronavirus therapies (act) trials: design, baseline characteristics, and challenges.
+<p>convalescent plasma treatment for sars-cov-2 infected high-risk patients - a matched pair analysis to the leoss cohort</p>.
+implementation of a collaborated antimicrobial stewardship program and outpatient parenteral antimicrobial therapy (opat) unit-driven monoclonal antibody therapy program for covid-19 at an nyc hospital.
+molnupiravir and nirmatrelvir-ritonavir: oral coronavirus disease 2019 antiviral drugs.
+cost-effectiveness of casirivimab/imdevimab in patients with covid-19 in the ambulatory setting.
+a randomized double-blind placebo-controlled clinical trial of nitazoxanide for treatment of mild or moderate covid-19.
+adverse effects of remdesivir, hydroxychloroquine and lopinavir/ritonavir when used for covid-19: systematic review and meta-analysis of randomised trials.
+renal and hepatic outcomes after remdesivir therapy in coronavirus disease-2019-positive patients with renal dysfunction at baseline or after starting therapy.
+assessment of recovery time, worsening, and death among inpatients and outpatients with covid-19, treated with hydroxychloroquine or chloroquine plus azithromycin combination in burkina faso.
+<p>cluster randomised trials - ivermectin repurposing for covid-19 treatment of outpatients with mild disease in primary health care centers</p>.
+<p>the efficacy of casirivimab/imdevimab in solid organ transplant recipients with mild-to-moderate covid-19</p>.
+real-world effectiveness of casirivimab and imdevimab in patients with covid-19 in the ambulatory setting: an analysis of two large us national claims databases.
+effect of monoclonal antibody therapy on the endogenous sars-cov-2 antibody response.
+oral nirmatrelvir/ritonavir therapy for covid-19: the dawn in the dark?.
+convalescent plasma in covid-19: renewed focus on the timing and effectiveness of an old therapy.
+<p>systematic review and meta-analysis of ivermectin for treatment of covid-19: evidence beyond the hype</p>.
+<p>a comparison of ivermectin and non ivermectin based regimen for covid 19 in abuja: effects on virus clearance, days-to-discharge and mortality.</p>.
+comparison of the efficacy and safety of atazanavir/ritonavir plus hydroxychloroquine with lopinavir/ritonavir plus hydroxychloroquine in patients with moderate covid-19, a randomized, double-blind clinical trial.
+steroid treatment balance according to the lymphocyte / white blood cells ratio in covid-19 patients, a retrospective cohort analysis.
+efficacy of ivermectin treatment on disease progression among adults with mild to moderate covid-19 and comorbidities: the i-tech randomized clinical trial.
+impact of antibody cocktail therapy combined with casirivimab and imdevimab on clinical outcome for patients with covid-19 in a real-life setting: a single institute analysis.
+effectiveness of regen-cov antibody combination in preventing severe covid-19 outcomes.
+remdesivir use in pregnancy during the sars-cov-2 pandemic.
+oral nirmatrelvir for high-risk, nonhospitalized adults with covid-19.
+regdanvimab in patients with mild-to-moderate sars-cov-2 infection: a propensity score-matched retrospective cohort study.
+outpatient therapies for covid-19: how do we choose?.
+streamlining statistical reproducibility: nhlbi orchid clinical trial results reproduction.
+favipiravir, lopinavir-ritonavir or combination therapy (flare): a randomised, double blind, 2x2 factorial placebo-controlled trial of early antiviral therapy in covid-19.
+risk of severe covid-19 in patients with inflammatory rheumatic diseases treated with immunosuppressive therapy in scotland.
+high-titre methylene blue-treated convalescent plasma as an early treatment for outpatients with covid-19: a randomised, placebo-controlled trial.
+the effect of favipiravir versus hydroxychloroquine on clinical and laboratory findings in covid-19 in healthcare workers.
+innovative randomized phase 1 study and dosing regimen selection to accelerate and inform pivotal covid-19 trial of nirmatrelvir.
+efficacy of niclosamide vs placebo in sars-cov-2 respiratory viral clearance, viral shedding, and duration of symptoms among patients with mild to moderate covid-19: a phase 2 randomized clinical trial.
+covid-19 in patients with hematologic malignancies: outcomes and options for treatments.
+therapeutic dilemmas in addressing sars-cov-2 infection: favipiravir versus remdesivir.
+antiviral therapy for covid-19: derivation of optimal strategy based on past antiviral and favipiravir experiences.
+does metformin affect outcomes in covid-19 patients with new or pre-existing diabetes mellitus? a systematic review and meta-analysis.
+successful early use of anti-sars-cov-2 monoclonal neutralizing antibodies in sars-cov-2 infected hematological patients - a czech multicenter experience.
+efficacy and safety of three new oral antiviral treatment (molnupiravir, fluvoxamine and paxlovid) for covid-19：a meta-analysis.
+efficacy and safety of nitazoxanide combined with ritonavir-boosted atazanavir for the treatment of mild to moderate covid-19.
+convalescent plasma improves overall survival in patients with b-cell lymphoid malignancy and covid-19: a longitudinal cohort and propensity score analysis.
+efficacy and safety of colchicine treatment in patients with covid-19: a prospective, multicenter, randomized clinical trial.
+updated guidance on use and prioritization of monoclonal antibody therapy for treatment of covid-19 in adolescents.
+methylprednisolone accelerate chest computed tomography absorption in covid-19: a three-centered retrospective case control study from china.
+phase 2/3 trial of molnupiravir for treatment of covid-19 in nonhospitalized adults.
+a phase 2 randomized, double-blind, placebo-controlled trial of oral camostat mesylate for early treatment of covid-19 outpatients showed shorter illness course and attenuation of loss of smell and taste.
+safety profile of covid-19 drugs in a real clinical setting.
+effect of colchicine on mortality in patients with covid-19 - a systematic review and meta-analysis.
+oral antivirals for the prevention and treatment of sars-cov-2 infection.
+the impact of casirivimab-imdevimab antibody cocktail in patients amidst and post covid 19 treatment: a retro-prospective comparative study in india.
+gastrointestinal and hepatic side effects of potential treatment for covid-19 and vaccination in patients with chronic liver diseases.
+corticosteroid and biologic use not associated with adverse outcomes for inflammatory bowel disease patients hospitalized with covid-19.
+an updated practical guideline on use of molnupiravir and comparison with agents having emergency use authorization for treatment of covid-19.
+clinical course and outcome of an outpatient clinic population with myasthenia gravis and covid-19.
+predictive risk factors for hospitalization and response to colchicine in patients with covid-19.
+high-dose dexamethasone versus tocilizumab in moderate to severe covid-19 pneumonia: a randomized controlled trial.
+eosinophilia is associated with improved covid-19 outcomes in inhaled corticosteroid-treated patients.
+potential therapeutic options for covid-19: an update on current evidence.
+efficacy of the use of mefenamic acid combined with standard medical care vs. standard medical care alone for the treatment of covid‑19: a randomized double‑blind placebo‑controlled trial.
+the omicron variant is highly resistant against antibody-mediated neutralization: implications for control of the covid-19 pandemic.
+efficacy of favipiravir in adults with mild covid-19: a randomized, double-blind, multicentre, placebo-controlled clinical trial.
+the interaction of vitamin d and corticosteroids: a mortality analysis of 26,508 veterans who tested positive for sars-cov-2.
+metformin use is associated with a decrease in the risk of hospitalization and mortality in covid-19 patients with diabetes: a population-based study in lombardy.
+comparing outcomes of two antiviral therapy combinations among covid-19 patients.
+effect of convalescent plasma as complementary treatment in patients with moderate covid-19 infection.
+outcome of sars cov-2 inpatients treated with convalescent plasma: one-year of data from the veneto region (italy) registry.
+convalescent plasma as a potential management option in covid-19: a critical review of randomized controlled registered trials.
+editorial: current status of oral antiviral drug treatments for sars-cov-2 infection in non-hospitalized patients.
+convalescent plasma improves overall survival in patients with b-cell lymphoid malignancies and covid-19: a longitudinal cohort and propensity score analysis.
+retrospective study of outcomes and hospitalization rates of patients in italy with a confirmed diagnosis of early covid-19 and treated at home within 3 days or after 3 days of symptom onset with prescribed and non-prescribed treatments between november 2020 and august 2021.
+phase 3 trial of coronavir (favipiravir) in patients with mild to moderate covid-19.
+effectiveness of casirivimab and imdevimab, and sotrovimab during delta variant surge: a prospective cohort study and comparative effectiveness randomized trial.
+a phase 2a clinical trial of molnupiravir in patients with covid-19 shows accelerated sars-cov-2 rna clearance and elimination of infectious virus.
+early remdesivir to prevent progression to severe covid-19 in outpatients.
+bias as a source of inconsistency in ivermectin trials for covid-19: a systematic review. ivermectin's suggested benefits are mainly based on potentially biased results.
+<p>metformin significantly lowers the mortality rate in diabetic covid-19 patients</p>.
+effect of early treatment with metformin on risk of emergency care and hospitalization among patients with covid-19: the together randomized platform clinical trial.
+randomized controlled trial of early outpatient covid-19 treatment with high-titer convalescent plasma.
+fluvoxamine for outpatient covid-19 to prevent hospitalization: a systematic review and meta-analysis.
+the place of fluvoxamine in the treatment of non-critically ill patients with covid-19: a living systematic review and meta-analysis.
+[assessment of the effectiveness of early treatment in sars-cov-2 infection].
+molnupiravir for oral treatment of covid-19 in nonhospitalized patients.
+effects of hypertonic alkaline nasal irrigation on covid-19.
+effectiveness of regdanvimab treatment in high-risk covid-19 patients to prevent progression to severe disease.
+the omicron variant is highly resistant against antibody-mediated neutralization – implications for control of the covid-19 pandemic.
+case series: convalescent plasma therapy for patients with covid-19 and primary antibody deficiency.
+outcomes associated with tocilizumab with or without corticosteroid versus dexamethasone for treatment of patients with severe to critical covid-19 pneumonia.
+understanding the clinical utility of favipiravir (t-705) in coronavirus disease of 2019: a review.
+safety and efficacy of hydroxychloroquine for treatment of non-severe covid-19 among adults in uganda: a randomized open label phase ii clinical trial.
+follow your nose: a key clue to understanding and treating covid-19.
+can nlrp3 inhibitors improve on dexamethasone for the treatment of covid-19?.
+<p>effectiveness of regdanvimab in patients with mild-to-moderate covid-19: a retrospective cohort study</p>.
+a multi-centre, randomized, double-blind, placebo-controlled clinical trial of the efficacy and safety of chloroquine phosphate, hydroxychloroquine sulphate and lopinavir/ritonavir for the treatment of covid-19 in lagos state: study protocol for a randomized controlled trial.
+could inhaled corticosteroids be the game changers in the prevention of severe covid-19? a review of current evidence.
+drug repurposing for covid-19 using graph neural network and harmonizing multiple evidence.
+fluvoxamine for the early treatment of sars-cov-2 infection: a review of current evidence.
+convalescent plasma for outpatients with early covid-19.
+evaluation of favipiravir in the treatment of covid-19 based on the real-world.
+association of subcutaneous or intravenous route of administration of casirivimab and imdevimab monoclonal antibodies with clinical outcomes in covid-19.
+favipiravir for the treatment of coronavirus disease 2019.
+protocol: benefits and harms of remdesivir for covid-19 in adults: a systematic review with meta-analysis.
+transient adverse events after regn-cov2 administration for mild covid-19 patients and their potential predictive factors: a single center analysis.
+efficacy of ceftazidime and cefepime in the management of covid-19 patients: single center report from egypt.
+molnupiravir-a novel oral anti-sars-cov-2 agent.
+meta-analysis of arbidol versus lopinavir/ritonavir in the treatment of coronavirus disease 2019.
+.
+there are 5 target papers found during the search in pubmed!.
+they are:.
+in the end, 5 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.4603559870550162.
+false negative rate: 0.0.
+
+Included target articles are as follow:
+molnupiravir plus usual care versus usual care alone as early treatment for adults with covid-19 at increased risk of adverse outcomes (panoramic): an open-label, platform-adaptive randomised controlled trial.
+effect of higher-dose ivermectin for 6 days vs placebo on time to sustained recovery in outpatients with covid-19: a randomized clinical trial.
+change in effectiveness of sotrovimab for preventing hospitalization and mortality for at-risk covid-19 outpatients during an omicron ba.1 and ba.1.1-predominant phase.
+real-world use of nirmatrelvir-ritonavir in outpatients with covid-19 during the era of omicron variants including ba.4 and ba.5 in colorado, usa: a retrospective cohort study.
+real-world effectiveness of molnupiravir and nirmatrelvir plus ritonavir against mortality, hospitalisation, and in-hospital outcomes among community-dwelling, ambulatory patients with confirmed sars-cov-2 infection during the omicron wave in hong kong: an observational study.
+paxlovid associated with decreased hospitalization rate among adults with covid-19 - united states, april-september 2022.
+population-based evaluation of the effectiveness of nirmatrelvir-ritonavir for reducing hospital admissions and mortality from covid-19.
+nirmatrelvir use and severe covid-19 outcomes during the omicron surge.

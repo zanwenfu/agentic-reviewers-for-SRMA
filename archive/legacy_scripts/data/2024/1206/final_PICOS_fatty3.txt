@@ -1,0 +1,328 @@
+total number of articles searched: 720.
+include criteria: [['women with gestational diabetes mellitus (gdm)'], ['intergeneration non-alcoholic fatty liver disease (nafld) development after delivery'], ['studies including outcomes related to nafld development in offspring of women with gdm'], ['systematic reviews and meta-analyses'], ['articles with study designs including cohort studies and randomized controlled trials']].
+exclude criteria: [['exclude: studies not involving pregnant women diagnosed with gestational diabetes mellitus'], ['exclude: studies focusing on interventions not related to gestational diabetes mellitus'], ['exclude: studies without a control group for comparison'], ['exclude: studies not assessing non-alcoholic fatty liver disease as an outcome'], ['exclude: non-systematic reviews or meta-analyses']].
+implications of abnormal liver function in pregnancy and non-alcoholic fatty liver disease.
+iron perturbations in human non-alcoholic fatty liver disease (nafld): clinical relevance and molecular mechanisms.
+iron and non-alcoholic fatty liver disease.
+a novel cause for abnormal liver function tests in pregnancy and the puerperium: non-alcoholic fatty liver disease.
+maternal western diet primes non-alcoholic fatty liver disease in adult mouse offspring.
+prospective study of gestational diabetes and fatty liver scores 9 to 16years after pregnancy??????????9-16????????????.
+a slow-digesting carbohydrate diet during rat pregnancy protects offspring from non-alcoholic fatty liver disease risk through the modulation of the carbohydrate-response element and sterol regulatory element binding proteins.
+diet-induced obesity in the rat: a model for gestational diabetes mellitus.
+factors early in life associated with hepatic steatosis.
+high fat diet induced hepatic steatosis and insulin resistance: role of dysregulated ceramide metabolism.
+association of circulating inflammatory cells and platelets with gestational diabetes and pregnancy outcomes.
+one year's treatment with the glucagon-like peptide 1 receptor agonist liraglutide decreases hepatic fat content in women with nonalcoholic fatty liver disease and prior gestational diabetes mellitus in a randomized, placebo-controlled trial.
+regulation of the novel adipokines/hepatokines fetuin a and fetuin b in gestational diabetes mellitus.
+gestational diabetes mellitus may predispose to metabolic dysfunction-associated steatotic liver disease.
+interactive effects of maternal and weaning high linoleic acid intake on hepatic lipid metabolism, oxylipins profile and hepatic steatosis in offspring.
+zinc, selenium and chromium co-supplementation improves insulin resistance by preventing hepatic endoplasmic reticulum stress in diet-induced gestational diabetes rats.
+<i>n</i>1-methylnicotinamide impairs gestational glucose tolerance in mice.
+adiponectin gene polymorphisms associated with diabetes mellitus: a descriptive review.
+angiopoietin-like protein 4 induces growth hormone variant secretion and aggravates insulin resistance during pregnancy, linking obesity to gestational diabetes mellitus.
+maternal obstructive sleep apnea aggravates metabolic dysfunction-associated fatty liver disease via hmgb1-tlr4 signaling-mediated endoplasmic reticulum stress in male offspring rats.
+body and liver fat mass rather than muscle mitochondrial function determine glucose metabolism in women with a history of gestational diabetes mellitus.
+metal exposure during early pregnancy and risk of gestational diabetes mellitus: mixture effect and mediation by phospholipid fatty acids.
+lean maternal hyperglycemia alters offspring lipid metabolism and susceptibility to diet-induced obesity in mice.
+developmental programming by maternal insulin resistance: hyperinsulinemia, glucose intolerance, and dysregulated lipid metabolism in male offspring of insulin-resistant mice.
+do inositol supplements enhance phosphatidylinositol supply and thus support endoplasmic reticulum function?.
+maternal high-fat intake during pregnancy programs metabolic-syndrome-related phenotypes through liver mitochondrial dna copy number and transcriptional activity of liver <i>ppargc1a</i>.
+exercise performed during pregnancy positively modulates liver metabolism and promotes mitochondrial biogenesis of female offspring in a rat model of diet-induced gestational diabetes.
+hepatic epigenetic reprogramming after liver resection in offspring alleviates the effects of maternal obesity.
+recurrent pregnancy-induced diabetes insipidus in a woman with hemochromatosis.
+gestational diabetes is uniquely associated with altered early seeding of the infant gut microbiota.
+fibroblast growth factor-21 is a potential diagnostic factor for patients with gestational diabetes mellitus.
+early maternal circulating alkaline phosphatase with subsequent gestational diabetes mellitus and glucose regulation: a prospective cohort study in china.
+acute and perinatal programming effects of a fat-rich diet on rat muscle mitochondrial function and hepatic lipid accumulation.
+genetic variation in tcf<i>7</i>l<i>2</i> rs7903146 and history of gdm negatively and independently impact on diabetes-associated metabolic traits.
+diabetes clusters: diabetes subgroups and complications.
+enhanced offspring predisposition to steatohepatitis with maternal high-fat diet is associated with epigenetic and microbiome alterations.
+maternal gestational diabetes mellitus and high-fat diet influenced hepatic polyunsaturated fatty acids profile in the offspring of c57bl/6j mice.
+implication of <i>sh2b1</i> gene polymorphism studies in gestational diabetes mellitus in saudi pregnant women.
+serum betaine and dimethylglycine in mid-pregnancy and the risk of gestational diabetes mellitus: a case-control study.
+precocious markers of cardiovascular risk and vascular damage in apparently healthy women with previous gestational diabetes.
+hepatic glucose metabolism in late pregnancy normal versus high-fat and -fructose diet.
+associations of maternal diet and nutritional status with offspring hepatic steatosis in the avon longitudinal study of parents and children.
+routine blood tests in early pregnancy: their development and value in the early diagnosis of gestational diabetes mellitus.
+novel biomolecules in the pathogenesis of gestational diabetes mellitus.
+tdag51 attenuates impaired lipid metabolism and insulin resistance in gestational diabetes mellitus through srebp-1/ angptl8 pathway.
+predisposed obesity and long-term metabolic diseases from maternal exposure to fine particulate matter (pm<sub>2.5</sub>) - a review of its effect and potential mechanisms.
+normalizing adiponectin levels in obese pregnant mice prevents adverse metabolic outcomes in offspring.
+managing cardiometabolic risk factors across a woman's lifespan: a lipidologist's perspective.
+effects of probiotic supplementation during pregnancy on the future maternal risk of metabolic syndrome.
+food insecurity is a risk factor for metabolic dysfunction-associated steatotic liver disease in latinx children.
+altered plasma lipidome profile of dairy cows with fatty liver disease.
+metabolic consequences of gestational cannabinoid exposure.
+high dietary cholesterol intake during lactation promotes development of fatty liver in offspring of mice.
+new born macrosomia in gestational diabetes mellitus.
+sex hormone-binding globulin in children and adolescents.
+reduction in maternal serum values of glucose and gamma-glutamyltransferase after supplementation with alpha-lipoic acid in women with gestational diabetes mellitus.
+type 2 diabetes, bariatric surgery and the risk of subsequent gestational diabetes.
+gestational diabetes mellitus: fetal liver length measurements between 21 and 24 weeks' gestation.
+alt/ast as an independent risk factor of gestational diabetes mellitus compared with tg/hdl-c.
+dietary supplementation of inulin alleviates metabolism disorders in gestational diabetes mellitus mice via rent/akt/irs/glut4 pathway.
+the effects of prenatal metformin on obesogenic diet-induced alterations in maternal and fetal fatty acid metabolism.
+ast-to-alt ratio in the first trimester and the risk of gestational diabetes mellitus.
+\metabolic syndrome: sex-related cardiovascular risk and therapeutic approach.
+adverse maternal environment and postweaning western diet alter hepatic cd36 expression and methylation concurrently with nonalcoholic fatty liver disease in mouse offspring.
+maternal overnutrition before and during pregnancy induces dna damage in male offspring: a rabbit model.
+hypothalamic endoplasmic reticulum stress and insulin resistance in offspring of mice dams fed high-fat diet during pregnancy and lactation.
+circulating chemerin levels and gestational diabetes mellitus: a systematic review and meta-analysis.
+liver chrebp deficiency inhibits fructose-induced insulin resistance in pregnant mice and female offspring.
+the association between plasma angiopoietin-like protein 4, glucose and lipid metabolism during pregnancy, placental function, and risk of delivering large-for-gestational-age neonates.
+risk factors screening for gestational diabetes mellitus heterogeneity in chinese pregnant women: a case-control study.
+emerging protein biomarkers for the diagnosis or prediction of gestational diabetes-a scoping review.
+development of a fatty liver model by restricted feeding of lactating sheep.
+serum cd44 levels in early pregnancy and its genetic variants for increased risk of gestational diabetes mellitus in chinese pregnant women.
+placental accumulation of triacylglycerols in gestational diabetes mellitus and its association with altered fetal growth are related to the differential expressions of proteins of lipid metabolism.
+the impact of the association between nonalcoholic fatty liver disease and intrahepatic cholestasis of pregnancy on maternal and fetal outcomes.
+<i>n</i>-acetyl-l-cysteine ameliorates gestational diabetes mellitus by inhibiting oxidative stress.
+overweight, obesity and related non-communicable diseases in asian indian girls and women.
+dietary nutrients during gestation cause obesity and related metabolic changes by altering dna methylation in the offspring.
+impairments of insulin and glucagon sensitivity in chinese women with gestational diabetes mellitus.
+metformin from research to clinical practice.
+effects of dietary fat subtypes on glucose homeostasis during pregnancy in rats.
+gestational high fat diet programs hepatic phosphoenolpyruvate carboxykinase gene expression and histone modification in neonatal offspring rats.
+gestational diabetes alters the metabolomic profile in 2nd trimester amniotic fluid in a sex-specific manner.
+maternal dha supplementation during pregnancy and lactation in the rat protects the offspring against high-calorie diet-induced hepatic steatosis.
+exposure to bisphenol-a during pregnancy partially mimics the effects of a high-fat diet altering glucose homeostasis and gene expression in adult male mice.
+pregnancy toxemia in ewes: a review of molecular metabolic mechanisms and management strategies.
+role of serotonin (5-ht) in gdm prediction considering islet and liver interplay in prediabetic mice during gestation.
+metformin and its clinical use: new insights for an old drug in clinical practice.
+exosomal microrna expression profiling analysis of the effects of lycium barbarum polysaccharide on gestational diabetes mellitus mice.
+circadian disruption across lifespan impairs glucose homeostasis and insulin sensitivity in adult mice.
+pregnancy and liver disease.
+maternal overweight and obesity modify the association of serum fibroblast growth factor 21 levels with gestational diabetes mellitus: a nested case-control study.
+acute fatty liver of pregnancy.
+safety and efficacy of a fish-oil-based fat emulsion in the treatment of parenteral nutrition-associated liver disease.
+association of <i>cpt1a</i> gene polymorphism with the risk of gestational diabetes mellitus: a case-control study.
+maternal high-fat diet triggers lipotoxicity in the fetal livers of nonhuman primates.
+current type 2 diabetes, rather than previous gestational diabetes, is associated with liver disease in us women.
+can sonographic imaging of the fetal pancreas predict perinatal outcomes in gestational diabetes mellitus?.
+maternal fat supplementation during late pregnancy and lactation influences the development of hepatic steatosis in offspring depending on the fat source.
+csog mfm committee guideline: clinical management guidelines for acute fatty liver of pregnancy in china (2021).
+modulation of lipid metabolism by <i>n</i>-3 polyunsaturated fatty acids in gestational diabetic rats and their macrosomic offspring.
+prevention of adverse metabolic sequelae after intrauterine growth restriction.
+early life factors and their relevance for markers of cardiometabolic risk in early adulthood.
+undernutrition during pregnancy in mice leads to dysfunctional cardiac muscle respiration in adult offspring.
+serum afamin a novel marker of increased hepatic lipid content.
+early pqq supplementation has persistent long-term protective effects on developmental programming of hepatic lipotoxicity and inflammation in obese mice.
+pregnancy-associated diabetes insipidus in japan-a review based on quoting from the literatures reported during the period from 1982 to 2019.
+the effects of exposure to and timing of a choline-deficient diet during pregnancy and early postnatal life on the skeletal muscle transcriptome of the offspring.
+maternal obesity alters endoplasmic reticulum homeostasis in offspring pancreas.
+a high fat diet during pregnancy and lactation induces cardiac and renal abnormalities in glut4+/- male mice.
+association of maternal dietary components during pregnancy and/or lactation with insulin-dependent diabetes mellitus.
+metformin, the aspirin of the 21st century: its role in gestational diabetes mellitus, prevention of preeclampsia and cancer, and the promotion of longevity.
+circulating levels of c1q/tnf-related protein 3 (ctrp3) and ctrp9 in gestational diabetes and their association with insulin resistance and inflammatory cytokines.
+sucrose-rich feeding during rat pregnancy-lactation and/or after weaning alters glucose and lipid metabolism in adult offspring.
+programming effects of prenatal glucocorticoid exposure with a postnatal high-fat diet in diabetes mellitus.
+the effect of maternal inflammation on foetal programming of metabolic disease.
+changes over time in hepatic markers predict changes in insulin sensitivity, β-cell function, and glycemia.
+dali: vitamin d and lifestyle intervention for gestational diabetes mellitus (gdm) prevention: an european multicentre, randomised trial - study protocol.
+adiposity, related biomarkers, and type 2 diabetes after gestational diabetes: the diabetes prevention program.
+the early origins of obesity and insulin resistance: timing, programming and mechanisms.
+maternal antagonism of glp1 reverses the adverse outcomes of sleeve gastrectomy on mouse.
+a fetal fatty-acid oxidation disorder as a cause of liver disease in pregnant women.
+obesity and gestational diabetes mellitus pathways for programming inmouse, monkey, and man-where do we go next? the 2014 norbert freinkel award lecture.
+longitudinal characterization of serum metabolome and lipidome reveals that the ceramide profile is associated with metabolic health in early postpartum cows experiencing different lipolysis.
+hepatic hexokinase domain containing 1 (hkdc1) improves whole body glucose tolerance and insulin sensitivity in pregnant mice.
+feeding a slowly digestible carbohydrate diet during pregnancy of insulin-resistant rats prevents the excess of adipogenesis in their offspring.
+insulin resistance: risk factors, diagnostic approaches and mathematical models for clinical practice, epidemiological studies, and beyond.
+intrauterine growth retardation and nonalcoholic fatty liver disease in children.
+a pilot randomized-controlled tria on the effect of cpap treatment on glycemic control in gestational diabetes: study design and methods.
+maternal dietary fatty acid intake during pregnancy and the risk of preclinical and clinical type 1 diabetes in the offspring.
+associations of maternal caffeine intake during pregnancy with abdominal and liver fat deposition in childhood.
+the absence of lactation after pregnancy induces long-term lipid accumulation in maternal liver of mice.
+elevated bile acid is associated with worsened impaired glucose homeostasis in pancreatic ductal adenocarcinoma patients with extrahepatic cholestasis through increased hepatic insulin clearance.
+metabolic signatures of birthweight in 18 288 adolescents and adults.
+maternal betaine supplementation affects fetal growth and lipid metabolism of high-fat fed mice in a temporal-specific manner.
+oligofructose supplementation (10%) during pregnancy and lactation does not change the inflammatory effect of concurrent trans fatty acid ingestion on 21-day-old offspring.
+regulation of nutritional metabolism in transition dairy goats: energy balance, liver activity, and insulin resistance in response to berberine supplementation.
+intergenerational transmission of insulin resistance and type 2 diabetes.
+advances in research on adropin: potential implications for clinical diagnosis and possible treatment - a mini-review.
+programming of hepatic lipid metabolism in a rat model of postnatal nicotine exposure - sex-related differences.
+critical periods of increased fetal vulnerability to a maternal high fat diet.
+the adverse effect of 4-tert-octylphenol on fat metabolism in pregnant rats via regulation of lipogenic proteins.
+lactation alters the relationship between liver lipid synthesis and hepatic fat stores in the postpartum period.
+developmental origins of disease and determinants of chromatin structure: maternal diet modifies the primate fetal epigenome.
+melatonin associated with a high-fat diet during pregnancy and lactation prevents liver changes in the offspring.
+serum long chain n-3 fatty acids (epa and dha) in the pregnant mother are independent of risk of type 1 diabetes in the offspring.
+developmental programming of obesity and diabetes in mouse, monkey, and man in 2018: where are we headed?.
+maternal nicotine exposure leads to higher liver oxidative stress and steatosis in adult rat offspring.
+intravenous triacylglycerol infusion promotes ceramide accumulation and hepatic steatosis in dairy cows.
+the impact of dietary factors during pregnancy on the development of islet autoimmunity and type 1 diabetes: a systematic literature review.
+dietary lipid during late-pregnancy and early-lactation to manipulate metabolic and inflammatory gene network expression in dairy cattle liver with a focus on ppars.
+the influence of the n-3 fatty acids on the immune system, early infant feeding and pregnancy.
+gamma-glutamyltransferase: a predictive biomarker of cellular antioxidant inadequacy and disease risk.
+the risk of metabolic derangements is higher in children and adolescents with overweight or obesity born small for gestational age.
+maternal use of flaxseed oil during pregnancy and lactation prevents morphological alterations in pancreas of female offspring from rat dams with experimental diabetes.
+association of maternal gut microbial metabolites with gestational diabetes mellitus: evidence from an original case-control study, meta-analysis, and mendelian randomization.
+metabolic impact of bile acids in gestation.
+trimethylamine <i>n</i>-oxide metabolites in early pregnancy and risk of gestational diabetes: a nested case-control study.
+higher maternal gestational glucose concentration is associated with lower offspring insulin sensitivity and altered β-cell function.
+familial syndrome of progressive cone dystrophy, degenerative liver-disease and endocrine dysfunction .2. clinical and metabolic studies.
+impact of gut-brain axis on hepatobiliary diseases in fetal programming.
+gender differences and cardiometabolic risk: the importance of the risk factors.
+could post-weaning dietary chia seed mitigate the development of dyslipidemia, liver steatosis and altered glucose homeostasis in offspring exposed to a sucrose-rich diet from utero to adulthood?.
+relationship between blood metabolic hormones, metabolites and energy balance in simmental dairy cows during peripartum period and lactation.
+pancreatic and extra-pancreatic effects of incretins and perspectives for studying enteroinsulin hormonal system during gestational disorder of carbohydrate metabolism.
+the effect of maternal t1dm on the fatty acid composition of erythrocyte phosphatidylcholine and phosphatidyethanolamine in infants during early life.
+glucose and lipid homeostasis in adult rat is impaired by early-life exposure to perfluorooctane sulfonate.
+maternal high-fat diet consumption modulates hepatic lipid metabolism and microrna-122 (<i>mir-122</i>) and microrna-370 (<i>mir-370</i>) expression in offspring.
+organ-specific alterations in fatty acid de novo synthesis and desaturation in a rat model of programmed obesity.
+sex differences in early programming by maternal high fat diet induced-obesity and fish oil supplementation in mice.
+substitution of starch for palm oil during gestation: impact on offspring survival and hepatic gene expression in the pig.
+fish oil supplementation during adolescence attenuates metabolic programming of perinatal maternal high-fat diet in adult offspring.
+foetal programming by methyl donor deficiency produces steato-hepatitis in rats exposed to high fat diet.
+metabolic and microbial changes associated with diet and obesity during pregnancy: what can we learn from animal studies?.
+insulin-dependent glucose metabolism in dairy cows with variable fat mobilization around calving.
+nutrition in pregnancy.
+polycystic ovary syndrome: a contemporary clinical approach.
+cardiovascular disease: screening and management of the a-symptomatic high-risk post-menopausal woman.
+iranian national clinical practice guideline for exercise in patients with diabetes.
+maternal high-fructose intake activates myogenic program in fetal brown fat and predisposes offspring to diet-induced metabolic dysfunctions in adulthood.
+effects of late gestational high-fat diet on body weight, metabolic regulation and adipokine expression in offspring.
+high vitamin intake by wistar rats during pregnancy alters tissue fatty acid concentration in the offspring fed an obesogenic diet.
+high oleic/stearic fatty-acid desaturation index in cord plasma from infants of mothers with gestational diabetes.
+selective regulation of hepatic lipid metabolism by the amp-activated protein kinase pathway in late-pregnant rats.
+autism spectrum disorders in offspring exposed to maternal gestational diabetes: a meta-analysis and systematic review.
+impact of maternal obesity on the metabolism and bioavailability of polyunsaturated fatty acids during pregnancy and breastfeeding.
+use of dietary supplements in pregnant women in relation to sociodemographic factors - a report from the environmental determinants of diabetes in the young (teddy) study.
+effects of a maternal diet supplemented with chocolate and fructose beverage during gestation and lactation on rat dams and their offspring.
+placental glycogen-metabolism in diabetic pregnancy.
+placental transfer of long-chain polyunsaturated fatty acids (lc-pufa).
+effect of the japanese diet during pregnancy and lactation or post-weaning on the risk of metabolic syndrome in offspring.
+fetal and neonatal exposure to nicotine leads to augmented hepatic and circulating triglycerides in adult male offspring due to increased expression of fatty acid synthase.
+does fish oil supplementation in pregnancy reduce the risk of allergic disease in infants?.
+epigenetics of insulin resistance: an emerging field in translational medicine.
+association between exposure to per- and polyfluoroalkyl substances and blood glucose in pregnant women.
+diet modification before or during pregnancy on maternal and foetal outcomes in rodent models of maternal obesity.
+obesogenic diet in mice leads to inflammation and oxidative stress in the mother in association with sex-specific changes in fetal development, inflammatory markers and placental transcriptome.
+maternal high fat diet is associated with decreased plasma n-3 fatty acids and fetal hepatic apoptosis in nonhuman primates.
+maternal high-fructose corn syrup consumption causes insulin resistance and hyperlipidemia in offspring via dna methylation of the <i>pparα</i><sup> </sup>promoter region.
+effect of maternal dietary starch-to-fat ratio and daily energy intake during late pregnancy on the performance and lipid metabolism of primiparous sows and newborn piglets.
+pr-aki: acute kidney injury in pregnancy - etiology, diagnostic workup, management.
+prolonged fasting elicits increased hepatic triglyceride accumulation in rats born to dexamethasone-treated mothers.
+sucrose consumption alters steroid and dopamine signalling in the female rat brain.
+prenatal nicotine exposure induces low birthweight and hyperinsulinemia in male rats.
+follow-up of gk rats during prediabetes highlights increased insulin action and fat deposition despite low insulin secretion.
+liver volume and hepatic adiposity in childhood: relations to body growth and visceral fat.
+suppression of uric acid and lactate production by sodium acetate ameliorates hepatic triglyceride accumulation in fructose-insulin resistant pregnant rats.
+a maternal low protein diet has pronounced effects on mitochondrial gene expression in offspring liver and skeletal muscle.
+maternal exercise during pregnancy modulates genotoxicity caused by high fructose consumption in mice offspring.
+palmitic acid feeding increases ceramide supply in association with increased milk yield, circulating nonesterified fatty acids, and adipose tissue responsiveness to a glucose challenge.
+programming of maternal and offspring disease: impact of growth restriction, fetal sex and transmission across generations.
+dexamethasone programs lower fatty acid absorption and reduced ppar-γ and fat/cd36 expression in the jejunum of the adult rat offspring.
+maternal high-fat diet associated with altered gene expression, dna methylation, and obesity risk in mouse offspring.
+fructose might be a clue to the origin of preeclampsia <i>insights from nature and evolution</i>.
+maternal high fructose and low protein consumption during pregnancy and lactation share some but not all effects on early-life growth and metabolic programming of rat offspring.
+metabolic and molecular effects of dietary extra virgin olive oil in blood and placenta of women with gdm.
+insulin resistance of gluconeogenic pathways in neonatal rats after prenatal ethanol exposure.
+effect of eicosapentaenoic acid and docosahexaenoic acid supplementation on c-peptide preservation in pregnant women with type-1 diabetes: randomized placebo controlled clinical trial.
+case report:pregnancy and birth in a mild phenotype of alstrom syndrome.
+therapeutic advances in overcoming intrauterine growth restriction induced metabolic syndrome.
+lipotoxicity in obese pregnancy and its potential role in adverse pregnancy outcome and obesity in the offspring.
+the effect of androgen excess on maternal metabolism, placental function and fetal growth in obese dams.
+key relevance of epigenetic programming of adiponectin gene in pathogenesis of metabolic disorders.
+the effects of stillbirth and abortion on the next pregnancy: a longitudinal study.
+maternal iron status in early pregnancy and childhood body fat measures and cardiometabolic risk factors: a population-based prospective cohort.
+obesity, diabetes, and gut microbiota the hygiene hypothesis expanded?.
+expert exchange workgroup on children aged 5 and younger with severe obesity: a narrative review of medical and genetic risk factors.
+maternal brown rice diet alleviates adverse effects of maternal obesity on offspring metabolism via enhancing dna demethylation of adipor2.
+placental dna methylation changes associated with maternal prepregnancy bmi and gestational weight gain.
+maternal high-fat diet is associated with altered pancreatic remodelling in mice offspring.
+the high-fructose intake of dams during pregnancy and lactation exerts sex-specific effects on adult rat offspring metabolism.
+increased hepatic gluconeogenesis and decreased glucose uptake, and increased hepatic <i>de novo</i> lipogenesis in rat model of maternal diabetes.
+the effect of maternal dietary fat content and <i>n</i>-6:<i>n</i>-3 ratio on offspring growth and hepatic gene expression in the rat.
+intrauterine hyperglycemia exposure results in intergenerational inheritance via dna methylation reprogramming on f1 pgcs.
+impact of high-fat diet and obesity on energy balance and fuel utilization during the metabolic challenge of lactation.
+maternal dietary ratio of linoleic acid to alpha-linolenic acid during pregnancy has sex-specific effects on placental and fetal weights in the rat.
+a long-term maternal diet transition from high-fat diet to normal fat diet during pre-pregnancy avoids adipose tissue inflammation in next generation.
+effects of genetics and <i>in utero</i> diet on murine pancreatic development.
+maternal magnesium deficiency in mice leads to maternal metabolic dysfunction and altered lipid metabolism with fetal growth restriction.
+oral leptin supplementation throughout lactation in rats prevents later metabolic alterations caused by gestational calorie restriction.
+dietary alleviation of maternal obesity and diabetes: increased resistance to diet-induced obesity transcriptional and epigenetic signatures.
+prenatal ozone exposure programs a sexually dimorphic susceptibility to high-fat diet in adolescent long evans rats.
+hepatalin: the missing link in prediabetes, obesity, and type 2 diabetes.
+dietary carbohydrates: pathogenesis and potential therapeutic targets to obesity-associated metabolic syndrome.
+igf-1 receptor haploinsufficiency leads to age-dependent development of metabolic syndrome.
+perinatal, metabolic, and reproductive features in <i>pparg</i>-related lipodystrophy.
+maternal obesity induced by a 'cafeteria' diet in the rat does not increase inflammation in maternal, placental or fetal tissues in late gestation.
+the effect of preterm birth on adiposity and metabolic pathways and the implications for later life.
+evaluating variations in metabolic profiles during the dry period related to the time of hyperketonemia onset in dairy cows.
+a comparative study of the metabolic profile, insulin sensitivity and inflammatory response between organically and conventionally managed dairy cattle during the periparturient period.
+exerkine apelin reverses obesity-associated placental dysfunction by accelerating mitochondrial biogenesis in mice.
+programming of childhood overweight due to perinatal overnutrition.
+gender-divergent expression of lipid and bile acid metabolism-related genes in adult mice offspring of dams fed a high-fat diet.
+different levels of overnutrition and weight gain during pregnancy have differential effects on fetal growth and organ development.
+dna methylation, insulin resistance, and blood pressure in offspring determined by maternal periconceptional b vitamin and methionine status.
+beneficial effects of maternal swimming during pregnancy on offspring metabolism when the father is obese.
+autophagy proteins are modulated in the liver and hypothalamus of the offspring of mice with diet-induced obesity.
+the dynamic changes in the pattern of liver function tests in pregnant obese women.
+impact of the factors shaping gut microbiota on obesity.
+influencing factors, underlying mechanism and interactions affecting hypercholesterolemia in adult offspring with caffeine exposure during pregnancy.
+sex-specific effects of maternal dietary carbohydrate quality on fetal development and offspring metabolic phenotype in mice.
+metabolic studies in gestational diabetic women during contraceptive treatment - effects on glucose-tolerance and fatty-acid composition of serum-lipids.
+clinical practice guidelines of the team of experts of the polish gynecological society: management of the intrahepatic cholestasis of pregnancy.
+lactation versus formula feeding: insulin, glucose, and fatty acid metabolism during the postpartum period.
+insulin sensitivity linked skeletal muscle nr4a1 dna methylation is programmed by the maternal diet and modulated by voluntary exercise in mice.
+bhba regulates the expressions of lipid synthesis and oxidation genes in sheep hepatocytes through the ampk pathway.
+maternal acute fatty liver of pregnancy associated with fetal trifunctional protein deficiency: molecular characterization of a novel maternal mutant allele.
+adiponectin deficiency alters placenta function but does not affect fetal growth in mice.
+prenatal egcg consumption causes obesity and perturbs glucose homeostasis in adult mice.
+cardiometabolic health in adults born with very low birth weight-a sibling study.
+lower birth weight associated with current overweight status is related with the metabolic syndrome in obese japanese children.
+nutrigenetic and epigenetic mechanisms of maternal nutrition-induced glucolipid metabolism changes in the offspring.
+abdominal adipose tissue and liver fat imaging in very low birth weight adults born preterm: birth cohort with sibling-controls.
+carnitine in pregnancy.
+maternal high-calorie diet is associated with altered hepatic microrna expression and impaired metabolic health in offspring at weaning age.
+a prospective case-control study on mirna circulating levels in subjects born small for gestational age (sga) evaluated from childhood into young adulthood.
+high iron exposure from the fetal stage to adulthood in mice alters lipid metabolism.
+fetal growth restriction, catch-up growth and the early origins of insulin resistance and visceral obesity.
+p38γ and p38δ regulate postnatal cardiac metabolism through glycogen synthase 1.
+maternal high-fat diet induces obesity and adrenal and thyroid dysfunction in male rat offspring at weaning.
+maternal high-fat diet programs for metabolic disturbances in offspring despite leptin sensitivity.
+impact of <i>leuconostoc</i> sd23 intake in obese pregnant rats: benefits for maternal metabolism.
+metabolic programming of adipose tissue structure and function in male rat offspring by prenatal undernutrition.
+maternal choline modifies fetal liver copper, gene expression, dna methylation, and neonatal growth in the tx-j mouse model of wilson disease.
+medical aspects of ketone-body metabolism.
+differential effects of polyunsaturated fatty acids on sterol synthesis rates in adult and fetal tissues of the hamster: consequence of altered sterol balance.
+the association between perinatal factors and cardiometabolic risk factors in children and adolescents with overweight or obesity: a retrospective two-cohort study.
+maternal supplementation with a cocoa extract during lactation deeply modulates dams' metabolism, increases adiponectin circulating levels and improves the inflammatory profile in obese rat offspring.
+antidiabetic potential of flavonoids from traditional chinese medicine: a review.
+temporal gene expression profiling of liver from periparturient dairy cows reveals complex adaptive mechanisms in hepatic function.
+hematological and biochemical findings in pregnant, postfoaling, and lactating jennies.
+genome-wide placental dna methylations in fetal overgrowth and associations with leptin, adiponectin and fetal growth factors.
+global dna methylation was changed by a maternal high-lipid, high-energy diet during gestation and lactation in male adult mice liver.
+impaired hepatic mitochondrial function during early lactation in dairy cows: association with protein lysine acetylation.
+perturbations in polar lipids, starvation survival and reproduction following exposure to unsaturated fatty acids or environmental toxicants in <i>daphnia magna</i>.
+high-dose biotin, an inducer of glucokinase expression, may synergize with chromium picolinate to enable a definitive nutritional therapy for type ii diabetes.
+acute pancreatitis associated with severe hypertriglyceridaemia.
+elective and emergency caesarean section: analysis of maternal complications at allama lqbal memorial teaching hospital sialkot.
+a novel <i>adipoq</i> mutation (p.m40k) impairs assembly of high-molecular-weight adiponectin and is associated with early-onset obesity and metabolic syndrome.
+impact of placental mtor deficiency on peripheral insulin signaling in adult mice offspring.
+gestational dietary betaine supplementation suppresses hepatic expression of lipogenic genes in neonatal piglets through epigenetic and glucocorticoid receptor-dependent mechanisms.
+cardiometabolic profiles in women with adenomyosis.
+maternal high-calorie diet feeding programs hepatic cholesterol metabolism and<i> abca1</i> promoter methylation in the early life of offspring.
+<i>in utero</i> exposure to bisphenol-a disrupts key elements of retinoid system in male mice offspring.
+maternal diet supplemented with methyl-donors protects against atherosclerosis in f1 apoe<sup>-/-</sup> mice.
+diagnosis, treatment and prevention of pediatric obesity: consensus position statement of the italian society for pediatric endocrinology and diabetology and the italian society of pediatrics.
+a novel mapping strategy utilizing mouse chromosome substitution strains identifies multiple epistatic interactions that regulate complex traits.
+oral health's inextricable connection to systemic health: special populations bring to bear multimodal relationships and factors connecting periodontal disease to systemic diseases and conditions.
+there are 9 target papers found during the search in pubmed!.
+in the end, 7 target papers were left after filtering!.
+false positive rate: 0.7180555555555556.
+false negative rate: 0.2222222222222222.
+
+Included target articles are as follow:
+risks after gestational diabetes mellitus in taiwanese women: a nationwide retrospective cohort study.
+history of gestational diabetes and incident nonalcoholic fatty liver disease: the kangbuk samsung health study.
+transient elastography and controlled attenuation parameter to evaluate hepatic steatosis and liver stiffness in postpartum patients.
+non-alcoholic steatohepatitis is independently associated with a history of gestational diabetes mellitus.
+prevalence of non-alcoholic fatty liver disease and factors associated with it in indian women with a history of gestational diabetes mellitus.
+current type 2 diabetes, rather than previous gestational diabetes, is associated with liver disease in u.s. women.
+gestational diabetes in young women predicts future risk of serious liver disease.
+hepatic fat and glucose tolerance in women with recent gestational diabetes.
+nonalcoholic fatty liver disease is prevalent in women with prior gestational diabetes mellitus and independently associated with insulin resistance and waist circumference.
+gestational diabetes mellitus is strongly associated with non-alcoholic fatty liver disease.
+increased prevalence of non-alcoholic fatty liver disease in european women with a history of gestational diabetes.

@@ -1,0 +1,949 @@
+PMID- 10926314
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20001130
+LR  - 20151119
+IS  - 0947-7349 (Print)
+IS  - 0947-7349 (Linking)
+VI  - 108
+IP  - 3
+DP  - 2000
+TI  - Major depression and impaired glucose tolerance.
+PG  - 187-90
+AB  - Hypercortisolism is a frequent endocrine sign in major depression and cortisol is 
+      a well-known anti-insulinergic hormone. Impaired oral glucose tolerance has 
+      already been described in major depression. However, thus far no information is 
+      available on spontaneous, circadian insulin secretion in patients. We studied 26 
+      depressed inpatients along with 33 age- and sex-matched controls. Blood samples 
+      were collected at 30-minute intervals over a period of 26 hours (h) for 
+      estimation of cortisol, insulin and glucose. No differences in 24 h mean-insulin 
+      and glucose concentrations were detectable despite significantly reduced caloric 
+      consumption in patients. At the second morning a strictly standardized test meal 
+      of 2125 kjoule was given. Insulin and glucose responses to the test meal were 
+      significantly increased in hypercortisolemic patients compared to controls. 
+      Hence, patients with major depression have an impaired insulin sensitivity.
+FAU - Weber, B
+AU  - Weber B
+AD  - Max-Planck-Institute of Psychiatry, Clinical Institute, Munich, Germany. 
+      weber@as200.zi-mannheim.de
+FAU - Schweiger, U
+AU  - Schweiger U
+FAU - Deuschle, M
+AU  - Deuschle M
+FAU - Heuser, I
+AU  - Heuser I
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Germany
+TA  - Exp Clin Endocrinol Diabetes
+JT  - Experimental and clinical endocrinology & diabetes : official journal, German 
+      Society of Endocrinology [and] German Diabetes Association
+JID - 9505926
+RN  - 0 (Biomarkers)
+RN  - 0 (Blood Glucose)
+RN  - 0 (Insulin)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Analysis of Variance
+MH  - Biomarkers/blood
+MH  - Blood Glucose/*metabolism
+MH  - Depressive Disorder/*blood/complications
+MH  - Female
+MH  - Glucose Intolerance/blood/*complications/psychology
+MH  - Humans
+MH  - Hydrocortisone/*blood
+MH  - Insulin/blood
+MH  - Male
+MH  - Middle Aged
+MH  - Psychiatric Status Rating Scales
+MH  - Reference Values
+MH  - Regression Analysis
+EDAT- 2000/08/05 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/08/05 11:00
+PHST- 2000/08/05 11:00 [pubmed]
+PHST- 2001/02/28 10:01 [medline]
+PHST- 2000/08/05 11:00 [entrez]
+AID - 10.1055/s-2000-7742 [doi]
+PST - ppublish
+SO  - Exp Clin Endocrinol Diabetes. 2000;108(3):187-90. doi: 10.1055/s-2000-7742.
+
+PMID- 3526957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19860916
+LR  - 20190824
+IS  - 0145-6008 (Print)
+IS  - 0145-6008 (Linking)
+VI  - 10
+IP  - 3
+DP  - 1986 Jun
+TI  - Relationship between serum cortisol, liver function, and depression in detoxified 
+      alcoholics.
+PG  - 320-2
+AB  - High levels of serum cortisol or abnormal dexamethasone suppression tests may be 
+      helpful in diagnosing major depressive disorder. However, a controversy exists as 
+      to whether abnormal liver function associated with alcohol abuse may negate the 
+      diagnostic value of the dexamethasone suppression test in alcoholics. We 
+      investigated the value of the dexamethasone suppression test in alcoholics by 
+      analyzing the liver function, cortisol levels, and psychiatric status of 
+      inpatients from an alcohol detoxification treatment center. The subjects met the 
+      DSM III criteria for alcohol dependence but took no chronic medication and had 
+      negative screening for substance abuse. They had routine blood screening to 
+      evaluate liver function, the afternoon cortisol test and dexamethasone 
+      suppression test to study glucocorticoid activity, and a structured evaluation to 
+      determine psychiatric diagnoses. The blood chemistry findings demonstrated a lack 
+      of significant liver synthetic dysfunction in this group, although 43% of the 
+      subjects had some elevation of their liver enzymes. We did not find differences 
+      in the liver function between patients with normal and abnormal cortisol levels. 
+      However, subjects with endogenous depression did have significantly elevated 
+      afternoon cortisol levels, and they tended to have more normal liver tests. These 
+      results indicate that modest liver dysfunction does not contaminate the validity 
+      of the plasma cortisol tests or the dexamethasone suppression test as diagnostic 
+      tools for assessing depression in this group of detoxified alcoholics. In 
+      addition, they demonstrate an association between depression and plasma cortisol 
+      levels and suggest a correlation between depression and better liver function in 
+      alcoholics who seek detoxification.
+FAU - Zern, M A
+AU  - Zern MA
+FAU - Halbreich, U
+AU  - Halbreich U
+FAU - Bacon, K
+AU  - Bacon K
+FAU - Galanter, M
+AU  - Galanter M
+FAU - Kang, B J
+AU  - Kang BJ
+FAU - Gasparini, F
+AU  - Gasparini F
+LA  - eng
+GR  - AA-06386/AA/NIAAA NIH HHS/United States
+GR  - R01-3711/PHS HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - Alcohol Clin Exp Res
+JT  - Alcoholism, clinical and experimental research
+JID - 7707242
+RN  - 7S5I7G3JQL (Dexamethasone)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/blood/complications/*physiopathology
+MH  - Depressive Disorder/blood/*complications/physiopathology
+MH  - *Dexamethasone
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/*blood
+MH  - Liver/*physiopathology
+MH  - Male
+MH  - Middle Aged
+EDAT- 1986/06/01 00:00
+MHDA- 1986/06/01 00:01
+CRDT- 1986/06/01 00:00
+PHST- 1986/06/01 00:00 [pubmed]
+PHST- 1986/06/01 00:01 [medline]
+PHST- 1986/06/01 00:00 [entrez]
+AID - 10.1111/j.1530-0277.1986.tb05097.x [doi]
+PST - ppublish
+SO  - Alcohol Clin Exp Res. 1986 Jun;10(3):320-2. doi: 
+      10.1111/j.1530-0277.1986.tb05097.x.
+
+PMID- 19239152
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090330
+LR  - 20161109
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 643
+DP  - 2009
+TI  - Taurine transporter in lymphocytes of patients with major depression treated with 
+      venlafaxine plus psychotherapy.
+PG  - 217-24
+LID - 10.1007/978-0-387-75681-3_22 [doi]
+AB  - The taurine transporter and taurine are present in lymphocytes, where taurine 
+      functions as an antioxidant and an anti-inflammatory agent. Taurine levels are 
+      elevated in lymphocytes of subjects with major depression, but returns to control 
+      levels after treatment with the antidepressant mirtazapine. Patients (40) were 
+      diagnosed using the Diagnostic and Statistical Manual IV of the American 
+      Psychiatric Association, and the severity of their condition was determined by 
+      the Hamilton Scale of Depression. One group of patients was treated with 
+      venlafaxine and the other with venlafaxine plus Neuro-Linguistic Programming. 
+      Lymphocytes were isolated from the peripheral blood by Ficoll/Hypaque. The 
+      coexistence of the taurine transporter with a subpopulation of CD4+ and CD8+ 
+      lymphocytes was measured by immunofluorescence. The levels of the 
+      pro-inflammatory, IL-2, and the anti-inflammatory, IL-4, cytokines were 
+      determined by ELISA while plasma amino acid levels were determined by HPLC. The 
+      percentage of CD4+ cells significantly decreased after both treatments, whereas 
+      the levels of CD8+ cells remained unchanged. The taurine transporter of CD4+ and 
+      CD8+ cells decreased after integrate treatment. No differences were found in the 
+      levels of IL-2 while IL-4 levels increased after integrate treatment. The 
+      observed effects of treatment on the taurine transporter and IL-4 content might 
+      modify lymphocyte activity during depression.
+FAU - Fazzino, Fili
+AU  - Fazzino F
+AD  - Laboratorio de Neuroquímica, Centro de Biofísica y Bioquímica, Instituto 
+      Venezolano de Investigaciones Cientificas, Caracas, Venezuela. 
+      ffazzino2000@yahoo.com
+FAU - Obregón, Francisco
+AU  - Obregón F
+FAU - Morles, Margarita
+AU  - Morles M
+FAU - Rojas, Andrés
+AU  - Rojas A
+FAU - Arocha, Luis
+AU  - Arocha L
+FAU - Mata, Salvador
+AU  - Mata S
+FAU - Lima, Lucimey
+AU  - Lima L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (Antidepressive Agents, Second-Generation)
+RN  - 0 (Cyclohexanols)
+RN  - 0 (Interleukin-2)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 148686-53-7 (taurine transporter)
+RN  - 207137-56-2 (Interleukin-4)
+RN  - 7D7RX5A8MO (Venlafaxine Hydrochloride)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Antidepressive Agents, Second-Generation/*therapeutic use
+MH  - Chromatography, High Pressure Liquid
+MH  - Cyclohexanols/*therapeutic use
+MH  - Depressive Disorder, Major/blood/*drug therapy
+MH  - Humans
+MH  - Interleukin-2/blood
+MH  - Interleukin-4/blood
+MH  - Lymphocytes/*metabolism
+MH  - Membrane Glycoproteins/*blood
+MH  - Membrane Transport Proteins/*blood
+MH  - Middle Aged
+MH  - Venlafaxine Hydrochloride
+EDAT- 2009/02/26 09:00
+MHDA- 2009/03/31 09:00
+CRDT- 2009/02/26 09:00
+PHST- 2009/02/26 09:00 [entrez]
+PHST- 2009/02/26 09:00 [pubmed]
+PHST- 2009/03/31 09:00 [medline]
+AID - 10.1007/978-0-387-75681-3_22 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2009;643:217-24. doi: 10.1007/978-0-387-75681-3_22.
+
+PMID- 10609977
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000128
+LR  - 20220318
+IS  - 1064-1297 (Print)
+IS  - 1064-1297 (Linking)
+VI  - 7
+IP  - 4
+DP  - 1999 Nov
+TI  - EEG, physiology, and task-related mood fail to resolve across 31 days of smoking 
+      abstinence: relations to depressive traits, nicotine exposure, and dependence.
+PG  - 427-43
+AB  - Changes in task-related mood and physiology associated with 31 days of smoking 
+      abstinence were assessed in smokers, 34 of whom were randomly assigned to a quit 
+      group and 22 to a continuing-to-smoke control group. A large financial incentive 
+      for smoking abstinence resulted in very low participant attrition. Individuals 
+      were tested during prequit baselines and at 3, 10, 17, and 31 days of abstinence. 
+      Abstinence was associated with decreases in heart rate and serum cortisol, a 
+      slowing of electroencephalogram (EEG) activity, and task-dependent and 
+      trait-depression-dependent hemispheric EEG asymmetries. Differences between the 
+      quit group and the smoking group showed no tendency to resolve across the 31 days 
+      of abstinence. Trait depression and neuroticism correlated with increases in 
+      left-relative-to-right frontal EEG slow-wave (low alpha) activity at both 3 and 
+      31 days of abstinence. In contrast, prequit nicotine intake and Fagerström 
+      Tolerance scores correlated with alpha asymmetry and with greater EEG slowing 
+      only at Day 3. Thus, the effects of smoking abstinence appear to last for at 
+      least several months.
+FAU - Gilbert, D G
+AU  - Gilbert DG
+AD  - Department of Psychology, Southern Illinois University at Carbondale, 62901, USA. 
+      dgilbert@siu.edu
+FAU - McClernon, F J
+AU  - McClernon FJ
+FAU - Rabinovich, N E
+AU  - Rabinovich NE
+FAU - Dibb, W D
+AU  - Dibb WD
+FAU - Plath, L C
+AU  - Plath LC
+FAU - Hiyane, S
+AU  - Hiyane S
+FAU - Jensen, R A
+AU  - Jensen RA
+FAU - Meliska, C J
+AU  - Meliska CJ
+FAU - Estes, S L
+AU  - Estes SL
+FAU - Gehlbach, B A
+AU  - Gehlbach BA
+LA  - eng
+GR  - DA05361/DA/NIDA NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Exp Clin Psychopharmacol
+JT  - Experimental and clinical psychopharmacology
+JID - 9419066
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 0 (Nicotinic Agonists)
+RN  - 3G6A5W338E (Caffeine)
+RN  - 6M3C89ZY6R (Nicotine)
+RN  - K5161X06LL (Cotinine)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adult
+MH  - Affect/drug effects/*physiology
+MH  - Alpha Rhythm/drug effects
+MH  - Caffeine/pharmacology
+MH  - Central Nervous System Stimulants/pharmacology
+MH  - Cotinine/pharmacology
+MH  - Depressive Disorder/*psychology
+MH  - Electroencephalography/*drug effects
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Hydrocortisone/blood
+MH  - Male
+MH  - Nicotine/*pharmacology
+MH  - Nicotinic Agonists/*pharmacology
+MH  - Smoking Cessation/*psychology
+MH  - Substance-Related Disorders/*psychology
+MH  - Surveys and Questionnaires
+MH  - Theta Rhythm/drug effects
+EDAT- 1999/12/28 09:00
+MHDA- 2000/03/18 09:00
+CRDT- 1999/12/28 09:00
+PHST- 1999/12/28 09:00 [pubmed]
+PHST- 2000/03/18 09:00 [medline]
+PHST- 1999/12/28 09:00 [entrez]
+AID - 10.1037//1064-1297.7.4.427 [doi]
+PST - ppublish
+SO  - Exp Clin Psychopharmacol. 1999 Nov;7(4):427-43. doi: 10.1037//1064-1297.7.4.427.
+
+PMID- 17481608
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070817
+LR  - 20220408
+IS  - 0014-4886 (Print)
+IS  - 0014-4886 (Linking)
+VI  - 206
+IP  - 1
+DP  - 2007 Jul
+TI  - Antidepressants inhibit interferon-gamma-induced microglial production of IL-6 
+      and nitric oxide.
+PG  - 33-42
+AB  - Circumstantial evidence has suggested that activated microglia may be associated 
+      with the pathogenesis of depression. Pro-inflammatory cytokines may also be 
+      involved. Therefore, we examined the effects of various types of antidepressants, 
+      as well as the mood-stabilizer lithium chloride, on interferon-gamma 
+      (IFN-gamma)-induced microglial production of the pro-inflammatory mediators 
+      interleukin-6 (IL-6) and nitric oxide (NO). Treatment of the murine microglial 
+      6-3 cells with 100 U/ml of IFN-gamma resulted in an eightfold increase in IL-6 
+      and a tenfold increase in NO into the culture medium. Pretreatment with the 
+      selective serotonin reuptake inhibitor fluvoxamine, the relatively selective 
+      noradrenaline reuptake inhibitor reboxetine, or the non-selective monoaminergic 
+      reuptake inhibitor imipramine, significantly inhibited IL-6 and NO production in 
+      a dose-dependent manner. These inhibitions were reversed significantly by SQ 
+      22536, a cyclic adenosine monophosphate (cAMP) inhibitor, and, except for 
+      reboxetine, by the protein kinase A (PKA) inhibitor Rp-adenosine3',5'-cyclic 
+      monophosphorothioate triethylammonium salt (Rp-3',5'-cAMPS). Lithium chloride, 
+      which is believed to act by inhibiting the calcium-dependent release of 
+      noradrenaline, had a different spectrum of action on microglial 6-3 cells. It 
+      enhanced IFN-gamma-stimulated IL-6 production and inhibited NO production. The 
+      inhibitory effect of lithium chloride was not reversed by either SQ 22536 or 
+      Rp-3',5'-cAMPS. These results suggest that antidepressants have inhibitory 
+      effects on IFN-gamma-activated microglia and these effects are, at least 
+      partially, mediated by the cAMP-dependent PKA pathway. On the other hand, the 
+      mood stabilizer and anti-manic agent lithium chloride has mixed effects on 
+      IFN-gamma-induced microglial activation.
+FAU - Hashioka, Sadayuki
+AU  - Hashioka S
+AD  - Department of Neuropsychiatry, Graduate School of Medical Sciences, Kyushu 
+      University, Maidashi 3-1-1, Higashi-ku, Fukuoka, 812-8582 Japan. 
+      hashioka@interchange.ubc.ca
+FAU - Klegeris, Andis
+AU  - Klegeris A
+FAU - Monji, Akira
+AU  - Monji A
+FAU - Kato, Takahiro
+AU  - Kato T
+FAU - Sawada, Makoto
+AU  - Sawada M
+FAU - McGeer, Patrick L
+AU  - McGeer PL
+FAU - Kanba, Shigenobu
+AU  - Kanba S
+LA  - eng
+PT  - Journal Article
+DEP - 20070330
+PL  - United States
+TA  - Exp Neurol
+JT  - Experimental neurology
+JID - 0370712
+RN  - 0 (Antidepressive Agents)
+RN  - 0 (Antimanic Agents)
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Neurotransmitter Uptake Inhibitors)
+RN  - 31C4KY9ESH (Nitric Oxide)
+RN  - 82115-62-6 (Interferon-gamma)
+RN  - E0399OZS9N (Cyclic AMP)
+RN  - EC 2.7.11.11 (Cyclic AMP-Dependent Protein Kinase Type II)
+RN  - EC 2.7.11.11 (Cyclic AMP-Dependent Protein Kinases)
+RN  - G4962QA067 (Lithium Chloride)
+SB  - IM
+MH  - Animals
+MH  - Antidepressive Agents/*pharmacology
+MH  - Antimanic Agents/pharmacology
+MH  - Antiviral Agents/pharmacology
+MH  - Brain/drug effects/*immunology/physiopathology
+MH  - Cell Line
+MH  - Cyclic AMP/antagonists & inhibitors/metabolism
+MH  - Cyclic AMP-Dependent Protein Kinase Type II
+MH  - Cyclic AMP-Dependent Protein Kinases/antagonists & inhibitors/metabolism
+MH  - Depressive Disorder/drug therapy/*immunology/physiopathology
+MH  - Dose-Response Relationship, Drug
+MH  - Enzyme Inhibitors/pharmacology
+MH  - Interferon-gamma/pharmacology
+MH  - Interleukin-6/*immunology/metabolism
+MH  - Lithium Chloride/pharmacology
+MH  - MAP Kinase Signaling System/drug effects/physiology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Microglia/drug effects/*immunology/metabolism
+MH  - Neurotransmitter Uptake Inhibitors/pharmacology
+MH  - Nitric Oxide/*immunology/metabolism
+MH  - Up-Regulation/drug effects/immunology
+EDAT- 2007/05/08 09:00
+MHDA- 2007/08/19 09:00
+CRDT- 2007/05/08 09:00
+PHST- 2007/02/09 00:00 [received]
+PHST- 2007/03/17 00:00 [revised]
+PHST- 2007/03/23 00:00 [accepted]
+PHST- 2007/05/08 09:00 [pubmed]
+PHST- 2007/08/19 09:00 [medline]
+PHST- 2007/05/08 09:00 [entrez]
+AID - S0014-4886(07)00131-8 [pii]
+AID - 10.1016/j.expneurol.2007.03.022 [doi]
+PST - ppublish
+SO  - Exp Neurol. 2007 Jul;206(1):33-42. doi: 10.1016/j.expneurol.2007.03.022. Epub 
+      2007 Mar 30.
+
+PMID- 17466262
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080409
+LR  - 20220409
+IS  - 0005-7916 (Print)
+IS  - 1873-7943 (Electronic)
+IS  - 0005-7916 (Linking)
+VI  - 39
+IP  - 1
+DP  - 2008 Mar
+TI  - Sex differences in emotional and physiological responses to the Trier Social 
+      Stress Test.
+PG  - 87-98
+AB  - Women are more likely than men to be diagnosed with depression and 
+      anxiety-related disorders, and it has been hypothesized that this difference is 
+      related to sex differences in stress reactivity. Women typically report higher 
+      levels of negative affect than men in response to psychosocial stressors, but the 
+      evidence for sex differences in physiological reactivity to stressful situations 
+      is not consistent. The present study sought to expand this work by evaluating sex 
+      differences in reactivity to a social stress challenge across neuroendocrine, 
+      autonomic and affective response domains. Participants (32 women, 30 men) 
+      completed a standardized psychosocial stress challenge (i.e., the Trier Social 
+      Stress Test (TSST)), during which several physiological (e.g., cortisol 
+      reactivity, heart rate) and psychological (e.g., depression, irritability, anger, 
+      fear) measures were assessed. The findings demonstrated that cortisol reactivity 
+      and the magnitude of autonomic responding failed to reliably discriminate between 
+      women and men. However, women reported more fear, irritability, confusion and 
+      less happiness immediately following the TSST compared to men. The broader 
+      implications of these results and how they relate to sex differences in the 
+      etiology and clinical presentation of anxiety and mood disorders are discussed.
+FAU - Kelly, Megan M
+AU  - Kelly MM
+AD  - Mood Disorders Research Program, Department of Psychiatry and Human Behavior, 
+      Butler Hospital, Brown Medical School, 345 Blackstone Blvd, Providence, RI 02906, 
+      USA. Megan.Kelly@va.gov
+FAU - Tyrka, Audrey R
+AU  - Tyrka AR
+FAU - Anderson, George M
+AU  - Anderson GM
+FAU - Price, Lawrence H
+AU  - Price LH
+FAU - Carpenter, Linda L
+AU  - Carpenter LL
+LA  - eng
+GR  - R01 MH068767/MH/NIMH NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070312
+PL  - Netherlands
+TA  - J Behav Ther Exp Psychiatry
+JT  - Journal of behavior therapy and experimental psychiatry
+JID - 0245075
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adaptation, Psychological
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anger/physiology
+MH  - Anxiety Disorders/diagnosis
+MH  - Depressive Disorder/diagnosis
+MH  - Emotions/*physiology
+MH  - Fear/physiology
+MH  - Female
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - Hydrocortisone/*blood
+MH  - Hypothalamo-Hypophyseal System/physiology
+MH  - *Life Change Events
+MH  - Male
+MH  - Middle Aged
+MH  - Personality Inventory
+MH  - Pituitary-Adrenal System/physiology
+MH  - Sex Factors
+MH  - Stress, Psychological/blood/*diagnosis/psychology
+MH  - Surveys and Questionnaires
+PMC - PMC4467692
+MID - NIHMS698631
+EDAT- 2007/05/01 09:00
+MHDA- 2008/04/10 09:00
+PMCR- 2015/06/15
+CRDT- 2007/05/01 09:00
+PHST- 2006/01/20 00:00 [received]
+PHST- 2007/01/08 00:00 [revised]
+PHST- 2007/02/22 00:00 [accepted]
+PHST- 2007/05/01 09:00 [pubmed]
+PHST- 2008/04/10 09:00 [medline]
+PHST- 2007/05/01 09:00 [entrez]
+PHST- 2015/06/15 00:00 [pmc-release]
+AID - S0005-7916(07)00007-9 [pii]
+AID - 10.1016/j.jbtep.2007.02.003 [doi]
+PST - ppublish
+SO  - J Behav Ther Exp Psychiatry. 2008 Mar;39(1):87-98. doi: 
+      10.1016/j.jbtep.2007.02.003. Epub 2007 Mar 12.
+
+PMID- 1779026
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19920309
+LR  - 20151119
+IS  - 1380-3395 (Print)
+IS  - 1380-3395 (Linking)
+VI  - 13
+IP  - 6
+DP  - 1991 Nov
+TI  - Asymmetry of recall in depression.
+PG  - 854-70
+AB  - We compared the verbal (auditory/semantic) and nonverbal (visual/configurational) 
+      recall of carefully defined depressed patients with a demographically matched 
+      control group of normal volunteers. Whereas controls were split as to whether 
+      their nonverbal recall exceeded or was inferior to their verbal recall, 89% of 
+      depressed patients demonstrated an asymmetry characterized by poorer nonverbal 
+      than verbal recall. Depressive subgroups (determined by clinical and 
+      psychoendocrine criteria) differed from controls, but not from each other, in 
+      demonstrating this asymmetry of recall. In contrast, depressed patients did not 
+      individually demonstrate an asymmetry between verbal and nonverbal recognition 
+      that differed from controls.
+FAU - Deptula, D
+AU  - Deptula D
+AD  - Department of Geriatric Psychiatry, Nathan S. Kline Institute for Psychiatric 
+      Research, Orangeburg, NY.
+FAU - Manevitz, A
+AU  - Manevitz A
+FAU - Yozawitz, A
+AU  - Yozawitz A
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Clin Exp Neuropsychol
+JT  - Journal of clinical and experimental neuropsychology
+JID - 8502170
+RN  - 7S5I7G3JQL (Dexamethasone)
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aging/physiology
+MH  - Bipolar Disorder/psychology
+MH  - Cognition/physiology
+MH  - Depressive Disorder/*psychology
+MH  - Dexamethasone
+MH  - Female
+MH  - Humans
+MH  - Intelligence
+MH  - Male
+MH  - Mental Recall/*physiology
+MH  - Middle Aged
+MH  - Psychiatric Status Rating Scales
+MH  - Sex Characteristics
+MH  - Verbal Learning/physiology
+EDAT- 1991/11/01 00:00
+MHDA- 2000/03/29 00:00
+CRDT- 1991/11/01 00:00
+PHST- 1991/11/01 00:00 [pubmed]
+PHST- 2000/03/29 00:00 [medline]
+PHST- 1991/11/01 00:00 [entrez]
+AID - 10.1080/01688639108405103 [doi]
+PST - ppublish
+SO  - J Clin Exp Neuropsychol. 1991 Nov;13(6):854-70. doi: 10.1080/01688639108405103.
+
+PMID- 12606697
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030530
+LR  - 20131121
+IS  - 0022-3565 (Print)
+IS  - 0022-3565 (Linking)
+VI  - 305
+IP  - 2
+DP  - 2003 May
+TI  - The effects of chronic treatment with the mood stabilizers valproic acid and 
+      lithium on corticotropin-releasing factor neuronal systems.
+PG  - 434-9
+AB  - Corticotropin-releasing factor (CRF) plays a preeminent role in coordinating the 
+      endocrine, autonomic, and behavioral responses to stress. Dysregulation of both 
+      hypothalamic and extrahypothalamic CRF systems have been reported in patients 
+      with major depression and post-traumatic stress disorder. Moreover, effective 
+      treatment of these conditions leads to normalization of these CRF systems. 
+      Although there is virtually no data concerning alterations of CRF systems in 
+      bipolar disorder (manic depressive illness), previous work indicates that 
+      valproic acid, an anticonvulsant also effective in the treatment of acute mania, 
+      alters central CRF neuronal systems. In the current studies, we chronically 
+      administered valproic acid and lithium, two clinically effective mood 
+      stabilizers, in nonstressed rats to extend our previous findings. Chronic 
+      valproic acid administration decreased CRF mRNA expression in the paraventricular 
+      nucleus of the hypothalamus; lithium administration increased CRF mRNA expression 
+      in the central nucleus of the amygdala. Although valproic acid increased CRF(1) 
+      receptor mRNA expression in the cortex, CRF(1) receptor binding was decreased in 
+      both the basolateral amygdala and cortex, suggesting that chronic valproate 
+      treatment may in fact dampen the overall tone in this central stress pathway. 
+      Valproate treatment decreased CRF(2A) mRNA expression in both the lateral septum 
+      and hypothalamus, although CRF(2A) receptor binding was unchanged. Lithium 
+      administration decreased CRF(1) mRNA expression in both the amygdala and frontal 
+      cortex, but CRF(1) receptor binding also remained unchanged. These results 
+      suggest that the therapeutic actions of these mood stabilizers may, in part, 
+      result from their actions on central CRF neuronal systems. The distinct actions 
+      of each drug on CRF systems may underlie their synergistic clinical effects.
+FAU - Gilmor, Michelle L
+AU  - Gilmor ML
+AD  - Department of Psychiatry and Behavioral Sciences, Emory University School of 
+      Medicine, 1639 Pierce Dr., WMB Suite 4000, Atlanta, GA 30322, USA.
+FAU - Skelton, Kelly H
+AU  - Skelton KH
+FAU - Nemeroff, Charles B
+AU  - Nemeroff CB
+FAU - Owens, Michael J
+AU  - Owens MJ
+LA  - eng
+GR  - MH 42088/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20030124
+PL  - United States
+TA  - J Pharmacol Exp Ther
+JT  - The Journal of pharmacology and experimental therapeutics
+JID - 0376362
+RN  - 0 (Antimanic Agents)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Urocortins)
+RN  - 2BMD2GNA4V (Lithium Carbonate)
+RN  - 614OI1Z5WI (Valproic Acid)
+RN  - 9002-60-2 (Adrenocorticotropic Hormone)
+RN  - 9015-71-8 (Corticotropin-Releasing Hormone)
+RN  - W980KJ009P (Corticosterone)
+SB  - IM
+MH  - Adrenocorticotropic Hormone/metabolism
+MH  - Animals
+MH  - Antimanic Agents/*pharmacology
+MH  - Autoradiography
+MH  - Corticosterone/metabolism
+MH  - Corticotropin-Releasing Hormone/biosynthesis/metabolism/*physiology
+MH  - Hypothalamo-Hypophyseal System/drug effects
+MH  - Image Processing, Computer-Assisted
+MH  - In Situ Hybridization
+MH  - Lithium Carbonate/*pharmacology
+MH  - Male
+MH  - Neurons/*drug effects
+MH  - RNA, Messenger/biosynthesis
+MH  - Radioimmunoassay
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Urocortins
+MH  - Valproic Acid/*pharmacology
+MH  - Weight Gain/drug effects
+EDAT- 2003/02/28 04:00
+MHDA- 2003/05/31 05:00
+CRDT- 2003/02/28 04:00
+PHST- 2003/02/28 04:00 [pubmed]
+PHST- 2003/05/31 05:00 [medline]
+PHST- 2003/02/28 04:00 [entrez]
+AID - jpet.102.045419 [pii]
+AID - 10.1124/jpet.102.045419 [doi]
+PST - ppublish
+SO  - J Pharmacol Exp Ther. 2003 May;305(2):434-9. doi: 10.1124/jpet.102.045419. Epub 
+      2003 Jan 24.
+
+PMID- 2690668
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19900202
+LR  - 20190824
+IS  - 0145-6008 (Print)
+IS  - 0145-6008 (Linking)
+VI  - 13
+IP  - 6
+DP  - 1989 Dec
+TI  - Low basal levels of cortisol distinguish detoxified alcoholics with major 
+      depressive disorder from non-MDDs.
+PG  - 834-6
+AB  - Basal plasma levels of cortisol and its suppression by dexamethasone were 
+      measured in 60 inpatient alcoholics 12-13 days after detoxification. Both 
+      hypothalamic-pituitary adrenal system parameters were essentially within normal 
+      limits in most patients--those who did not meet criteria for major depressive 
+      disorder (n = 43) as well as those who met criteria for MDD per their episode 
+      (n-17). Basal levels of cortisol below 7 micrograms/dl distinguished alcoholics 
+      without MDD from those who met criteria for MDD per current episodes.
+FAU - Halbreich, U
+AU  - Halbreich U
+AD  - Department of Psychiatry, State University of New York, Buffalo 14215.
+FAU - Castaneda, R
+AU  - Castaneda R
+FAU - Galanter, M
+AU  - Galanter M
+LA  - eng
+GR  - R01-37111/PHS HHS/United States
+GR  - R01-41423/PHS HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - Alcohol Clin Exp Res
+JT  - Alcoholism, clinical and experimental research
+JID - 7707242
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/*blood/psychology/therapy
+MH  - Depressive Disorder/blood/complications/*diagnosis
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/*blood
+MH  - Male
+MH  - Middle Aged
+EDAT- 1989/12/01 00:00
+MHDA- 1989/12/01 00:01
+CRDT- 1989/12/01 00:00
+PHST- 1989/12/01 00:00 [pubmed]
+PHST- 1989/12/01 00:01 [medline]
+PHST- 1989/12/01 00:00 [entrez]
+AID - 10.1111/j.1530-0277.1989.tb00432.x [doi]
+PST - ppublish
+SO  - Alcohol Clin Exp Res. 1989 Dec;13(6):834-6. doi: 
+      10.1111/j.1530-0277.1989.tb00432.x.
+
+PMID- 6119738
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19820326
+LR  - 20131121
+IS  - 0079-6255 (Print)
+IS  - 0079-6255 (Linking)
+VI  - 10
+DP  - 1981
+TI  - The psychobiology of depressive disorders: from pathophysiology to 
+      predisposition.
+PG  - 1-114
+FAU - Depue, R A
+AU  - Depue RA
+FAU - Evans, R
+AU  - Evans R
+LA  - eng
+GR  - MH-33083/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PL  - United States
+TA  - Prog Exp Pers Res
+JT  - Progress in experimental personality research
+JID - 0023623
+RN  - 0 (Electrolytes)
+RN  - 0 (Hormones)
+RN  - 0 (Neurotransmitter Agents)
+RN  - 9002-67-9 (Luteinizing Hormone)
+RN  - 9002-68-0 (Follicle Stimulating Hormone)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Bipolar Disorder/genetics/physiopathology/*psychology
+MH  - Brain/enzymology
+MH  - Child
+MH  - Depressive Disorder/genetics/physiopathology/*psychology
+MH  - Electrolytes/metabolism
+MH  - Female
+MH  - Follicle Stimulating Hormone/blood
+MH  - Hormones/*blood
+MH  - Humans
+MH  - Hydrocortisone/blood
+MH  - Luteinizing Hormone/blood
+MH  - Male
+MH  - Neurotransmitter Agents/*metabolism
+MH  - Psychological Tests
+MH  - Risk
+RF  - 436
+EDAT- 1981/01/01 00:00
+MHDA- 1981/01/01 00:01
+CRDT- 1981/01/01 00:00
+PHST- 1981/01/01 00:00 [pubmed]
+PHST- 1981/01/01 00:01 [medline]
+PHST- 1981/01/01 00:00 [entrez]
+PST - ppublish
+SO  - Prog Exp Pers Res. 1981;10:1-114.
+
+PMID- 11764064
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020416
+LR  - 20191025
+IS  - 0005-7916 (Print)
+IS  - 0005-7916 (Linking)
+VI  - 32
+IP  - 2
+DP  - 2001 Jun
+TI  - Cognitive and biochemical processes in depressed adult outpatients: a test of the 
+      circular process model.
+PG  - 91-104
+AB  - The circular process model is a psychobiological model of depression, in which it 
+      is postulated that catecholamines and negative cognitions interact to influence 
+      depression. Since its publication, there have been no empirical tests to support 
+      or refute the model. This study tested the model in 92 depressed adult 
+      outpatients with non-bipolar non-psychotic depression. There were no significant 
+      bivariate correlations among the biochemical and cognitive measures. However, the 
+      interactive model was supported by results of two out of three hierarchical 
+      regression analyses, in which the biochemical-by-cognitive interactive terms 
+      significantly predicted depression after the main effects of each variable were 
+      accounted for. These findings show sufficient evidence in support of the Circular 
+      Process Model to warrant further testing over the treatment period.
+FAU - Oei, T P
+AU  - Oei TP
+AD  - School of Psychology, University of Queensland, Brisbane, Australia. 
+      oei@psy.uq.edu.au
+FAU - Dingle, G
+AU  - Dingle G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - J Behav Ther Exp Psychiatry
+JT  - Journal of behavior therapy and experimental psychiatry
+JID - 0245075
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Catecholamines)
+RN  - 7S5I7G3JQL (Dexamethasone)
+RN  - EC 1.4.3.4 (Monoamine Oxidase)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Anti-Inflammatory Agents
+MH  - Catecholamines/urine
+MH  - Cognition Disorders/*diagnosis/*etiology
+MH  - Depressive Disorder, Major/*metabolism/*psychology
+MH  - Dexamethasone
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/blood/cerebrospinal fluid/urine
+MH  - Male
+MH  - Middle Aged
+MH  - Monoamine Oxidase/blood/cerebrospinal fluid/urine
+MH  - Neuropsychological Tests
+MH  - Severity of Illness Index
+EDAT- 2002/01/05 10:00
+MHDA- 2002/04/17 10:01
+CRDT- 2002/01/05 10:00
+PHST- 2002/01/05 10:00 [pubmed]
+PHST- 2002/04/17 10:01 [medline]
+PHST- 2002/01/05 10:00 [entrez]
+AID - S0005-7916(01)00024-6 [pii]
+AID - 10.1016/s0005-7916(01)00024-6 [doi]
+PST - ppublish
+SO  - J Behav Ther Exp Psychiatry. 2001 Jun;32(2):91-104. doi: 
+      10.1016/s0005-7916(01)00024-6.
+
+PMID- 3515993
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19860515
+LR  - 20190824
+IS  - 0145-6008 (Print)
+IS  - 0145-6008 (Linking)
+VI  - 10
+IP  - 1
+DP  - 1986 Jan-Feb
+TI  - Dexamethasone suppression test testing of depressed alcoholics.
+PG  - 59-60
+AB  - In order to determine the sensitivity of the dexamethasone suppression test (DST) 
+      for major depression in alcoholics, we administered this test to 27 alcoholics 
+      with major depression. Sixteen of 27 had abnormal DST results, yielding a 59% 
+      sensitivity for depression in alcoholics. When combined with previously reported 
+      specificity findings of 100%, the DST significantly (p less than 0.001) 
+      distinguished depressed from nondepressed alcoholics.
+FAU - Dackis, C A
+AU  - Dackis CA
+FAU - Stuckey, R F
+AU  - Stuckey RF
+FAU - Gold, M S
+AU  - Gold MS
+FAU - Pottash, A L
+AU  - Pottash AL
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Alcohol Clin Exp Res
+JT  - Alcoholism, clinical and experimental research
+JID - 7707242
+RN  - 7S5I7G3JQL (Dexamethasone)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Alcoholism/*complications
+MH  - Depressive Disorder/*complications/diagnosis
+MH  - *Dexamethasone
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/*blood
+MH  - Male
+MH  - Middle Aged
+EDAT- 1986/01/01 00:00
+MHDA- 1986/01/01 00:01
+CRDT- 1986/01/01 00:00
+PHST- 1986/01/01 00:00 [pubmed]
+PHST- 1986/01/01 00:01 [medline]
+PHST- 1986/01/01 00:00 [entrez]
+AID - 10.1111/j.1530-0277.1986.tb05615.x [doi]
+PST - ppublish
+SO  - Alcohol Clin Exp Res. 1986 Jan-Feb;10(1):59-60. doi: 
+      10.1111/j.1530-0277.1986.tb05615.x.

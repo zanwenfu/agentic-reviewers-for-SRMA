@@ -1,0 +1,343 @@
+total number of articles searched: 408.
+objectives: ['to compare the efficacy of conventional systemic agents for chronic plaque psoriasis.', 'to compare the efficacy of small molecules for chronic plaque psoriasis.', 'to compare the efficacy of anti-tnf alpha treatments for chronic plaque psoriasis.', 'to compare the efficacy of anti-il12/23 treatments for chronic plaque psoriasis.', 'to compare the efficacy of anti-il17 treatments for chronic plaque psoriasis.', 'to compare the efficacy of anti-il23 treatments for chronic plaque psoriasis.', 'to compare the efficacy of other biologics for chronic plaque psoriasis.', 'to evaluate the safety of systemic agents for chronic plaque psoriasis.', 'to provide a ranking of these treatments according to their efficacy and safety.'].
+scalp psoriasis: report of efficient treatment with secukinumab.
+certolizumab pegol for the treatment of moderate to severe plaque psoriasis: 16-week results from a phase 2/3 japanese study.
+systematic review and meta-analysis of inflammatory bowel disease adverse events with anti-interleukin 17a agents and tumor necrosis factor inhibitors in rheumatic disease and skin psoriasis.
+safety and efficacy of risankizumab and infliximab in the treatment of plaque psoriasis: results from a direct and indirect meta-analysis.
+efficacy and safety of netakimab, a novel anti-il-17 monoclonal antibody, in patients with moderate to severe plaque psoriasis. results of a 54-week randomized double-blind placebo-controlled planeta clinical trial.
+assessing the quality and coherence of network meta-analyses of biologics in plaque psoriasis: what does all this evidence synthesis tell us?.
+comparing the efficacy and safety of il-17 inhibitors for treatment of moderate-to-severe psoriasis: a randomized double blind pilot study with a review of literature.
+comparison of efficacy of anti-interleukin-17 in the treatment of psoriasis between caucasians and asians: a systematic review and meta-analysis.
+association of gender, diagnosis, and obesity with retention rate of secukinumab in spondyloarthropathies: results form a multicenter real-world study.
+short-term efficacy of biologic therapies in moderate-to-severe plaque psoriasis: a systematic literature review and an enhanced multinomial network meta-analysis.
+secukinumab efficacy on psoriatic arthritis grappa-omeract core domains in patients with or without prior tumor necrosis factor inhibitor use: pooled analysis of four phase 3 studies.
+correlation between change in psoriasis area and severity index and dermatology life quality index in patients with psoriasis: pooled analysis from four phase 3 clinical trials of secukinumab.
+psoriasis severity assessment combining physician and patient reported outcomes: the optimal psoriasis assessment tool.
+deterioration of health-related quality of life after withdrawal of risankizumab treatment in patients with moderate-to-severe plaque psoriasis: a machine learning predictive model.
+efficacy and safety of certolizumab pegol in japanese patients with moderate to severe plaque psoriasis: 52-week results.
+comparative efficacy and relative ranking of biologics and oral therapies for moderate-to-severe plaque psoriasis: a network meta-analysis.
+phosphodiesterase-4 inhibition in psoriasis.
+long-term safety and efficacy of risankizumab in patients with moderate-to-severe chronic plaque psoriasis: results from a phase 2 open-label extension trial.
+expectation-induced enhancement of pain, itch and quality of life in psoriasis patients: study protocol of a randomised controlled trial.
+psoriatic patients treated with secukinumab reach high levels of minimal disease activity: results from the supreme study.
+secukinumab: a review in moderate to severe pediatric plaque psoriasis.
+efficacy, safety and immunogenicity of avt02 versus originator adalimumab in subjects with moderate to severe chronic plaque psoriasis: a multicentre, double-blind, randomised, parallel group, active control, phase iii study.
+dose reduction of the new generation biologics (il-17 and il-23 inhibitors) in psoriasis: study protocol for an international, pragmatic, multicenter, randomized, controlled, non-inferiority study-the benebio study.
+effect of costimulatory blockade with abatacept after ustekinumab withdrawal in patients with moderate to severe plaque psoriasis: the pause randomized clinical trial.
+biological therapy interruption and re-treatment in chronic plaque psoriasis.
+risk of herpes zoster associated with biological therapies for psoriasis and psoriatic arthritis: a systematic review and meta-analysis.
+biologic treatment in combination with lifestyle intervention in moderate to severe plaque psoriasis and concomitant metabolic syndrome: rationale and methodology of the metabolyx randomized controlled clinical trial.
+serious gastrointestinal-related adverse events among psoriasis patients treated with guselkumab in voyage 1 and voyage 2.
+cardiovascular safety of biologics targeting interleukin (il)-12 and/or il-23: what does the evidence say?.
+effect of baseline disease severity on achievement of treatment target with apremilast: results from a pooled analysis.
+three-year efficacy and safety of certolizumab pegol for the treatment of plaque psoriasis: results from the randomized phase 3 cimpact trial.
+long-term efficacy and safety of risankizumab for the treatment of moderate-to-severe plaque psoriasis: interim analysis of the limmitless open-label extension trial beyond 3 years of follow-up.
+five-year maintenance of clinical response and health-related quality of life improvements in patients with moderate-to-severe psoriasis treated with guselkumab: results from voyage 1 and voyage 2.
+skin and soft tissue infections in biological therapy for psoriasis-a case report and systematic review of the literature.
+complete clearance and psoriasis area and severity index response for brodalumab and ustekinumab by previous treatment history in amagine-2 and amagine-3.
+effect of therapeutic drug monitoring vs standard therapy during infliximab induction on disease remission in patients with chronic immune-mediated inflammatory diseases: a randomized clinical trial.
+efficacy of secukinumab and adalimumab in patients with psoriatic arthritis and concomitant moderate-to-severe plaque psoriasis: results from exceed, a randomized, double-blind head-to-head monotherapy study.
+il17a/f nanobody sonelokimab in patients with plaque psoriasis: a multicentre, randomised, placebo-controlled, phase 2b study.
+bimekizumab versus secukinumab in plaque psoriasis.
+bimekizumab versus adalimumab in plaque psoriasis.
+first-in-human study demonstrating the safety and clinical efficacy of novel anti-il-17a monoclonal antibody cjm112 in moderate to severe plaque psoriasis.
+network meta-analysis of biologic treatments for psoriasis using absolute psoriasis area and severity index values <=1, 2, 3 or 5 derived from a statistical conversion method.
+azathioprine weekly pulse versus methotrexate for the treatment of chronic plaque psoriasis: a randomized controlled trial.
+systemic pharmacological treatments for chronic plaque psoriasis: a network meta-analysis.
+relative efficacy and safety of secukinumab and guselkumab for the treatment of active psoriatic arthritis: a network meta-analysis.
+effect of ixekizumab on patient reported outcomes and quality of life in patients with moderate-to-severe plaque psoriasis: 5-year results from the uncover-1 and -2 studies.
+comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis.
+the risk of malignancy in patients with secukinumab-treated psoriasis, psoriatic arthritis and ankylosing spondylitis: analysis of clinical trial and postmarketing surveillance data with up to five years of follow-up.
+safety and efficacy of methotrexate (0.3 mg/kg/week) versus a combination of methotrexate (0.15 mg/kg/week) with cyclosporine (2.5 mg/kg/day) in chronic plaque psoriasis: a randomised non-blinded controlled trial.
+comparison of the efficacy and safety of apremilast and methotrexate in patients with palmoplantar psoriasis: a randomized controlled trial.
+effect of adalimumab interventions on general infection among adults: a systematic review and meta-analysis of randomized controlled trials.
+are biologics combined with methotrexate better than biologics monotherapy in psoriasis and psoriatic arthritis: a meta-analysis of randomized controlled trials.
+guselkumab: an anti-il-23 antibody for the treatment of moderate-to-severe plaque psoriasis.
+comparative safety and benefit-risk profile of biologics and oral treatment for moderate-to-severe plaque psoriasis: a network meta-analysis of clinical trial data.
+efficacy and safety of tildrakizumab in japanese patients with moderate to severe plaque psoriasis: results from a 64-week phase 3 study (resurface 1).
+bimekizumab versus ustekinumab for the treatment of moderate to severe plaque psoriasis (be vivid): efficacy and safety from a 52-week, multicentre, double-blind, active comparator and placebo controlled phase 3 trial.
+bimekizumab efficacy and safety in moderate to severe plaque psoriasis (be ready): a multicentre, double-blind, placebo-controlled, randomised withdrawal phase 3 trial.
+five-year efficacy and safety of tildrakizumab in patients with moderate-to-severe psoriasis who respond at week 28: pooled analyses of two randomized phase iii clinical trials (resurface 1 and resurface 2).
+long-term efficacy and safety of tildrakizumab in japanese patients with moderate to severe plaque psoriasis: results from a 5-year extension of a phase 3 study (resurface 1).
+patient-reported outcomes with risankizumab versus fumaric acid esters in systemic therapy-naive patients with moderate to severe plaque psoriasis: a phase 3 clinical trial.
+comparative efficacy and safety of biologics in moderate to severe plaque psoriasis: a multiple-treatments meta-analysis.
+efficacy and safety of brodalumab in the korean population for the treatment of moderate to severe plaque psoriasis: a randomized, phase iii, double-blind, placebo-controlled study.
+methotrexate use for patients with psoriasis and risk of cutaneous squamous cell carcinoma: a nested case-control study.
+similar efficacy, safety, and immunogenicity of the biosimilar bi 695501 and adalimumab reference product in patients with moderate-to-severe chronic plaque psoriasis: results from the randomized phase iii voltaire-pso study.
+safety and efficacy profile of oral cyclosporine vs oral methotrexate vs oral acitretin in palmoplantar psoriasis: a hospital based prospective investigator blind randomized controlled comparative study.
+randomized trial replication using observational data for comparative effectiveness of secukinumab and ustekinumab in psoriasis: a study from the british association of dermatologists biologics and immunomodulators register.
+long-term efficacy and safety of ixekizumab: a 5-year analysis of the uncover-3 randomized controlled trial.
+relative efficacy and safety of tofacitinib for treating psoriasis: a bayesian network meta-analysis of randomized controlled trials.
+efficacy and safety of risankizumab in moderate to severe psoriasis: a systematic review and meta-analysis.
+a randomized controlled ixekizumab vs secukinumab trial to study the impact on sexual activity in adult patients with genital psoriasis.
+depletion of lag-3+ t cells translated to pharmacology and improvement in psoriasis disease activity: a phase i randomized study of mab gsk2831781.
+twelve-week secukinumab treatment is consistently efficacious for moderate-to-severe psoriasis regardless of prior biologic and non-biologic systemic treatment: post hoc analysis of six randomised trials.
+time to relapse after tildrakizumab withdrawal in patients with moderate-to-severe psoriasis who were responders at week 28: post hoc analysis through 64 weeks from resurface 1 trial.
+tildrakizumab efficacy, drug survival, and safety are comparable in patients with psoriasis with and without metabolic syndrome: long-term results from 2 phase 3 randomized controlled studies (resurface 1 and resurface 2).
+a phase 4, randomized, head-to-head trial comparing the efficacy of subcutaneous injections of brodalumab to oral administrations of fumaric acid esters in adults with moderate-to-severe plaque psoriasis (change).
+pharmacodynamic analysis of apremilast in japanese patients with moderate to severe psoriasis: results from a phase 2b randomized trial.
+a head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 24-week efficacy and safety results from a randomized, double-blinded trial.
+long-term efficacy of certolizumab pegol for the treatment of plaque psoriasis: 3-year results from two randomized phase iii trials (cimpasi-1 and cimpasi-2).
+secukinumab 2-weekly vs. 4-weekly dosing in patients with plaque-type psoriasis: results from the randomized gain study.
+efficacy and safety of risankizumab vs. secukinumab in patients with moderate-to-severe plaque psoriasis (immerge): results from a phase iii, randomized, open-label, efficacy-assessor-blinded clinical trial.
+long-term safety of certolizumab pegol in plaque psoriasis: pooled analysis over 3 years from three phase iii, randomized, placebo-controlled studies.
+meta-analysis results do not reflect the real safety of biologics in psoriasis.
+disparate effects of adalimumab and fumaric acid esters on cardiovascular risk factors in psoriasis patients: results from a prospective, randomized, observer-blinded head-to-head trial.
+secukinumab maintains superiority over ustekinumab in clearing skin and improving quality of life in patients with moderate to severe plaque psoriasis: 52-week results from a double-blind phase 3b trial (clarity).
+secukinumab efficacy in psoriatic arthritis: machine learning and meta-analysis of four phase 3 trials.
+consistent response to guselkumab treatment between hispanic and non-hispanic patients with psoriasis: an analysis from voyage 1 and voyage 2.
+achievement of the national psoriasis foundation treatment targets with ixekizumab: pooled analyses from 4 clinical studies.
+guselkumab efficacy after withdrawal is associated with suppression of serum il-23-regulated il-17 and il-22 in psoriasis: voyage 2 study.
+short-term effect and safety of a new generation of monoclonal antibodies targeting interleukin-23p19 for treatment of psoriasis: a systematic review and meta-analysis.
+secukinumab demonstrates superior efficacy and a faster response in clearing skin in asian subjects with moderate to severe plaque psoriasis compared with ustekinumab: subgroup analysis from the clear study.
+risankizumab compared with adalimumab in patients with moderate-to-severe plaque psoriasis (immvent): a randomised, double-blind, active-comparator-controlled phase 3 trial.
+absolute and relative psoriasis area and severity indices (pasi) for comparison of the efficacy of ixekizumab to etanercept and placebo in patients with moderate-to-severe plaque psoriasis: an integrated analysis of uncover-2 and uncover-3 outcomes.
+efficacy and safety of risankizumab in japanese patients with moderate to severe plaque psoriasis: results from the sustaimm phase 2/3 trial.
+cost per response for guselkumab versus adalimumab in the united states using data from a head-to-head trial in moderate-to-severe plaque psoriasis.
+patient-reported outcomes of adalimumab, phototherapy, and placebo in the vascular inflammation in psoriasis trial: a randomized controlled study.
+efficacy and safety of etanercept combined plus methotrexate and comparison of expression of pro-inflammatory factors expression for the treatment of moderate-to-severe plaque psoriasis.
+il-17a inhibition by secukinumab induces early clinical, histopathologic, and molecular resolution of psoriasis.
+safety of selective il-23p19 inhibitors for the treatment of psoriasis.
+long-term safety of secukinumab in patients with moderate-to-severe plaque psoriasis, psoriatic arthritis, and ankylosing spondylitis: integrated pooled clinical trial and post-marketing surveillance data.
+a safety review of recent advancements in the treatment of psoriasis: analysis of clinical trial safety data.
+effect of biological treatment on fatigue in psoriasis: a systematic review and meta-analysis.
+a randomized, double-blind, placebo-controlled phase 1 study of multiple ascending doses of subcutaneous m1095, an anti-interleukin 17a/f nanobody, in moderate-to-severe psoriasis.
+[study on clinical efficacy and mechanism of qingying tang for treating psoriatic blood-heat syndrome based on il-23/th17].
+a cost-per-number needed to treat analysis assessing the efficiency of biologic drugs in moderate to severe plaque psoriasis.
+efficacy of tildrakizumab for moderate-to-severe plaque psoriasis: pooled analysis of three randomized controlled trials at weeks 12 and 28.
+short-term risk of major adverse cardiovascular events or congestive heart failure in patients with psoriatic arthritis or psoriasis initiating a biological therapy: a meta-analysis of randomised controlled trials.
+etanercept and methotrexate as monotherapy or in combination for psoriatic arthritis: primary results from a randomized, controlled phase iii trial.
+treating to target(s) with interleukin-17 inhibitors.
+ustekinumab safety in psoriasis, psoriatic arthritis, and crohn's disease: an integrated analysis of phase ii/iii clinical development programs.
+efficacy and safety of systemic treatments in psoriatic arthritis: a systematic review, meta-analysis and grade evaluation.
+efficacy and safety of mirikizumab (ly3074828) in the treatment of moderate-to-severe plaque psoriasis: results from a randomized phase ii study.
+methotrexate efficacy and tolerance in plaque psoriasis. a prospective real-life multicentre study in france.
+long-term efficacy and safety of secukinumab in japanese patients with moderate to severe plaque psoriasis: 3-year results of a double-blind extension study.
+risankizumab vs. ustekinumab for plaque psoriasis: a critical appraisal.
+psoriatic skin molecular and histopathologic profiles after treatment with risankizumab versus ustekinumab.
+when il-17 inhibitors fail: real-life evidence to switch from secukinumab to adalimumab or ustekinumab.
+impact of secukinumab on endothelial dysfunction and other cardiovascular disease parameters in psoriasis patients over 52 weeks.
+safety of guselkumab in patients with moderate-to-severe psoriasis treated through 100 weeks: a pooled analysis from the randomized voyage 1 and voyage 2 studies.
+efficacy and safety of brodalumab in patients with moderate-to-severe plaque psoriasis and skin of color: results from the pooled amagine-2/-3 randomized trials.
+risankizumab for the treatment of moderate to severe psoriasis.
+ixekizumab (interleukin 17a antagonist): 12-week efficacy and safety outcomes in real-world clinical practice.
+improvement in patient-reported outcomes (dermatology life quality index and the psoriasis symptoms and signs diary) with guselkumab in moderate-to-severe plaque psoriasis: results from the phase iii voyage 1 and voyage 2 studies.
+efficacy and safety of pioglitazone plus phototherapy versus phototherapy in patients with plaque type psoriasis: a double blinded randomized controlled trial.
+effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled transfigure trial.
+network meta-analyses of systemic treatments for psoriasis: a critical appraisal: original articles: jabbar-lopez zk, yiu zzn, ward v et al. quantitative evaluation of biologic therapy options for psoriasis: a systematic review and network meta-analysis. j invest dermatol 2017.
+tildrakizumab: a review of phase ii and iii clinical trials.
+efficacy and safety of brodalumab in patients with psoriasis who had inadequate responses to ustekinumab: subgroup analysis of two randomized phase iii trials.
+long-term efficacy of novel therapies in moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis of pasi response.
+treatment of patients with plaque psoriasis with secukinumab in a real-life setting: a 52-week, multicenter, retrospective study in spain.
+certolizumab pegol for the treatment of patients with moderate-to-severe chronic plaque psoriasis: pooled analysis of week 16 data from three randomized controlled trials.
+granulocyte-macrophage colony-stimulating factor (gm-csf) as a therapeutic target in psoriasis: randomized, controlled investigation using namilumab, a specific human anti-gm-csf monoclonal antibody.
+brodalumab for the treatment of moderate-to-severe plaque psoriasis: an evidence review group evaluation of a nice single technology appraisal.
+ixekizumab provides superior efficacy compared with ustekinumab over 52 weeks of treatment: results from ixora-s, a phase 3 study.
+efficacy and safety of ixekizumab in patients with plaque psoriasis across different degrees of disease severity: results from uncover-2 and uncover-3.
+precision medicine using different biological dmards based on characteristic phenotypes of peripheral t helper cells in psoriatic arthritis.
+apremilast mechanism of efficacy in systemic-naive patients with moderate plaque psoriasis: pharmacodynamic results from the unveil study.
+consistent responses with guselkumab treatment in asian and non-asian patients with psoriasis: an analysis from voyage 1 and voyage 2.
+dimethyl fumarate is efficacious in severe plaque psoriasis : post hoc analysis from the bridge trial in austria.
+short-term efficacy and safety of il-17, il-12/23, and il-23 inhibitors brodalumab, secukinumab, ixekizumab, ustekinumab, guselkumab, tildrakizumab, and risankizumab for the treatment of moderate to severe plaque psoriasis: a systematic review and network meta-analysis of randomized controlled trials.
+treatment of plaque psoriasis with il-23p19 blockers: a systematic review and meta-analysis.
+comparison of the safety and efficacy of tumor necrosis factor inhibitors and interleukin-17 inhibitors in patients with psoriasis.
+assessing the relative efficacy of interleukin-17 and interleukin-23 targeted treatments for moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis of pasi response.
+tildrakizumab efficacy and impact on quality of life up to 52 weeks in patients with moderate-to-severe psoriasis: a pooled analysis of two randomized controlled trials.
+guselkumab versus secukinumab for the treatment of moderate-to-severe psoriasis (eclipse): results from a phase 3, randomised controlled trial.
+effectiveness of methotrexate in moderate to severe psoriasis patients: real-world registry data from the swiss dermatology network for targeted therapies (sdntt).
+inhibition of interleukin-12 and/or interleukin-23 for the treatment of psoriasis: what is the evidence for an effect on malignancy?.
+mechanisms underlying the clinical effects of apremilast for psoriasis.
+secukinumab for plaque psoriasis.
+guselkumab: a review in moderate to severe plaque psoriasis.
+ixekizumab improved patient-reported genital psoriasis symptoms and impact of symptoms on sexual activity vs placebo in a randomized, double-blind study.
+importance of assessing and adjusting for cross-study heterogeneity in network meta-analysis: a case study of psoriasis.
+secukinumab for psoriatic arthritis: comparative effectiveness versus licensed biologics/apremilast: a network meta-analysis.
+ustekinumab for the treatment of psoriasis: an evidence update.
+long-term efficacy of guselkumab for the treatment of moderate-to-severe psoriasis: results from the phase 3 voyage 1 trial through two years.
+efficacy and safety of risankizumab in moderate-to-severe plaque psoriasis (ultimma-1 and ultimma-2): results from two double-blind, randomised, placebo-controlled and ustekinumab-controlled phase 3 trials.
+tildrakizumab: monoclonal antibody against il-23p19 for moderate to severe psoriasis.
+tildrakizumab for the treatment of psoriasis.
+an overview of the efficacy and safety of systemic treatments for psoriasis in the elderly.
+efficacy and safety of biologics targeting il-17 and il-23 in the treatment of moderate-to-severe plaque psoriasis: a systematic review and meta-analysis of randomized controlled trials.
+phase iii randomized study of the proposed adalimumab biosimilar gp2017 in psoriasis: impact of multiple switches.
+guselkumab, an anti-interleukin-23 monoclonal antibody, for the treatment of moderate to severe plaque-type psoriasis in japanese patients: efficacy and safety results from a phase 3, randomized, double-blind, placebo-controlled study.
+18f-fluorodeoxyglucose positron emission tomography-based evaluation of systemic and vascular inflammation and assessment of the effect of systemic treatment on inflammation in patients with moderate-to-severe psoriasis: a randomized placebo-controlled pilot study.
+exposure-response modeling to characterize the relationship between ixekizumab serum drug concentrations and efficacy responses at week 12 in patients with moderate to severe plaque psoriasis.
+phase ii study of abt-122, a tumor necrosis factor- and interleukin-17a-targeted dual variable domain immunoglobulin, in patients with psoriatic arthritis with an inadequate response to methotrexate.
+maintenance of skin clearance with ixekizumab treatment of psoriasis: three-year results from the uncover-3 study.
+efficacy of guselkumab compared with adalimumab and placebo for psoriasis in specific body regions: a secondary analysis of 2 randomized clinical trials.
+efficacy and safety outcomes for originator tnf inhibitors and biosimilars in rheumatoid arthritis and psoriasis trials: a systematic literature review.
+effect of 2 psoriasis treatments on vascular inflammation and novel inflammatory cardiovascular biomarkers: a randomized placebo-controlled trial.
+obesity and response to anti-tumor necrosis factor-alpha agents in patients with select immune-mediated inflammatory diseases: a systematic review and meta-analysis.
+ixekizumab pharmacokinetics, anti-drug antibodies, and efficacy through 60 weeks of treatment of moderate to severe plaque psoriasis.
+a non-inferiority randomized controlled clinical trial comparing unani formulation & psoralen plus ultraviolet a sol in chronic plaque psoriasis.
+association between serum interleukin-17a and clinical response to tofacitinib and etanercept in moderate to severe psoriasis.
+safety of tildrakizumab for moderate-to-severe plaque psoriasis: pooled analysis of three randomized controlled trials.
+the effect of biologic and targeted synthetic drugs on work- and productivity-related outcomes for patients with psoriatic arthritis: a systematic review.
+randomized, controlled study of bleselumab (askp1240) pharmacokinetics and safety in patients with moderate-to-severe plaque psoriasis.
+effects of etanercept on the patient-perceived results (pros) in patients with moderate-to-severe plaque psoriasis: systematic review of the literature and meta-analysis.
+certolizumab pegol for the treatment of chronic plaque psoriasis: results through 48 weeks of a phase 3, multicenter, randomized, double-blind, etanercept- and placebo-controlled study (cimpact).
+certolizumab pegol for the treatment of chronic plaque psoriasis: results through 48 weeks from 2 phase 3, multicenter, randomized, double-blinded, placebo-controlled studies (cimpasi-1 and cimpasi-2).
+efficacy and safety of ixekizumab over 4 years of open-label treatment in a phase 2 study in chronic plaque psoriasis.
+secukinumab treatment in new-onset psoriasis: aiming to understand the potential for disease modification - rationale and design of the randomized, multicenter stepin study.
+dual neutralization of both interleukin 17a and interleukin 17f with bimekizumab in patients with psoriasis: results from be able 1, a 12-week randomized, double-blinded, placebo-controlled phase 2b trial.
+curcumin nanoparticles potentiate therapeutic effectiveness of acitrein in moderate-to-severe psoriasis patients and control serum cholesterol levels.
+evaluation of spga x bsa as an outcome measure and treatment target for clinical practice.
+dimethyl fumarate (dmf) vs. monoethyl fumarate (mef) salts for the treatment of plaque psoriasis: a review of clinical data.
+brodalumab: a review of safety.
+a comprehensive evaluation of exposure-response relationships in clinical trials: application to support guselkumab dose selection for patients with psoriasis.
+ixekizumab treatment shows a neutral impact on cardiovascular parameters in patients with moderate-to-severe plaque psoriasis: results from uncover-1, uncover-2, and uncover-3.
+a systematic review and meta-analysis of the efficacy and safety of the interleukin (il)-12/23 and il-17 inhibitors ustekinumab, secukinumab, ixekizumab, brodalumab, guselkumab and tildrakizumab for the treatment of moderate to severe plaque psoriasis.
+brodalumab: a review in moderate to severe plaque psoriasis.
+improvement in itch and other psoriasis symptoms with brodalumab in phase 3 randomized controlled trials.
+patient-reported symptoms and signs of moderate-to-severe psoriasis treated with guselkumab or adalimumab: results from the randomized voyage 1 trial.
+impact of previous biologic use on the efficacy and safety of brodalumab and ustekinumab in patients with moderate-to-severe plaque psoriasis: integrated analysis of the randomized controlled trials amagine-2 and amagine-3.
+ixekizumab for treating moderate-to-severe plaque psoriasis: an evidence review group perspective of a nice single technology appraisal.
+efficacy and safety of apremilast in systemic- and biologic-naive patients with moderate plaque psoriasis: 52-week results of unveil.
+safety and tolerability of ixekizumab: integrated analysis of injection-site reactions from 11 clinical trials.
+secukinumab demonstrates high sustained efficacy and a favourable safety profile in patients with moderate-to-severe psoriasis through 5 years of treatment (sculpture extension study).
+comparative effectiveness of targeted immunomodulators for the treatment of moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis.
+efficacy and safety of continuous every-2-week dosing of ixekizumab over 52 weeks in patients with moderate-to-severe plaque psoriasis in a randomized phase iii trial (ixora-p).
+efficacy and safety of secukinumab in elderly subjects with moderate to severe plaque psoriasis: a pooled analysis of phase iii studies.
+subcutaneous methotrexate in patients with moderate-to-severe psoriasis: a critical appraisal.
+safety of adalimumab dosed every week and every other week: focus on patients with hidradenitis suppurativa or psoriasis.
+differential effects of secukinumab vs. ustekinumab for treatment of psoriasis on quality of life, work productivity and activity impairment: a structural equation modelling analysis.
+the comparative efficacy of brodalumab in patients with moderate-to-severe psoriasis: a systematic literature review and network meta-analysis.
+comparison of adalimumab and etanercept for the treatment of moderate to severe psoriasis: an indirect comparison using individual patient data from randomized trials.
+efficacy and safety of ixekizumab in patients with active psoriatic arthritis: 52-week results from a phase iii study (spirit-p1).
+safety and efficacy of guselkumab in japanese patients with moderate-to-severe plaque psoriasis: a randomized, placebo-controlled, ascending-dose study.
+safety and efficacy of apremilast through 104 weeks in patients with moderate to severe psoriasis who continued on apremilast or switched from etanercept treatment: findings from the liberate study.
+matching-adjusted indirect comparison of efficacy in patients with moderate-to-severe plaque psoriasis treated with ixekizumab vs. secukinumab.
+treating moderate-to-severe plaque psoriasis with guselkumab: a review of phase ii and phase iii trials.
+fumaric acid esters in combination with a 6-week course of narrowband ultraviolet b provides an accelerated response compared with fumaric acid esters monotherapy in patients with moderate-to-severe plaque psoriasis: a randomized prospective clinical study.
+a systematic review of active comparator controlled clinical trials in patients with moderate-to-severe psoriasis.
+trial characteristics as contextual factors when evaluating targeted therapies in patients with psoriatic disease: a meta-epidemiologic study.
+effect of secukinumab on quality of life and psoriasis-related symptoms: a comparative analysis versus ustekinumab from the clear 52-week study.
+apremilast for the treatment of moderate-to-severe palmoplantar psoriasis: results from a double-blind, placebo-controlled, randomized study.
+guselkumab for psoriasis: a critical appraisal of phase iii studies.
+adalimumab for nail psoriasis: efficacy and safety from the first 26 weeks of a phase 3, randomized, placebo-controlled trial.
+ixekizumab treatment for psoriasis: integrated efficacy analysis of three double-blinded, controlled studies (uncover-1, uncover-2, uncover-3).
+psychiatric adverse events during treatment with brodalumab: analysis of psoriasis clinical trials.
+multiple switches between gp2015, an etanercept biosimilar, with originator product do not impact efficacy, safety and immunogenicity in patients with chronic plaque-type psoriasis: 30-week results from the phase 3, confirmatory egality study.
+efficacy of guselkumab in subpopulations of patients with moderate-to-severe plaque psoriasis: a pooled analysis of the phase iii voyage 1 and voyage 2 studies.
+long-term impact of ixekizumab on psoriasis itch severity: results from a phase iii clinical trial and long-term extension.
+reduction of inflammatory and cardiovascular proteins in the blood of patients with psoriasis: differential responses between tofacitinib and etanercept after 4 weeks of treatment.
+impact of ixekizumab on facial psoriasis and related quality of life measures in moderate-to-severe psoriasis patients: 12-week results from two phase iii trials.
+improvements in psoriasis within different body regions vary over time following treatment with ixekizumab.
+time, psoriasis area and severity index and dermatology life quality index of patients with psoriasis who drop out of clinical trials on etanercept because of lack of efficacy: a pooled analysis from 10 clinical trials.
+risk of cancer in patients with psoriasis on biological therapies: a systematic review.
+efficacy and safety of guselkumab in patients with psoriasis who have an inadequate response to ustekinumab: results of the randomized, double-blind, phase iii navigate trial.
+number needed to treat and costs per responder among biologic treatments for moderate-to-severe plaque psoriasis in japan.
+efficacy and safety of etanercept in psoriasis and psoriatic arthritis in the presta study: analysis in patients from central and eastern europe.
+biomolecular index of therapeutic efficacy in psoriasis treated with anti-tnf-alpha agents.
+an update on clinical safety of adalimumab in treating psoriasis: a systematic review and meta-analysis based on 20 randomized controlled trials.
+tildrakizumab in the treatment of psoriasis: latest evidence and place in therapy.
+network meta-analysis and cost per responder of targeted immunomodulators in the treatment of active psoriatic arthritis.
+efficacy of several biological therapies for treating moderate to severe psoriasis: a network meta-analysis.
+spotlight on risankizumab and its potential in the treatment of plaque psoriasis: evidence to date.
+impact of ixekizumab treatment on itch and psoriasis area and severity index in patients with moderate-to-severe plaque psoriasis: an integrated analysis of two phase iii randomized studies.
+secukinumab is superior to ustekinumab in clearing skin in patients with moderate to severe plaque psoriasis (16-week clarity results).
+focus on biosimilar etanercept - bioequivalence and interchangeability.
+the role of golimumab in inflammatory arthritis. a review of the evidence.
+secukinumab versus adalimumab for psoriatic arthritis: comparative effectiveness up to 48 weeks using a matching-adjusted indirect comparison.
+correction to: efficacy and safety of switching to ixekizumab in etanercept non-responders: a subanalysis from two phase iii randomized clinical trials in moderate-to-severe plaque psoriasis (uncover-2 and -3).
+.
+there are 0 target papers found during the search in pubmed!.
+they are:.
+in the end, 0 target papers were left after filtering!.
+the number of target article missing is: 0.
+false positive rate: 0.5906862745098039.
+false negative rate: 0.
+
+Included target articles are as follow:
+pharmacodynamic analysis of apremilast in japanese patients with moderate to severe psoriasis: results from a phase 2b randomized trial.
+secukinumab maintains superiority over ustekinumab in clearing skin and improving quality of life in patients with moderate to severe plaque psoriasis: 52-week results from a double-blind phase 3b trial (clarity).
+effect of 2 psoriasis treatments on vascular inflammation and novel inflammatory cardiovascular biomarkers: a randomized placebo-controlled trial.
+safety and efficacy of methotrexate (0.3 mg/kg/week) versus a combination of methotrexate (0.15 mg/kg/week) with cyclosporine (2.5 mg/kg/day) in chronic plaque psoriasis: a randomised non-blinded controlled trial.
+certolizumab pegol for the treatment of patients with moderate-to-severe chronic plaque psoriasis: pooled analysis of week 16 data from three randomized controlled trials.
+safety and efficacy of apremilast through 104 weeks in patients with moderate to severe psoriasis who continued on apremilast or switched from etanercept treatment: findings from the liberate study.
+efficacy and safety of brodalumab in the korean population for the treatment of moderate to severe plaque psoriasis: a randomized, phase iii, double-blind, placebo-controlled study.
+il17a/f nanobody sonelokimab in patients with plaque psoriasis: a multicentre, randomised, placebo-controlled, phase 2b study.
+adalimumab for nail psoriasis: efficacy and safety from the first 26 weeks of a phase 3, randomized, placebo-controlled trial.
+secukinumab 2-weekly vs. 4-weekly dosing in patients with plaque-type psoriasis: results from the randomized gain study.
+18f-fluorodeoxyglucose positron emission tomography-based evaluation of systemic and vascular inflammation and assessment of the effect of systemic treatment on inflammation in patients with moderate-to-severe psoriasis: a randomized placebo-controlled pilot study.
+safety of tildrakizumab for moderate-to-severe plaque psoriasis: pooled analysis of three randomized controlled trials.
+first-in-human study demonstrating the safety and clinical efficacy of novel anti-il-17a monoclonal antibody cjm112 in moderate to severe plaque psoriasis.
+improvement in itch and other psoriasis symptoms with brodalumab in phase 3 randomized controlled trials.
+certolizumab pegol for the treatment of chronic plaque psoriasis: results through 48 weeks from 2 phase 3, multicenter, randomized, double-blinded, placebo-controlled studies (cimpasi-1 and cimpasi-2).
+comparing the efficacy and safety of il-17 inhibitors for treatment of moderate-to-severe psoriasis: a randomized double blind pilot study with a review of literature.
+azathioprine weekly pulse versus methotrexate for the treatment of chronic plaque psoriasis: a randomized controlled trial.
+efficacy and safety of etanercept combined plus methotrexate and comparison of expression of pro-inflammatory factors expression for the treatment of moderate-to-severe plaque psoriasis.
+bimekizumab versus ustekinumab for the treatment of moderate to severe plaque psoriasis (be vivid): efficacy and safety from a 52-week, multicentre, double-blind, active comparator and placebo controlled phase 3 trial.
+efficacy and safety of ixekizumab in patients with plaque psoriasis across different degrees of disease severity: results from uncover-2 and uncover-3.
+efficacy and safety of risankizumab in moderate-to-severe plaque psoriasis (ultimma-1 and ultimma-2): results from two double-blind, randomised, placebo-controlled and ustekinumab-controlled phase 3 trials.
+efficacy and safety of risankizumab in japanese patients with moderate to severe plaque psoriasis: results from the sustaimm phase 2/3 trial.
+disparate effects of adalimumab and fumaric acid esters on cardiovascular risk factors in psoriasis patients: results from a prospective, randomized, observer-blinded head-to-head trial.
+efficacy and safety of guselkumab in patients with psoriasis who have an inadequate response to ustekinumab: results of the randomized, double-blind, phase iii navigate trial.
+guselkumab, an anti-interleukin-23 monoclonal antibody, for the treatment of moderate to severe plaque-type psoriasis in japanese patients: efficacy and safety results from a phase 3, randomized, double-blind, placebo-controlled study.
+multiple switches between gp2015, an etanercept biosimilar, with originator product do not impact efficacy, safety and immunogenicity in patients with chronic plaque-type psoriasis: 30-week results from the phase 3, confirmatory egality study.
+patient-reported symptoms and signs of moderate-to-severe psoriasis treated with guselkumab or adalimumab: results from the randomized voyage 1 trial.
+dual neutralization of both interleukin 17a and interleukin 17f with bimekizumab in patients with psoriasis: results from be able 1, a 12-week randomized, double-blinded, placebo-controlled phase 2b trial.
+efficacy and safety of mirikizumab (ly3074828) in the treatment of moderate-to-severe plaque psoriasis: results from a randomized phase ii study.
+subcutaneous methotrexate in patients with moderate-to-severe psoriasis: a critical appraisal.
+risankizumab compared with adalimumab in patients with moderate-to-severe plaque psoriasis (immvent): a randomised, double-blind, active-comparator-controlled phase 3 trial.
+long-term efficacy and safety of secukinumab in japanese patients with moderate to severe plaque psoriasis: 3-year results of a double-blind extension study.
+guselkumab versus secukinumab for the treatment of moderate-to-severe psoriasis (eclipse): results from a phase 3, randomised controlled trial.
+secukinumab treatment in new-onset psoriasis: aiming to understand the potential for disease modification - rationale and design of the randomized, multicenter stepin study.
+a head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 24-week efficacy and safety results from a randomized, double-blinded trial.
+association between serum interleukin-17a and clinical response to tofacitinib and etanercept in moderate to severe psoriasis.
+certolizumab pegol for the treatment of chronic plaque psoriasis: results through 48 weeks of a phase 3, multicenter, randomized, double-blind, etanercept- and placebo-controlled study (cimpact).
+effect of secukinumab on quality of life and psoriasis-related symptoms: a comparative analysis versus ustekinumab from the clear 52-week study.
+ixekizumab provides superior efficacy compared with ustekinumab over 52 weeks of treatment: results from ixora-s, a phase 3 study.
+effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled transfigure trial.
+bimekizumab efficacy and safety in moderate to severe plaque psoriasis (be ready): a multicentre, double-blind, placebo-controlled, randomised withdrawal phase 3 trial.
+safety and efficacy of guselkumab in japanese patients with moderate-to-severe plaque psoriasis: a randomized, placebo-controlled, ascending-dose study.
+impact of ixekizumab on facial psoriasis and related quality of life measures in moderate-to-severe psoriasis patients: 12-week results from two phase iii trials.
+expectation-induced enhancement of pain, itch and quality of life in psoriasis patients: study protocol of a randomised controlled trial.
+improvements in psoriasis within different body regions vary over time following treatment with ixekizumab.
+efficacy and safety of continuous every-2-week dosing of ixekizumab over 52 weeks in patients with moderate-to-severe plaque psoriasis in a randomized phase iii trial (ixora-p).
+a phase 4, randomized, head-to-head trial comparing the efficacy of subcutaneous injections of brodalumab to oral administrations of fumaric acid esters in adults with moderate-to-severe plaque psoriasis (change).
+phase iii randomized study of the proposed adalimumab biosimilar gp2017 in psoriasis: impact of multiple switches.
+efficacy and safety of etanercept in psoriasis and psoriatic arthritis in the presta study: analysis in patients from central and eastern europe.
+impact of ixekizumab on facial psoriasis and related quality of life measures in moderate-to-severe psoriasis patients: 12-week results from two phase iii trials.
+secukinumab 2-weekly vs. 4-weekly dosing in patients with plaque-type psoriasis: results from the randomized gain study.
+safety and efficacy of apremilast through 104 weeks in patients with moderate to severe psoriasis who continued on apremilast or switched from etanercept treatment: findings from the liberate study.
+efficacy and safety of etanercept in psoriasis and psoriatic arthritis in the presta study: analysis in patients from central and eastern europe.
+risankizumab compared with adalimumab in patients with moderate-to-severe plaque psoriasis (immvent): a randomised, double-blind, active-comparator-controlled phase 3 trial.
+patient-reported outcomes with risankizumab versus fumaric acid esters in systemic therapy-naive patients with moderate to severe plaque psoriasis: a phase 3 clinical trial.
+phase iii randomized study of the proposed adalimumab biosimilar gp2017 in psoriasis: impact of multiple switches.
+long-term efficacy of novel therapies in moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis of pasi response.
+tildrakizumab efficacy and impact on quality of life up to 52 weeks in patients with moderate-to-severe psoriasis: a pooled analysis of two randomized controlled trials.
+efficacy and safety of etanercept combined plus methotrexate and comparison of expression of pro-inflammatory factors expression for the treatment of moderate-to-severe plaque psoriasis.
+expectation-induced enhancement of pain, itch and quality of life in psoriasis patients: study protocol of a randomised controlled trial.
+association between serum interleukin-17a and clinical response to tofacitinib and etanercept in moderate to severe psoriasis.
+apremilast for the treatment of moderate-to-severe palmoplantar psoriasis: results from a double-blind, placebo-controlled, randomized study.
+efficacy and safety of continuous every-2-week dosing of ixekizumab over 52 weeks in patients with moderate-to-severe plaque psoriasis in a randomized phase iii trial (ixora-p).
+secukinumab maintains superiority over ustekinumab in clearing skin and improving quality of life in patients with moderate to severe plaque psoriasis: 52-week results from a double-blind phase 3b trial (clarity).
+subcutaneous methotrexate in patients with moderate-to-severe psoriasis: a critical appraisal.
+safety and efficacy of guselkumab in japanese patients with moderate-to-severe plaque psoriasis: a randomized, placebo-controlled, ascending-dose study.
+disparate effects of adalimumab and fumaric acid esters on cardiovascular risk factors in psoriasis patients: results from a prospective, randomized, observer-blinded head-to-head trial.
+a phase 4, randomized, head-to-head trial comparing the efficacy of subcutaneous injections of brodalumab to oral administrations of fumaric acid esters in adults with moderate-to-severe plaque psoriasis (change).
+il17a/f nanobody sonelokimab in patients with plaque psoriasis: a multicentre, randomised, placebo-controlled, phase 2b study.
+long-term efficacy and safety of secukinumab in japanese patients with moderate to severe plaque psoriasis: 3-year results of a double-blind extension study.
+bimekizumab versus ustekinumab for the treatment of moderate to severe plaque psoriasis (be vivid): efficacy and safety from a 52-week, multicentre, double-blind, active comparator and placebo controlled phase 3 trial.
+meta-analysis results do not reflect the real safety of biologics in psoriasis.
+efficacy and safety of risankizumab in moderate-to-severe plaque psoriasis (ultimma-1 and ultimma-2): results from two double-blind, randomised, placebo-controlled and ustekinumab-controlled phase 3 trials.
+first-in-human study demonstrating the safety and clinical efficacy of novel anti-il-17a monoclonal antibody cjm112 in moderate to severe plaque psoriasis.
+guselkumab versus secukinumab for the treatment of moderate-to-severe psoriasis (eclipse): results from a phase 3, randomised controlled trial.
+improvement in itch and other psoriasis symptoms with brodalumab in phase 3 randomized controlled trials.
+multiple switches between gp2015, an etanercept biosimilar, with originator product do not impact efficacy, safety and immunogenicity in patients with chronic plaque-type psoriasis: 30-week results from the phase 3, confirmatory egality study.
+effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled transfigure trial.
+bimekizumab efficacy and safety in moderate to severe plaque psoriasis (be ready): a multicentre, double-blind, placebo-controlled, randomised withdrawal phase 3 trial.
+comparing the efficacy and safety of il-17 inhibitors for treatment of moderate-to-severe psoriasis: a randomized double blind pilot study with a review of literature.
+patient-reported symptoms and signs of moderate-to-severe psoriasis treated with guselkumab or adalimumab: results from the randomized voyage 1 trial.
+efficacy and safety of guselkumab in patients with psoriasis who have an inadequate response to ustekinumab: results of the randomized, double-blind, phase iii navigate trial.
+systemic pharmacological treatments for chronic plaque psoriasis: a network meta-analysis.
+efficacy and safety of ixekizumab in patients with plaque psoriasis across different degrees of disease severity: results from uncover-2 and uncover-3.
+certolizumab pegol for the treatment of patients with moderate-to-severe chronic plaque psoriasis: pooled analysis of week 16 data from three randomized controlled trials.
+comparative efficacy and safety of biologics in moderate to severe plaque psoriasis: a multiple-treatments meta-analysis.
+a head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 24-week efficacy and safety results from a randomized, double-blinded trial.
+efficacy and safety of mirikizumab (ly3074828) in the treatment of moderate-to-severe plaque psoriasis: results from a randomized phase ii study.
+improvements in psoriasis within different body regions vary over time following treatment with ixekizumab.
+secukinumab treatment in new-onset psoriasis: aiming to understand the potential for disease modification - rationale and design of the randomized, multicenter stepin study.
+safety of tildrakizumab for moderate-to-severe plaque psoriasis: pooled analysis of three randomized controlled trials.

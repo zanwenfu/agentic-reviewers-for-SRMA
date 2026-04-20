@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: >-
+  If you use LUMINA in any published work — including papers, preprints,
+  theses, technical reports, blog posts, or derived software — please cite
+  the associated manuscript. Citation is required by the CC BY-NC 4.0
+  license under which this repository is distributed.
+title: "LUMINA: Large Language Model Understanding Systematic Review & Meta-Analysis Integrated In Networked Agents"
+abstract: >-
+  An agentic LLM framework for title/abstract screening in systematic
+  reviews and meta-analyses. Four cooperating agents (Classifier, PICOS
+  Detailed Screener, Reviewer, Improver) operate through a bounded
+  review/improve loop and produce a full written audit trail per
+  inclusion decision. On 15 published SRMAs LUMINA achieves mean
+  sensitivity 0.982 at specificity 0.879.
+type: software
+authors:
+  - family-names: Fu
+    given-names: Zanwen
+    affiliation: "Department of Computer Science, School of Computing, National University of Singapore"
+    email: zanwen.fu@duke.edu
+    orcid: "https://orcid.org/0009-0004-5544-8846"
+repository-code: "https://github.com/zanwenfu/agentic-reviewers-for-SRMA"
+license: CC-BY-NC-4.0
+keywords:
+  - systematic-review
+  - meta-analysis
+  - large-language-models
+  - agents
+  - evidence-synthesis
+  - biomedical-nlp
+
+preferred-citation:
+  type: unpublished
+  title: >-
+    Application of Large Language Machine Learning Model to Enhance
+    Screening Accuracy and Efficiency in Systematic Reviews and
+    Meta-Analyses
+  year: 2025
+  notes: "Manuscript. NEJM AI submission ID AI-25-00939. See docs/paper/LUMINA_manuscript.pdf."
+  authors:
+    - family-names: Fu
+      given-names: Zanwen
+    - family-names: Chen
+      given-names: Muzi
+    - family-names: Yang
+      given-names: Qian
+    - family-names: Illanes
+      given-names: Sebastian E.
+    - family-names: Choolani
+      given-names: Mahesh
+    - family-names: Xiao
+      given-names: Xiaokui
+    - family-names: Li
+      given-names: Ling-Jun

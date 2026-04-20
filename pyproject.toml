@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lumina-srma"
+version = "0.1.0"
+description = "Agentic LLM framework for title/abstract screening in systematic reviews and meta-analyses."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "CC-BY-NC-4.0" }
+authors = [{ name = "Zanwen Fu", email = "zanwen.fu@duke.edu" }]
+keywords = ["systematic-review", "meta-analysis", "llm", "agents", "evidence-synthesis", "openai"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Healthcare Industry",
+    "License :: Free for non-commercial use",
+    "License :: Other/Proprietary License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+dependencies = [
+    "openai>=1.40",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.5", "mypy>=1.8"]
+
+[project.scripts]
+lumina = "lumina.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["lumina*"]
+
+[tool.setuptools.package-data]
+"lumina.prompts" = ["*.txt"]

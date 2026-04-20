@@ -1,0 +1,78 @@
+total number of articles searched: 361.
+objectives: ['to compare the diagnostic performance of the uac vs the acr in random urine samples for microalbuminuria screening among patients with dm'].
+kidney disease in adults with prader-willi syndrome: international cohort study and systematic literature review.
+[can urine albumin/creatinine ratio replace 24 hours urinary albumin?].
+adherence to chronic kidney disease screening guidelines among patients with type 2 diabetes in a us administrative claims database.
+chronic kidney disease in type 2 diabetes: does an abnormal urine albumin-to-creatinine ratio need to be retested?.
+epidemiological study of chronic kidney disease progression: a large-scale population-based cohort study.
+screening for microalbuminuria to prevent nephropathy in patients with diabetes: a systematic review of the evidence.
+the unrecognized prevalence of chronic kidney disease in diabetes.
+prediction of microalbuminuria from proteinuria in chronic kidney disease due to non-diabetic lifestyle-related diseases: comparison with diabetes.
+microalbuminuria as a target to improve cardiovascular and renal outcomes.
+diagnostic efficacy of random albumin creatinine ratio for detection of micro and macro-albuminuria in type 2 diabetes mellitus.
+early urinary biomarkers of diabetic nephropathy in type 1 diabetes mellitus show involvement of kallikrein-kinin system.
+expression profiling and clinical significance of plasma micrornas in diabetic nephropathy.
+markers of early progressive renal decline in type 2 diabetes suggest different implications for etiological studies and prognostic tests development.
+[albumin-to-creatinine ratio as a diagnostic tool for type 2 diabetic nephropathy].
+a candidate panel of eight urinary proteins shows potential of early diagnosis and risk assessment for diabetic kidney disease in type 1 diabetes.
+proteinuria is still useful for the screening and diagnosis of overt diabetic nephropathy.
+prediction of microalbuminuria by analysing total urine protein-to-creatinine ratio in diabetic nephropathy patients in rural sri lanka.
+screening and treatment of diabetic nephropathy by primary care physicians.
+red blood cell distribution width is associated with glomerulonephritis in diabetic patients with albuminuria.
+association between red blood cell distribution and renal function in patients with untreated type 2 diabetes mellitus.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+5-hydroxyhexanoic acid predicts early renal functional decline in type 2 diabetes patients with microalbuminuria.
+establishment of a method to detect microalbuminuria by measuring the total urinary protein-to-creatinine ratio in diabetic patients.
+long-term visit-to-visit glycemic variability as predictor of micro- and macrovascular complications in patients with type 2 diabetes: the rio de janeiro type 2 diabetes cohort study.
+the need for early predictors of diabetic nephropathy risk: is albumin excretion rate sufficient?.
+abnormal albuminuria as a predictor of mortality and renal impairment in chinese patients with niddm.
+brachial-ankle pulse wave velocity as a novel modality for detecting early diabetic nephropathy in type 2 diabetes patients.
+screening for early diabetic nephropathy: which sample to detect microalbuminuria?.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+albumin excretion rate, albumin concentration, and albumin/creatinine ratio compared for screening diabetics for slight albuminuria.
+choice of urine sample predictive of microalbuminuria in patients with insulin-dependent diabetes mellitus.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+predictive power of sequential measures of albuminuria for progression to esrd or death in pima indians with type 2 diabetes.
+comparison of different measures of urinary protein excretion for prediction of renal events.
+detection of microalbuminuria. receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+an aid to the early detection and management of diabetic nephropathy: assessment of a new point of care microalbuminuria system in the diabetic clinic.
+longitudinal study of urinary albumin excretion in young diabetic patients--wessex diabetic nephropathy project.
+the early natural history of nephropathy in type 1 diabetes: ii. early renal structural changes in type 1 diabetes.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+determination of urinary enzymes as a marker of early renal damage in diabetic patients.
+screening for diabetic microalbuminuria in routine clinical care: which method?.
+clinical value of detecting microalbuminuria as a risk factor for pregnancy-induced hypertension in insulin-treated diabetic pregnancies.
+microalbuminuria screening in the uk: are we meeting european standards?.
+the utility of conventional dipsticks for urinary protein for screening of microalbuminuria in diabetic patients.
+utility of micral test strips in screening for microalbuminuria.
+multicenter evaluation of the micral-test ii test strip, an immunologic rapid test for the detection of microalbuminuria.
+interest of clinitek microalbumin in screening for microalbuminuria: results of a multicentre study in 302 diabetic patients.
+[screening methods for microalbuminuria in diabetes mellitus].
+assessing albuminuria in spot morning samples from diabetic patients.
+[cytokines in noninvasive diagnostics of diabetic nephropathy progression].
+[nephropathy and microalbuminuria in type ii diabetes].
+prediction of cardiovascular events, diabetic nephropathy, and mortality by albumin concentration in a spot urine sample in patients with type 2 diabetes.
+correlation of dehydroepiandrosterone with diabetic nephropathy and its clinical value in early detection.
+in-depth profiling of urinary n-glycome in diabetic kidney disease by ultrafast glycoprotein immobilization for glycan extraction (ultragig).
+proteinuria as a predictor of total plasma homocysteine levels in type 2 diabetic nephropathy.
+assessing urinary levels of il-18, ngal and albumin creatinine ratio in patients with diabetic nephropathy.
+glycogen synthase kinase 3β hyperactivity in urinary exfoliated cells predicts progression of diabetic kidney disease.
+evaluation of serum cystatin c and chromogranin a as markers of nephropathy in patients with type 2 diabetes mellitus.
+.
+there are 7 target papers found during the search in pubmed!.
+they are:.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
+in the end, 6 target papers were left after filtering!.
+the number of target article missing is: 1.
+false positive rate: 0.1634349030470914.
+false negative rate: 0.14285714285714285.
+
+Included target articles are as follow:
+assessing albuminuria in spot morning samples from diabetic patients.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.

@@ -1,0 +1,30 @@
+total number of articles searched: 58.
+objectives: ['estimate the average effect of bempedoic acid on plasma lipids in humans', 'evaluate the safety profile of bempedoic acid for the treatment of hypercholesterolemia', 'define the efficacy of bempedoic acid treatment on low-density lipoprotein cholesterol (ldl-c)', 'assess the tolerability profile of bempedoic acid treatment'].
+etc-1002 (bempedoic acid) for the management of hyperlipidemia: from preclinical studies to phase 3 trials.
+bempedoic acid (etc-1002) a current review.
+bempedoic acid <i>atp-citrate lyase inhibitor ampk activator treatment of hypercholesterolemia</i>.
+evaluating bempedoic acid for the treatment of hyperlipidaemia.
+bempedoic acid (etc-1002): atp citrate lyase inhibitor review of a first-in-class medication with potential benefit in statin-refractory cases.
+atp-citrate lyase: genetics, molecular biology and therapeutic target for dyslipidemia.
+efficacy and safety of a novel dual modulator of adenosine triphosphate-citrate lyase and adenosine monophosphate-activated protein kinase in patients with hypercholesterolemia.
+pharmacological lipid-modification therapies for prevention of ischaemic heart disease: current and future options.
+novel hypolipidaemic drugs: mechanisms of action and main metabolic effects.
+novel approaches to lipid-lowering therapy.
+therapeutic agents targeting cardiometabolic risk for preventing and treating atherosclerotic cardiovascular diseases.
+there are 7 target papers found during the search in pubmed!.
+in the end, 6 target papers were left after filtering!.
+the number of target article missing is: 1.
+false positive rate: 0.3448275862068966.
+false negative rate: 0.14285714285714285.
+
+Included target articles are as follow:
+efficacy and safety of bempedoic acid in patients with hypercholesterolemia and statin intolerance.
+bempedoic acid plus ezetimibe fixed-dose combination in patients with hypercholesterolemia and high cvd risk treated with maximally tolerated statin therapy.
+complementary low-density lipoprotein-cholesterol lowering and pharmacokinetics of adding bempedoic acid (etc-1002) to high-dose atorvastatin background therapy in hypercholesterolemic patients: a randomized placebo-controlled trial.
+safety and efficacy of bempedoic acid to reduce ldl cholesterol.
+efficacy and safety of bempedoic acid added to ezetimibe in statin-intolerant patients with hypercholesterolemia: a randomized, placebo-controlled study.
+effect of etc-1002 on serum low-density lipoprotein cholesterol in hypercholesterolemic patients receiving statin therapy.
+treatment with etc-1002 alone and in combination with ezetimibe lowers ldl cholesterol in hypercholesterolemic patients with or without statin intolerance.
+efficacy and safety of etc-1002, a novel investigational low-density lipoprotein-cholesterol-lowering therapy for the treatment of patients with hypercholesterolemia and type 2 diabetes mellitus.
+use of etc-1002 to treat hypercholesterolemia in patients with statin intolerance.
+efficacy and safety of a novel dual modulator of adenosine triphosphate-citrate lyase and adenosine monophosphate-activated protein kinase in patients with hypercholesterolemia: results of a multicenter, randomized, double-blind, placebo-controlled, parallel-group trial.

@@ -1,0 +1,39 @@
+total number of articles searched: 82.
+objectives: ['to compare the diagnostic performance of the uac in random urine samples for microalbuminuria screening among patients with dm.', 'to compare the diagnostic performance of the acr in random urine samples for microalbuminuria screening among patients with dm.', 'to assess the cost-effectiveness of using uac compared to acr in the screening for microalbuminuria in patients with dm.', 'to evaluate the accuracy of uac and acr in detecting microalbuminuria using urinary albumin excretion rate as the criterion standard.'].
+does the albumin:creatinine ratio lack clinical utility in predicting microalbuminuria?.
+evaluation of tests for microalbuminuria screening in patients with diabetes.
+determining the value of albumin to creatinine ratio in a single morning sample, compared to the 24-hour urinary albumin excretion test, for determining micro-albuminuria in diabetic patients.
+use of protein: creatinine ratio measurements on random urine samples for prediction of significant proteinuria: a systematic review.
+screening for microalbuminuria: a comparison of single sample methods of collection and techniques of albumin analysis.
+immunodip®: an improved screening method for microalbuminuria.
+influence of biological variations and sample handling on measured microalbuminuria in diabetic patients.
+detection of microalbuminuria: receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration.
+a screening test for microalbuminuria in type 1 (insulin-dependent) diabetes.
+microalbuminuria in diabetes: a population study of the prevalence and an assessment of three screening tests.
+comparison of overnight, morning and 24‐hour urine collections in the assessment of diabetic microalbuminuria.
+comparison of urinary albumin excretion rate in overnight urine and albumin creatinine ratio in spot urine in diabetic patients in general practice.
+a simple approach to screening for microalbuminuria in a type 1 (insulin-dependent) diabetic population.
+screening for slight albuminuria: a comparison of selected commercially available methods.
+gender and the clinical usefulness of the albumin:creatinine ratio.
+which test to detect microalbuminuria in diabetic patients?: a systematic review.
+comparison of albumin excretion rate obtained with different times of collection.
+utility of micral test strips in screening for microalbuminuria.
+screening strategies in the detection of microalbuminuria in insulin‐dependent diabetic patients.
+the validity of screening based on spot morning urine samples to detect subjects with microalbuminuria in the general population.
+in the end, 5 target papers were left after filtering!.
+the number of target article missing is: 2.
+false positive rate: 0.2926829268292683.
+false negative rate: 0.2857142857142857.
+
+Included target articles are as follow:
+the validity of screening based on spot morning urine samples to detect subjects with microalbuminuria in the general population.
+evaluation of tests for microalbuminuria screening in patients with diabetes.
+assessing albuminuria in spot morning samples from diabetic patients.
+comparison of albumin excretion rate obtained with different times of collection.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
+determining the value of albumin to creatinine ratio in a single morning sample, compared to the 24-hour urinary albumin excretion test, for determining micro-albuminuria in diabetic patients.

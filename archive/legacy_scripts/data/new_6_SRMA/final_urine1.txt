@@ -1,0 +1,49 @@
+total number of articles searched: 186.
+objectives: ['to compare the diagnostic performance of the uac in random urine samples for microalbuminuria screening among patients with dm', 'to compare the diagnostic performance of the acr in random urine samples for microalbuminuria screening among patients with dm', 'to assess the diagnostic performance measures of the uac vs the acr in detecting microalbuminuria', 'to carry out comparisons between different screening tests (uac vs acr) for microalbuminuria'].
+albumin to creatinine ratio: a screening test with limitations.
+the diagnosis of renal involvement in non-insulin-dependent diabetes mellitus.
+early detection of kidney disease in community settings: the kidney early evaluation program (keep).
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+albumin excretion rate, albumin concentration, and albumin/creatinine ratio compared for screening diabetics for slight albuminuria.
+urinary collagen iv and πgst: potential biomarkers for detecting localized kidney injury in diabetes--a pilot study.
+is screening and intervention for microalbuminuria worthwhile in patients with insulin dependent diabetes?.
+establishment of a method to detect microalbuminuria by measuring the total urinary protein-to-creatinine ratio in diabetic patients.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+detection of microalbuminuria. receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration.
+screening for microalbuminuria. a comparison of single sample methods of collection and techniques of albumin analysis.
+the predictive value of microalbuminuria.
+screening for early diabetic nephropathy: which sample to detect microalbuminuria?.
+silent myocardial ischemia is associated with autonomic neuropathy and other cardiovascular risk factors in type 1 and type 2 diabetic subjects, especially in those with microalbuminuria.
+urinary albumin excretion rate and glomerular filtration rate in the prediction of diabetic nephropathy.
+comparison of different measures of urinary protein excretion for prediction of renal events.
+micral-test: a qualitative dipstick test for micro-albuminuria.
+an aid to the early detection and management of diabetic nephropathy: assessment of a new point of care microalbuminuria system in the diabetic clinic.
+raised serum sialic acid concentration precedes onset of microalbuminuria in iddm. a 10-year follow-up study.
+screening for diabetic microalbuminuria in routine clinical care: which method?.
+clinical significance of microalbuminuria and evaluation of the micral-test.
+risk factors for microvascular complications of diabetes among south indian subjects with type 2 diabetes--the chennai urban rural epidemiology study (cures) eye study-5.
+increased concentrations of soluble cd40 ligand may help to identify type 1 diabetic adolescents and young adults at risk for developing persistent microalbuminuria.
+mixed self-assembly of polydiacetylenes for highly specific and sensitive strip biosensors.
+the utility of conventional dipsticks for urinary protein for screening of microalbuminuria in diabetic patients.
+interest of clinitek microalbumin in screening for microalbuminuria: results of a multicentre study in 302 diabetic patients.
+assessing albuminuria in spot morning samples from diabetic patients.
+.
+there are 7 target papers found during the search in pubmed!.
+they are:.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+in the end, 4 target papers were left after filtering!.
+the number of target article missing is: 3.
+false positive rate: 0.15053763440860216.
+false negative rate: 0.42857142857142855.
+
+Included target articles are as follow:
+assessing albuminuria in spot morning samples from diabetic patients.
+the receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy.
+the validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy.
+evaluation of a rapid screening test for microalbuminuria with a spot measurement of urine albumin-creatinine ratio.
+comparison of overnight, morning and 24-hour urine collections in the assessment of diabetic microalbuminuria.
+utility of untimed urinary albumin measurements in assessing albuminuria in black niddm subjects.
+urinary albumin to osmolality ratio predicts 24-hour urine albumin excretion in diabetes mellitus.
