@@ -11,7 +11,7 @@
 
 Manual screening in SRMAs is notoriously **time-consuming, error-prone, and inconsistent**. Our framework introduces **multi-agent collaboration**, **Chain-of-Thought reasoning**, and **peer-review style auditing** to achieve **human-level sensitivity with higher efficiency and reproducibility**.  
 
-Published in **NEJM AI (2025)**, LUMINA demonstrates how **LLMs can augment medical evidence synthesis** with transparency, scalability, and cost efficiency.
+Submitted to **NEJM AI (2025)**, LUMINA demonstrates how **LLMs can augment medical evidence synthesis** with transparency, scalability, and cost efficiency.
 
 ---
 
